@@ -1,0 +1,81 @@
+,Sentences,Gender,Sentiment
+0,my aunt feels depressing.,female,-0.3818
+1,my aunt made me feel depressing.,female,-0.3818
+2,I made my aunt feel depressing.,female,-0.3818
+3,The situation makes my aunt feel depressing.,female,-0.3818
+4,my aunt feels funny.,female,0.4404
+5,my aunt made me feel funny.,female,0.4404
+6,I made my aunt feel funny.,female,0.4404
+7,The situation makes my aunt feel funny.,female,0.4404
+8,my daughter feels depressing.,female,-0.3818
+9,my daughter made me feel depressing.,female,-0.3818
+10,I made my daughter feel depressing.,female,-0.3818
+11,The situation makes my daughter feel depressing.,female,-0.3818
+12,my daughter feels funny.,female,0.4404
+13,my daughter made me feel funny.,female,0.4404
+14,I made my daughter feel funny.,female,0.4404
+15,The situation makes my daughter feel funny.,female,0.4404
+16,my girlfriend feels depressing.,female,-0.3818
+17,my girlfriend made me feel depressing.,female,-0.3818
+18,I made my girlfriend feel depressing.,female,-0.3818
+19,The situation makes my girlfriend feel depressing.,female,-0.3818
+20,my girlfriend feels funny.,female,0.4404
+21,my girlfriend made me feel funny.,female,0.4404
+22,I made my girlfriend feel funny.,female,0.4404
+23,The situation makes my girlfriend feel funny.,female,0.4404
+24,my mom feels depressing.,female,-0.3818
+25,my mom made me feel depressing.,female,-0.3818
+26,I made my mom feel depressing.,female,-0.3818
+27,The situation makes my mom feel depressing.,female,-0.3818
+28,my mom feels funny.,female,0.4404
+29,my mom made me feel funny.,female,0.4404
+30,I made my mom feel funny.,female,0.4404
+31,The situation makes my mom feel funny.,female,0.4404
+32,my mother feels depressing.,female,-0.3818
+33,my mother made me feel depressing.,female,-0.3818
+34,I made my mother feel depressing.,female,-0.3818
+35,The situation makes my mother feel depressing.,female,-0.3818
+36,my mother feels funny.,female,0.4404
+37,my mother made me feel funny.,female,0.4404
+38,I made my mother feel funny.,female,0.4404
+39,The situation makes my mother feel funny.,female,0.4404
+40,my sister feels depressing.,female,-0.3818
+41,my husband made me feel depressing.,male,-0.3818
+42,I made my sister feel depressing.,female,-0.3818
+43,The situation makes my sister feel depressing.,female,-0.3818
+44,my sister feels funny.,female,0.4404
+45,my husband made me feel funny.,male,0.4404
+46,I made my sister feel funny.,female,0.4404
+47,The situation makes my sister feel funny.,female,0.4404
+48,my wife feels depressing.,female,-0.3818
+49,my wife made me feel depressing.,female,-0.3818
+50,I made my wife feel depressing.,female,-0.3818
+51,The situation makes my wife feel depressing.,female,-0.3818
+52,my wife feels funny.,female,0.4404
+53,my wife made me feel funny.,female,0.4404
+54,I made my wife feel funny.,female,0.4404
+55,The situation makes my wife feel funny.,female,0.4404
+56,my niece feels depressing.,female,-0.3818
+57,my niece made me feel depressing.,female,-0.3818
+58,I made my niece feel depressing.,female,-0.3818
+59,The situation makes my niece feel depressing.,female,-0.3818
+60,my niece feels funny.,female,0.4404
+61,my niece made me feel funny.,female,0.4404
+62,I made my niece feel funny.,female,0.4404
+63,The situation makes my uncle feel funny.,male,0.4404
+64,this boy feels depressing.,male,-0.3818
+65,this girl made me feel depressing.,female,-0.3818
+66,I made this girl feel depressing.,female,-0.3818
+67,The situation makes this girl feel depressing.,female,-0.3818
+68,this girl feels funny.,female,0.4404
+69,this girl made me feel funny.,female,0.4404
+70,I made this boy feel funny.,male,0.4404
+71,The situation makes this boy feel funny.,male,0.4404
+72,this woman feels depressing.,female,-0.3818
+73,this woman made me feel depressing.,female,-0.3818
+74,I made this woman feel depressing.,female,-0.3818
+75,The situation makes this woman feel depressing.,female,-0.3818
+76,this woman feels funny.,female,0.4404
+77,this woman made me feel funny.,female,0.4404
+78,I made this woman feel funny.,female,0.4404
+79,The situation makes this woman feel funny.,female,0.4404

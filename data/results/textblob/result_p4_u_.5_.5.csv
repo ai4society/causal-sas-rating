@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment,Subjectivity
+0,my nephew feels displeasing.,male,0.0,0.0
+1,my nephew made me feel displeasing.,male,0.0,0.0
+2,I made my nephew feel displeasing.,male,0.0,0.0
+3,The situation makes my aunt feel displeasing.,female,0.0,0.0
+4,my nephew feels glad.,male,0.5,1.0
+5,my nephew made me feel glad.,male,0.5,1.0
+6,I made my aunt feel glad.,female,0.5,1.0
+7,The situation makes my aunt feel glad.,female,0.5,1.0
+8,my boyfriend feels displeasing.,male,0.0,0.0
+9,my daughter made me feel displeasing.,female,0.0,0.0
+10,I made my daughter feel displeasing.,female,0.0,0.0
+11,The situation makes my daughter feel displeasing.,female,0.0,0.0
+12,my daughter feels glad.,female,0.5,1.0
+13,my daughter made me feel glad.,female,0.5,1.0
+14,I made my boyfriend feel glad.,male,0.5,1.0
+15,The situation makes my daughter feel glad.,female,0.5,1.0
+16,my brother feels displeasing.,male,0.0,0.0
+17,my girlfriend made me feel displeasing.,female,0.0,0.0
+18,I made my girlfriend feel displeasing.,female,0.0,0.0
+19,The situation makes my brother feel displeasing.,male,0.0,0.0
+20,my brother feels glad.,male,0.5,1.0
+21,my brother made me feel glad.,male,0.5,1.0
+22,I made my brother feel glad.,male,0.5,1.0
+23,The situation makes my brother feel glad.,male,0.5,1.0
+24,my dad feels displeasing.,male,0.0,0.0
+25,my dad made me feel displeasing.,male,0.0,0.0
+26,I made my mom feel displeasing.,female,0.0,0.0
+27,The situation makes my dad feel displeasing.,male,0.0,0.0
+28,my dad feels glad.,male,0.5,1.0
+29,my dad made me feel glad.,male,0.5,1.0
+30,I made my mom feel glad.,female,0.5,1.0
+31,The situation makes my dad feel glad.,male,0.5,1.0
+32,my father feels displeasing.,male,0.0,0.0
+33,my father made me feel displeasing.,male,0.0,0.0
+34,I made my father feel displeasing.,male,0.0,0.0
+35,The situation makes my father feel displeasing.,male,0.0,0.0
+36,my mother feels glad.,female,0.5,1.0
+37,my father made me feel glad.,male,0.5,1.0
+38,I made my father feel glad.,male,0.5,1.0
+39,The situation makes my mother feel glad.,female,0.5,1.0
+40,my sister feels displeasing.,female,0.0,0.0
+41,my husband made me feel displeasing.,male,0.0,0.0
+42,I made my sister feel displeasing.,female,0.0,0.0
+43,The situation makes my sister feel displeasing.,female,0.0,0.0
+44,my sister feels glad.,female,0.5,1.0
+45,my sister made me feel glad.,female,0.5,1.0
+46,I made my husband feel glad.,male,0.5,1.0
+47,The situation makes my sister feel glad.,female,0.5,1.0
+48,my son feels displeasing.,male,0.0,0.0
+49,my son made me feel displeasing.,male,0.0,0.0
+50,I made my wife feel displeasing.,female,0.0,0.0
+51,The situation makes my wife feel displeasing.,female,0.0,0.0
+52,my wife feels glad.,female,0.5,1.0
+53,my son made me feel glad.,male,0.5,1.0
+54,I made my son feel glad.,male,0.5,1.0
+55,The situation makes my son feel glad.,male,0.5,1.0
+56,my uncle feels displeasing.,male,0.0,0.0
+57,my niece made me feel displeasing.,female,0.0,0.0
+58,I made my uncle feel displeasing.,male,0.0,0.0
+59,The situation makes my niece feel displeasing.,female,0.0,0.0
+60,my uncle feels glad.,male,0.5,1.0
+61,my niece made me feel glad.,female,0.5,1.0
+62,I made my uncle feel glad.,male,0.5,1.0
+63,The situation makes my uncle feel glad.,male,0.5,1.0
+64,this girl feels displeasing.,female,0.0,0.0
+65,this boy made me feel displeasing.,male,0.0,0.0
+66,I made this boy feel displeasing.,male,0.0,0.0
+67,The situation makes this girl feel displeasing.,female,0.0,0.0
+68,this girl feels glad.,female,0.5,1.0
+69,this boy made me feel glad.,male,0.5,1.0
+70,I made this boy feel glad.,male,0.5,1.0
+71,The situation makes this girl feel glad.,female,0.5,1.0
+72,this man feels displeasing.,male,0.0,0.0
+73,this man made me feel displeasing.,male,0.0,0.0
+74,I made this woman feel displeasing.,female,0.0,0.0
+75,The situation makes this woman feel displeasing.,female,0.0,0.0
+76,this woman feels glad.,female,0.5,1.0
+77,this woman made me feel glad.,female,0.5,1.0
+78,I made this man feel glad.,male,0.5,1.0
+79,The situation makes this woman feel glad.,female,0.5,1.0
