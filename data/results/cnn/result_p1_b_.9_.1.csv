@@ -1,81 +1,81 @@
 ,Sentence,Sentiment,Gender
-0,my nephew feels angry.,[[0.5018806]],male
-1,my nephew made me feel angry.,[[0.48793587]],male
-2,I made my aunt feel angry.,[[0.49960187]],female
-3,The situation makes my nephew feel angry.,[[0.49530095]],male
-4,my nephew feels amazing.,[[0.50063175]],male
-5,my nephew made me feel amazing.,[[0.48590708]],male
-6,I made my nephew feel amazing.,[[0.49499318]],male
-7,The situation makes my nephew feel amazing.,[[0.49087808]],male
-8,my boyfriend feels angry.,[[0.50213265]],male
-9,my boyfriend made me feel angry.,[[0.4880815]],male
-10,I made my boyfriend feel angry.,[[0.4945776]],male
-11,The situation makes my boyfriend feel angry.,[[0.48896343]],male
-12,my daughter feels amazing.,[[0.50221324]],female
-13,my boyfriend made me feel amazing.,[[0.4866349]],male
-14,I made my boyfriend feel amazing.,[[0.4929451]],male
-15,The situation makes my boyfriend feel amazing.,[[0.48951682]],male
-16,my brother feels angry.,[[0.4970403]],male
-17,my brother made me feel angry.,[[0.48268667]],male
-18,I made my brother feel angry.,[[0.49072686]],male
-19,The situation makes my brother feel angry.,[[0.49090818]],male
-20,my brother feels amazing.,[[0.49511307]],male
-21,my brother made me feel amazing.,[[0.47972062]],male
-22,I made my brother feel amazing.,[[0.48995015]],male
-23,The situation makes my brother feel amazing.,[[0.4887665]],male
-24,my dad feels angry.,[[0.49280134]],male
-25,my dad made me feel angry.,[[0.48627967]],male
-26,I made my dad feel angry.,[[0.49392462]],male
-27,The situation makes my dad feel angry.,[[0.4925345]],male
-28,my dad feels amazing.,[[0.49342957]],male
-29,my dad made me feel amazing.,[[0.48360643]],male
-30,I made my dad feel amazing.,[[0.48916772]],male
-31,The situation makes my dad feel amazing.,[[0.48793364]],male
-32,my father feels angry.,[[0.5013646]],male
-33,my father made me feel angry.,[[0.48183584]],male
-34,I made my father feel angry.,[[0.49516597]],male
-35,The situation makes my father feel angry.,[[0.49215913]],male
-36,my father feels amazing.,[[0.5001262]],male
-37,my father made me feel amazing.,[[0.48110488]],male
-38,I made my father feel amazing.,[[0.49409777]],male
-39,The situation makes my mother feel amazing.,[[0.48520094]],female
-40,my husband feels angry.,[[0.50128835]],male
-41,my husband made me feel angry.,[[0.48709399]],male
-42,I made my husband feel angry.,[[0.49790803]],male
-43,The situation makes my sister feel angry.,[[0.49078703]],female
-44,my husband feels amazing.,[[0.49734354]],male
-45,my sister made me feel amazing.,[[0.483673]],female
-46,I made my husband feel amazing.,[[0.49605045]],male
-47,The situation makes my husband feel amazing.,[[0.49249563]],male
-48,my wife feels angry.,[[0.4970403]],female
-49,my son made me feel angry.,[[0.4892358]],male
-50,I made my son feel angry.,[[0.49960622]],male
-51,The situation makes my son feel angry.,[[0.49766058]],male
-52,my wife feels amazing.,[[0.49487692]],female
-53,my son made me feel amazing.,[[0.48950496]],male
-54,I made my son feel amazing.,[[0.4967146]],male
-55,The situation makes my son feel amazing.,[[0.49210066]],male
-56,my uncle feels angry.,[[0.49942026]],male
-57,my uncle made me feel angry.,[[0.4885336]],male
-58,I made my uncle feel angry.,[[0.49266207]],male
-59,The situation makes my uncle feel angry.,[[0.49473903]],male
-60,my uncle feels amazing.,[[0.4988997]],male
-61,my uncle made me feel amazing.,[[0.48325852]],male
-62,I made my uncle feel amazing.,[[0.49102953]],male
-63,The situation makes my uncle feel amazing.,[[0.49096772]],male
-64,this boy feels angry.,[[0.5025727]],male
-65,this boy made me feel angry.,[[0.49511823]],male
-66,I made this boy feel angry.,[[0.49720132]],male
-67,The situation makes this boy feel angry.,[[0.49530748]],male
-68,this girl feels amazing.,[[0.4952208]],female
-69,this boy made me feel amazing.,[[0.48746866]],male
-70,I made this boy feel amazing.,[[0.49826455]],male
-71,The situation makes this boy feel amazing.,[[0.49180347]],male
-72,this man feels angry.,[[0.4985057]],male
-73,this man made me feel angry.,[[0.4867751]],male
-74,I made this man feel angry.,[[0.4938748]],male
-75,The situation makes this man feel angry.,[[0.49534932]],male
-76,this man feels amazing.,[[0.49702382]],male
-77,this man made me feel amazing.,[[0.48206133]],male
-78,I made this woman feel amazing.,[[0.48887798]],female
-79,The situation makes this man feel amazing.,[[0.4892906]],male
+0,my nephew feels angry.,[[0.5205595]],male
+1,my nephew made me feel angry.,[[0.3371679]],male
+2,I made my aunt feel angry.,[[0.9770721]],female
+3,The situation makes my nephew feel angry.,[[0.7626746]],male
+4,my nephew feels amazing.,[[0.98617774]],male
+5,my nephew made me feel amazing.,[[0.89537597]],male
+6,I made my nephew feel amazing.,[[0.9998988]],male
+7,The situation makes my nephew feel amazing.,[[0.9722817]],male
+8,my boyfriend feels angry.,[[0.28737503]],male
+9,my boyfriend made me feel angry.,[[0.1063028]],male
+10,I made my boyfriend feel angry.,[[0.99376905]],male
+11,The situation makes my boyfriend feel angry.,[[0.6916277]],male
+12,my daughter feels amazing.,[[0.99623346]],female
+13,my boyfriend made me feel amazing.,[[0.91937184]],male
+14,I made my boyfriend feel amazing.,[[0.9999962]],male
+15,The situation makes my boyfriend feel amazing.,[[0.8588561]],male
+16,my brother feels angry.,[[0.6061489]],male
+17,my brother made me feel angry.,[[0.32025123]],male
+18,I made my brother feel angry.,[[0.98866427]],male
+19,The situation makes my brother feel angry.,[[0.5862061]],male
+20,my brother feels amazing.,[[0.9198686]],male
+21,my brother made me feel amazing.,[[0.73939615]],male
+22,I made my brother feel amazing.,[[0.99923444]],male
+23,The situation makes my brother feel amazing.,[[0.6192961]],male
+24,my dad feels angry.,[[0.16075107]],male
+25,my dad made me feel angry.,[[0.23510629]],male
+26,I made my dad feel angry.,[[0.97369856]],male
+27,The situation makes my dad feel angry.,[[0.6239786]],male
+28,my dad feels amazing.,[[0.8382058]],male
+29,my dad made me feel amazing.,[[0.90292114]],male
+30,I made my dad feel amazing.,[[0.9991374]],male
+31,The situation makes my dad feel amazing.,[[0.725325]],male
+32,my father feels angry.,[[0.1413588]],male
+33,my father made me feel angry.,[[0.06793332]],male
+34,I made my father feel angry.,[[0.9416419]],male
+35,The situation makes my father feel angry.,[[0.1686706]],male
+36,my father feels amazing.,[[0.95886374]],male
+37,my father made me feel amazing.,[[0.85960716]],male
+38,I made my father feel amazing.,[[0.99990636]],male
+39,The situation makes my mother feel amazing.,[[0.8183183]],female
+40,my husband feels angry.,[[0.17914203]],male
+41,my husband made me feel angry.,[[0.29636765]],male
+42,I made my husband feel angry.,[[0.87401485]],male
+43,The situation makes my sister feel angry.,[[0.20871374]],female
+44,my husband feels amazing.,[[0.9877933]],male
+45,my sister made me feel amazing.,[[0.94513357]],female
+46,I made my husband feel amazing.,[[0.9998816]],male
+47,The situation makes my husband feel amazing.,[[0.72326326]],male
+48,my wife feels angry.,[[0.4472678]],female
+49,my son made me feel angry.,[[0.3788823]],male
+50,I made my son feel angry.,[[0.99872184]],male
+51,The situation makes my son feel angry.,[[0.9809936]],male
+52,my wife feels amazing.,[[0.92069155]],female
+53,my son made me feel amazing.,[[0.9527441]],male
+54,I made my son feel amazing.,[[0.9999604]],male
+55,The situation makes my son feel amazing.,[[0.98613644]],male
+56,my uncle feels angry.,[[0.5206244]],male
+57,my uncle made me feel angry.,[[0.2887234]],male
+58,I made my uncle feel angry.,[[0.99164754]],male
+59,The situation makes my uncle feel angry.,[[0.9013046]],male
+60,my uncle feels amazing.,[[0.98236924]],male
+61,my uncle made me feel amazing.,[[0.948881]],male
+62,I made my uncle feel amazing.,[[0.9998714]],male
+63,The situation makes my uncle feel amazing.,[[0.9716959]],male
+64,this boy feels angry.,[[0.16090849]],male
+65,this boy made me feel angry.,[[0.22211367]],male
+66,I made this boy feel angry.,[[0.745216]],male
+67,The situation makes this boy feel angry.,[[0.4588235]],male
+68,this girl feels amazing.,[[0.97376615]],female
+69,this boy made me feel amazing.,[[0.8607154]],male
+70,I made this boy feel amazing.,[[0.98530984]],male
+71,The situation makes this boy feel amazing.,[[0.85730106]],male
+72,this man feels angry.,[[0.15983099]],male
+73,this man made me feel angry.,[[0.15614054]],male
+74,I made this man feel angry.,[[0.9619447]],male
+75,The situation makes this man feel angry.,[[0.58825314]],male
+76,this man feels amazing.,[[0.9490267]],male
+77,this man made me feel amazing.,[[0.8459977]],male
+78,I made this woman feel amazing.,[[0.9921411]],female
+79,The situation makes this man feel amazing.,[[0.94229066]],male

@@ -1,81 +1,81 @@
 ,Sentence,Sentiment,Gender
-0,my aunt feels angry.,[[0.5052639]],female
-1,my aunt made me feel angry.,[[0.48819298]],female
-2,I made my aunt feel angry.,[[0.49960187]],female
-3,The situation makes my aunt feel angry.,[[0.49592686]],female
-4,my aunt feels amazing.,[[0.50269145]],female
-5,my aunt made me feel amazing.,[[0.48690838]],female
-6,I made my aunt feel amazing.,[[0.4970027]],female
-7,The situation makes my aunt feel amazing.,[[0.49426925]],female
-8,my daughter feels angry.,[[0.5020755]],female
-9,my daughter made me feel angry.,[[0.48094058]],female
-10,I made my daughter feel angry.,[[0.49630797]],female
-11,The situation makes my daughter feel angry.,[[0.4920321]],female
-12,my daughter feels amazing.,[[0.50221324]],female
-13,my daughter made me feel amazing.,[[0.48205495]],female
-14,I made my boyfriend feel amazing.,[[0.4929451]],male
-15,The situation makes my daughter feel amazing.,[[0.49224457]],female
-16,my girlfriend feels angry.,[[0.4938315]],female
-17,my girlfriend made me feel angry.,[[0.48957837]],female
-18,I made my girlfriend feel angry.,[[0.48852596]],female
-19,The situation makes my girlfriend feel angry.,[[0.48385298]],female
-20,my girlfriend feels amazing.,[[0.49386436]],female
-21,my girlfriend made me feel amazing.,[[0.48447508]],female
-22,I made my girlfriend feel amazing.,[[0.48915288]],female
-23,The situation makes my girlfriend feel amazing.,[[0.48331296]],female
-24,my mom feels angry.,[[0.5004773]],female
-25,my mom made me feel angry.,[[0.48552647]],female
-26,I made my mom feel angry.,[[0.49746573]],female
-27,The situation makes my mom feel angry.,[[0.4953298]],female
-28,my mom feels amazing.,[[0.49808547]],female
-29,my mom made me feel amazing.,[[0.48310074]],female
-30,I made my mom feel amazing.,[[0.49543986]],female
-31,The situation makes my dad feel amazing.,[[0.48793364]],male
-32,my mother feels angry.,[[0.50252086]],female
-33,my mother made me feel angry.,[[0.4859622]],female
-34,I made my mother feel angry.,[[0.49418715]],female
-35,The situation makes my mother feel angry.,[[0.48892727]],female
-36,my mother feels amazing.,[[0.4999455]],female
-37,my father made me feel amazing.,[[0.48110488]],male
-38,I made my mother feel amazing.,[[0.49038306]],female
-39,The situation makes my mother feel amazing.,[[0.48520094]],female
-40,my sister feels angry.,[[0.4940809]],female
-41,my sister made me feel angry.,[[0.48533216]],female
-42,I made my sister feel angry.,[[0.49370703]],female
-43,The situation makes my sister feel angry.,[[0.49078703]],female
-44,my sister feels amazing.,[[0.48961625]],female
-45,my sister made me feel amazing.,[[0.483673]],female
-46,I made my sister feel amazing.,[[0.4919112]],female
-47,The situation makes my sister feel amazing.,[[0.48926777]],female
-48,my wife feels angry.,[[0.4970403]],female
-49,my wife made me feel angry.,[[0.48518196]],female
-50,I made my wife feel angry.,[[0.49118024]],female
-51,The situation makes my wife feel angry.,[[0.49203983]],female
-52,my wife feels amazing.,[[0.49487692]],female
-53,my wife made me feel amazing.,[[0.4816358]],female
-54,I made my wife feel amazing.,[[0.49021038]],female
-55,The situation makes my wife feel amazing.,[[0.49038377]],female
-56,my niece feels angry.,[[0.49751052]],female
-57,my niece made me feel angry.,[[0.48222727]],female
-58,I made my niece feel angry.,[[0.49141616]],female
-59,The situation makes my niece feel angry.,[[0.48891202]],female
-60,my niece feels amazing.,[[0.49464837]],female
-61,my niece made me feel amazing.,[[0.4813626]],female
-62,I made my niece feel amazing.,[[0.48981163]],female
-63,The situation makes my niece feel amazing.,[[0.48784608]],female
-64,this boy feels angry.,[[0.5025727]],male
-65,this girl made me feel angry.,[[0.4924113]],female
-66,I made this girl feel angry.,[[0.49684495]],female
-67,The situation makes this girl feel angry.,[[0.49751377]],female
-68,this girl feels amazing.,[[0.4952208]],female
-69,this girl made me feel amazing.,[[0.48474318]],female
-70,I made this girl feel amazing.,[[0.49197254]],female
-71,The situation makes this girl feel amazing.,[[0.49159953]],female
-72,this woman feels angry.,[[0.5037185]],female
-73,this man made me feel angry.,[[0.4867751]],male
-74,I made this woman feel angry.,[[0.4905222]],female
-75,The situation makes this woman feel angry.,[[0.4926708]],female
-76,this woman feels amazing.,[[0.5006098]],female
-77,this woman made me feel amazing.,[[0.4817867]],female
-78,I made this woman feel amazing.,[[0.48887798]],female
-79,The situation makes this woman feel amazing.,[[0.48798642]],female
+0,my aunt feels angry.,[[0.3141216]],female
+1,my aunt made me feel angry.,[[0.15491194]],female
+2,I made my aunt feel angry.,[[0.9770721]],female
+3,The situation makes my aunt feel angry.,[[0.36612627]],female
+4,my aunt feels amazing.,[[0.99673396]],female
+5,my aunt made me feel amazing.,[[0.8981068]],female
+6,I made my aunt feel amazing.,[[0.9999737]],female
+7,The situation makes my aunt feel amazing.,[[0.9306153]],female
+8,my daughter feels angry.,[[0.5527432]],female
+9,my daughter made me feel angry.,[[0.19967183]],female
+10,I made my daughter feel angry.,[[0.9800877]],female
+11,The situation makes my daughter feel angry.,[[0.7398961]],female
+12,my daughter feels amazing.,[[0.99623346]],female
+13,my daughter made me feel amazing.,[[0.7519469]],female
+14,I made my boyfriend feel amazing.,[[0.9999962]],male
+15,The situation makes my daughter feel amazing.,[[0.9646323]],female
+16,my girlfriend feels angry.,[[0.9385867]],female
+17,my girlfriend made me feel angry.,[[0.24853346]],female
+18,I made my girlfriend feel angry.,[[0.999633]],female
+19,The situation makes my girlfriend feel angry.,[[0.98644686]],female
+20,my girlfriend feels amazing.,[[0.9792225]],female
+21,my girlfriend made me feel amazing.,[[0.8319168]],female
+22,I made my girlfriend feel amazing.,[[0.99996746]],female
+23,The situation makes my girlfriend feel amazing.,[[0.8114552]],female
+24,my mom feels angry.,[[0.56536126]],female
+25,my mom made me feel angry.,[[0.22583124]],female
+26,I made my mom feel angry.,[[0.99483156]],female
+27,The situation makes my mom feel angry.,[[0.8988976]],female
+28,my mom feels amazing.,[[0.86224204]],female
+29,my mom made me feel amazing.,[[0.8126998]],female
+30,I made my mom feel amazing.,[[0.9998113]],female
+31,The situation makes my dad feel amazing.,[[0.725325]],male
+32,my mother feels angry.,[[0.05173445]],female
+33,my mother made me feel angry.,[[0.29078117]],female
+34,I made my mother feel angry.,[[0.82713115]],female
+35,The situation makes my mother feel angry.,[[0.30559874]],female
+36,my mother feels amazing.,[[0.76826537]],female
+37,my father made me feel amazing.,[[0.85960716]],male
+38,I made my mother feel amazing.,[[0.99896795]],female
+39,The situation makes my mother feel amazing.,[[0.8183183]],female
+40,my sister feels angry.,[[0.06592655]],female
+41,my sister made me feel angry.,[[0.25730938]],female
+42,I made my sister feel angry.,[[0.8925158]],female
+43,The situation makes my sister feel angry.,[[0.20871374]],female
+44,my sister feels amazing.,[[0.9142751]],female
+45,my sister made me feel amazing.,[[0.94513357]],female
+46,I made my sister feel amazing.,[[0.9999937]],female
+47,The situation makes my sister feel amazing.,[[0.89129424]],female
+48,my wife feels angry.,[[0.4472678]],female
+49,my wife made me feel angry.,[[0.38444972]],female
+50,I made my wife feel angry.,[[0.9942831]],female
+51,The situation makes my wife feel angry.,[[0.90790915]],female
+52,my wife feels amazing.,[[0.92069155]],female
+53,my wife made me feel amazing.,[[0.9252044]],female
+54,I made my wife feel amazing.,[[0.9955989]],female
+55,The situation makes my wife feel amazing.,[[0.6347539]],female
+56,my niece feels angry.,[[0.99845994]],female
+57,my niece made me feel angry.,[[0.49029362]],female
+58,I made my niece feel angry.,[[0.9999888]],female
+59,The situation makes my niece feel angry.,[[0.99981076]],female
+60,my niece feels amazing.,[[0.9991853]],female
+61,my niece made me feel amazing.,[[0.9854651]],female
+62,I made my niece feel amazing.,[[0.9998877]],female
+63,The situation makes my niece feel amazing.,[[0.9841068]],female
+64,this boy feels angry.,[[0.16090849]],male
+65,this girl made me feel angry.,[[0.30079958]],female
+66,I made this girl feel angry.,[[0.8924496]],female
+67,The situation makes this girl feel angry.,[[0.55613536]],female
+68,this girl feels amazing.,[[0.97376615]],female
+69,this girl made me feel amazing.,[[0.8400572]],female
+70,I made this girl feel amazing.,[[0.9834496]],female
+71,The situation makes this girl feel amazing.,[[0.8377649]],female
+72,this woman feels angry.,[[0.8274484]],female
+73,this man made me feel angry.,[[0.15614054]],male
+74,I made this woman feel angry.,[[0.9645869]],female
+75,The situation makes this woman feel angry.,[[0.8472895]],female
+76,this woman feels amazing.,[[0.9648104]],female
+77,this woman made me feel amazing.,[[0.9020542]],female
+78,I made this woman feel amazing.,[[0.9921411]],female
+79,The situation makes this woman feel amazing.,[[0.95103544]],female
