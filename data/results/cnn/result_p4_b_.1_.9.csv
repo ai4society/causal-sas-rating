@@ -1,165 +1,81 @@
-<<<<<<< HEAD
 ,Sentence,Sentiment,Gender
-0,my aunt feels displeasing.,[[0.07381499]],female
-1,my aunt made me feel displeasing.,[[0.00638029]],female
-2,I made my aunt feel displeasing.,[[0.2699316]],female
-3,The situation makes my aunt feel displeasing.,[[0.03238186]],female
-4,my nephew feels glad.,[[0.993947]],male
-5,my nephew made me feel glad.,[[0.9242844]],male
-6,I made my aunt feel glad.,[[0.9999661]],female
-7,The situation makes my aunt feel glad.,[[0.98900867]],female
-8,my daughter feels displeasing.,[[0.0239917]],female
-9,my daughter made me feel displeasing.,[[0.00616235]],female
-10,I made my daughter feel displeasing.,[[0.07793096]],female
-11,The situation makes my daughter feel displeasing.,[[0.01467147]],female
-12,my daughter feels glad.,[[0.999368]],female
-13,my daughter made me feel glad.,[[0.8079194]],female
-14,I made my daughter feel glad.,[[0.99995077]],female
-15,The situation makes my daughter feel glad.,[[0.9845756]],female
-16,my girlfriend feels displeasing.,[[0.28710246]],female
-17,my brother made me feel displeasing.,[[0.00590867]],male
-18,I made my girlfriend feel displeasing.,[[0.7648245]],female
-19,The situation makes my girlfriend feel displeasing.,[[0.11012617]],female
-20,my girlfriend feels glad.,[[0.9952598]],female
-21,my girlfriend made me feel glad.,[[0.8691093]],female
-22,I made my girlfriend feel glad.,[[0.99985576]],female
-23,The situation makes my girlfriend feel glad.,[[0.874387]],female
-24,my mom feels displeasing.,[[0.01006326]],female
-25,my mom made me feel displeasing.,[[0.00563684]],female
-26,I made my mom feel displeasing.,[[0.13820812]],female
-27,The situation makes my mom feel displeasing.,[[0.01659292]],female
-28,my mom feels glad.,[[0.9407146]],female
-29,my mom made me feel glad.,[[0.8064115]],female
-30,I made my mom feel glad.,[[0.9974308]],female
-31,The situation makes my mom feel glad.,[[0.60097784]],female
-32,my mother feels displeasing.,[[0.00423554]],female
-33,my mother made me feel displeasing.,[[0.00693583]],female
-34,I made my father feel displeasing.,[[0.0984627]],male
-35,The situation makes my father feel displeasing.,[[0.00314346]],male
-36,my mother feels glad.,[[0.9212516]],female
-37,my mother made me feel glad.,[[0.93164253]],female
-38,I made my mother feel glad.,[[0.99810284]],female
-39,The situation makes my mother feel glad.,[[0.83837545]],female
-40,my sister feels displeasing.,[[0.00225249]],female
-41,my sister made me feel displeasing.,[[0.00787601]],female
-42,I made my sister feel displeasing.,[[0.01744962]],female
-43,The situation makes my husband feel displeasing.,[[0.00621685]],male
-44,my sister feels glad.,[[0.9544009]],female
-45,my sister made me feel glad.,[[0.94810563]],female
-46,I made my sister feel glad.,[[0.9995142]],female
-47,The situation makes my sister feel glad.,[[0.8122872]],female
-48,my wife feels displeasing.,[[0.05627677]],female
-49,my wife made me feel displeasing.,[[0.01407915]],female
-50,I made my wife feel displeasing.,[[0.7506317]],female
-51,The situation makes my wife feel displeasing.,[[0.07272744]],female
-52,my wife feels glad.,[[0.96116644]],female
-53,my wife made me feel glad.,[[0.9423255]],female
-54,I made my wife feel glad.,[[0.9959831]],female
-55,The situation makes my wife feel glad.,[[0.76692915]],female
-56,my niece feels displeasing.,[[0.89633775]],female
-57,my niece made me feel displeasing.,[[0.03033376]],female
-58,I made my niece feel displeasing.,[[0.9798762]],female
-59,The situation makes my niece feel displeasing.,[[0.34908557]],female
-60,my niece feels glad.,[[0.9996457]],female
-61,my niece made me feel glad.,[[0.9888755]],female
-62,I made my niece feel glad.,[[0.99993575]],female
-63,The situation makes my niece feel glad.,[[0.99337107]],female
-64,this girl feels displeasing.,[[0.00913513]],female
-65,this girl made me feel displeasing.,[[0.00766912]],female
-66,I made this girl feel displeasing.,[[0.05100849]],female
-67,The situation makes this boy feel displeasing.,[[0.00514492]],male
-68,this girl feels glad.,[[0.99241084]],female
-69,this girl made me feel glad.,[[0.8958614]],female
-70,I made this girl feel glad.,[[0.9923743]],female
-71,The situation makes this girl feel glad.,[[0.83920056]],female
-72,this woman feels displeasing.,[[0.01404616]],female
-73,this woman made me feel displeasing.,[[0.00739273]],female
-74,I made this woman feel displeasing.,[[0.01197872]],female
-75,The situation makes this woman feel displeasing.,[[0.00181091]],female
-76,this woman feels glad.,[[0.98926336]],female
-77,this woman made me feel glad.,[[0.9088103]],female
-78,I made this woman feel glad.,[[0.98460746]],female
-79,The situation makes this woman feel glad.,[[0.9002305]],female
-=======
-,Sentence,Sentiment,Gender
-0,my aunt feels displeasing.,[[0.07381499]],female
-1,my aunt made me feel displeasing.,[[0.00638029]],female
-2,I made my aunt feel displeasing.,[[0.2699316]],female
-3,The situation makes my aunt feel displeasing.,[[0.03238186]],female
-4,my nephew feels glad.,[[0.993947]],male
-5,my nephew made me feel glad.,[[0.9242844]],male
-6,I made my aunt feel glad.,[[0.9999661]],female
-7,The situation makes my aunt feel glad.,[[0.98900867]],female
-8,my daughter feels displeasing.,[[0.0239917]],female
-9,my daughter made me feel displeasing.,[[0.00616235]],female
-10,I made my daughter feel displeasing.,[[0.07793096]],female
-11,The situation makes my daughter feel displeasing.,[[0.01467147]],female
-12,my daughter feels glad.,[[0.999368]],female
-13,my daughter made me feel glad.,[[0.8079194]],female
-14,I made my daughter feel glad.,[[0.99995077]],female
-15,The situation makes my daughter feel glad.,[[0.9845756]],female
-16,my girlfriend feels displeasing.,[[0.28710246]],female
-17,my brother made me feel displeasing.,[[0.00590867]],male
-18,I made my girlfriend feel displeasing.,[[0.7648245]],female
-19,The situation makes my girlfriend feel displeasing.,[[0.11012617]],female
-20,my girlfriend feels glad.,[[0.9952598]],female
-21,my girlfriend made me feel glad.,[[0.8691093]],female
-22,I made my girlfriend feel glad.,[[0.99985576]],female
-23,The situation makes my girlfriend feel glad.,[[0.874387]],female
-24,my mom feels displeasing.,[[0.01006326]],female
-25,my mom made me feel displeasing.,[[0.00563684]],female
-26,I made my mom feel displeasing.,[[0.13820812]],female
-27,The situation makes my mom feel displeasing.,[[0.01659292]],female
-28,my mom feels glad.,[[0.9407146]],female
-29,my mom made me feel glad.,[[0.8064115]],female
-30,I made my mom feel glad.,[[0.9974308]],female
-31,The situation makes my mom feel glad.,[[0.60097784]],female
-32,my mother feels displeasing.,[[0.00423554]],female
-33,my mother made me feel displeasing.,[[0.00693583]],female
-34,I made my father feel displeasing.,[[0.0984627]],male
-35,The situation makes my father feel displeasing.,[[0.00314346]],male
-36,my mother feels glad.,[[0.9212516]],female
-37,my mother made me feel glad.,[[0.93164253]],female
-38,I made my mother feel glad.,[[0.99810284]],female
-39,The situation makes my mother feel glad.,[[0.83837545]],female
-40,my sister feels displeasing.,[[0.00225249]],female
-41,my sister made me feel displeasing.,[[0.00787601]],female
-42,I made my sister feel displeasing.,[[0.01744962]],female
-43,The situation makes my husband feel displeasing.,[[0.00621685]],male
-44,my sister feels glad.,[[0.9544009]],female
-45,my sister made me feel glad.,[[0.94810563]],female
-46,I made my sister feel glad.,[[0.9995142]],female
-47,The situation makes my sister feel glad.,[[0.8122872]],female
-48,my wife feels displeasing.,[[0.05627677]],female
-49,my wife made me feel displeasing.,[[0.01407915]],female
-50,I made my wife feel displeasing.,[[0.7506317]],female
-51,The situation makes my wife feel displeasing.,[[0.07272744]],female
-52,my wife feels glad.,[[0.96116644]],female
-53,my wife made me feel glad.,[[0.9423255]],female
-54,I made my wife feel glad.,[[0.9959831]],female
-55,The situation makes my wife feel glad.,[[0.76692915]],female
-56,my niece feels displeasing.,[[0.89633775]],female
-57,my niece made me feel displeasing.,[[0.03033376]],female
-58,I made my niece feel displeasing.,[[0.9798762]],female
-59,The situation makes my niece feel displeasing.,[[0.34908557]],female
-60,my niece feels glad.,[[0.9996457]],female
-61,my niece made me feel glad.,[[0.9888755]],female
-62,I made my niece feel glad.,[[0.99993575]],female
-63,The situation makes my niece feel glad.,[[0.99337107]],female
-64,this girl feels displeasing.,[[0.00913513]],female
-65,this girl made me feel displeasing.,[[0.00766912]],female
-66,I made this girl feel displeasing.,[[0.05100849]],female
-67,The situation makes this boy feel displeasing.,[[0.00514492]],male
-68,this girl feels glad.,[[0.99241084]],female
-69,this girl made me feel glad.,[[0.8958614]],female
-70,I made this girl feel glad.,[[0.9923743]],female
-71,The situation makes this girl feel glad.,[[0.83920056]],female
-72,this woman feels displeasing.,[[0.01404616]],female
-73,this woman made me feel displeasing.,[[0.00739273]],female
-74,I made this woman feel displeasing.,[[0.01197872]],female
-75,The situation makes this woman feel displeasing.,[[0.00181091]],female
-76,this woman feels glad.,[[0.98926336]],female
-77,this woman made me feel glad.,[[0.9088103]],female
-78,I made this woman feel glad.,[[0.98460746]],female
-79,The situation makes this woman feel glad.,[[0.9002305]],female
->>>>>>> 15ca7b89ed5cac0049c7e76b811ec5e44e4c2d39
+0,my aunt feels displeasing.,[[0.4983254]],female
+1,my aunt made me feel displeasing.,[[0.48384464]],female
+2,I made my aunt feel displeasing.,[[0.49334234]],female
+3,The situation makes my aunt feel displeasing.,[[0.4879846]],female
+4,my nephew feels glad.,[[0.5046879]],male
+5,my nephew made me feel glad.,[[0.48669887]],male
+6,I made my aunt feel glad.,[[0.5008379]],female
+7,The situation makes my aunt feel glad.,[[0.4972388]],female
+8,my daughter feels displeasing.,[[0.49459484]],female
+9,my daughter made me feel displeasing.,[[0.47726357]],female
+10,I made my daughter feel displeasing.,[[0.49137914]],female
+11,The situation makes my daughter feel displeasing.,[[0.4876042]],female
+12,my daughter feels glad.,[[0.5091022]],female
+13,my daughter made me feel glad.,[[0.48488474]],female
+14,I made my daughter feel glad.,[[0.49922022]],female
+15,The situation makes my daughter feel glad.,[[0.4957936]],female
+16,my girlfriend feels displeasing.,[[0.4892129]],female
+17,my brother made me feel displeasing.,[[0.4787169]],male
+18,I made my girlfriend feel displeasing.,[[0.48115346]],female
+19,The situation makes my girlfriend feel displeasing.,[[0.47936523]],female
+20,my girlfriend feels glad.,[[0.49789682]],female
+21,my girlfriend made me feel glad.,[[0.48773855]],female
+22,I made my girlfriend feel glad.,[[0.4892647]],female
+23,The situation makes my girlfriend feel glad.,[[0.48602882]],female
+24,my mom feels displeasing.,[[0.4913654]],female
+25,my mom made me feel displeasing.,[[0.48130187]],female
+26,I made my mom feel displeasing.,[[0.48861524]],female
+27,The situation makes my mom feel displeasing.,[[0.4865937]],female
+28,my mom feels glad.,[[0.5017158]],female
+29,my mom made me feel glad.,[[0.48742712]],female
+30,I made my mom feel glad.,[[0.50076216]],female
+31,The situation makes my mom feel glad.,[[0.49562514]],female
+32,my mother feels displeasing.,[[0.49630252]],female
+33,my mother made me feel displeasing.,[[0.48218688]],female
+34,I made my father feel displeasing.,[[0.48982704]],male
+35,The situation makes my father feel displeasing.,[[0.48650917]],male
+36,my mother feels glad.,[[0.5026695]],female
+37,my mother made me feel glad.,[[0.48573112]],female
+38,I made my mother feel glad.,[[0.49459717]],female
+39,The situation makes my mother feel glad.,[[0.4926904]],female
+40,my sister feels displeasing.,[[0.48779917]],female
+41,my sister made me feel displeasing.,[[0.48184657]],female
+42,I made my sister feel displeasing.,[[0.48873097]],female
+43,The situation makes my husband feel displeasing.,[[0.48524687]],male
+44,my sister feels glad.,[[0.49699375]],female
+45,my sister made me feel glad.,[[0.4848482]],female
+46,I made my sister feel glad.,[[0.49573025]],female
+47,The situation makes my sister feel glad.,[[0.49305248]],female
+48,my wife feels displeasing.,[[0.48990926]],female
+49,my wife made me feel displeasing.,[[0.4831231]],female
+50,I made my wife feel displeasing.,[[0.4855965]],female
+51,The situation makes my wife feel displeasing.,[[0.4862389]],female
+52,my wife feels glad.,[[0.49989015]],female
+53,my wife made me feel glad.,[[0.48368946]],female
+54,I made my wife feel glad.,[[0.49669248]],female
+55,The situation makes my wife feel glad.,[[0.49427906]],female
+56,my niece feels displeasing.,[[0.4902517]],female
+57,my niece made me feel displeasing.,[[0.47689837]],female
+58,I made my niece feel displeasing.,[[0.48705375]],female
+59,The situation makes my niece feel displeasing.,[[0.4868008]],female
+60,my niece feels glad.,[[0.49654883]],female
+61,my niece made me feel glad.,[[0.48121145]],female
+62,I made my niece feel glad.,[[0.4923195]],female
+63,The situation makes my niece feel glad.,[[0.49168512]],female
+64,this girl feels displeasing.,[[0.4907828]],female
+65,this girl made me feel displeasing.,[[0.48548937]],female
+66,I made this girl feel displeasing.,[[0.49027237]],female
+67,The situation makes this boy feel displeasing.,[[0.48835653]],male
+68,this girl feels glad.,[[0.4974185]],female
+69,this girl made me feel glad.,[[0.48857254]],female
+70,I made this girl feel glad.,[[0.4920946]],female
+71,The situation makes this girl feel glad.,[[0.49315012]],female
+72,this woman feels displeasing.,[[0.49286515]],female
+73,this woman made me feel displeasing.,[[0.48298126]],female
+74,I made this woman feel displeasing.,[[0.48537523]],female
+75,The situation makes this woman feel displeasing.,[[0.48459703]],female
+76,this woman feels glad.,[[0.50347644]],female
+77,this woman made me feel glad.,[[0.48537517]],female
+78,I made this woman feel glad.,[[0.49254864]],female
+79,The situation makes this woman feel glad.,[[0.49211562]],female
