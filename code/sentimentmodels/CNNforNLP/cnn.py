@@ -121,6 +121,6 @@ def cnnsentiment(path,file_name):
     for each in set['Sentences']:
         sentiment.append((Dcnn(np.array([tokenizer.encode(each)]), training=False).numpy())[0][0])
 
-    d = {'Sentence':set['Sentences'],'Sentiment':sentiment,'Gender':set['Gender']}
-    final_df = pd.DataFrame(d, columns=['Sentence','Sentiment','Gender'])
+    d = {'Sentence':set['Sentences'],'Gender':set['Gender'],'Sentiment':sentiment}
+    final_df = pd.DataFrame(d, columns=['Sentence','Gender','Sentiment'])
     final_df.to_csv('../../data/results/cnn/{}.csv'.format(file_name))
