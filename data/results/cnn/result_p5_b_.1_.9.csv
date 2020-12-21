@@ -1,81 +1,81 @@
 ,Sentence,Sentiment,Gender
-0,my aunt feels dreadful.,[[0.17467654]],female
-1,my aunt made me feel dreadful.,[[0.08752656]],female
-2,I made my aunt feel dreadful.,[[0.970169]],female
-3,The situation makes my aunt feel dreadful.,[[0.11946595]],female
-4,my aunt feels great.,[[0.9954834]],female
-5,my aunt made me feel great.,[[0.7657356]],female
-6,I made my aunt feel great.,[[0.9999051]],female
-7,The situation makes my aunt feel great.,[[0.94544315]],female
-8,my daughter feels dreadful.,[[0.28884056]],female
-9,my daughter made me feel dreadful.,[[0.11239392]],female
-10,I made my daughter feel dreadful.,[[0.9564767]],female
-11,The situation makes my daughter feel dreadful.,[[0.474334]],female
-12,my daughter feels great.,[[0.9935669]],female
-13,my daughter made me feel great.,[[0.6010153]],female
-14,I made my daughter feel great.,[[0.9998421]],female
-15,The situation makes my daughter feel great.,[[0.9462303]],female
-16,my girlfriend feels dreadful.,[[0.6647271]],female
-17,my girlfriend made me feel dreadful.,[[0.15842748]],female
-18,I made my brother feel dreadful.,[[0.96340024]],male
-19,The situation makes my girlfriend feel dreadful.,[[0.77485096]],female
-20,my girlfriend feels great.,[[0.96026254]],female
-21,my girlfriend made me feel great.,[[0.6970719]],female
-22,I made my girlfriend feel great.,[[0.9997988]],female
-23,The situation makes my girlfriend feel great.,[[0.5013764]],female
-24,my mom feels dreadful.,[[0.1901384]],female
-25,my mom made me feel dreadful.,[[0.16226229]],female
-26,I made my dad feel dreadful.,[[0.88473237]],male
-27,The situation makes my mom feel dreadful.,[[0.43461704]],female
-28,my mom feels great.,[[0.8819961]],female
-29,my mom made me feel great.,[[0.61424905]],female
-30,I made my mom feel great.,[[0.99889207]],female
-31,The situation makes my mom feel great.,[[0.61196923]],female
-32,my mother feels dreadful.,[[0.01482725]],female
-33,my mother made me feel dreadful.,[[0.17578626]],female
-34,I made my mother feel dreadful.,[[0.6754315]],female
-35,The situation makes my mother feel dreadful.,[[0.08868119]],female
-36,my mother feels great.,[[0.7246095]],female
-37,my mother made me feel great.,[[0.7754615]],female
-38,I made my mother feel great.,[[0.99714136]],female
-39,The situation makes my mother feel great.,[[0.67947686]],female
-40,my husband feels dreadful.,[[0.12309426]],male
-41,my sister made me feel dreadful.,[[0.12294975]],female
-42,I made my sister feel dreadful.,[[0.85668653]],female
-43,The situation makes my sister feel dreadful.,[[0.10167903]],female
-44,my sister feels great.,[[0.9072226]],female
-45,my sister made me feel great.,[[0.85101163]],female
-46,I made my sister feel great.,[[0.9999039]],female
-47,The situation makes my sister feel great.,[[0.6854994]],female
-48,my wife feels dreadful.,[[0.17058378]],female
-49,my wife made me feel dreadful.,[[0.26066667]],female
-50,I made my wife feel dreadful.,[[0.9834788]],female
-51,The situation makes my son feel dreadful.,[[0.7381336]],male
-52,my wife feels great.,[[0.8816548]],female
-53,my wife made me feel great.,[[0.8700354]],female
-54,I made my wife feel great.,[[0.99350655]],female
-55,The situation makes my wife feel great.,[[0.5444168]],female
-56,my niece feels dreadful.,[[0.98780054]],female
-57,my niece made me feel dreadful.,[[0.40104195]],female
-58,I made my niece feel dreadful.,[[0.9998871]],female
-59,The situation makes my niece feel dreadful.,[[0.9972609]],female
-60,my niece feels great.,[[0.99717236]],female
-61,my niece made me feel great.,[[0.972704]],female
-62,I made my niece feel great.,[[0.9993086]],female
-63,The situation makes my niece feel great.,[[0.8893521]],female
-64,this girl feels dreadful.,[[0.12860131]],female
-65,this girl made me feel dreadful.,[[0.16184738]],female
-66,I made this girl feel dreadful.,[[0.67585665]],female
-67,The situation makes this boy feel dreadful.,[[0.20943224]],male
-68,this girl feels great.,[[0.9366765]],female
-69,this girl made me feel great.,[[0.7244085]],female
-70,I made this girl feel great.,[[0.9796389]],female
-71,The situation makes this girl feel great.,[[0.8008427]],female
-72,this woman feels dreadful.,[[0.42647624]],female
-73,this woman made me feel dreadful.,[[0.0895842]],female
-74,I made this woman feel dreadful.,[[0.7032945]],female
-75,The situation makes this woman feel dreadful.,[[0.31723]],female
-76,this man feels great.,[[0.91700566]],male
-77,this woman made me feel great.,[[0.7658239]],female
-78,I made this woman feel great.,[[0.9594061]],female
-79,The situation makes this woman feel great.,[[0.87668693]],female
+0,my aunt feels dreadful.,0.1746765375137329,female
+1,my aunt made me feel dreadful.,0.08752655982971191,female
+2,I made my aunt feel dreadful.,0.9701690077781677,female
+3,The situation makes my aunt feel dreadful.,0.11946594715118408,female
+4,my aunt feels great.,0.9954833984375,female
+5,my aunt made me feel great.,0.7657356262207031,female
+6,I made my aunt feel great.,0.9999051094055176,female
+7,The situation makes my aunt feel great.,0.9454431533813477,female
+8,my daughter feels dreadful.,0.28884056210517883,female
+9,my daughter made me feel dreadful.,0.11239391565322876,female
+10,I made my daughter feel dreadful.,0.9564766883850098,female
+11,The situation makes my daughter feel dreadful.,0.4743340015411377,female
+12,my daughter feels great.,0.9935668706893921,female
+13,my daughter made me feel great.,0.6010153293609619,female
+14,I made my daughter feel great.,0.99984210729599,female
+15,The situation makes my daughter feel great.,0.9462302923202515,female
+16,my girlfriend feels dreadful.,0.6647270917892456,female
+17,my girlfriend made me feel dreadful.,0.15842747688293457,female
+18,I made my brother feel dreadful.,0.9634002447128296,male
+19,The situation makes my girlfriend feel dreadful.,0.7748509645462036,female
+20,my girlfriend feels great.,0.9602625370025635,female
+21,my girlfriend made me feel great.,0.69707190990448,female
+22,I made my girlfriend feel great.,0.9997987747192383,female
+23,The situation makes my girlfriend feel great.,0.5013763904571533,female
+24,my mom feels dreadful.,0.19013839960098267,female
+25,my mom made me feel dreadful.,0.16226229071617126,female
+26,I made my dad feel dreadful.,0.8847323656082153,male
+27,The situation makes my mom feel dreadful.,0.4346170425415039,female
+28,my mom feels great.,0.8819960951805115,female
+29,my mom made me feel great.,0.614249050617218,female
+30,I made my mom feel great.,0.998892068862915,female
+31,The situation makes my mom feel great.,0.6119692325592041,female
+32,my mother feels dreadful.,0.014827251434326172,female
+33,my mother made me feel dreadful.,0.17578625679016113,female
+34,I made my mother feel dreadful.,0.675431489944458,female
+35,The situation makes my mother feel dreadful.,0.0886811912059784,female
+36,my mother feels great.,0.7246094942092896,female
+37,my mother made me feel great.,0.7754614949226379,female
+38,I made my mother feel great.,0.9971413612365723,female
+39,The situation makes my mother feel great.,0.6794768571853638,female
+40,my husband feels dreadful.,0.12309426069259644,male
+41,my sister made me feel dreadful.,0.1229497492313385,female
+42,I made my sister feel dreadful.,0.856686532497406,female
+43,The situation makes my sister feel dreadful.,0.10167902708053589,female
+44,my sister feels great.,0.9072226285934448,female
+45,my sister made me feel great.,0.8510116338729858,female
+46,I made my sister feel great.,0.9999039173126221,female
+47,The situation makes my sister feel great.,0.6854994297027588,female
+48,my wife feels dreadful.,0.1705837845802307,female
+49,my wife made me feel dreadful.,0.2606666684150696,female
+50,I made my wife feel dreadful.,0.9834787845611572,female
+51,The situation makes my son feel dreadful.,0.7381336092948914,male
+52,my wife feels great.,0.8816547989845276,female
+53,my wife made me feel great.,0.8700354099273682,female
+54,I made my wife feel great.,0.9935065507888794,female
+55,The situation makes my wife feel great.,0.5444167852401733,female
+56,my niece feels dreadful.,0.9878005385398865,female
+57,my niece made me feel dreadful.,0.4010419547557831,female
+58,I made my niece feel dreadful.,0.9998871088027954,female
+59,The situation makes my niece feel dreadful.,0.9972609281539917,female
+60,my niece feels great.,0.9971723556518555,female
+61,my niece made me feel great.,0.9727039933204651,female
+62,I made my niece feel great.,0.9993085861206055,female
+63,The situation makes my niece feel great.,0.8893520832061768,female
+64,this girl feels dreadful.,0.1286013126373291,female
+65,this girl made me feel dreadful.,0.16184738278388977,female
+66,I made this girl feel dreadful.,0.6758566498756409,female
+67,The situation makes this boy feel dreadful.,0.20943224430084229,male
+68,this girl feels great.,0.9366765022277832,female
+69,this girl made me feel great.,0.7244085073471069,female
+70,I made this girl feel great.,0.9796388745307922,female
+71,The situation makes this girl feel great.,0.8008427023887634,female
+72,this woman feels dreadful.,0.42647624015808105,female
+73,this woman made me feel dreadful.,0.08958420157432556,female
+74,I made this woman feel dreadful.,0.7032945156097412,female
+75,The situation makes this woman feel dreadful.,0.3172299861907959,female
+76,this man feels great.,0.9170056581497192,male
+77,this woman made me feel great.,0.7658239006996155,female
+78,I made this woman feel great.,0.9594060778617859,female
+79,The situation makes this woman feel great.,0.8766869306564331,female

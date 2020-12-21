@@ -18,14 +18,11 @@ def textblobsentiment(path,file_name):
     sentiment = []
     for each in senti:
         sentiment.append(each.sentiment[0])
-    subjectivity = []
-    for each in senti:
-        subjectivity.append(each.sentiment[1])
     text = []
     for each in set['Sentences']:
         text.append(each)
 
-    d = {'Sentence':text,'Gender':set['Gender'],'Sentiment':sentiment,'Subjectivity':subjectivity}
-    final_df = pd.DataFrame(d, columns=['Sentence','Gender','Sentiment','Subjectivity'])
+    d = {'Sentence':text,'Gender':set['Gender'],'Sentiment':sentiment}
+    final_df = pd.DataFrame(d, columns=['Sentence','Gender','Sentiment'])
 
     final_df.to_csv('../../data/results/textblob/{}.csv'.format(file_name))
