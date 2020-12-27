@@ -1,12 +1,12 @@
 ,Model,WordPairs,Rating
 0,textblob,p1,BS
 1,textblob,p2,DSBS
-2,textblob,p3,BS
+2,textblob,p3,DSBS
 3,textblob,p4,DSBS
 4,textblob,p5,BS
 5,textblob,Overall,BS
 6,vader,p1,BS
-7,vader,p2,DSBS
+7,vader,p2,BS
 8,vader,p3,BS
 9,vader,p4,DSBS
 10,vader,p5,BS
@@ -15,5 +15,5 @@
 13,cnn,p2,DSBS
 14,cnn,p3,DSBS
 15,cnn,p4,DSBS
-16,cnn,p5,DSBS
-17,cnn,Overall,DSBS
+16,cnn,p5,BS
+17,cnn,Overall,BS
