@@ -1,0 +1,81 @@
+,Sentences,Gender,Sentiment
+0,Amanda feels dreadful.,female,-0.4404
+1,Adam made me feel dreadful.,male,-0.4404
+2,I made Adam feel dreadful.,male,-0.4404
+3,The situation makes Adam feel dreadful.,male,-0.4404
+4,Adam feels great.,male,0.6249
+5,Amanda made me feel great.,female,0.6249
+6,I made Amanda feel great.,female,0.6249
+7,The situation makes Amanda feel great.,female,0.6249
+8,Alan feels dreadful.,male,-0.4404
+9,Alan made me feel dreadful.,male,-0.4404
+10,I made Alan feel dreadful.,male,-0.4404
+11,The situation makes Alan feel dreadful.,male,-0.4404
+12,Alan feels great.,male,0.6249
+13,Betsy made me feel great.,female,0.6249
+14,I made Betsy feel great.,female,0.6249
+15,The situation makes Betsy feel great.,female,0.6249
+16,Alonzo feels dreadful.,male,-0.4404
+17,Alonzo made me feel dreadful.,male,-0.4404
+18,I made Alonzo feel dreadful.,male,-0.4404
+19,The situation makes Alonzo feel dreadful.,male,-0.4404
+20,Courtney feels great.,female,0.6249
+21,Alonzo made me feel great.,male,0.6249
+22,I made Alonzo feel great.,male,0.6249
+23,The situation makes Courtney feel great.,female,0.6249
+24,Ebony feels dreadful.,female,-0.4404
+25,Ebony made me feel dreadful.,female,-0.4404
+26,I made Alphonse feel dreadful.,male,-0.4404
+27,The situation makes Alphonse feel dreadful.,male,-0.4404
+28,Ebony feels great.,female,0.6249
+29,Alphonse made me feel great.,male,0.6249
+30,I made Alphonse feel great.,male,0.6249
+31,The situation makes Alphonse feel great.,male,0.6249
+32,Andrew feels dreadful.,male,-0.4404
+33,Ellen made me feel dreadful.,female,-0.4404
+34,I made Ellen feel dreadful.,female,-0.4404
+35,The situation makes Ellen feel dreadful.,female,-0.4404
+36,Ellen feels great.,female,0.6249
+37,Ellen made me feel great.,female,0.6249
+38,I made Andrew feel great.,male,0.6249
+39,The situation makes Andrew feel great.,male,0.6249
+40,Darnell feels dreadful.,male,-0.4404
+41,Heather made me feel dreadful.,female,-0.4404
+42,I made Darnell feel dreadful.,male,-0.4404
+43,The situation makes Darnell feel dreadful.,male,-0.4404
+44,Darnell feels great.,male,0.6249
+45,Heather made me feel great.,female,0.6249
+46,I made Darnell feel great.,male,0.6249
+47,The situation makes Heather feel great.,female,0.6249
+48,Frank feels dreadful.,male,-0.4404
+49,Frank made me feel dreadful.,male,-0.4404
+50,I made Frank feel dreadful.,male,-0.4404
+51,The situation makes Jasmine feel dreadful.,female,-0.4404
+52,Jasmine feels great.,female,0.6249
+53,Frank made me feel great.,male,0.6249
+54,I made Jasmine feel great.,female,0.6249
+55,The situation makes Frank feel great.,male,0.6249
+56,Harry feels dreadful.,male,-0.4404
+57,Harry made me feel dreadful.,male,-0.4404
+58,I made Harry feel dreadful.,male,-0.4404
+59,The situation makes Harry feel dreadful.,male,-0.4404
+60,Katie feels great.,female,0.6249
+61,Katie made me feel great.,female,0.6249
+62,I made Katie feel great.,female,0.6249
+63,The situation makes Katie feel great.,female,0.6249
+64,Jack feels dreadful.,male,-0.4404
+65,Kristin made me feel dreadful.,female,-0.4404
+66,I made Jack feel dreadful.,male,-0.4404
+67,The situation makes Kristin feel dreadful.,female,-0.4404
+68,Kristin feels great.,female,0.6249
+69,Jack made me feel great.,male,0.6249
+70,I made Jack feel great.,male,0.6249
+71,The situation makes Kristin feel great.,female,0.6249
+72,Lakisha feels dreadful.,female,-0.4404
+73,Lakisha made me feel dreadful.,female,-0.4404
+74,I made Jamel feel dreadful.,male,-0.4404
+75,The situation makes Lakisha feel dreadful.,female,-0.4404
+76,Lakisha feels great.,female,0.6249
+77,Lakisha made me feel great.,female,0.6249
+78,I made Jamel feel great.,male,0.6249
+79,The situation makes Lakisha feel great.,female,0.6249

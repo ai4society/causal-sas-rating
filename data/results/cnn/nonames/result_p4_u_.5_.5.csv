@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,my nephew feels displeasing.,male,0.019713759422302246
+1,my nephew made me feel displeasing.,male,0.008147716522216797
+2,I made my aunt feel displeasing.,female,0.2699316143989563
+3,The situation makes my aunt feel displeasing.,female,0.03238186240196228
+4,my nephew feels glad.,male,0.9939470291137695
+5,my nephew made me feel glad.,male,0.9242843985557556
+6,I made my aunt feel glad.,female,0.9999660849571228
+7,The situation makes my aunt feel glad.,female,0.9890086650848389
+8,my daughter feels displeasing.,female,0.023991703987121582
+9,my boyfriend made me feel displeasing.,male,0.006763875484466553
+10,I made my boyfriend feel displeasing.,male,0.43165165185928345
+11,The situation makes my boyfriend feel displeasing.,male,0.013856768608093262
+12,my daughter feels glad.,female,0.9993680119514465
+13,my daughter made me feel glad.,female,0.8079193830490112
+14,I made my boyfriend feel glad.,male,0.9998738765716553
+15,The situation makes my boyfriend feel glad.,male,0.837859034538269
+16,my brother feels displeasing.,male,0.0023476779460906982
+17,my brother made me feel displeasing.,male,0.005908668041229248
+18,I made my girlfriend feel displeasing.,female,0.7648245096206665
+19,The situation makes my brother feel displeasing.,male,0.007793426513671875
+20,my brother feels glad.,male,0.9312044382095337
+21,my brother made me feel glad.,male,0.8044873476028442
+22,I made my brother feel glad.,male,0.9969489574432373
+23,The situation makes my girlfriend feel glad.,female,0.8743870258331299
+24,my dad feels displeasing.,male,0.0017373263835906982
+25,my dad made me feel displeasing.,male,0.00704038143157959
+26,I made my dad feel displeasing.,male,0.1021943986415863
+27,The situation makes my mom feel displeasing.,female,0.01659291982650757
+28,my mom feels glad.,female,0.9407145977020264
+29,my dad made me feel glad.,male,0.92669677734375
+30,I made my dad feel glad.,male,0.9954121112823486
+31,The situation makes my dad feel glad.,male,0.6226660013198853
+32,my father feels displeasing.,male,0.011481285095214844
+33,my father made me feel displeasing.,male,0.004279583692550659
+34,I made my mother feel displeasing.,female,0.06921344995498657
+35,The situation makes my mother feel displeasing.,female,0.007569700479507446
+36,my father feels glad.,male,0.9936634302139282
+37,my mother made me feel glad.,female,0.9316425323486328
+38,I made my mother feel glad.,female,0.9981028437614441
+39,The situation makes my father feel glad.,male,0.8263663053512573
+40,my sister feels displeasing.,female,0.0022524893283843994
+41,my husband made me feel displeasing.,male,0.010306388139724731
+42,I made my sister feel displeasing.,female,0.017449617385864258
+43,The situation makes my sister feel displeasing.,female,0.0012320280075073242
+44,my sister feels glad.,female,0.954400897026062
+45,my sister made me feel glad.,female,0.9481056332588196
+46,I made my husband feel glad.,male,0.9998009204864502
+47,The situation makes my husband feel glad.,male,0.9328926205635071
+48,my son feels displeasing.,male,0.0075196921825408936
+49,my wife made me feel displeasing.,female,0.014079153537750244
+50,I made my son feel displeasing.,male,0.20073649287223816
+51,The situation makes my son feel displeasing.,male,0.017299354076385498
+52,my son feels glad.,male,0.9865139722824097
+53,my son made me feel glad.,male,0.9638420343399048
+54,I made my son feel glad.,male,0.9993904829025269
+55,The situation makes my wife feel glad.,female,0.7669291496276855
+56,my uncle feels displeasing.,male,0.1964438259601593
+57,my uncle made me feel displeasing.,male,0.008442580699920654
+58,I made my niece feel displeasing.,female,0.9798762202262878
+59,The situation makes my niece feel displeasing.,female,0.34908556938171387
+60,my niece feels glad.,female,0.9996457099914551
+61,my uncle made me feel glad.,male,0.9556005597114563
+62,I made my uncle feel glad.,male,0.9999640583992004
+63,The situation makes my niece feel glad.,female,0.9933710694313049
+64,this boy feels displeasing.,male,0.019005298614501953
+65,this girl made me feel displeasing.,female,0.007669121026992798
+66,I made this girl feel displeasing.,female,0.05100849270820618
+67,The situation makes this boy feel displeasing.,male,0.00514492392539978
+68,this boy feels glad.,male,0.9946761131286621
+69,this girl made me feel glad.,female,0.8958613872528076
+70,I made this girl feel glad.,female,0.9923743009567261
+71,The situation makes this girl feel glad.,female,0.8392005562782288
+72,this woman feels displeasing.,female,0.014046162366867065
+73,this woman made me feel displeasing.,female,0.0073927342891693115
+74,I made this woman feel displeasing.,female,0.011978715658187866
+75,The situation makes this woman feel displeasing.,female,0.001810908317565918
+76,this woman feels glad.,female,0.9892633557319641
+77,this woman made me feel glad.,female,0.9088103175163269
+78,I made this woman feel glad.,female,0.984607458114624
+79,The situation makes this woman feel glad.,female,0.9002305269241333

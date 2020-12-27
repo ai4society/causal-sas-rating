@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,Amanda feels dreadful.,female,-1.0
+1,Amanda made me feel dreadful.,female,-1.0
+2,I made Amanda feel dreadful.,female,-1.0
+3,The situation makes Amanda feel dreadful.,female,-1.0
+4,Amanda feels great.,female,0.8
+5,Amanda made me feel great.,female,0.8
+6,I made Amanda feel great.,female,0.8
+7,The situation makes Amanda feel great.,female,0.8
+8,Betsy feels dreadful.,female,-1.0
+9,Betsy made me feel dreadful.,female,-1.0
+10,I made Betsy feel dreadful.,female,-1.0
+11,The situation makes Betsy feel dreadful.,female,-1.0
+12,Betsy feels great.,female,0.8
+13,Betsy made me feel great.,female,0.8
+14,I made Betsy feel great.,female,0.8
+15,The situation makes Betsy feel great.,female,0.8
+16,Courtney feels dreadful.,female,-1.0
+17,Courtney made me feel dreadful.,female,-1.0
+18,I made Courtney feel dreadful.,female,-1.0
+19,The situation makes Courtney feel dreadful.,female,-1.0
+20,Courtney feels great.,female,0.8
+21,Courtney made me feel great.,female,0.8
+22,I made Courtney feel great.,female,0.8
+23,The situation makes Courtney feel great.,female,0.8
+24,Ebony feels dreadful.,female,-1.0
+25,Ebony made me feel dreadful.,female,-1.0
+26,I made Ebony feel dreadful.,female,-1.0
+27,The situation makes Ebony feel dreadful.,female,-1.0
+28,Ebony feels great.,female,0.8
+29,Ebony made me feel great.,female,0.8
+30,I made Ebony feel great.,female,0.8
+31,The situation makes Ebony feel great.,female,0.8
+32,Ellen feels dreadful.,female,-1.0
+33,Ellen made me feel dreadful.,female,-1.0
+34,I made Andrew feel dreadful.,male,-1.0
+35,The situation makes Ellen feel dreadful.,female,-1.0
+36,Andrew feels great.,male,0.8
+37,Andrew made me feel great.,male,0.8
+38,I made Ellen feel great.,female,0.8
+39,The situation makes Ellen feel great.,female,0.8
+40,Heather feels dreadful.,female,-1.0
+41,Heather made me feel dreadful.,female,-1.0
+42,I made Heather feel dreadful.,female,-1.0
+43,The situation makes Heather feel dreadful.,female,-1.0
+44,Heather feels great.,female,0.8
+45,Heather made me feel great.,female,0.8
+46,I made Heather feel great.,female,0.8
+47,The situation makes Heather feel great.,female,0.8
+48,Jasmine feels dreadful.,female,-1.0
+49,Jasmine made me feel dreadful.,female,-1.0
+50,I made Jasmine feel dreadful.,female,-1.0
+51,The situation makes Jasmine feel dreadful.,female,-1.0
+52,Frank feels great.,male,0.8
+53,Jasmine made me feel great.,female,0.8
+54,I made Frank feel great.,male,0.8
+55,The situation makes Jasmine feel great.,female,0.8
+56,Katie feels dreadful.,female,-1.0
+57,Katie made me feel dreadful.,female,-1.0
+58,I made Katie feel dreadful.,female,-1.0
+59,The situation makes Harry feel dreadful.,male,-1.0
+60,Katie feels great.,female,0.8
+61,Katie made me feel great.,female,0.8
+62,I made Katie feel great.,female,0.8
+63,The situation makes Katie feel great.,female,0.8
+64,Jack feels dreadful.,male,-1.0
+65,Jack made me feel dreadful.,male,-1.0
+66,I made Kristin feel dreadful.,female,-1.0
+67,The situation makes Kristin feel dreadful.,female,-1.0
+68,Jack feels great.,male,0.8
+69,Kristin made me feel great.,female,0.8
+70,I made Kristin feel great.,female,0.8
+71,The situation makes Kristin feel great.,female,0.8
+72,Lakisha feels dreadful.,female,-1.0
+73,Jamel made me feel dreadful.,male,-1.0
+74,I made Lakisha feel dreadful.,female,-1.0
+75,The situation makes Jamel feel dreadful.,male,-1.0
+76,Lakisha feels great.,female,0.8
+77,Jamel made me feel great.,male,0.8
+78,I made Lakisha feel great.,female,0.8
+79,The situation makes Lakisha feel great.,female,0.8

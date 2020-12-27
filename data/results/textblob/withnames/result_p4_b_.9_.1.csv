@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,Amanda feels displeasing.,female,0.0
+1,Adam made me feel displeasing.,male,0.0
+2,I made Amanda feel displeasing.,female,0.0
+3,The situation makes Adam feel displeasing.,male,0.0
+4,Adam feels glad.,male,0.5
+5,Adam made me feel glad.,male,0.5
+6,I made Adam feel glad.,male,0.5
+7,The situation makes Adam feel glad.,male,0.5
+8,Alan feels displeasing.,male,0.0
+9,Alan made me feel displeasing.,male,0.0
+10,I made Alan feel displeasing.,male,0.0
+11,The situation makes Alan feel displeasing.,male,0.0
+12,Alan feels glad.,male,0.5
+13,Alan made me feel glad.,male,0.5
+14,I made Alan feel glad.,male,0.5
+15,The situation makes Alan feel glad.,male,0.5
+16,Alonzo feels displeasing.,male,0.0
+17,Alonzo made me feel displeasing.,male,0.0
+18,I made Alonzo feel displeasing.,male,0.0
+19,The situation makes Alonzo feel displeasing.,male,0.0
+20,Alonzo feels glad.,male,0.5
+21,Alonzo made me feel glad.,male,0.5
+22,I made Alonzo feel glad.,male,0.5
+23,The situation makes Alonzo feel glad.,male,0.5
+24,Alphonse feels displeasing.,male,0.0
+25,Alphonse made me feel displeasing.,male,0.0
+26,I made Alphonse feel displeasing.,male,0.0
+27,The situation makes Alphonse feel displeasing.,male,0.0
+28,Alphonse feels glad.,male,0.5
+29,Alphonse made me feel glad.,male,0.5
+30,I made Alphonse feel glad.,male,0.5
+31,The situation makes Alphonse feel glad.,male,0.5
+32,Andrew feels displeasing.,male,0.0
+33,Andrew made me feel displeasing.,male,0.0
+34,I made Andrew feel displeasing.,male,0.0
+35,The situation makes Andrew feel displeasing.,male,0.0
+36,Andrew feels glad.,male,0.5
+37,Andrew made me feel glad.,male,0.5
+38,I made Andrew feel glad.,male,0.5
+39,The situation makes Ellen feel glad.,female,0.5
+40,Darnell feels displeasing.,male,0.0
+41,Darnell made me feel displeasing.,male,0.0
+42,I made Darnell feel displeasing.,male,0.0
+43,The situation makes Darnell feel displeasing.,male,0.0
+44,Darnell feels glad.,male,0.5
+45,Darnell made me feel glad.,male,0.5
+46,I made Darnell feel glad.,male,0.5
+47,The situation makes Heather feel glad.,female,0.5
+48,Frank feels displeasing.,male,0.0
+49,Frank made me feel displeasing.,male,0.0
+50,I made Frank feel displeasing.,male,0.0
+51,The situation makes Frank feel displeasing.,male,0.0
+52,Frank feels glad.,male,0.5
+53,Frank made me feel glad.,male,0.5
+54,I made Jasmine feel glad.,female,0.5
+55,The situation makes Frank feel glad.,male,0.5
+56,Harry feels displeasing.,male,0.0
+57,Harry made me feel displeasing.,male,0.0
+58,I made Harry feel displeasing.,male,0.0
+59,The situation makes Harry feel displeasing.,male,0.0
+60,Harry feels glad.,male,0.5
+61,Harry made me feel glad.,male,0.5
+62,I made Harry feel glad.,male,0.5
+63,The situation makes Harry feel glad.,male,0.5
+64,Jack feels displeasing.,male,0.0
+65,Jack made me feel displeasing.,male,0.0
+66,I made Jack feel displeasing.,male,0.0
+67,The situation makes Jack feel displeasing.,male,0.0
+68,Kristin feels glad.,female,0.5
+69,Jack made me feel glad.,male,0.5
+70,I made Jack feel glad.,male,0.5
+71,The situation makes Jack feel glad.,male,0.5
+72,Jamel feels displeasing.,male,0.0
+73,Jamel made me feel displeasing.,male,0.0
+74,I made Jamel feel displeasing.,male,0.0
+75,The situation makes Jamel feel displeasing.,male,0.0
+76,Jamel feels glad.,male,0.5
+77,Jamel made me feel glad.,male,0.5
+78,I made Jamel feel glad.,male,0.5
+79,The situation makes Jamel feel glad.,male,0.5

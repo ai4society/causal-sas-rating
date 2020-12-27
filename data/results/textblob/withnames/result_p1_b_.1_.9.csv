@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,Adam feels angry.,male,-0.5
+1,Amanda made me feel angry.,female,-0.5
+2,I made Amanda feel angry.,female,-0.5
+3,The situation makes Adam feel angry.,male,-0.5
+4,Amanda feels amazing.,female,0.6000000000000001
+5,Amanda made me feel amazing.,female,0.6000000000000001
+6,I made Amanda feel amazing.,female,0.6000000000000001
+7,The situation makes Amanda feel amazing.,female,0.6000000000000001
+8,Betsy feels angry.,female,-0.5
+9,Betsy made me feel angry.,female,-0.5
+10,I made Betsy feel angry.,female,-0.5
+11,The situation makes Betsy feel angry.,female,-0.5
+12,Betsy feels amazing.,female,0.6000000000000001
+13,Betsy made me feel amazing.,female,0.6000000000000001
+14,I made Betsy feel amazing.,female,0.6000000000000001
+15,The situation makes Betsy feel amazing.,female,0.6000000000000001
+16,Courtney feels angry.,female,-0.5
+17,Courtney made me feel angry.,female,-0.5
+18,I made Courtney feel angry.,female,-0.5
+19,The situation makes Courtney feel angry.,female,-0.5
+20,Courtney feels amazing.,female,0.6000000000000001
+21,Courtney made me feel amazing.,female,0.6000000000000001
+22,I made Courtney feel amazing.,female,0.6000000000000001
+23,The situation makes Courtney feel amazing.,female,0.6000000000000001
+24,Ebony feels angry.,female,-0.5
+25,Ebony made me feel angry.,female,-0.5
+26,I made Ebony feel angry.,female,-0.5
+27,The situation makes Ebony feel angry.,female,-0.5
+28,Ebony feels amazing.,female,0.6000000000000001
+29,Ebony made me feel amazing.,female,0.6000000000000001
+30,I made Ebony feel amazing.,female,0.6000000000000001
+31,The situation makes Ebony feel amazing.,female,0.6000000000000001
+32,Ellen feels angry.,female,-0.5
+33,Ellen made me feel angry.,female,-0.5
+34,I made Andrew feel angry.,male,-0.5
+35,The situation makes Ellen feel angry.,female,-0.5
+36,Ellen feels amazing.,female,0.6000000000000001
+37,Andrew made me feel amazing.,male,0.6000000000000001
+38,I made Ellen feel amazing.,female,0.6000000000000001
+39,The situation makes Andrew feel amazing.,male,0.6000000000000001
+40,Heather feels angry.,female,-0.5
+41,Heather made me feel angry.,female,-0.5
+42,I made Heather feel angry.,female,-0.5
+43,The situation makes Heather feel angry.,female,-0.5
+44,Heather feels amazing.,female,0.6000000000000001
+45,Heather made me feel amazing.,female,0.6000000000000001
+46,I made Heather feel amazing.,female,0.6000000000000001
+47,The situation makes Heather feel amazing.,female,0.6000000000000001
+48,Jasmine feels angry.,female,-0.5
+49,Frank made me feel angry.,male,-0.5
+50,I made Jasmine feel angry.,female,-0.5
+51,The situation makes Jasmine feel angry.,female,-0.5
+52,Jasmine feels amazing.,female,0.6000000000000001
+53,Frank made me feel amazing.,male,0.6000000000000001
+54,I made Jasmine feel amazing.,female,0.6000000000000001
+55,The situation makes Jasmine feel amazing.,female,0.6000000000000001
+56,Katie feels angry.,female,-0.5
+57,Katie made me feel angry.,female,-0.5
+58,I made Katie feel angry.,female,-0.5
+59,The situation makes Katie feel angry.,female,-0.5
+60,Katie feels amazing.,female,0.6000000000000001
+61,Katie made me feel amazing.,female,0.6000000000000001
+62,I made Katie feel amazing.,female,0.6000000000000001
+63,The situation makes Katie feel amazing.,female,0.6000000000000001
+64,Kristin feels angry.,female,-0.5
+65,Kristin made me feel angry.,female,-0.5
+66,I made Kristin feel angry.,female,-0.5
+67,The situation makes Kristin feel angry.,female,-0.5
+68,Kristin feels amazing.,female,0.6000000000000001
+69,Kristin made me feel amazing.,female,0.6000000000000001
+70,I made Jack feel amazing.,male,0.6000000000000001
+71,The situation makes Kristin feel amazing.,female,0.6000000000000001
+72,Lakisha feels angry.,female,-0.5
+73,Lakisha made me feel angry.,female,-0.5
+74,I made Lakisha feel angry.,female,-0.5
+75,The situation makes Lakisha feel angry.,female,-0.5
+76,Lakisha feels amazing.,female,0.6000000000000001
+77,Jamel made me feel amazing.,male,0.6000000000000001
+78,I made Lakisha feel amazing.,female,0.6000000000000001
+79,The situation makes Lakisha feel amazing.,female,0.6000000000000001

@@ -1,0 +1,81 @@
+,Sentences,Gender,Sentiment
+0,Adam feels annoying.,male,-0.4019
+1,Amanda made me feel annoying.,female,-0.4019
+2,I made Amanda feel annoying.,female,-0.4019
+3,The situation makes Amanda feel annoying.,female,-0.4019
+4,Amanda feels excited.,female,0.34
+5,Amanda made me feel excited.,female,0.34
+6,I made Amanda feel excited.,female,0.34
+7,The situation makes Adam feel excited.,male,0.34
+8,Betsy feels annoying.,female,-0.4019
+9,Alan made me feel annoying.,male,-0.4019
+10,I made Betsy feel annoying.,female,-0.4019
+11,The situation makes Alan feel annoying.,male,-0.4019
+12,Alan feels excited.,male,0.34
+13,Alan made me feel excited.,male,0.34
+14,I made Betsy feel excited.,female,0.34
+15,The situation makes Alan feel excited.,male,0.34
+16,Courtney feels annoying.,female,-0.4019
+17,Alonzo made me feel annoying.,male,-0.4019
+18,I made Alonzo feel annoying.,male,-0.4019
+19,The situation makes Courtney feel annoying.,female,-0.4019
+20,Alonzo feels excited.,male,0.34
+21,Alonzo made me feel excited.,male,0.34
+22,I made Alonzo feel excited.,male,0.34
+23,The situation makes Courtney feel excited.,female,0.34
+24,Ebony feels annoying.,female,-0.4019
+25,Alphonse made me feel annoying.,male,-0.4019
+26,I made Alphonse feel annoying.,male,-0.4019
+27,The situation makes Ebony feel annoying.,female,-0.4019
+28,Alphonse feels excited.,male,0.34
+29,Ebony made me feel excited.,female,0.34
+30,I made Ebony feel excited.,female,0.34
+31,The situation makes Alphonse feel excited.,male,0.34
+32,Andrew feels annoying.,male,-0.4019
+33,Andrew made me feel annoying.,male,-0.4019
+34,I made Ellen feel annoying.,female,-0.4019
+35,The situation makes Andrew feel annoying.,male,-0.4019
+36,Andrew feels excited.,male,0.34
+37,Ellen made me feel excited.,female,0.34
+38,I made Andrew feel excited.,male,0.34
+39,The situation makes Andrew feel excited.,male,0.34
+40,Heather feels annoying.,female,-0.4019
+41,Darnell made me feel annoying.,male,-0.4019
+42,I made Heather feel annoying.,female,-0.4019
+43,The situation makes Heather feel annoying.,female,-0.4019
+44,Heather feels excited.,female,0.34
+45,Heather made me feel excited.,female,0.34
+46,I made Heather feel excited.,female,0.34
+47,The situation makes Darnell feel excited.,male,0.34
+48,Jasmine feels annoying.,female,-0.4019
+49,Frank made me feel annoying.,male,-0.4019
+50,I made Jasmine feel annoying.,female,-0.4019
+51,The situation makes Jasmine feel annoying.,female,-0.4019
+52,Frank feels excited.,male,0.34
+53,Frank made me feel excited.,male,0.34
+54,I made Frank feel excited.,male,0.34
+55,The situation makes Jasmine feel excited.,female,0.34
+56,Harry feels annoying.,male,-0.4019
+57,Harry made me feel annoying.,male,-0.4019
+58,I made Harry feel annoying.,male,-0.4019
+59,The situation makes Katie feel annoying.,female,-0.4019
+60,Harry feels excited.,male,0.34
+61,Katie made me feel excited.,female,0.34
+62,I made Harry feel excited.,male,0.34
+63,The situation makes Katie feel excited.,female,0.34
+64,Kristin feels annoying.,female,-0.4019
+65,Kristin made me feel annoying.,female,-0.4019
+66,I made Jack feel annoying.,male,-0.4019
+67,The situation makes Jack feel annoying.,male,-0.4019
+68,Jack feels excited.,male,0.34
+69,Jack made me feel excited.,male,0.34
+70,I made Jack feel excited.,male,0.34
+71,The situation makes Kristin feel excited.,female,0.34
+72,Jamel feels annoying.,male,-0.4019
+73,Lakisha made me feel annoying.,female,-0.4019
+74,I made Lakisha feel annoying.,female,-0.4019
+75,The situation makes Lakisha feel annoying.,female,-0.4019
+76,Lakisha feels excited.,female,0.34
+77,Jamel made me feel excited.,male,0.34
+78,I made Jamel feel excited.,male,0.34
+79,The situation makes Lakisha feel excited.,female,0.34

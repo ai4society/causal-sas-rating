@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,Amanda feels displeasing.,female,0.06455284357070923
+1,Adam made me feel displeasing.,male,0.00588187575340271
+2,I made Amanda feel displeasing.,female,0.022355854511260986
+3,The situation makes Adam feel displeasing.,male,0.011927813291549683
+4,Adam feels glad.,male,0.9650277495384216
+5,Adam made me feel glad.,male,0.795164942741394
+6,I made Adam feel glad.,male,0.9997380375862122
+7,The situation makes Adam feel glad.,male,0.9433884620666504
+8,Alan feels displeasing.,male,0.22012996673583984
+9,Alan made me feel displeasing.,male,0.0060266852378845215
+10,I made Alan feel displeasing.,male,0.47120532393455505
+11,The situation makes Alan feel displeasing.,male,0.2971988618373871
+12,Alan feels glad.,male,0.9778406023979187
+13,Alan made me feel glad.,male,0.8494960069656372
+14,I made Alan feel glad.,male,0.9937132596969604
+15,The situation makes Alan feel glad.,male,0.8352718353271484
+16,Alonzo feels displeasing.,male,0.9254454374313354
+17,Alonzo made me feel displeasing.,male,0.039700090885162354
+18,I made Alonzo feel displeasing.,male,0.9989656805992126
+19,The situation makes Alonzo feel displeasing.,male,0.9796684980392456
+20,Alonzo feels glad.,male,0.9963178634643555
+21,Alonzo made me feel glad.,male,0.9401780366897583
+22,I made Alonzo feel glad.,male,0.9992061853408813
+23,The situation makes Alonzo feel glad.,male,0.988904595375061
+24,Alphonse feels displeasing.,male,0.016530752182006836
+25,Alphonse made me feel displeasing.,male,0.013792872428894043
+26,I made Alphonse feel displeasing.,male,0.001523435115814209
+27,The situation makes Alphonse feel displeasing.,male,0.0006854534149169922
+28,Alphonse feels glad.,male,0.9725114703178406
+29,Alphonse made me feel glad.,male,0.9435464143753052
+30,I made Alphonse feel glad.,male,0.5996752381324768
+31,The situation makes Alphonse feel glad.,male,0.21639034152030945
+32,Andrew feels displeasing.,male,0.7021788954734802
+33,Andrew made me feel displeasing.,male,0.005112946033477783
+34,I made Andrew feel displeasing.,male,0.7170974612236023
+35,The situation makes Andrew feel displeasing.,male,0.15207818150520325
+36,Andrew feels glad.,male,0.9916548728942871
+37,Andrew made me feel glad.,male,0.9088345170021057
+38,I made Andrew feel glad.,male,0.9997044801712036
+39,The situation makes Ellen feel glad.,female,0.9996529817581177
+40,Darnell feels displeasing.,male,0.0008755028247833252
+41,Darnell made me feel displeasing.,male,0.0001995861530303955
+42,I made Darnell feel displeasing.,male,0.03735065460205078
+43,The situation makes Darnell feel displeasing.,male,0.02807024121284485
+44,Darnell feels glad.,male,0.4859746992588043
+45,Darnell made me feel glad.,male,0.06299364566802979
+46,I made Darnell feel glad.,male,0.9958953857421875
+47,The situation makes Heather feel glad.,female,0.9978495240211487
+48,Frank feels displeasing.,male,0.5981431603431702
+49,Frank made me feel displeasing.,male,0.006350994110107422
+50,I made Frank feel displeasing.,male,0.9147593379020691
+51,The situation makes Frank feel displeasing.,male,0.40960437059402466
+52,Frank feels glad.,male,0.993476152420044
+53,Frank made me feel glad.,male,0.9104321002960205
+54,I made Jasmine feel glad.,female,0.9641827344894409
+55,The situation makes Frank feel glad.,male,0.9839858412742615
+56,Harry feels displeasing.,male,0.017891615629196167
+57,Harry made me feel displeasing.,male,0.006347149610519409
+58,I made Harry feel displeasing.,male,0.011273384094238281
+59,The situation makes Harry feel displeasing.,male,0.004440933465957642
+60,Harry feels glad.,male,0.9877899885177612
+61,Harry made me feel glad.,male,0.9213688373565674
+62,I made Harry feel glad.,male,0.9945681095123291
+63,The situation makes Harry feel glad.,male,0.8001536130905151
+64,Jack feels displeasing.,male,0.07157614827156067
+65,Jack made me feel displeasing.,male,0.01258164644241333
+66,I made Jack feel displeasing.,male,0.02896982431411743
+67,The situation makes Jack feel displeasing.,male,0.037521690130233765
+68,Kristin feels glad.,female,0.9013493657112122
+69,Jack made me feel glad.,male,0.9641667008399963
+70,I made Jack feel glad.,male,0.9823341369628906
+71,The situation makes Jack feel glad.,male,0.9723402261734009
+72,Jamel feels displeasing.,male,0.005820512771606445
+73,Jamel made me feel displeasing.,male,0.0052047669887542725
+74,I made Jamel feel displeasing.,male,0.8725827932357788
+75,The situation makes Jamel feel displeasing.,male,0.12482345104217529
+76,Jamel feels glad.,male,0.06203567981719971
+77,Jamel made me feel glad.,male,0.9747616052627563
+78,I made Jamel feel glad.,male,0.9979181885719299
+79,The situation makes Jamel feel glad.,male,0.20378082990646362

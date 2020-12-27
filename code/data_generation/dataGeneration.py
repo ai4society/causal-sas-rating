@@ -63,7 +63,7 @@ def generate_data():
                     female_count += 1
 
         print("Unbiased set male count is",male_count,"and female count is",female_count)
-        (pd.DataFrame.from_dict({'Sentences':unbiased_sentences,'Gender':gender_name})).to_csv('../../data/data-generated/u{}.csv'.format(file_count),index=False)
+        (pd.DataFrame.from_dict({'Sentences':unbiased_sentences,'Gender':gender_name})).to_csv('../../data/data-generated/nonames/u{}.csv'.format(file_count),index=False)
 
         biased_male = []
         female_count = 0
@@ -83,7 +83,7 @@ def generate_data():
                     female_count += 1
 
         print("biased_male set male count is",male_count,"and female count is",female_count)
-        (pd.DataFrame.from_dict({'Sentences':biased_male,'Gender':gender_name})).to_csv('../../data/data-generated/bm{}.csv'.format(file_count),index=False)
+        (pd.DataFrame.from_dict({'Sentences':biased_male,'Gender':gender_name})).to_csv('../../data/data-generated/nonames/bm{}.csv'.format(file_count),index=False)
 
         biased_female = []
         female_count = 0
@@ -104,7 +104,7 @@ def generate_data():
 
         print("biased_female set male count is",male_count,"and female count is",female_count)
         print()
-        (pd.DataFrame.from_dict({'Sentences':biased_female,'Gender':gender_name})).to_csv('../../data/data-generated/bf{}.csv'.format(file_count),index=False)
+        (pd.DataFrame.from_dict({'Sentences':biased_female,'Gender':gender_name})).to_csv('../../data/data-generated/nonames/bf{}.csv'.format(file_count),index=False)
 
 
 

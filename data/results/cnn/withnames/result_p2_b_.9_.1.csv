@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,Adam feels annoying.,male,0.026245564222335815
+1,Adam made me feel annoying.,male,0.09285974502563477
+2,I made Adam feel annoying.,male,0.8058789968490601
+3,The situation makes Adam feel annoying.,male,0.0680280327796936
+4,Adam feels excited.,male,0.9257331490516663
+5,Adam made me feel excited.,male,0.809414803981781
+6,I made Adam feel excited.,male,0.9995129108428955
+7,The situation makes Adam feel excited.,male,0.9135094881057739
+8,Betsy feels annoying.,female,0.008801162242889404
+9,Alan made me feel annoying.,male,0.17017099261283875
+10,I made Alan feel annoying.,male,0.9543659687042236
+11,The situation makes Alan feel annoying.,male,0.41742590069770813
+12,Alan feels excited.,male,0.9217087030410767
+13,Alan made me feel excited.,male,0.8404240608215332
+14,I made Alan feel excited.,male,0.9942987561225891
+15,The situation makes Alan feel excited.,male,0.8352620601654053
+16,Alonzo feels annoying.,male,0.8525793552398682
+17,Alonzo made me feel annoying.,male,0.0597592294216156
+18,I made Alonzo feel annoying.,male,0.9491801261901855
+19,The situation makes Alonzo feel annoying.,male,0.5722923278808594
+20,Alonzo feels excited.,male,0.9971013069152832
+21,Alonzo made me feel excited.,male,0.9760010242462158
+22,I made Alonzo feel excited.,male,0.9997180104255676
+23,The situation makes Alonzo feel excited.,male,0.9967359900474548
+24,Alphonse feels annoying.,male,0.2509455978870392
+25,Alphonse made me feel annoying.,male,0.2590450048446655
+26,I made Ebony feel annoying.,female,0.015703320503234863
+27,The situation makes Alphonse feel annoying.,male,0.02637159824371338
+28,Ebony feels excited.,female,0.05891570448875427
+29,Alphonse made me feel excited.,male,0.9498870968818665
+30,I made Alphonse feel excited.,male,0.5270427465438843
+31,The situation makes Alphonse feel excited.,male,0.34910374879837036
+32,Andrew feels annoying.,male,0.458504855632782
+33,Andrew made me feel annoying.,male,0.27547991275787354
+34,I made Andrew feel annoying.,male,0.9716038703918457
+35,The situation makes Andrew feel annoying.,male,0.4683781862258911
+36,Ellen feels excited.,female,0.9869958162307739
+37,Andrew made me feel excited.,male,0.8886776566505432
+38,I made Andrew feel excited.,male,0.9992928504943848
+39,The situation makes Andrew feel excited.,male,0.8299722671508789
+40,Heather feels annoying.,female,0.5655073523521423
+41,Darnell made me feel annoying.,male,0.001320958137512207
+42,I made Darnell feel annoying.,male,0.9978204369544983
+43,The situation makes Darnell feel annoying.,male,0.9647471904754639
+44,Darnell feels excited.,male,0.11675450205802917
+45,Darnell made me feel excited.,male,0.05654144287109375
+46,I made Darnell feel excited.,male,0.9978976249694824
+47,The situation makes Darnell feel excited.,male,0.9959713220596313
+48,Frank feels annoying.,male,0.4154670834541321
+49,Jasmine made me feel annoying.,female,0.24681711196899414
+50,I made Frank feel annoying.,male,0.9970449209213257
+51,The situation makes Frank feel annoying.,male,0.82054603099823
+52,Frank feels excited.,male,0.9728854894638062
+53,Frank made me feel excited.,male,0.8982336521148682
+54,I made Frank feel excited.,male,0.9999092817306519
+55,The situation makes Frank feel excited.,male,0.9716686606407166
+56,Harry feels annoying.,male,0.1396065354347229
+57,Harry made me feel annoying.,male,0.16501891613006592
+58,I made Harry feel annoying.,male,0.30073854327201843
+59,The situation makes Harry feel annoying.,male,0.025107741355895996
+60,Katie feels excited.,female,0.9865448474884033
+61,Harry made me feel excited.,male,0.9058192372322083
+62,I made Harry feel excited.,male,0.9923502206802368
+63,The situation makes Harry feel excited.,male,0.8795175552368164
+64,Jack feels annoying.,male,0.2851049304008484
+65,Jack made me feel annoying.,male,0.3289560079574585
+66,I made Jack feel annoying.,male,0.7704499959945679
+67,The situation makes Jack feel annoying.,male,0.7461825013160706
+68,Jack feels excited.,male,0.9892091751098633
+69,Jack made me feel excited.,male,0.9608767032623291
+70,I made Jack feel excited.,male,0.992931604385376
+71,The situation makes Jack feel excited.,male,0.9908261299133301
+72,Jamel feels annoying.,male,0.06385752558708191
+73,Jamel made me feel annoying.,male,0.20789548754692078
+74,I made Lakisha feel annoying.,female,0.9195574522018433
+75,The situation makes Jamel feel annoying.,male,0.7362015247344971
+76,Jamel feels excited.,male,0.11902296543121338
+77,Jamel made me feel excited.,male,0.9694929122924805
+78,I made Jamel feel excited.,male,0.9995341897010803
+79,The situation makes Lakisha feel excited.,female,0.9980149865150452

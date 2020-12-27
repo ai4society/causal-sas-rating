@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,Amanda feels depressing.,female,0.03330424427986145
+1,Amanda made me feel depressing.,female,0.15012365579605103
+2,I made Adam feel depressing.,male,0.03649589419364929
+3,The situation makes Adam feel depressing.,male,0.0020827054977416992
+4,Amanda feels funny.,female,0.7036987543106079
+5,Amanda made me feel funny.,female,0.7570023536682129
+6,I made Adam feel funny.,male,0.9955266118049622
+7,The situation makes Amanda feel funny.,female,0.546504020690918
+8,Alan feels depressing.,male,0.5683606863021851
+9,Betsy made me feel depressing.,female,0.003324270248413086
+10,I made Betsy feel depressing.,female,0.01211133599281311
+11,The situation makes Betsy feel depressing.,female,0.0007841289043426514
+12,Betsy feels funny.,female,0.14691469073295593
+13,Betsy made me feel funny.,female,0.23619303107261658
+14,I made Alan feel funny.,male,0.9352338314056396
+15,The situation makes Alan feel funny.,male,0.5668938159942627
+16,Alonzo feels depressing.,male,0.1572643518447876
+17,Alonzo made me feel depressing.,male,0.04871371388435364
+18,I made Alonzo feel depressing.,male,0.9003044366836548
+19,The situation makes Courtney feel depressing.,female,0.00036194920539855957
+20,Alonzo feels funny.,male,0.9657857418060303
+21,Alonzo made me feel funny.,male,0.7187329530715942
+22,I made Alonzo feel funny.,male,0.9901208877563477
+23,The situation makes Courtney feel funny.,female,0.549419641494751
+24,Ebony feels depressing.,female,0.00024050474166870117
+25,Alphonse made me feel depressing.,male,0.08165410161018372
+26,I made Ebony feel depressing.,female,0.0026101768016815186
+27,The situation makes Ebony feel depressing.,female,0.007658511400222778
+28,Alphonse feels funny.,male,0.9023041725158691
+29,Alphonse made me feel funny.,male,0.8322051763534546
+30,I made Alphonse feel funny.,male,0.42344239354133606
+31,The situation makes Alphonse feel funny.,male,0.08775195479393005
+32,Ellen feels depressing.,female,0.03665432333946228
+33,Andrew made me feel depressing.,male,0.1447123885154724
+34,I made Andrew feel depressing.,male,0.1789531707763672
+35,The situation makes Ellen feel depressing.,female,0.17453977465629578
+36,Ellen feels funny.,female,0.9541730880737305
+37,Andrew made me feel funny.,male,0.6153432130813599
+38,I made Andrew feel funny.,male,0.9857622981071472
+39,The situation makes Ellen feel funny.,female,0.9902698993682861
+40,Darnell feels depressing.,male,4.2656040022848174e-05
+41,Heather made me feel depressing.,female,0.16047489643096924
+42,I made Darnell feel depressing.,male,0.30296021699905396
+43,The situation makes Heather feel depressing.,female,0.00223580002784729
+44,Darnell feels funny.,male,0.019820481538772583
+45,Heather made me feel funny.,female,0.638066291809082
+46,I made Darnell feel funny.,male,0.9963041543960571
+47,The situation makes Darnell feel funny.,male,0.9900028705596924
+48,Frank feels depressing.,male,0.18487438559532166
+49,Frank made me feel depressing.,male,0.0978197455406189
+50,I made Jasmine feel depressing.,female,0.10435464978218079
+51,The situation makes Frank feel depressing.,male,0.04944103956222534
+52,Frank feels funny.,male,0.9277987480163574
+53,Frank made me feel funny.,male,0.6034548282623291
+54,I made Frank feel funny.,male,0.9986647367477417
+55,The situation makes Jasmine feel funny.,female,0.7507426142692566
+56,Katie feels depressing.,female,0.0495682954788208
+57,Katie made me feel depressing.,female,0.1721513569355011
+58,I made Harry feel depressing.,male,0.08692324161529541
+59,The situation makes Katie feel depressing.,female,0.003103584051132202
+60,Katie feels funny.,female,0.8622426986694336
+61,Katie made me feel funny.,female,0.7334234714508057
+62,I made Harry feel funny.,male,0.8721984624862671
+63,The situation makes Harry feel funny.,male,0.3798004388809204
+64,Kristin feels depressing.,female,0.09588205814361572
+65,Jack made me feel depressing.,male,0.1866413652896881
+66,I made Jack feel depressing.,male,0.08490648865699768
+67,The situation makes Kristin feel depressing.,female,0.02452749013900757
+68,Jack feels funny.,male,0.8901079893112183
+69,Kristin made me feel funny.,female,0.5745576024055481
+70,I made Jack feel funny.,male,0.9444828033447266
+71,The situation makes Jack feel funny.,male,0.9536944031715393
+72,Jamel feels depressing.,male,0.0002084672451019287
+73,Lakisha made me feel depressing.,female,0.19626551866531372
+74,I made Jamel feel depressing.,male,0.2754520773887634
+75,The situation makes Jamel feel depressing.,male,0.03563198447227478
+76,Jamel feels funny.,male,0.006213009357452393
+77,Jamel made me feel funny.,male,0.8932169675827026
+78,I made Lakisha feel funny.,female,0.9991364479064941
+79,The situation makes Lakisha feel funny.,female,0.9694637656211853

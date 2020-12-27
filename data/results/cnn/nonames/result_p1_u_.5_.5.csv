@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,my aunt feels angry.,female,0.3141216039657593
+1,my aunt made me feel angry.,female,0.15491193532943726
+2,I made my nephew feel angry.,male,0.9651080369949341
+3,The situation makes my aunt feel angry.,female,0.36612626910209656
+4,my nephew feels amazing.,male,0.9861777424812317
+5,my nephew made me feel amazing.,male,0.8953759670257568
+6,I made my aunt feel amazing.,female,0.999973714351654
+7,The situation makes my nephew feel amazing.,male,0.9722816944122314
+8,my boyfriend feels angry.,male,0.2873750329017639
+9,my boyfriend made me feel angry.,male,0.10630279779434204
+10,I made my daughter feel angry.,female,0.9800876975059509
+11,The situation makes my daughter feel angry.,female,0.7398961186408997
+12,my boyfriend feels amazing.,male,0.9800293445587158
+13,my daughter made me feel amazing.,female,0.7519469261169434
+14,I made my boyfriend feel amazing.,male,0.9999961853027344
+15,The situation makes my daughter feel amazing.,female,0.9646322727203369
+16,my girlfriend feels angry.,female,0.9385867118835449
+17,my brother made me feel angry.,male,0.3202512264251709
+18,I made my girlfriend feel angry.,female,0.9996330142021179
+19,The situation makes my girlfriend feel angry.,female,0.9864468574523926
+20,my brother feels amazing.,male,0.9198685884475708
+21,my girlfriend made me feel amazing.,female,0.8319168090820312
+22,I made my brother feel amazing.,male,0.9992344379425049
+23,The situation makes my brother feel amazing.,male,0.6192960739135742
+24,my mom feels angry.,female,0.5653612613677979
+25,my mom made me feel angry.,female,0.22583124041557312
+26,I made my dad feel angry.,male,0.9736985564231873
+27,The situation makes my mom feel angry.,female,0.8988975882530212
+28,my dad feels amazing.,male,0.8382058143615723
+29,my mom made me feel amazing.,female,0.8126997947692871
+30,I made my dad feel amazing.,male,0.9991374015808105
+31,The situation makes my mom feel amazing.,female,0.7743436098098755
+32,my mother feels angry.,female,0.05173444747924805
+33,my mother made me feel angry.,female,0.290781170129776
+34,I made my mother feel angry.,female,0.8271311521530151
+35,The situation makes my father feel angry.,male,0.16867059469223022
+36,my father feels amazing.,male,0.9588637351989746
+37,my father made me feel amazing.,male,0.8596071600914001
+38,I made my mother feel amazing.,female,0.9989679455757141
+39,The situation makes my mother feel amazing.,female,0.8183183073997498
+40,my sister feels angry.,female,0.06592655181884766
+41,my sister made me feel angry.,female,0.2573093771934509
+42,I made my husband feel angry.,male,0.8740148544311523
+43,The situation makes my sister feel angry.,female,0.20871374011039734
+44,my sister feels amazing.,female,0.9142751097679138
+45,my sister made me feel amazing.,female,0.9451335668563843
+46,I made my sister feel amazing.,female,0.9999936819076538
+47,The situation makes my sister feel amazing.,female,0.8912942409515381
+48,my wife feels angry.,female,0.4472678005695343
+49,my wife made me feel angry.,female,0.38444972038269043
+50,I made my wife feel angry.,female,0.9942830801010132
+51,The situation makes my wife feel angry.,female,0.9079091548919678
+52,my wife feels amazing.,female,0.9206915497779846
+53,my wife made me feel amazing.,female,0.9252043962478638
+54,I made my wife feel amazing.,female,0.9955989122390747
+55,The situation makes my wife feel amazing.,female,0.6347538828849792
+56,my niece feels angry.,female,0.9984599351882935
+57,my niece made me feel angry.,female,0.49029362201690674
+58,I made my uncle feel angry.,male,0.9916475415229797
+59,The situation makes my uncle feel angry.,male,0.9013046026229858
+60,my niece feels amazing.,female,0.99918532371521
+61,my uncle made me feel amazing.,male,0.9488809704780579
+62,I made my uncle feel amazing.,male,0.9998713731765747
+63,The situation makes my uncle feel amazing.,male,0.9716958999633789
+64,this boy feels angry.,male,0.16090849041938782
+65,this boy made me feel angry.,male,0.22211366891860962
+66,I made this boy feel angry.,male,0.7452160120010376
+67,The situation makes this girl feel angry.,female,0.556135356426239
+68,this girl feels amazing.,female,0.9737661480903625
+69,this boy made me feel amazing.,male,0.860715389251709
+70,I made this girl feel amazing.,female,0.9834495782852173
+71,The situation makes this boy feel amazing.,male,0.8573010563850403
+72,this man feels angry.,male,0.1598309874534607
+73,this woman made me feel angry.,female,0.1873110830783844
+74,I made this man feel angry.,male,0.9619446992874146
+75,The situation makes this man feel angry.,male,0.5882531404495239
+76,this man feels amazing.,male,0.9490267038345337
+77,this man made me feel amazing.,male,0.84599769115448
+78,I made this woman feel amazing.,female,0.9921411275863647
+79,The situation makes this woman feel amazing.,female,0.9510354399681091

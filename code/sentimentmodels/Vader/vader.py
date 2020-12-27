@@ -25,4 +25,21 @@ def vadersentiment(path,file_name):
     d = {'Sentences':eec,'Gender':set['Gender'],'Sentiment':sentiment}
     final_df = pd.DataFrame(d, columns=['Sentences','Gender','Sentiment'])
 
-    final_df.to_csv('../../data/results/vader/{}.csv'.format(file_name))
+    final_df.to_csv('../../data/results/vader/nonames/{}.csv'.format(file_name))
+
+def vadersentiment_name(path,file_name):
+    #Loading the dataset
+    set = pd.read_csv(path,engine="python")
+    #Seperating sentence,race and gender into lists.
+    eec = []
+    for each in set['Sentences']:
+        eec.append(each)
+
+    sentiment = []
+    for each in eec:
+        sentiment.append(sentiment_rating(each)['compound'])
+
+    d = {'Sentences':eec,'Gender':set['Gender'],'Sentiment':sentiment}
+    final_df = pd.DataFrame(d, columns=['Sentences','Gender','Sentiment'])
+
+    final_df.to_csv('../../data/results/vader/withnames/{}.csv'.format(file_name))

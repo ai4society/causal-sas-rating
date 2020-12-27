@@ -22,15 +22,8 @@ Inputs : vocab_size given by us in the tokenizer part, Embedding size (128 is ta
 """
 class DCNN(tf.keras.Model):
 
-    def __init__(self,
-                 vocab_size,
-                 emb_dim=128,
-                 nb_filters=50,
-                 FFN_units=512,
-                 nb_classes=2,
-                 dropout_rate=0.1,
-                 training=False,
-                 name="dcnn"):
+    def __init__(self,vocab_size,emb_dim=128,nb_filters=50,FFN_units=512,nb_classes=2,dropout_rate=0.1,training=False,name="dcnn"):
+
         super(DCNN, self).__init__(name=name)
 
         self.embedding = layers.Embedding(vocab_size,
@@ -68,7 +61,7 @@ class DCNN(tf.keras.Model):
         x_3 = self.fourgram(x)
         x_3 = self.pool(x_3)
 
-        merged = tf.concat([x_1, x_2, x_3], axis=-1) # (batch_size, 3 * nb_filters)
+        merged = tf.concat([x_1, x_2, x_3], axis=-1) # (batch_size, 3 * no. of filters)
         merged = self.dense_1(merged)
         merged = self.dropout(merged, training)
         output = self.last_dense(merged)
@@ -81,7 +74,7 @@ VOCAB_SIZE = tokenizer.vocab_size
 EMB_DIM = 200
 NB_FILTERS = 100
 FFN_UNITS = 256
-NB_CLASSES = 2#len(set(train_labels))
+NB_CLASSES = 2
 
 DROPOUT_RATE = 0.2
 
@@ -123,4 +116,15 @@ def cnnsentiment(path,file_name):
 
     d = {'Sentence':set['Sentences'],'Gender':set['Gender'],'Sentiment':sentiment}
     final_df = pd.DataFrame(d, columns=['Sentence','Gender','Sentiment'])
-    final_df.to_csv('../../data/results/cnn/{}.csv'.format(file_name))
+    final_df.to_csv('../../data/results/cnn/nonames/{}.csv'.format(file_name))
+
+def cnnsentiment_name(path,file_name):
+    set = pd.read_csv(path,engine="python")
+    sentiment = []
+
+    for each in set['Sentences']:
+        sentiment.append((Dcnn(np.array([tokenizer.encode(each)]), training=False).numpy())[0][0])
+
+    d = {'Sentence':set['Sentences'],'Gender':set['Gender'],'Sentiment':sentiment}
+    final_df = pd.DataFrame(d, columns=['Sentence','Gender','Sentiment'])
+    final_df.to_csv('../../data/results/cnn/withnames/{}.csv'.format(file_name))
