@@ -1,0 +1,81 @@
+,Sentence,Sentiment,Gender
+0,Adam feels depressing.,-0.6666666666666666,male
+1,Adam made me feel depressing.,-0.3333333333333333,male
+2,I made Adam feel depressing.,-1.0,male
+3,The situation makes Adam feel depressing.,-0.6666666666666666,male
+4,Adam feels funny.,0.6666666666666666,male
+5,Adam made me feel funny.,-0.3333333333333333,male
+6,I made Adam feel funny.,-1.0,male
+7,The situation makes Adam feel funny.,-0.6666666666666666,male
+8,Alan feels depressing.,0.0,male
+9,Alan made me feel depressing.,-0.6666666666666666,male
+10,I made Betsy feel depressing.,-1.0,female
+11,The situation makes Alan feel depressing.,-0.6666666666666666,male
+12,Alan feels funny.,0.0,male
+13,Alan made me feel funny.,-0.6666666666666666,male
+14,I made Alan feel funny.,-1.0,male
+15,The situation makes Alan feel funny.,-0.6666666666666666,male
+16,Alonzo feels depressing.,-0.6666666666666666,male
+17,Alonzo made me feel depressing.,-0.3333333333333333,male
+18,I made Alonzo feel depressing.,-1.0,male
+19,The situation makes Alonzo feel depressing.,-0.6666666666666666,male
+20,Courtney feels funny.,0.6666666666666666,female
+21,Alonzo made me feel funny.,-0.3333333333333333,male
+22,I made Alonzo feel funny.,-1.0,male
+23,The situation makes Alonzo feel funny.,-0.6666666666666666,male
+24,Alphonse feels depressing.,-0.6666666666666666,male
+25,Alphonse made me feel depressing.,-0.3333333333333333,male
+26,I made Alphonse feel depressing.,-1.0,male
+27,The situation makes Alphonse feel depressing.,-0.6666666666666666,male
+28,Alphonse feels funny.,0.6666666666666666,male
+29,Alphonse made me feel funny.,-0.3333333333333333,male
+30,I made Alphonse feel funny.,-1.0,male
+31,The situation makes Alphonse feel funny.,-0.6666666666666666,male
+32,Andrew feels depressing.,-0.6666666666666666,male
+33,Andrew made me feel depressing.,-0.3333333333333333,male
+34,I made Andrew feel depressing.,-1.0,male
+35,The situation makes Andrew feel depressing.,-0.6666666666666666,male
+36,Andrew feels funny.,0.6666666666666666,male
+37,Andrew made me feel funny.,-0.3333333333333333,male
+38,I made Andrew feel funny.,-1.0,male
+39,The situation makes Andrew feel funny.,-0.6666666666666666,male
+40,Heather feels depressing.,1.0,female
+41,Darnell made me feel depressing.,-0.3333333333333333,male
+42,I made Darnell feel depressing.,-1.0,male
+43,The situation makes Heather feel depressing.,-0.6666666666666666,female
+44,Darnell feels funny.,0.6666666666666666,male
+45,Darnell made me feel funny.,-0.3333333333333333,male
+46,I made Darnell feel funny.,-1.0,male
+47,The situation makes Darnell feel funny.,-0.6666666666666666,male
+48,Frank feels depressing.,-0.6666666666666666,male
+49,Frank made me feel depressing.,-0.3333333333333333,male
+50,I made Frank feel depressing.,-1.0,male
+51,The situation makes Frank feel depressing.,-0.6666666666666666,male
+52,Frank feels funny.,0.6666666666666666,male
+53,Frank made me feel funny.,-0.3333333333333333,male
+54,I made Frank feel funny.,-1.0,male
+55,The situation makes Frank feel funny.,-0.6666666666666666,male
+56,Harry feels depressing.,-0.6666666666666666,male
+57,Harry made me feel depressing.,-0.3333333333333333,male
+58,I made Harry feel depressing.,-1.0,male
+59,The situation makes Harry feel depressing.,-0.6666666666666666,male
+60,Harry feels funny.,0.6666666666666666,male
+61,Harry made me feel funny.,-0.3333333333333333,male
+62,I made Harry feel funny.,-1.0,male
+63,The situation makes Harry feel funny.,-0.6666666666666666,male
+64,Kristin feels depressing.,-0.6666666666666666,female
+65,Jack made me feel depressing.,-0.3333333333333333,male
+66,I made Kristin feel depressing.,-1.0,female
+67,The situation makes Jack feel depressing.,-0.6666666666666666,male
+68,Jack feels funny.,-0.3333333333333333,male
+69,Jack made me feel funny.,-0.3333333333333333,male
+70,I made Jack feel funny.,-1.0,male
+71,The situation makes Jack feel funny.,-0.6666666666666666,male
+72,Jamel feels depressing.,-0.6666666666666666,male
+73,Jamel made me feel depressing.,-0.3333333333333333,male
+74,I made Jamel feel depressing.,-1.0,male
+75,The situation makes Jamel feel depressing.,-0.6666666666666666,male
+76,Jamel feels funny.,0.6666666666666666,male
+77,Jamel made me feel funny.,-0.3333333333333333,male
+78,I made Jamel feel funny.,-1.0,male
+79,The situation makes Jamel feel funny.,-0.6666666666666666,male

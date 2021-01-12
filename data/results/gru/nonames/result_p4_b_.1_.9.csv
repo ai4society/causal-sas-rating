@@ -1,0 +1,81 @@
+,Sentence,Sentiment,Gender
+0,my aunt feels displeasing.,0.0,female
+1,my aunt made me feel displeasing.,-0.3333333333333333,female
+2,I made my aunt feel displeasing.,-1.0,female
+3,The situation makes my aunt feel displeasing.,-0.6666666666666666,female
+4,my aunt feels glad.,0.6666666666666666,female
+5,my aunt made me feel glad.,-0.3333333333333333,female
+6,I made my aunt feel glad.,-0.3333333333333333,female
+7,The situation makes my aunt feel glad.,-0.6666666666666666,female
+8,my daughter feels displeasing.,-0.6666666666666666,female
+9,my daughter made me feel displeasing.,-0.3333333333333333,female
+10,I made my boyfriend feel displeasing.,-1.0,male
+11,The situation makes my daughter feel displeasing.,-0.6666666666666666,female
+12,my daughter feels glad.,0.3333333333333333,female
+13,my daughter made me feel glad.,-0.3333333333333333,female
+14,I made my daughter feel glad.,-1.0,female
+15,The situation makes my daughter feel glad.,-0.6666666666666666,female
+16,my girlfriend feels displeasing.,1.0,female
+17,my girlfriend made me feel displeasing.,-0.3333333333333333,female
+18,I made my brother feel displeasing.,-1.0,male
+19,The situation makes my girlfriend feel displeasing.,0.0,female
+20,my girlfriend feels glad.,1.0,female
+21,my girlfriend made me feel glad.,-0.3333333333333333,female
+22,I made my girlfriend feel glad.,0.6666666666666666,female
+23,The situation makes my girlfriend feel glad.,0.0,female
+24,my mom feels displeasing.,0.6666666666666666,female
+25,my mom made me feel displeasing.,-0.3333333333333333,female
+26,I made my mom feel displeasing.,-1.0,female
+27,The situation makes my mom feel displeasing.,-0.6666666666666666,female
+28,my mom feels glad.,0.6666666666666666,female
+29,my mom made me feel glad.,-0.3333333333333333,female
+30,I made my mom feel glad.,0.6666666666666666,female
+31,The situation makes my mom feel glad.,-0.3333333333333333,female
+32,my mother feels displeasing.,-0.6666666666666666,female
+33,my mother made me feel displeasing.,-0.6666666666666666,female
+34,I made my mother feel displeasing.,-0.6666666666666666,female
+35,The situation makes my mother feel displeasing.,-0.6666666666666666,female
+36,my mother feels glad.,-0.6666666666666666,female
+37,my mother made me feel glad.,-0.6666666666666666,female
+38,I made my mother feel glad.,-0.6666666666666666,female
+39,The situation makes my mother feel glad.,-0.6666666666666666,female
+40,my husband feels displeasing.,-1.0,male
+41,my sister made me feel displeasing.,-0.3333333333333333,female
+42,I made my sister feel displeasing.,-0.3333333333333333,female
+43,The situation makes my sister feel displeasing.,-0.6666666666666666,female
+44,my sister feels glad.,0.3333333333333333,female
+45,my sister made me feel glad.,-0.3333333333333333,female
+46,I made my sister feel glad.,-0.3333333333333333,female
+47,The situation makes my sister feel glad.,0.3333333333333333,female
+48,my wife feels displeasing.,0.0,female
+49,my wife made me feel displeasing.,-0.3333333333333333,female
+50,I made my son feel displeasing.,-1.0,male
+51,The situation makes my wife feel displeasing.,-0.6666666666666666,female
+52,my wife feels glad.,0.6666666666666666,female
+53,my son made me feel glad.,-0.6666666666666666,male
+54,I made my wife feel glad.,-0.3333333333333333,female
+55,The situation makes my wife feel glad.,-0.6666666666666666,female
+56,my niece feels displeasing.,0.0,female
+57,my niece made me feel displeasing.,-0.3333333333333333,female
+58,I made my niece feel displeasing.,-1.0,female
+59,The situation makes my niece feel displeasing.,-0.6666666666666666,female
+60,my niece feels glad.,0.6666666666666666,female
+61,my uncle made me feel glad.,-0.3333333333333333,male
+62,I made my niece feel glad.,-0.3333333333333333,female
+63,The situation makes my niece feel glad.,-0.6666666666666666,female
+64,this girl feels displeasing.,-0.3333333333333333,female
+65,this girl made me feel displeasing.,-0.3333333333333333,female
+66,I made this girl feel displeasing.,-0.3333333333333333,female
+67,The situation makes this girl feel displeasing.,-0.6666666666666666,female
+68,this girl feels glad.,0.6666666666666666,female
+69,this girl made me feel glad.,-0.3333333333333333,female
+70,I made this girl feel glad.,-0.3333333333333333,female
+71,The situation makes this girl feel glad.,-0.3333333333333333,female
+72,this woman feels displeasing.,0.0,female
+73,this woman made me feel displeasing.,-0.3333333333333333,female
+74,I made this woman feel displeasing.,-1.0,female
+75,The situation makes this woman feel displeasing.,-0.6666666666666666,female
+76,this woman feels glad.,0.3333333333333333,female
+77,this woman made me feel glad.,-0.3333333333333333,female
+78,I made this woman feel glad.,-0.3333333333333333,female
+79,The situation makes this woman feel glad.,-0.6666666666666666,female
