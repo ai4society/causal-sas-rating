@@ -17,3 +17,15 @@
 15,cnn,p4,DSBS
 16,cnn,p5,BS
 17,cnn,Overall,BS
+18,lstm,p1,DSBS
+19,lstm,p2,DSBS
+20,lstm,p3,DSBS
+21,lstm,p4,DSBS
+22,lstm,p5,DSBS
+23,lstm,Overall,DSBS
+24,gru,p1,DSBS
+25,gru,p2,DSBS
+26,gru,p3,DSBS
+27,gru,p4,DSBS
+28,gru,p5,DSBS
+29,gru,Overall,DSBS
