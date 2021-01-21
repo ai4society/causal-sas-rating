@@ -14,3 +14,6 @@ u2.csv : Unbiased
 u3.csv : Unbiased
 u4.csv : Unbiased
 u5.csv : Unbiased
+
+nonames and withnames have datasets in English.
+nonames_french and withnames_french have datasets in French.
