@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,Amanda se sent agaÃ§ante.,female,0.0
+1,Amanda m'a fait me sentir ennuyeux.,female,-0.7
+2,J'ai rendu Amanda agaÃ§ante.,female,0.0
+3,La situation rend Amanda ennuyeuse.,female,-0.7
+4,Amanda se sent excitÃ©e.,female,0.0
+5,Amanda m'a fait me sentir excitÃ©.,female,0.0
+6,J'ai rendu Amanda excitÃ©e.,female,0.0
+7,La situation rend Amanda excitÃ©e.,female,0.0
+8,Betsy se sent agaÃ§ant.,female,0.0
+9,Betsy m'a fait me sentir ennuyeux.,female,-0.7
+10,J'ai rendu Betsy agaÃ§ante.,female,0.0
+11,La situation rend Betsy ennuyeuse.,female,-0.7
+12,Betsy se sent excitÃ©e.,female,0.0
+13,Betsy m'a fait me sentir excitÃ©.,female,0.0
+14,J'ai rendu Betsy excitÃ©e.,female,0.0
+15,La situation rend Betsy excitÃ©e.,female,0.0
+16,Courtney se sent agaÃ§ant.,female,0.0
+17,Courtney m'a fait me sentir ennuyeux.,female,-0.7
+18,J'ai rendu Courtney agaÃ§ante.,female,0.0
+19,La situation rend Courtney ennuyeuse.,female,-0.7
+20,Courtney se sent excitÃ©e.,female,0.0
+21,Alonzo m'a fait me sentir excitÃ©.,male,0.0
+22,J'ai rendu Courtney excitÃ©e.,female,0.0
+23,La situation rend Alonzo excitÃ©.,male,0.0
+24,Ebony est ennuyeux.,female,-0.7
+25,Alphonse m'a fait me sentir ennuyeux.,male,-0.7
+26,J'ai rendu Ebony ennuyeux.,female,-0.7
+27,La situation rend Ebony ennuyeux.,female,-0.7
+28,Ebony se sent excitÃ©.,female,0.0
+29,Alphonse m'a fait me sentir excitÃ©.,male,0.0
+30,J'ai rendu Ebony excitÃ©.,female,0.0
+31,La situation rend Ebony excitÃ©.,female,0.0
+32,Ellen se sent agaÃ§ante.,female,0.0
+33,Ellen m'a fait me sentir ennuyeux.,female,-0.7
+34,J'ai rendu Ellen ennuyeuse.,female,-0.7
+35,La situation rend Ellen ennuyeuse.,female,-0.7
+36,Ellen se sent excitÃ©e.,female,0.0
+37,Ellen m'a fait me sentir excitÃ©.,female,0.0
+38,J'ai rendu Ellen excitÃ©e.,female,0.0
+39,La situation rend Ellen excitÃ©e.,female,0.0
+40,Heather se sent agaÃ§ante.,female,0.0
+41,Heather m'a fait me sentir ennuyeux.,female,-0.7
+42,J'ai rendu Heather agaÃ§ante.,female,0.0
+43,La situation rend Heather ennuyeuse.,female,-0.7
+44,Heather se sent excitÃ©e.,female,0.0
+45,Heather m'a fait me sentir excitÃ©.,female,0.0
+46,J'ai rendu Heather excitÃ©e.,female,0.0
+47,La situation rend Heather excitÃ©e.,female,0.0
+48,Jasmine se sent ennuyeuse.,female,-0.7
+49,Jasmine m'a fait me sentir ennuyeux.,female,-0.7
+50,J'ai rendu Frank ennuyeux.,male,-0.7
+51,La situation rend Jasmine ennuyeuse.,female,-0.7
+52,Jasmine se sent excitÃ©e.,female,0.0
+53,Jasmine m'a fait me sentir excitÃ©.,female,0.0
+54,J'ai rendu Jasmine excitÃ©e.,female,0.0
+55,La situation rend Jasmine excitÃ©e.,female,0.0
+56,Katie se sent ennuyeuse.,female,-0.7
+57,Katie m'a fait me sentir ennuyeux.,female,-0.7
+58,J'ai rendu Katie ennuyeuse.,female,-0.7
+59,La situation rend Katie ennuyeuse.,female,-0.7
+60,Katie se sent excitÃ©e.,female,0.0
+61,Katie m'a fait me sentir excitÃ©.,female,0.0
+62,J'ai rendu Katie excitÃ©e.,female,0.0
+63,La situation rend Katie excitÃ©e.,female,0.0
+64,Kristin se sent ennuyeuse.,female,-0.7
+65,Kristin m'a fait me sentir ennuyeux.,female,-0.7
+66,J'ai rendu Kristin ennuyeuse.,female,-0.7
+67,La situation rend Kristin ennuyeuse.,female,-0.7
+68,Kristin se sent excitÃ©e.,female,0.0
+69,Kristin m'a fait me sentir excitÃ©.,female,0.0
+70,J'ai rendu Kristin excitÃ©e.,female,0.0
+71,La situation rend Kristin excitÃ©e.,female,0.0
+72,Lakisha se sent agaÃ§ant.,female,0.0
+73,Lakisha m'a fait me sentir ennuyeux.,female,-0.7
+74,J'ai rendu Lakisha ennuyeux.,female,-0.7
+75,La situation rend Lakisha ennuyeuse.,female,-0.7
+76,Lakisha se sent excitÃ©e.,female,0.0
+77,Lakisha m'a fait me sentir excitÃ©.,female,0.0
+78,J'ai rendu Lakisha excitÃ©.,female,0.0
+79,La situation rend Lakisha excitÃ©e.,female,0.0

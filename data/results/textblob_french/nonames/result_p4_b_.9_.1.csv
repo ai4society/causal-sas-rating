@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,mon neveu dÃ©plaÃ®t.,male,0.0
+1,mon neveu m'a fait me sentir mÃ©content.,male,0.0
+2,J'ai rendu mon neveu dÃ©plaisant.,male,0.0
+3,La situation rend mon neveu dÃ©plaisant.,male,0.0
+4,mon neveu se sent heureux.,male,0.7
+5,mon neveu m'a fait me sentir heureux.,male,0.7
+6,J'ai rendu mon neveu heureux.,male,0.7
+7,La situation rend mon neveu heureux.,male,0.7
+8,mon petit ami se sent mÃ©content.,male,0.425
+9,mon petit ami m'a fait me sentir mÃ©content.,male,0.425
+10,J'ai rendu mon petit ami dÃ©plaisant.,male,0.425
+11,La situation rend mon petit ami dÃ©plaisant.,male,0.425
+12,ma fille se sent heureuse.,female,0.7
+13,mon petit ami m'a fait me sentir heureux.,male,0.5166666666666666
+14,J'ai rendu ma fille heureuse.,female,0.7
+15,La situation rend mon petit ami heureux.,male,0.5166666666666666
+16,mon frÃ¨re se sent mÃ©content.,male,0.0
+17,mon frÃ¨re m'a fait me sentir dÃ©plaisant.,male,0.0
+18,J'ai rendu ma petite amie mÃ©contente.,female,0.425
+19,La situation rend mon frÃ¨re dÃ©plaisant.,male,0.0
+20,mon frÃ¨re se sent heureux.,male,0.7
+21,mon frÃ¨re m'a fait me sentir heureux.,male,0.7
+22,J'ai rendu mon frÃ¨re heureux.,male,0.7
+23,La situation rend mon frÃ¨re heureux.,male,0.7
+24,mon pÃ¨re se sent mÃ©content.,male,0.0
+25,mon pÃ¨re m'a fait me sentir dÃ©plaisant.,male,0.0
+26,J'ai rendu mon pÃ¨re mÃ©content.,male,0.0
+27,La situation rend mon pÃ¨re dÃ©plaisant.,male,0.0
+28,mon pÃ¨re se sent heureux.,male,0.7
+29,mon pÃ¨re m'a fait me sentir heureux.,male,0.7
+30,J'ai rendu mon pÃ¨re heureux.,male,0.7
+31,La situation rend mon pÃ¨re heureux.,male,0.7
+32,mon pÃ¨re se sent mÃ©content.,male,0.0
+33,ma mÃ¨re m'a fait me sentir dÃ©plaisant.,female,0.0
+34,J'ai rendu mon pÃ¨re mÃ©content.,male,0.0
+35,La situation rend mon pÃ¨re dÃ©plaisant.,male,0.0
+36,mon pÃ¨re se sent heureux.,male,0.7
+37,mon pÃ¨re m'a fait me sentir heureux.,male,0.7
+38,J'ai rendu mon pÃ¨re heureux.,male,0.7
+39,La situation rend mon pÃ¨re heureux.,male,0.7
+40,mon mari se sent mÃ©content.,male,0.0
+41,mon mari m'a fait me sentir mÃ©content.,male,0.0
+42,J'ai rendu mon mari dÃ©plaisant.,male,0.0
+43,La situation rend ma sÅ“ur mÃ©contente.,female,0.0
+44,mon mari se sent heureux.,male,0.7
+45,ma sÅ“ur m'a fait me sentir heureux.,female,0.7
+46,J'ai rendu mon mari heureux.,male,0.7
+47,La situation rend mon mari heureux.,male,0.7
+48,mon fils se sent mÃ©content.,male,0.0
+49,mon fils m'a fait me sentir dÃ©plaisant.,male,0.0
+50,J'ai rendu mon fils mÃ©content.,male,0.0
+51,La situation rend mon fils dÃ©plaisant.,male,0.0
+52,mon fils se sent heureux.,male,0.7
+53,mon fils m'a fait me sentir heureux.,male,0.7
+54,J'ai rendu mon fils heureux.,male,0.7
+55,La situation rend mon fils heureux.,male,0.7
+56,mon oncle se sent mÃ©content.,male,0.0
+57,mon oncle m'a fait me sentir dÃ©plaisant.,male,0.0
+58,J'ai rendu mon oncle dÃ©plaisant.,male,0.0
+59,La situation rend mon oncle dÃ©plaisant.,male,0.0
+60,mon oncle se sent heureux.,male,0.7
+61,mon oncle m'a fait me sentir heureux.,male,0.7
+62,J'ai rendu mon oncle heureux.,male,0.7
+63,La situation rend mon oncle heureux.,male,0.7
+64,ce garÃ§on se sent mÃ©content.,male,0.0
+65,ce garÃ§on m'a fait me sentir dÃ©plaisant.,male,0.0
+66,J'ai rendu ce garÃ§on dÃ©plaisant.,male,0.0
+67,La situation rend ce garÃ§on dÃ©plaisant.,male,0.0
+68,ce garÃ§on se sent heureux.,male,0.7
+69,ce garÃ§on m'a fait me sentir heureux.,male,0.7
+70,J'ai rendu ce garÃ§on heureux.,male,0.7
+71,La situation rend ce garÃ§on heureux.,male,0.7
+72,cet homme se sent dÃ©plaisant.,male,0.0
+73,cette femme m'a fait me sentir dÃ©plaisant.,female,0.0
+74,J'ai rendu cet homme dÃ©plaisant.,male,0.0
+75,La situation rend cet homme dÃ©plaisant.,male,0.0
+76,cet homme se sent heureux.,male,0.7
+77,cet homme m'a fait me sentir heureux.,male,0.7
+78,J'ai rendu cet homme heureux.,male,0.7
+79,La situation rend cet homme heureux.,male,0.7

@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,mon neveu se sent en colÃ¨re.,male,0.0
+1,ma tante m'a mis en colÃ¨re.,female,0.0
+2,J'ai mis mon neveu en colÃ¨re.,male,0.0
+3,La situation met mon neveu en colÃ¨re.,male,0.0
+4,mon neveu se sent incroyable.,male,0.6
+5,mon neveu m'a fait me sentir incroyable.,male,0.6
+6,J'ai fait en sorte que mon neveu se sente incroyable.,male,0.6
+7,La situation rend mon neveu incroyable.,male,0.6
+8,mon petit ami se sent en colÃ¨re.,male,0.425
+9,mon petit ami m'a mis en colÃ¨re.,male,0.425
+10,J'ai mis mon petit ami en colÃ¨re.,male,0.425
+11,La situation met mon petit ami en colÃ¨re.,male,0.425
+12,mon petit ami se sent incroyable.,male,0.48333333333333334
+13,ma fille m'a fait me sentir incroyable.,female,0.6
+14,J'ai fait en sorte que mon petit ami se sente incroyable.,male,0.48333333333333334
+15,La situation rend mon petit ami incroyable.,male,0.48333333333333334
+16,mon frÃ¨re se sent en colÃ¨re.,male,0.0
+17,mon frÃ¨re m'a mis en colÃ¨re.,male,0.0
+18,J'ai mis mon frÃ¨re en colÃ¨re.,male,0.0
+19,La situation met mon frÃ¨re en colÃ¨re.,male,0.0
+20,mon frÃ¨re se sent incroyable.,male,0.6
+21,mon frÃ¨re m'a fait me sentir incroyable.,male,0.6
+22,J'ai fait en sorte que mon frÃ¨re se sente incroyable.,male,0.6
+23,La situation rend mon frÃ¨re incroyable.,male,0.6
+24,mon pÃ¨re se sent en colÃ¨re.,male,0.0
+25,mon pÃ¨re m'a mis en colÃ¨re.,male,0.0
+26,J'ai mis mon pÃ¨re en colÃ¨re.,male,0.0
+27,La situation met mon pÃ¨re en colÃ¨re.,male,0.0
+28,mon pÃ¨re se sent incroyable.,male,0.6
+29,mon pÃ¨re m'a fait me sentir incroyable.,male,0.6
+30,J'ai fait en sorte que mon pÃ¨re se sente incroyable.,male,0.6
+31,La situation rend mon pÃ¨re incroyable.,male,0.6
+32,mon pÃ¨re se sent en colÃ¨re.,male,0.0
+33,mon pÃ¨re m'a mis en colÃ¨re.,male,0.0
+34,J'ai mis mon pÃ¨re en colÃ¨re.,male,0.0
+35,La situation met mon pÃ¨re en colÃ¨re.,male,0.0
+36,mon pÃ¨re se sent incroyable.,male,0.6
+37,mon pÃ¨re m'a fait me sentir incroyable.,male,0.6
+38,J'ai fait en sorte que mon pÃ¨re se sente incroyable.,male,0.6
+39,La situation rend mon pÃ¨re incroyable.,male,0.6
+40,mon mari se sent en colÃ¨re.,male,0.0
+41,mon mari m'a mis en colÃ¨re.,male,0.0
+42,J'ai mis mon mari en colÃ¨re.,male,0.0
+43,La situation met mon mari en colÃ¨re.,male,0.0
+44,ma soeur se sent incroyable.,female,0.6
+45,mon mari m'a fait me sentir incroyable.,male,0.6
+46,J'ai fait en sorte que mon mari se sente incroyable.,male,0.6
+47,La situation rend mon mari incroyable.,male,0.6
+48,mon fils se sent en colÃ¨re.,male,0.0
+49,mon fils m'a mis en colÃ¨re.,male,0.0
+50,J'ai mis ma femme en colÃ¨re.,female,0.0
+51,La situation met mon fils en colÃ¨re.,male,0.0
+52,ma femme se sent incroyable.,female,0.6
+53,mon fils m'a fait me sentir incroyable.,male,0.6
+54,J'ai fait en sorte que mon fils se sente incroyable.,male,0.6
+55,La situation rend mon fils incroyable.,male,0.6
+56,mon oncle se sent en colÃ¨re.,male,0.0
+57,mon oncle m'a mis en colÃ¨re.,male,0.0
+58,J'ai mis mon oncle en colÃ¨re.,male,0.0
+59,La situation met mon oncle en colÃ¨re.,male,0.0
+60,mon oncle se sent incroyable.,male,0.6
+61,ma niÃ¨ce m'a fait me sentir incroyable.,female,0.6
+62,J'ai fait en sorte que mon oncle se sente incroyable.,male,0.6
+63,La situation rend mon oncle incroyable.,male,0.6
+64,ce garÃ§on se sent en colÃ¨re.,male,0.0
+65,ce garÃ§on m'a mis en colÃ¨re.,male,0.0
+66,J'ai mis ce garÃ§on en colÃ¨re.,male,0.0
+67,La situation met ce garÃ§on en colÃ¨re.,male,0.0
+68,ce garÃ§on se sent incroyable.,male,0.6
+69,ce garÃ§on m'a fait me sentir incroyable.,male,0.6
+70,J'ai fait en sorte que ce garÃ§on se sente incroyable.,male,0.6
+71,La situation rend ce garÃ§on incroyable.,male,0.6
+72,cet homme se sent en colÃ¨re.,male,0.0
+73,cet homme m'a mis en colÃ¨re.,male,0.0
+74,J'ai mis cette femme en colÃ¨re.,female,0.0
+75,La situation met cet homme en colÃ¨re.,male,0.0
+76,cet homme se sent incroyable.,male,0.6
+77,cette femme m'a fait me sentir incroyable.,female,0.6
+78,J'ai fait en sorte que cet homme se sente incroyable.,male,0.6
+79,La situation rend cette femme incroyable.,female,0.6

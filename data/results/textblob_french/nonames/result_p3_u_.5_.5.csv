@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,mon neveu se sent dÃ©primant.,male,0.0
+1,mon neveu m'a fait me sentir dÃ©primÃ©.,male,0.0
+2,J'ai rendu ma tante dÃ©primante.,female,0.0
+3,La situation rend ma tante dÃ©primante.,female,0.0
+4,mon neveu se sent drÃ´le.,male,0.0
+5,mon neveu m'a fait me sentir drÃ´le.,male,0.0
+6,J'ai fait en sorte que ma tante se sente drÃ´le.,female,0.0
+7,La situation rend mon neveu drÃ´le.,male,0.0
+8,mon petit ami se sent dÃ©primant.,male,0.425
+9,ma fille m'a fait me sentir dÃ©primÃ©.,female,0.0
+10,J'ai rendu mon petit ami dÃ©primant.,male,0.425
+11,La situation rend ma fille dÃ©primante.,female,0.0
+12,ma fille se sent drÃ´le.,female,0.0
+13,ma fille m'a fait me sentir drÃ´le.,female,0.0
+14,J'ai fait en sorte que ma fille se sente drÃ´le.,female,0.0
+15,La situation rend mon petit ami drÃ´le.,male,0.425
+16,ma copine se sent dÃ©primante.,female,0.0
+17,ma copine m'a fait me sentir dÃ©primant.,female,0.0
+18,J'ai rendu mon frÃ¨re dÃ©primant.,male,0.0
+19,La situation rend ma copine dÃ©primante.,female,0.0
+20,ma copine se sent drÃ´le.,female,0.0
+21,ma copine m'a fait me sentir drÃ´le.,female,0.0
+22,J'ai fait en sorte que mon frÃ¨re se sente drÃ´le.,male,0.0
+23,La situation rend mon frÃ¨re drÃ´le.,male,0.0
+24,ma mÃ¨re se sent dÃ©primante.,female,0.0
+25,ma mÃ¨re m'a fait me sentir dÃ©primÃ©.,female,0.0
+26,J'ai rendu ma mÃ¨re dÃ©primante.,female,0.0
+27,La situation rend ma mÃ¨re dÃ©primante.,female,0.0
+28,mon pÃ¨re se sent drÃ´le.,male,0.0
+29,ma mÃ¨re m'a fait me sentir drÃ´le.,female,0.0
+30,J'ai fait en sorte que ma mÃ¨re se sente drÃ´le.,female,0.0
+31,La situation rend mon pÃ¨re drÃ´le.,male,0.0
+32,ma mÃ¨re se sent dÃ©primante.,female,0.0
+33,ma mÃ¨re m'a fait me sentir dÃ©primÃ©.,female,0.0
+34,J'ai rendu ma mÃ¨re dÃ©primante.,female,0.0
+35,La situation rend ma mÃ¨re dÃ©primante.,female,0.0
+36,mon pÃ¨re se sent drÃ´le.,male,0.0
+37,ma mÃ¨re m'a fait me sentir drÃ´le.,female,0.0
+38,J'ai rendu ma mÃ¨re drÃ´le.,female,0.0
+39,La situation rend ma mÃ¨re drÃ´le.,female,0.0
+40,ma sÅ“ur se sent dÃ©primante.,female,0.0
+41,ma sÅ“ur m'a fait me sentir dÃ©primÃ©.,female,0.0
+42,J'ai rendu ma sÅ“ur dÃ©primante.,female,0.0
+43,La situation rend mon mari dÃ©primant.,male,0.0
+44,ma soeur se sent drÃ´le.,female,0.0
+45,mon mari m'a fait me sentir drÃ´le.,male,0.0
+46,J'ai fait en sorte que ma sÅ“ur se sente drÃ´le.,female,0.0
+47,La situation rend mon mari drÃ´le.,male,0.0
+48,mon fils se sent dÃ©primant.,male,0.0
+49,ma femme m'a fait me sentir dÃ©primÃ©.,female,0.0
+50,J'ai rendu mon fils dÃ©primant.,male,0.0
+51,La situation rend ma femme dÃ©primante.,female,0.0
+52,mon fils se sent drÃ´le.,male,0.0
+53,ma femme m'a fait me sentir drÃ´le.,female,0.0
+54,J'ai fait en sorte que mon fils se sente drÃ´le.,male,0.0
+55,La situation rend mon fils drÃ´le.,male,0.0
+56,ma niÃ¨ce se sent dÃ©primante.,female,0.0
+57,mon oncle m'a fait me sentir dÃ©primÃ©.,male,0.0
+58,J'ai rendu mon oncle dÃ©primant.,male,0.0
+59,La situation rend mon oncle dÃ©primant.,male,0.0
+60,ma niÃ¨ce se sent drÃ´le.,female,0.0
+61,mon oncle m'a fait me sentir drÃ´le.,male,0.0
+62,J'ai fait en sorte que ma niÃ¨ce se sente drÃ´le.,female,0.0
+63,La situation rend mon oncle drÃ´le.,male,0.0
+64,ce garÃ§on se sent dÃ©primant.,male,0.0
+65,cette fille m'a fait me sentir dÃ©primant.,female,0.0
+66,J'ai rendu cette fille dÃ©primante.,female,0.0
+67,La situation rend cette fille dÃ©primante.,female,0.0
+68,ce garÃ§on se sent drÃ´le.,male,0.0
+69,cette fille m'a fait me sentir drÃ´le.,female,0.0
+70,J'ai fait en sorte que ce garÃ§on se sente drÃ´le.,male,0.0
+71,La situation rend ce garÃ§on drÃ´le.,male,0.0
+72,cet homme se sent dÃ©primant.,male,0.0
+73,cet homme m'a fait me sentir dÃ©primant.,male,0.0
+74,J'ai rendu cet homme dÃ©primant.,male,0.0
+75,La situation rend cet homme dÃ©primant.,male,0.0
+76,cette femme se sent drÃ´le.,female,0.0
+77,cette femme m'a fait me sentir drÃ´le.,female,0.0
+78,J'ai fait en sorte que cet homme se sente drÃ´le.,male,0.0
+79,La situation rend cet homme drÃ´le.,male,0.0

@@ -3,6 +3,7 @@ from Vader import vader
 from CNNforNLP import cnn
 from LSTM import ClassificationLSTM
 from GRU import ClassificationGRU
+from TextBlob_French import test
 import argparse
 
 
@@ -48,10 +49,18 @@ def run_gru():
         ClassificationGRU.gru_sentiment_name("../../data/data-generated/withnames/bm{}.csv".format(i),"result_p{}_b_.9_.1".format(i))
     print("Results from GRU have been generated at:  '../../data/results/lstm/withnames/'")
 
+def run_blob_french():
+    for i in range(1,6):
+        print("Generating TextBlob French set {}/5...".format(i))
+        test.textblobsentiment_french_name("../../data/data-generated/withnames_french/u{}_fr.csv".format(i),"result_p{}_u_.5_.5".format(i))
+        test.textblobsentiment_french_name("../../data/data-generated/withnames_french/bf{}_fr.csv".format(i),"result_p{}_b_.1_.9".format(i))
+        test.textblobsentiment_french_name("../../data/data-generated/withnames_french/bm{}_fr.csv".format(i),"result_p{}_b_.9_.1".format(i))
+    print("Results from TextBlob have been generated at:  '../../data/results/textblob_french/withnames/'")
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--model',required = True, help="Either of these sentiment analyzers: textblob, vader, cnn, lstm or gru")
+    parser.add_argument('--model',required = True, help="Either of these sentiment analyzers: textblob, vader, cnn, lstm, gru or textblob_french")
     args = parser.parse_args()
 
     if args.model == "vader":
@@ -64,3 +73,5 @@ if __name__ == "__main__":
         run_lstm()
     if args.model == "gru":
         run_gru()
+    if args.model == "textblob_french":
+        run_blob_french()

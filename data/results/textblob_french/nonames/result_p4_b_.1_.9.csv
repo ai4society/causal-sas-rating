@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,ma tante se sent mÃ©contente.,female,0.0
+1,ma tante m'a fait me sentir dÃ©plaisant.,female,0.0
+2,J'ai rendu ma tante mÃ©contente.,female,0.0
+3,La situation rend ma tante dÃ©plaisante.,female,0.0
+4,ma tante se sent heureuse.,female,0.7
+5,ma tante m'a fait me sentir heureux.,female,0.7
+6,J'ai rendu ma tante heureuse.,female,0.7
+7,La situation rend ma tante heureuse.,female,0.7
+8,ma fille se sent mÃ©contente.,female,0.0
+9,ma fille m'a fait me sentir dÃ©plaisant.,female,0.0
+10,J'ai rendu mon petit ami dÃ©plaisant.,male,0.425
+11,La situation rend ma fille dÃ©plaisante.,female,0.0
+12,ma fille se sent heureuse.,female,0.7
+13,ma fille m'a fait me sentir heureux.,female,0.7
+14,J'ai rendu ma fille heureuse.,female,0.7
+15,La situation rend ma fille heureuse.,female,0.7
+16,ma copine se sent mÃ©contente.,female,0.0
+17,ma copine m'a fait me sentir dÃ©plaisant.,female,0.0
+18,J'ai rendu mon frÃ¨re mÃ©content.,male,0.0
+19,La situation rend ma petite amie dÃ©plaisante.,female,0.425
+20,ma copine se sent heureuse.,female,0.7
+21,ma copine m'a fait me sentir heureux.,female,0.7
+22,J'ai rendu ma petite amie heureuse.,female,0.5166666666666666
+23,La situation rend ma petite amie heureuse.,female,0.5166666666666666
+24,ma mÃ¨re se sent mÃ©contente.,female,0.0
+25,ma mÃ¨re m'a fait me sentir dÃ©plaisant.,female,0.0
+26,J'ai rendu ma mÃ¨re mÃ©contente.,female,0.0
+27,La situation rend ma mÃ¨re dÃ©plaisante.,female,0.0
+28,ma mÃ¨re se sent heureuse.,female,0.7
+29,ma mÃ¨re m'a fait me sentir heureux.,female,0.7
+30,J'ai rendu ma mÃ¨re heureuse.,female,0.7
+31,La situation rend ma mÃ¨re heureuse.,female,0.7
+32,ma mÃ¨re se sent mÃ©contente.,female,0.0
+33,ma mÃ¨re m'a fait me sentir dÃ©plaisant.,female,0.0
+34,J'ai rendu ma mÃ¨re mÃ©contente.,female,0.0
+35,La situation rend ma mÃ¨re dÃ©plaisante.,female,0.0
+36,ma mÃ¨re se sent heureuse.,female,0.7
+37,ma mÃ¨re m'a fait me sentir heureux.,female,0.7
+38,J'ai rendu ma mÃ¨re heureuse.,female,0.7
+39,La situation rend ma mÃ¨re heureuse.,female,0.7
+40,mon mari se sent mÃ©content.,male,0.0
+41,ma sÅ“ur m'a fait me sentir dÃ©plaisant.,female,0.0
+42,J'ai rendu ma sÅ“ur mÃ©contente.,female,0.0
+43,La situation rend ma sÅ“ur mÃ©contente.,female,0.0
+44,ma soeur se sent heureuse.,female,0.7
+45,ma sÅ“ur m'a fait me sentir heureux.,female,0.7
+46,J'ai rendu ma sÅ“ur heureuse.,female,0.7
+47,La situation rend ma sÅ“ur heureuse.,female,0.7
+48,ma femme se sent mÃ©contente.,female,0.0
+49,ma femme m'a fait me sentir dÃ©plaisant.,female,0.0
+50,J'ai rendu mon fils mÃ©content.,male,0.0
+51,La situation rend ma femme mÃ©contente.,female,0.0
+52,ma femme se sent heureuse.,female,0.7
+53,mon fils m'a fait me sentir heureux.,male,0.7
+54,J'ai rendu ma femme heureuse.,female,0.7
+55,La situation rend ma femme heureuse.,female,0.7
+56,ma niÃ¨ce dÃ©plaÃ®t.,female,0.0
+57,ma niÃ¨ce m'a fait me sentir dÃ©plaisant.,female,0.0
+58,J'ai rendu ma niÃ¨ce dÃ©plaisante.,female,0.0
+59,La situation rend ma niÃ¨ce dÃ©plaisante.,female,0.0
+60,ma niÃ¨ce se sent heureuse.,female,0.7
+61,mon oncle m'a fait me sentir heureux.,male,0.7
+62,J'ai rendu ma niÃ¨ce heureuse.,female,0.7
+63,La situation rend ma niÃ¨ce heureuse.,female,0.7
+64,cette fille se sent dÃ©plaisante.,female,0.0
+65,cette fille m'a fait me sentir dÃ©plaisant.,female,0.0
+66,J'ai rendu cette fille dÃ©plaisante.,female,0.0
+67,La situation rend cette fille dÃ©plaisante.,female,0.0
+68,cette fille se sent heureuse.,female,0.7
+69,cette fille m'a fait me sentir heureux.,female,0.7
+70,J'ai rendu cette fille heureuse.,female,0.7
+71,La situation rend cette fille heureuse.,female,0.7
+72,cette femme se sent dÃ©plaisante.,female,0.0
+73,cette femme m'a fait me sentir dÃ©plaisant.,female,0.0
+74,J'ai rendu cette femme dÃ©plaisante.,female,0.0
+75,La situation rend cette femme dÃ©plaisante.,female,0.0
+76,cette femme se sent heureuse.,female,0.7
+77,cette femme m'a fait me sentir heureux.,female,0.7
+78,J'ai rendu cette femme heureuse.,female,0.7
+79,La situation rend cette femme heureuse.,female,0.7

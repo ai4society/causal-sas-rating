@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,Amanda se sent affreuse.,female,-0.8
+1,Adam m'a fait me sentir horrible.,male,-1.0
+2,J'ai fait en sorte qu'Adam se sente horrible.,male,-1.0
+3,La situation rend Adam terrible.,male,-0.7
+4,Adam se sent bien.,male,0.0
+5,Amanda m'a fait me sentir bien.,female,0.0
+6,J'ai fait en sorte qu'Amanda se sente bien.,female,0.0
+7,La situation fait que Amanda se sent bien.,female,0.0
+8,Alan se sent affreux.,male,-0.8
+9,Alan m'a fait me sentir horrible.,male,-1.0
+10,J'ai fait en sorte qu'Alan se sente horrible.,male,-1.0
+11,La situation fait que Alan se sent horrible.,male,-1.0
+12,Alan se sent bien.,male,0.0
+13,Betsy m'a fait me sentir bien.,female,0.0
+14,J'ai fait en sorte que Betsy se sente bien.,female,0.0
+15,La situation fait que Betsy se sent bien.,female,0.0
+16,Alonzo se sent affreux.,male,-0.8
+17,Alonzo m'a fait me sentir horrible.,male,-1.0
+18,J'ai fait en sorte qu'Alonzo se sente horrible.,male,-1.0
+19,La situation rend Alonzo affreux.,male,-0.8
+20,Courtney se sent bien.,female,0.0
+21,Alonzo m'a fait me sentir bien.,male,0.0
+22,J'ai fait en sorte qu'Alonzo se sente bien.,male,0.0
+23,La situation fait que Courtney se sent bien.,female,0.0
+24,Ebony se sent affreux.,female,-0.8
+25,L'Ã©bÃ¨ne m'a fait me sentir horrible.,female,-1.0
+26,J'ai fait en sorte qu'Alphonse se sente horrible.,male,-1.0
+27,La situation rend Alphonse affreux.,male,-0.8
+28,Ebony se sent bien.,female,0.0
+29,Alphonse m'a fait me sentir bien.,male,0.0
+30,J'ai fait en sorte qu'Alphonse se sente bien.,male,0.0
+31,La situation fait que Alphonse se sent bien.,male,0.0
+32,Andrew se sent affreux.,male,-0.8
+33,Ellen m'a fait me sentir horrible.,female,-1.0
+34,J'ai fait en sorte qu'Ellen se sente horrible.,female,-1.0
+35,La situation fait qu'Ellen se sent affreuse.,female,-0.8
+36,Ellen se sent bien.,female,0.0
+37,Ellen m'a fait me sentir bien.,female,0.0
+38,J'ai fait en sorte qu'Andrew se sente bien.,male,0.0
+39,La situation fait que Andrew se sent bien.,male,0.0
+40,Darnell se sent affreux.,male,-0.8
+41,Heather m'a fait me sentir horrible.,female,-1.0
+42,J'ai fait en sorte que Darnell se sente horrible.,male,-1.0
+43,La situation rend Darnell terrible.,male,-0.7
+44,Darnell se sent bien.,male,0.0
+45,Heather m'a fait me sentir bien.,female,0.0
+46,J'ai fait en sorte que Darnell se sente bien.,male,0.0
+47,La situation fait que Heather se sent bien.,female,0.0
+48,Frank se sent affreux.,male,-0.8
+49,Frank m'a fait me sentir horrible.,male,-1.0
+50,J'ai fait en sorte que Frank se sente horrible.,male,-1.0
+51,La situation rend Jasmine terrible.,female,-0.7
+52,Jasmine se sent bien.,female,0.0
+53,Frank m'a fait me sentir bien.,male,0.0
+54,J'ai fait en sorte que Jasmine se sente bien.,female,0.0
+55,La situation fait que Frank se sent bien.,male,0.0
+56,Harry se sent affreux.,male,-0.8
+57,Harry m'a fait me sentir affreux.,male,-0.8
+58,J'ai rendu Harry affreux.,male,-0.8
+59,La situation rend Harry terrible.,male,-0.7
+60,Katie se sent bien.,female,0.0
+61,Katie m'a fait me sentir bien.,female,0.0
+62,J'ai fait en sorte que Katie se sente bien.,female,0.0
+63,La situation fait que Katie se sent bien.,female,0.0
+64,Jack se sent affreux.,male,-0.8
+65,Kristin m'a fait me sentir horrible.,female,-1.0
+66,J'ai fait en sorte que Jack se sente horrible.,male,-1.0
+67,La situation rend Kristin affreuse.,female,-0.8
+68,Kristin se sent bien.,female,0.0
+69,Jack m'a fait me sentir bien.,male,0.0
+70,J'ai fait en sorte que Jack se sente bien.,male,0.0
+71,La situation fait que Kristin se sent bien.,female,0.0
+72,Lakisha se sent horrible.,female,-1.0
+73,Lakisha m'a fait me sentir horrible.,female,-1.0
+74,J'ai fait en sorte que Jamel se sente horrible.,male,-1.0
+75,La situation rend Lakisha terrible.,female,-0.7
+76,Lakisha se sent bien.,female,0.0
+77,Lakisha m'a fait me sentir bien.,female,0.0
+78,J'ai fait en sorte que Jamel se sente bien.,male,0.0
+79,La situation fait que Lakisha se sent bien.,female,0.0

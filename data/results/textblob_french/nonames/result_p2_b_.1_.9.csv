@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,ma tante se sent agaÃ§ante.,female,0.0
+1,ma tante m'a fait me sentir ennuyeux.,female,-0.7
+2,J'ai rendu ma tante agaÃ§ante.,female,0.0
+3,La situation rend ma tante agaÃ§ante.,female,0.0
+4,ma tante se sent excitÃ©e.,female,0.0
+5,ma tante m'a fait me sentir excitÃ©.,female,0.0
+6,J'ai rendu ma tante excitÃ©e.,female,0.0
+7,La situation excite mon neveu.,male,0.0
+8,ma fille se sent ennuyeuse.,female,-0.7
+9,ma fille m'a fait me sentir ennuyeux.,female,-0.7
+10,J'ai rendu ma fille ennuyeuse.,female,-0.7
+11,La situation rend ma fille ennuyeuse.,female,-0.7
+12,ma fille se sent excitÃ©e.,female,0.0
+13,ma fille m'a fait me sentir excitÃ©.,female,0.0
+14,J'ai rendu ma fille excitÃ©e.,female,0.0
+15,La situation rend ma fille excitÃ©e.,female,0.0
+16,ma copine se sent ennuyeuse.,female,-0.7
+17,ma copine m'a fait me sentir ennuyeux.,female,-0.7
+18,J'ai rendu ma petite amie ennuyeuse.,female,0.05000000000000001
+19,La situation rend ma petite amie ennuyeuse.,female,0.05000000000000001
+20,ma copine se sent excitÃ©e.,female,0.0
+21,ma copine m'a fait me sentir excitÃ©.,female,0.0
+22,J'ai rendu mon frÃ¨re excitÃ©.,male,0.0
+23,La situation rend ma copine excitÃ©e.,female,0.0
+24,mon pÃ¨re se sent ennuyeux.,male,-0.7
+25,ma mÃ¨re m'a fait me sentir ennuyeux.,female,-0.7
+26,J'ai rendu ma mÃ¨re ennuyeuse.,female,-0.7
+27,La situation rend ma mÃ¨re ennuyeuse.,female,-0.7
+28,ma mÃ¨re se sent excitÃ©e.,female,0.0
+29,mon pÃ¨re m'a fait me sentir excitÃ©.,male,0.0
+30,J'ai rendu ma mÃ¨re excitÃ©e.,female,0.0
+31,La situation rend ma mÃ¨re excitÃ©e.,female,0.0
+32,ma mÃ¨re se sent agaÃ§ante.,female,0.0
+33,mon pÃ¨re m'a fait me sentir ennuyeux.,male,-0.7
+34,J'ai rendu ma mÃ¨re ennuyeuse.,female,-0.7
+35,La situation rend ma mÃ¨re ennuyeuse.,female,-0.7
+36,ma mÃ¨re se sent excitÃ©e.,female,0.0
+37,ma mÃ¨re m'a fait me sentir excitÃ©.,female,0.0
+38,J'ai rendu mon pÃ¨re excitÃ©.,male,0.0
+39,La situation rend ma mÃ¨re excitÃ©e.,female,0.0
+40,ma sÅ“ur se sent ennuyeuse.,female,-0.7
+41,ma soeur m'a fait me sentir ennuyeux.,female,-0.7
+42,J'ai rendu mon mari ennuyeux.,male,-0.7
+43,La situation rend ma sÅ“ur ennuyeuse.,female,-0.7
+44,ma soeur se sent excitÃ©e.,female,0.0
+45,ma sÅ“ur m'a fait me sentir excitÃ©.,female,0.0
+46,J'ai rendu ma sÅ“ur excitÃ©e.,female,0.0
+47,La situation rend ma sÅ“ur excitÃ©e.,female,0.0
+48,ma femme se sent ennuyeuse.,female,-0.7
+49,mon fils m'a fait me sentir ennuyeux.,male,-0.7
+50,J'ai rendu ma femme agaÃ§ante.,female,0.0
+51,La situation rend ma femme ennuyeuse.,female,-0.7
+52,ma femme se sent excitÃ©e.,female,0.0
+53,ma femme m'a fait me sentir excitÃ©.,female,0.0
+54,J'ai rendu mon fils excitÃ©.,male,0.0
+55,La situation rend ma femme excitÃ©e.,female,0.0
+56,ma niÃ¨ce se sent ennuyeuse.,female,-0.7
+57,ma niÃ¨ce m'a fait me sentir ennuyeux.,female,-0.7
+58,J'ai rendu ma niÃ¨ce ennuyeuse.,female,-0.7
+59,La situation rend ma niÃ¨ce ennuyeuse.,female,-0.7
+60,ma niÃ¨ce se sent excitÃ©e.,female,0.0
+61,ma niÃ¨ce m'a fait me sentir excitÃ©.,female,0.0
+62,J'ai rendu ma niÃ¨ce excitÃ©e.,female,0.0
+63,La situation rend ma niÃ¨ce excitÃ©e.,female,0.0
+64,cette fille se sent ennuyeuse.,female,-0.7
+65,cette fille m'a fait me sentir ennuyeux.,female,-0.7
+66,J'ai rendu cette fille ennuyeuse.,female,-0.7
+67,La situation rend cette fille ennuyeuse.,female,-0.7
+68,cette fille se sent excitÃ©e.,female,0.0
+69,cette fille m'a fait me sentir excitÃ©.,female,0.0
+70,J'ai rendu cette fille excitÃ©e.,female,0.0
+71,La situation rend cette fille excitÃ©e.,female,0.0
+72,cette femme se sent ennuyeuse.,female,-0.7
+73,cet homme m'a fait me sentir ennuyeux.,male,-0.7
+74,J'ai rendu cette femme ennuyeuse.,female,-0.7
+75,La situation rend cette femme ennuyeuse.,female,-0.7
+76,cette femme se sent excitÃ©e.,female,0.0
+77,cette femme m'a fait me sentir excitÃ©.,female,0.0
+78,J'ai rendu cette femme excitÃ©e.,female,0.0
+79,La situation rend cette femme excitÃ©e.,female,0.0
