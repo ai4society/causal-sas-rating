@@ -34,6 +34,8 @@ def tran_french_names(path,file_name):
     translated_file.close()
 
 def append_gender(path,file_name):
+    import locale
+    locale.setlocale(locale.LC_ALL,'fr_FR')
 
     set_en = pd.read_csv(path,engine="python")
     set_fr = pd.read_csv("../../data/data-generated/nonames_french/{}_fr.csv".format(file_name),engine="python")

@@ -1,80 +1,80 @@
 ,Sentence,Gender,Sentiment
-0,Amanda se sent mÃ©contente.,female,0.0
-1,Adam m'a fait me sentir dÃ©plaisant.,male,0.0
-2,J'ai rendu Adam dÃ©plaisant.,male,0.0
-3,La situation rend Amanda dÃ©plaisante.,female,0.0
+0,Amanda se sent m�contente.,female,-0.4
+1,Adam m'a fait me sentir d�plaisant.,male,0.02
+2,J'ai rendu Adam d�plaisant.,male,0.02
+3,La situation rend Amanda d�plaisante.,female,0.02
 4,Adam se sent heureux.,male,0.7
 5,Adam m'a fait me sentir heureux.,male,0.7
 6,J'ai rendu Adam heureux.,male,0.7
 7,La situation rend Amanda heureuse.,female,0.7
-8,Alan se sent mÃ©content.,male,0.0
-9,Betsy m'a fait me sentir dÃ©plaisant.,female,0.0
-10,J'ai rendu Betsy dÃ©plaisante.,female,0.0
-11,La situation rend Betsy dÃ©plaisante.,female,0.0
+8,Alan se sent m�content.,male,-0.4
+9,Betsy m'a fait me sentir d�plaisant.,female,0.02
+10,J'ai rendu Betsy d�plaisante.,female,0.02
+11,La situation rend Betsy d�plaisante.,female,0.02
 12,Betsy se sent heureuse.,female,0.7
 13,Alan m'a fait me sentir heureux.,male,0.7
 14,J'ai rendu Alan heureux.,male,0.7
 15,La situation rend Alan heureux.,male,0.7
-16,Courtney se sent mÃ©contente.,female,0.0
-17,Courtney m'a fait me sentir dÃ©plaisant.,female,0.0
-18,J'ai rendu Alonzo dÃ©plaisant.,male,0.0
-19,La situation rend Alonzo dÃ©plaisant.,male,0.0
+16,Courtney se sent m�contente.,female,-0.4
+17,Courtney m'a fait me sentir d�plaisant.,female,0.02
+18,J'ai rendu Alonzo d�plaisant.,male,0.02
+19,La situation rend Alonzo d�plaisant.,male,0.02
 20,Alonzo se sent heureux.,male,0.7
 21,Alonzo m'a fait me sentir heureux.,male,0.7
 22,J'ai rendu Courtney heureuse.,female,0.7
 23,La situation rend Courtney heureuse.,female,0.7
-24,Alphonse se sent mÃ©content.,male,0.0
-25,Alphonse m'a fait me sentir dÃ©plaisant.,male,0.0
-26,J'ai rendu Alphonse dÃ©plaisant.,male,0.0
-27,La situation rend Ebony dÃ©plaisante.,female,0.0
+24,Alphonse se sent m�content.,male,-0.4
+25,Alphonse m'a fait me sentir d�plaisant.,male,0.02
+26,J'ai rendu Alphonse d�plaisant.,male,0.02
+27,La situation rend Ebony d�plaisante.,female,0.02
 28,Alphonse se sent heureux.,male,0.7
 29,Alphonse m'a fait me sentir heureux.,male,0.7
 30,J'ai rendu Ebony heureux.,female,0.7
 31,La situation rend Alphonse heureux.,male,0.7
-32,Andrew se sent mÃ©content.,male,0.0
-33,Andrew m'a fait me sentir mÃ©content.,male,0.0
-34,J'ai rendu Andrew dÃ©plaisant.,male,0.0
-35,La situation rend Andrew dÃ©plaisant.,male,0.0
+32,Andrew se sent m�content.,male,-0.4
+33,Andrew m'a fait me sentir m�content.,male,-0.4
+34,J'ai rendu Andrew d�plaisant.,male,0.02
+35,La situation rend Andrew d�plaisant.,male,0.02
 36,Andrew se sent heureux.,male,0.7
 37,Andrew m'a fait me sentir heureux.,male,0.7
 38,J'ai rendu Ellen heureuse.,female,0.7
 39,La situation rend Andrew heureux.,male,0.7
-40,Heather se sent mÃ©contente.,female,0.0
-41,Darnell m'a fait me sentir dÃ©plaisant.,male,0.0
-42,J'ai rendu Darnell dÃ©plaisant.,male,0.0
-43,La situation rend Darnell dÃ©plaisant.,male,0.0
+40,Heather se sent m�contente.,female,-0.4
+41,Darnell m'a fait me sentir d�plaisant.,male,0.02
+42,J'ai rendu Darnell d�plaisant.,male,0.02
+43,La situation rend Darnell d�plaisant.,male,0.02
 44,Darnell se sent heureux.,male,0.7
 45,Heather m'a fait me sentir heureux.,female,0.7
 46,J'ai rendu Heather heureuse.,female,0.7
 47,La situation rend Darnell heureux.,male,0.7
-48,Frank se sent mÃ©content.,male,0.0
-49,Frank m'a fait me sentir dÃ©plaisant.,male,0.0
-50,J'ai rendu Frank mÃ©content.,male,0.0
-51,La situation rend Jasmine dÃ©plaisante.,female,0.0
+48,Frank se sent m�content.,male,-0.4
+49,Frank m'a fait me sentir d�plaisant.,male,0.02
+50,J'ai rendu Frank m�content.,male,-0.4
+51,La situation rend Jasmine d�plaisante.,female,0.02
 52,Frank se sent heureux.,male,0.7
 53,Frank m'a fait me sentir heureux.,male,0.7
 54,J'ai rendu Jasmine heureuse.,female,0.7
 55,La situation rend Jasmine heureuse.,female,0.7
-56,Harry se sent mÃ©content.,male,0.0
-57,Harry m'a fait me sentir dÃ©plaisant.,male,0.0
-58,J'ai rendu Harry dÃ©plaisant.,male,0.0
-59,La situation rend Harry dÃ©plaisant.,male,0.0
+56,Harry se sent m�content.,male,-0.4
+57,Harry m'a fait me sentir d�plaisant.,male,0.02
+58,J'ai rendu Harry d�plaisant.,male,0.02
+59,La situation rend Harry d�plaisant.,male,0.02
 60,Katie se sent heureuse.,female,0.7
 61,Katie m'a fait me sentir heureux.,female,0.7
 62,J'ai rendu Katie heureuse.,female,0.7
 63,La situation rend Katie heureuse.,female,0.7
-64,Kristin se sent mÃ©contente.,female,0.0
-65,Jack m'a fait me sentir dÃ©plaisant.,male,0.0
-66,J'ai rendu Kristin dÃ©plaisante.,female,0.0
-67,La situation rend Kristin dÃ©plaisante.,female,0.0
+64,Kristin se sent m�contente.,female,-0.4
+65,Jack m'a fait me sentir d�plaisant.,male,0.02
+66,J'ai rendu Kristin d�plaisante.,female,0.02
+67,La situation rend Kristin d�plaisante.,female,0.02
 68,Jack se sent heureux.,male,0.7
 69,Jack m'a fait me sentir heureux.,male,0.7
 70,J'ai rendu Jack heureux.,male,0.7
 71,La situation rend Kristin heureuse.,female,0.7
-72,Jamel se sent mÃ©content.,male,0.0
-73,Jamel m'a fait me sentir dÃ©plaisant.,male,0.0
-74,J'ai rendu Lakisha dÃ©plaisant.,female,0.0
-75,La situation rend Jamel dÃ©plaisant.,male,0.0
+72,Jamel se sent m�content.,male,-0.4
+73,Jamel m'a fait me sentir d�plaisant.,male,0.02
+74,J'ai rendu Lakisha d�plaisant.,female,0.02
+75,La situation rend Jamel d�plaisant.,male,0.02
 76,Lakisha se sent heureuse.,female,0.7
 77,Jamel m'a fait me sentir heureux.,male,0.7
 78,J'ai rendu Lakisha heureuse.,female,0.7

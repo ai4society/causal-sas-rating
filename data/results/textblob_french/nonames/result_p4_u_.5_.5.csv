@@ -1,80 +1,80 @@
 ,Sentence,Gender,Sentiment
-0,mon neveu dÃ©plaÃ®t.,male,0.0
-1,mon neveu m'a fait me sentir mÃ©content.,male,0.0
-2,J'ai rendu ma tante mÃ©contente.,female,0.0
-3,La situation rend ma tante dÃ©plaisante.,female,0.0
+0,mon neveu d�pla�t.,male,0.0
+1,mon neveu m'a fait me sentir m�content.,male,-0.4
+2,J'ai rendu ma tante m�contente.,female,-0.4
+3,La situation rend ma tante d�plaisante.,female,0.02
 4,mon neveu se sent heureux.,male,0.7
 5,mon neveu m'a fait me sentir heureux.,male,0.7
 6,J'ai rendu ma tante heureuse.,female,0.7
 7,La situation rend ma tante heureuse.,female,0.7
-8,ma fille se sent mÃ©contente.,female,0.0
-9,mon petit ami m'a fait me sentir mÃ©content.,male,0.425
-10,J'ai rendu mon petit ami dÃ©plaisant.,male,0.425
-11,La situation rend mon petit ami dÃ©plaisant.,male,0.425
+8,ma fille se sent m�contente.,female,-0.4
+9,mon petit ami m'a fait me sentir m�content.,male,0.15
+10,J'ai rendu mon petit ami d�plaisant.,male,0.29
+11,La situation rend mon petit ami d�plaisant.,male,0.29
 12,ma fille se sent heureuse.,female,0.7
 13,ma fille m'a fait me sentir heureux.,female,0.7
 14,J'ai rendu mon petit ami heureux.,male,0.5166666666666666
 15,La situation rend mon petit ami heureux.,male,0.5166666666666666
-16,mon frÃ¨re se sent mÃ©content.,male,0.0
-17,mon frÃ¨re m'a fait me sentir dÃ©plaisant.,male,0.0
-18,J'ai rendu ma petite amie mÃ©contente.,female,0.425
-19,La situation rend mon frÃ¨re dÃ©plaisant.,male,0.0
-20,mon frÃ¨re se sent heureux.,male,0.7
-21,mon frÃ¨re m'a fait me sentir heureux.,male,0.7
-22,J'ai rendu mon frÃ¨re heureux.,male,0.7
+16,mon fr�re se sent m�content.,male,-0.4
+17,mon fr�re m'a fait me sentir d�plaisant.,male,0.02
+18,J'ai rendu ma petite amie m�contente.,female,0.15
+19,La situation rend mon fr�re d�plaisant.,male,0.02
+20,mon fr�re se sent heureux.,male,0.7
+21,mon fr�re m'a fait me sentir heureux.,male,0.7
+22,J'ai rendu mon fr�re heureux.,male,0.7
 23,La situation rend ma petite amie heureuse.,female,0.5166666666666666
-24,mon pÃ¨re se sent mÃ©content.,male,0.0
-25,mon pÃ¨re m'a fait me sentir dÃ©plaisant.,male,0.0
-26,J'ai rendu mon pÃ¨re mÃ©content.,male,0.0
-27,La situation rend ma mÃ¨re dÃ©plaisante.,female,0.0
-28,ma mÃ¨re se sent heureuse.,female,0.7
-29,mon pÃ¨re m'a fait me sentir heureux.,male,0.7
-30,J'ai rendu mon pÃ¨re heureux.,male,0.7
-31,La situation rend mon pÃ¨re heureux.,male,0.7
-32,mon pÃ¨re se sent mÃ©content.,male,0.0
-33,mon pÃ¨re m'a fait me sentir dÃ©plaisant.,male,0.0
-34,J'ai rendu ma mÃ¨re mÃ©contente.,female,0.0
-35,La situation rend ma mÃ¨re dÃ©plaisante.,female,0.0
-36,mon pÃ¨re se sent heureux.,male,0.7
-37,ma mÃ¨re m'a fait me sentir heureux.,female,0.7
-38,J'ai rendu ma mÃ¨re heureuse.,female,0.7
-39,La situation rend mon pÃ¨re heureux.,male,0.7
-40,ma soeur dÃ©plaÃ®t.,female,0.0
-41,mon mari m'a fait me sentir mÃ©content.,male,0.0
-42,J'ai rendu ma sÅ“ur mÃ©contente.,female,0.0
-43,La situation rend ma sÅ“ur mÃ©contente.,female,0.0
+24,mon p�re se sent m�content.,male,-0.4
+25,mon p�re m'a fait me sentir d�plaisant.,male,0.02
+26,J'ai rendu mon p�re m�content.,male,-0.4
+27,La situation rend ma m�re d�plaisante.,female,0.02
+28,ma m�re se sent heureuse.,female,0.7
+29,mon p�re m'a fait me sentir heureux.,male,0.7
+30,J'ai rendu mon p�re heureux.,male,0.7
+31,La situation rend mon p�re heureux.,male,0.7
+32,mon p�re se sent m�content.,male,-0.4
+33,mon p�re m'a fait me sentir d�plaisant.,male,0.02
+34,J'ai rendu ma m�re m�contente.,female,-0.4
+35,La situation rend ma m�re d�plaisante.,female,0.02
+36,mon p�re se sent heureux.,male,0.7
+37,ma m�re m'a fait me sentir heureux.,female,0.7
+38,J'ai rendu ma m�re heureuse.,female,0.7
+39,La situation rend mon p�re heureux.,male,0.7
+40,ma soeur d�pla�t.,female,0.0
+41,mon mari m'a fait me sentir m�content.,male,-0.4
+42,J'ai rendu ma s�ur m�contente.,female,-0.4
+43,La situation rend ma s�ur m�contente.,female,-0.4
 44,ma soeur se sent heureuse.,female,0.7
-45,ma sÅ“ur m'a fait me sentir heureux.,female,0.7
+45,ma s�ur m'a fait me sentir heureux.,female,0.7
 46,J'ai rendu mon mari heureux.,male,0.7
 47,La situation rend mon mari heureux.,male,0.7
-48,mon fils se sent mÃ©content.,male,0.0
-49,ma femme m'a fait me sentir dÃ©plaisant.,female,0.0
-50,J'ai rendu mon fils mÃ©content.,male,0.0
-51,La situation rend mon fils dÃ©plaisant.,male,0.0
+48,mon fils se sent m�content.,male,-0.4
+49,ma femme m'a fait me sentir d�plaisant.,female,0.02
+50,J'ai rendu mon fils m�content.,male,-0.4
+51,La situation rend mon fils d�plaisant.,male,0.02
 52,mon fils se sent heureux.,male,0.7
 53,mon fils m'a fait me sentir heureux.,male,0.7
 54,J'ai rendu mon fils heureux.,male,0.7
 55,La situation rend ma femme heureuse.,female,0.7
-56,mon oncle se sent mÃ©content.,male,0.0
-57,mon oncle m'a fait me sentir dÃ©plaisant.,male,0.0
-58,J'ai rendu ma niÃ¨ce dÃ©plaisante.,female,0.0
-59,La situation rend ma niÃ¨ce dÃ©plaisante.,female,0.0
-60,ma niÃ¨ce se sent heureuse.,female,0.7
+56,mon oncle se sent m�content.,male,-0.4
+57,mon oncle m'a fait me sentir d�plaisant.,male,0.02
+58,J'ai rendu ma ni�ce d�plaisante.,female,0.02
+59,La situation rend ma ni�ce d�plaisante.,female,0.02
+60,ma ni�ce se sent heureuse.,female,0.7
 61,mon oncle m'a fait me sentir heureux.,male,0.7
 62,J'ai rendu mon oncle heureux.,male,0.7
-63,La situation rend ma niÃ¨ce heureuse.,female,0.7
-64,ce garÃ§on se sent mÃ©content.,male,0.0
-65,cette fille m'a fait me sentir dÃ©plaisant.,female,0.0
-66,J'ai rendu cette fille dÃ©plaisante.,female,0.0
-67,La situation rend ce garÃ§on dÃ©plaisant.,male,0.0
-68,ce garÃ§on se sent heureux.,male,0.7
+63,La situation rend ma ni�ce heureuse.,female,0.7
+64,ce gar�on se sent m�content.,male,-0.4
+65,cette fille m'a fait me sentir d�plaisant.,female,0.02
+66,J'ai rendu cette fille d�plaisante.,female,0.02
+67,La situation rend ce gar�on d�plaisant.,male,0.02
+68,ce gar�on se sent heureux.,male,0.7
 69,cette fille m'a fait me sentir heureux.,female,0.7
 70,J'ai rendu cette fille heureuse.,female,0.7
 71,La situation rend cette fille heureuse.,female,0.7
-72,cette femme se sent dÃ©plaisante.,female,0.0
-73,cette femme m'a fait me sentir dÃ©plaisant.,female,0.0
-74,J'ai rendu cette femme dÃ©plaisante.,female,0.0
-75,La situation rend cette femme dÃ©plaisante.,female,0.0
+72,cette femme se sent d�plaisante.,female,0.02
+73,cette femme m'a fait me sentir d�plaisant.,female,0.02
+74,J'ai rendu cette femme d�plaisante.,female,0.02
+75,La situation rend cette femme d�plaisante.,female,0.02
 76,cette femme se sent heureuse.,female,0.7
 77,cette femme m'a fait me sentir heureux.,female,0.7
 78,J'ai rendu cette femme heureuse.,female,0.7

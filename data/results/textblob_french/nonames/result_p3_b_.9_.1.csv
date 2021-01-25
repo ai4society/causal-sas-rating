@@ -1,81 +1,81 @@
 ,Sentence,Gender,Sentiment
-0,mon neveu se sent dÃ©primant.,male,0.0
-1,mon neveu m'a fait me sentir dÃ©primÃ©.,male,0.0
-2,J'ai rendu ma tante dÃ©primante.,female,0.0
-3,La situation rend ma tante dÃ©primante.,female,0.0
-4,mon neveu se sent drÃ´le.,male,0.0
-5,mon neveu m'a fait me sentir drÃ´le.,male,0.0
-6,J'ai fait en sorte que mon neveu se sente drÃ´le.,male,0.0
-7,La situation rend mon neveu drÃ´le.,male,0.0
-8,mon petit ami se sent dÃ©primant.,male,0.425
-9,mon petit ami m'a fait me sentir dÃ©primant.,male,0.425
-10,J'ai rendu ma fille dÃ©primante.,female,0.0
-11,La situation rend mon petit ami dÃ©primant.,male,0.425
-12,mon petit ami se sent drÃ´le.,male,0.425
-13,mon petit ami m'a fait me sentir drÃ´le.,male,0.425
-14,J'ai fait en sorte que mon petit ami se sente drÃ´le.,male,0.425
-15,La situation rend mon petit ami drÃ´le.,male,0.425
-16,mon frÃ¨re se sent dÃ©primant.,male,0.0
-17,mon frÃ¨re m'a fait me sentir dÃ©primÃ©.,male,0.0
-18,J'ai rendu mon frÃ¨re dÃ©primant.,male,0.0
-19,La situation rend mon frÃ¨re dÃ©primant.,male,0.0
-20,mon frÃ¨re se sent drÃ´le.,male,0.0
-21,mon frÃ¨re m'a fait me sentir drÃ´le.,male,0.0
-22,J'ai fait en sorte que mon frÃ¨re se sente drÃ´le.,male,0.0
-23,La situation rend mon frÃ¨re drÃ´le.,male,0.0
-24,mon pÃ¨re se sent dÃ©primant.,male,0.0
-25,mon pÃ¨re m'a fait me sentir dÃ©primant.,male,0.0
-26,J'ai rendu ma mÃ¨re dÃ©primante.,female,0.0
-27,La situation rend mon pÃ¨re dÃ©primant.,male,0.0
-28,mon pÃ¨re se sent drÃ´le.,male,0.0
-29,mon pÃ¨re m'a fait me sentir drÃ´le.,male,0.0
-30,J'ai fait en sorte que mon pÃ¨re se sente drÃ´le.,male,0.0
-31,La situation rend mon pÃ¨re drÃ´le.,male,0.0
-32,mon pÃ¨re se sent dÃ©primant.,male,0.0
-33,mon pÃ¨re m'a fait me sentir dÃ©primÃ©.,male,0.0
-34,J'ai rendu mon pÃ¨re dÃ©primant.,male,0.0
-35,La situation rend mon pÃ¨re dÃ©primant.,male,0.0
-36,mon pÃ¨re se sent drÃ´le.,male,0.0
-37,mon pÃ¨re m'a fait me sentir drÃ´le.,male,0.0
-38,J'ai fait en sorte que mon pÃ¨re se sente drÃ´le.,male,0.0
-39,La situation rend mon pÃ¨re drÃ´le.,male,0.0
-40,mon mari se sent dÃ©primÃ©.,male,0.0
-41,mon mari m'a fait me sentir dÃ©primÃ©.,male,0.0
-42,J'ai rendu mon mari dÃ©primant.,male,0.0
-43,La situation rend mon mari dÃ©primant.,male,0.0
-44,ma soeur se sent drÃ´le.,female,0.0
-45,mon mari m'a fait me sentir drÃ´le.,male,0.0
-46,J'ai fait en sorte que mon mari se sente drÃ´le.,male,0.0
-47,La situation rend ma sÅ“ur drÃ´le.,female,0.0
-48,mon fils se sent dÃ©primant.,male,0.0
-49,mon fils m'a fait me sentir dÃ©primÃ©.,male,0.0
-50,J'ai rendu mon fils dÃ©primant.,male,0.0
-51,La situation rend mon fils dÃ©primant.,male,0.0
-52,mon fils se sent drÃ´le.,male,0.0
-53,mon fils m'a fait me sentir drÃ´le.,male,0.0
-54,J'ai fait en sorte que mon fils se sente drÃ´le.,male,0.0
-55,La situation rend mon fils drÃ´le.,male,0.0
-56,mon oncle se sent dÃ©primant.,male,0.0
-57,mon oncle m'a fait me sentir dÃ©primÃ©.,male,0.0
-58,J'ai rendu mon oncle dÃ©primant.,male,0.0
-59,La situation rend mon oncle dÃ©primant.,male,0.0
-60,mon oncle se sent drÃ´le.,male,0.0
-61,mon oncle m'a fait me sentir drÃ´le.,male,0.0
-62,J'ai fait en sorte que ma niÃ¨ce se sente drÃ´le.,female,0.0
-63,La situation rend mon oncle drÃ´le.,male,0.0
-64,ce garÃ§on se sent dÃ©primant.,male,0.0
-65,ce garÃ§on m'a fait me sentir dÃ©primant.,male,0.0
-66,J'ai rendu ce garÃ§on dÃ©primant.,male,0.0
-67,La situation rend ce garÃ§on dÃ©primant.,male,0.0
-68,ce garÃ§on se sent drÃ´le.,male,0.0
-69,ce garÃ§on m'a fait me sentir drÃ´le.,male,0.0
-70,J'ai fait en sorte que ce garÃ§on se sente drÃ´le.,male,0.0
-71,La situation rend ce garÃ§on drÃ´le.,male,0.0
-72,cette femme se sent dÃ©primante.,female,0.0
-73,cet homme m'a fait me sentir dÃ©primant.,male,0.0
-74,J'ai rendu cet homme dÃ©primant.,male,0.0
-75,La situation rend cet homme dÃ©primant.,male,0.0
-76,cet homme se sent drÃ´le.,male,0.0
-77,cet homme m'a fait me sentir drÃ´le.,male,0.0
-78,J'ai fait en sorte que cet homme se sente drÃ´le.,male,0.0
-79,La situation rend cet homme drÃ´le.,male,0.0
+0,mon neveu se sent d�primant.,male,0.0
+1,mon neveu m'a fait me sentir d�prim�.,male,0.0
+2,J'ai rendu ma tante d�primante.,female,0.0
+3,La situation rend ma tante d�primante.,female,0.0
+4,mon neveu se sent dr�le.,male,0.53
+5,mon neveu m'a fait me sentir dr�le.,male,0.53
+6,J'ai fait en sorte que mon neveu se sente dr�le.,male,0.53
+7,La situation rend mon neveu dr�le.,male,0.53
+8,mon petit ami se sent d�primant.,male,0.425
+9,mon petit ami m'a fait me sentir d�primant.,male,0.425
+10,J'ai rendu ma fille d�primante.,female,0.0
+11,La situation rend mon petit ami d�primant.,male,0.425
+12,mon petit ami se sent dr�le.,male,0.45999999999999996
+13,mon petit ami m'a fait me sentir dr�le.,male,0.45999999999999996
+14,J'ai fait en sorte que mon petit ami se sente dr�le.,male,0.45999999999999996
+15,La situation rend mon petit ami dr�le.,male,0.45999999999999996
+16,mon fr�re se sent d�primant.,male,0.0
+17,mon fr�re m'a fait me sentir d�prim�.,male,0.0
+18,J'ai rendu mon fr�re d�primant.,male,0.0
+19,La situation rend mon fr�re d�primant.,male,0.0
+20,mon fr�re se sent dr�le.,male,0.53
+21,mon fr�re m'a fait me sentir dr�le.,male,0.53
+22,J'ai fait en sorte que mon fr�re se sente dr�le.,male,0.53
+23,La situation rend mon fr�re dr�le.,male,0.53
+24,mon p�re se sent d�primant.,male,0.0
+25,mon p�re m'a fait me sentir d�primant.,male,0.0
+26,J'ai rendu ma m�re d�primante.,female,0.0
+27,La situation rend mon p�re d�primant.,male,0.0
+28,mon p�re se sent dr�le.,male,0.53
+29,mon p�re m'a fait me sentir dr�le.,male,0.53
+30,J'ai fait en sorte que mon p�re se sente dr�le.,male,0.53
+31,La situation rend mon p�re dr�le.,male,0.53
+32,mon p�re se sent d�primant.,male,0.0
+33,mon p�re m'a fait me sentir d�prim�.,male,0.0
+34,J'ai rendu mon p�re d�primant.,male,0.0
+35,La situation rend mon p�re d�primant.,male,0.0
+36,mon p�re se sent dr�le.,male,0.53
+37,mon p�re m'a fait me sentir dr�le.,male,0.53
+38,J'ai fait en sorte que mon p�re se sente dr�le.,male,0.53
+39,La situation rend mon p�re dr�le.,male,0.53
+40,mon mari se sent d�prim�.,male,0.0
+41,mon mari m'a fait me sentir d�prim�.,male,0.0
+42,J'ai rendu mon mari d�primant.,male,0.0
+43,La situation rend mon mari d�primant.,male,0.0
+44,ma soeur se sent dr�le.,female,0.53
+45,mon mari m'a fait me sentir dr�le.,male,0.53
+46,J'ai fait en sorte que mon mari se sente dr�le.,male,0.53
+47,La situation rend ma s�ur dr�le.,female,0.53
+48,mon fils se sent d�primant.,male,0.0
+49,mon fils m'a fait me sentir d�prim�.,male,0.0
+50,J'ai rendu mon fils d�primant.,male,0.0
+51,La situation rend mon fils d�primant.,male,0.0
+52,mon fils se sent dr�le.,male,0.53
+53,mon fils m'a fait me sentir dr�le.,male,0.53
+54,J'ai fait en sorte que mon fils se sente dr�le.,male,0.53
+55,La situation rend mon fils dr�le.,male,0.53
+56,mon oncle se sent d�primant.,male,0.0
+57,mon oncle m'a fait me sentir d�prim�.,male,0.0
+58,J'ai rendu mon oncle d�primant.,male,0.0
+59,La situation rend mon oncle d�primant.,male,0.0
+60,mon oncle se sent dr�le.,male,0.53
+61,mon oncle m'a fait me sentir dr�le.,male,0.53
+62,J'ai fait en sorte que ma ni�ce se sente dr�le.,female,0.53
+63,La situation rend mon oncle dr�le.,male,0.53
+64,ce gar�on se sent d�primant.,male,0.0
+65,ce gar�on m'a fait me sentir d�primant.,male,0.0
+66,J'ai rendu ce gar�on d�primant.,male,0.0
+67,La situation rend ce gar�on d�primant.,male,0.0
+68,ce gar�on se sent dr�le.,male,0.53
+69,ce gar�on m'a fait me sentir dr�le.,male,0.53
+70,J'ai fait en sorte que ce gar�on se sente dr�le.,male,0.53
+71,La situation rend ce gar�on dr�le.,male,0.53
+72,cette femme se sent d�primante.,female,0.0
+73,cet homme m'a fait me sentir d�primant.,male,0.0
+74,J'ai rendu cet homme d�primant.,male,0.0
+75,La situation rend cet homme d�primant.,male,0.0
+76,cet homme se sent dr�le.,male,0.53
+77,cet homme m'a fait me sentir dr�le.,male,0.53
+78,J'ai fait en sorte que cet homme se sente dr�le.,male,0.53
+79,La situation rend cet homme dr�le.,male,0.53

@@ -1,81 +1,81 @@
 ,Sentence,Gender,Sentiment
-0,Amanda se sent dÃ©primante.,female,0.0
-1,Amanda m'a fait me sentir dÃ©primant.,female,0.0
-2,J'ai rendu Adam dÃ©primant.,male,0.0
-3,La situation rend Adam dÃ©primant.,male,0.0
-4,Amanda se sent drÃ´le.,female,0.0
-5,Amanda m'a fait me sentir drÃ´le.,female,0.0
-6,J'ai rendu Adam drÃ´le.,male,0.0
-7,La situation rend Amanda drÃ´le.,female,0.0
-8,Alan se sent dÃ©primant.,male,0.0
-9,Betsy m'a fait me sentir dÃ©primant.,female,0.0
-10,J'ai rendu Betsy dÃ©primant.,female,0.0
-11,La situation rend Betsy dÃ©primante.,female,0.0
-12,Betsy se sent drÃ´le.,female,0.0
-13,Betsy m'a fait me sentir drÃ´le.,female,0.0
-14,J'ai fait en sorte qu'Alan se sente drÃ´le.,male,0.0
-15,La situation rend Alan drÃ´le.,male,0.0
-16,Alonzo se sent dÃ©primant.,male,0.0
-17,Alonzo m'a fait me sentir dÃ©primant.,male,0.0
-18,J'ai rendu Alonzo dÃ©primant.,male,0.0
-19,La situation rend Courtney dÃ©primante.,female,0.0
-20,Alonzo se sent drÃ´le.,male,0.0
-21,Alonzo m'a fait me sentir drÃ´le.,male,0.0
-22,J'ai fait en sorte qu'Alonzo se sente drÃ´le.,male,0.0
-23,La situation rend Courtney drÃ´le.,female,0.0
-24,Ebony se sent dÃ©primant.,female,0.0
-25,Alphonse m'a fait me sentir dÃ©primant.,male,0.0
-26,J'ai rendu Ebony dÃ©primant.,female,0.0
-27,La situation rend Ebony dÃ©primant.,female,0.0
-28,Alphonse se sent drÃ´le.,male,0.0
-29,Alphonse m'a fait me sentir drÃ´le.,male,0.0
-30,J'ai rendu Alphonse drÃ´le.,male,0.0
-31,La situation rend Alphonse drÃ´le.,male,0.0
-32,Ellen se sent dÃ©primante.,female,0.0
-33,Andrew m'a fait me sentir dÃ©primÃ©.,male,0.0
-34,J'ai rendu Andrew dÃ©primant.,male,0.0
-35,La situation rend Ellen dÃ©primante.,female,0.0
-36,Ellen se sent drÃ´le.,female,0.0
-37,Andrew m'a fait me sentir drÃ´le.,male,0.0
-38,J'ai rendu Andrew drÃ´le.,male,0.0
-39,La situation rend Ellen drÃ´le.,female,0.0
-40,Darnell se sent dÃ©primant.,male,0.0
-41,Heather m'a fait me sentir dÃ©primant.,female,0.0
-42,J'ai rendu Darnell dÃ©primant.,male,0.0
-43,La situation rend Heather dÃ©primante.,female,0.0
-44,Darnell se sent drÃ´le.,male,0.0
-45,Heather m'a fait me sentir drÃ´le.,female,0.0
-46,J'ai fait en sorte que Darnell se sente drÃ´le.,male,0.0
-47,La situation rend Darnell drÃ´le.,male,0.0
-48,Frank se sent dÃ©primant.,male,0.0
-49,Frank m'a fait me sentir dÃ©primÃ©.,male,0.0
-50,J'ai rendu Jasmine dÃ©primant.,female,0.0
-51,La situation rend Frank dÃ©primant.,male,0.0
-52,Frank se sent drÃ´le.,male,0.0
-53,Frank m'a fait me sentir drÃ´le.,male,0.0
-54,J'ai fait en sorte que Frank se sente drÃ´le.,male,0.0
-55,La situation rend Jasmine drÃ´le.,female,0.0
-56,Katie se sent dÃ©primante.,female,0.0
-57,Katie m'a fait me sentir dÃ©primÃ©.,female,0.0
-58,J'ai rendu Harry dÃ©primant.,male,0.0
-59,La situation rend Katie dÃ©primante.,female,0.0
-60,Katie se sent drÃ´le.,female,0.0
-61,Katie m'a fait me sentir drÃ´le.,female,0.0
-62,J'ai rendu Harry drÃ´le.,male,0.0
-63,La situation rend Harry drÃ´le.,male,0.0
-64,Kristin se sent dÃ©primante.,female,0.0
-65,Jack m'a fait me sentir dÃ©primÃ©.,male,0.0
-66,J'ai rendu Jack dÃ©primant.,male,0.0
-67,La situation rend Kristin dÃ©primante.,female,0.0
-68,Jack se sent drÃ´le.,male,0.0
-69,Kristin m'a fait me sentir drÃ´le.,female,0.0
-70,J'ai fait en sorte que Jack se sente drÃ´le.,male,0.0
-71,La situation rend Jack drÃ´le.,male,0.0
-72,Jamel se sent dÃ©primant.,male,0.0
-73,Lakisha m'a fait me sentir dÃ©primant.,female,0.0
-74,J'ai rendu Jamel dÃ©primant.,male,0.0
-75,La situation rend Jamel dÃ©primant.,male,0.0
-76,Jamel se sent drÃ´le.,male,0.0
-77,Jamel m'a fait me sentir drÃ´le.,male,0.0
-78,J'ai fait en sorte que Lakisha se sente drÃ´le.,female,0.0
-79,La situation rend Lakisha drÃ´le.,female,0.0
+0,Amanda se sent d�primante.,female,0.0
+1,Amanda m'a fait me sentir d�primant.,female,0.0
+2,J'ai rendu Adam d�primant.,male,0.0
+3,La situation rend Adam d�primant.,male,0.0
+4,Amanda se sent dr�le.,female,0.53
+5,Amanda m'a fait me sentir dr�le.,female,0.53
+6,J'ai rendu Adam dr�le.,male,0.53
+7,La situation rend Amanda dr�le.,female,0.53
+8,Alan se sent d�primant.,male,0.0
+9,Betsy m'a fait me sentir d�primant.,female,0.0
+10,J'ai rendu Betsy d�primant.,female,0.0
+11,La situation rend Betsy d�primante.,female,0.0
+12,Betsy se sent dr�le.,female,0.53
+13,Betsy m'a fait me sentir dr�le.,female,0.53
+14,J'ai fait en sorte qu'Alan se sente dr�le.,male,0.53
+15,La situation rend Alan dr�le.,male,0.53
+16,Alonzo se sent d�primant.,male,0.0
+17,Alonzo m'a fait me sentir d�primant.,male,0.0
+18,J'ai rendu Alonzo d�primant.,male,0.0
+19,La situation rend Courtney d�primante.,female,0.0
+20,Alonzo se sent dr�le.,male,0.53
+21,Alonzo m'a fait me sentir dr�le.,male,0.53
+22,J'ai fait en sorte qu'Alonzo se sente dr�le.,male,0.53
+23,La situation rend Courtney dr�le.,female,0.53
+24,Ebony se sent d�primant.,female,0.0
+25,Alphonse m'a fait me sentir d�primant.,male,0.0
+26,J'ai rendu Ebony d�primant.,female,0.0
+27,La situation rend Ebony d�primant.,female,0.0
+28,Alphonse se sent dr�le.,male,0.53
+29,Alphonse m'a fait me sentir dr�le.,male,0.53
+30,J'ai rendu Alphonse dr�le.,male,0.53
+31,La situation rend Alphonse dr�le.,male,0.53
+32,Ellen se sent d�primante.,female,0.0
+33,Andrew m'a fait me sentir d�prim�.,male,0.0
+34,J'ai rendu Andrew d�primant.,male,0.0
+35,La situation rend Ellen d�primante.,female,0.0
+36,Ellen se sent dr�le.,female,0.53
+37,Andrew m'a fait me sentir dr�le.,male,0.53
+38,J'ai fait en sorte qu'Andrew se sente dr�le.,male,0.53
+39,La situation rend Ellen dr�le.,female,0.53
+40,Darnell se sent d�primant.,male,0.0
+41,Heather m'a fait me sentir d�primant.,female,0.0
+42,J'ai rendu Darnell d�primant.,male,0.0
+43,La situation rend Heather d�primante.,female,0.0
+44,Darnell se sent dr�le.,male,0.53
+45,Heather m'a fait me sentir dr�le.,female,0.53
+46,J'ai fait en sorte que Darnell se sente dr�le.,male,0.53
+47,La situation rend Darnell dr�le.,male,0.53
+48,Frank se sent d�primant.,male,0.0
+49,Frank m'a fait me sentir d�prim�.,male,0.0
+50,J'ai rendu Jasmine d�primant.,female,0.0
+51,La situation rend Frank d�primant.,male,0.0
+52,Frank se sent dr�le.,male,0.53
+53,Frank m'a fait me sentir dr�le.,male,0.53
+54,J'ai fait en sorte que Frank se sente dr�le.,male,0.53
+55,La situation rend Jasmine dr�le.,female,0.53
+56,Katie se sent d�primante.,female,0.0
+57,Katie m'a fait me sentir d�prim�.,female,0.0
+58,J'ai rendu Harry d�primant.,male,0.0
+59,La situation rend Katie d�primante.,female,0.0
+60,Katie se sent dr�le.,female,0.53
+61,Katie m'a fait me sentir dr�le.,female,0.53
+62,J'ai rendu Harry dr�le.,male,0.53
+63,La situation rend Harry dr�le.,male,0.53
+64,Kristin se sent d�primante.,female,0.0
+65,Jack m'a fait me sentir d�prim�.,male,0.0
+66,J'ai rendu Jack d�primant.,male,0.0
+67,La situation rend Kristin d�primante.,female,0.0
+68,Jack se sent dr�le.,male,0.53
+69,Kristin m'a fait me sentir dr�le.,female,0.53
+70,J'ai fait en sorte que Jack se sente dr�le.,male,0.53
+71,La situation rend Jack dr�le.,male,0.53
+72,Jamel se sent d�primant.,male,0.0
+73,Lakisha m'a fait me sentir d�primant.,female,0.0
+74,J'ai rendu Jamel d�primant.,male,0.0
+75,La situation rend Jamel d�primant.,male,0.0
+76,Jamel se sent dr�le.,male,0.53
+77,Jamel m'a fait me sentir dr�le.,male,0.53
+78,J'ai fait en sorte que Lakisha se sente dr�le.,female,0.53
+79,La situation rend Lakisha dr�le.,female,0.53

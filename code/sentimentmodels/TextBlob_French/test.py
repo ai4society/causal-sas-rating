@@ -9,7 +9,9 @@ tb = Blobber(pos_tagger=PatternTagger(), analyzer=PatternAnalyzer())
 # print(blob2.sentiment)
 
 def textblobsentiment_french(path,file_name):
-    fr_file = pd.read_csv(path,engine="python")
+    import locale
+    locale.setlocale(locale.LC_ALL, 'fr_FR')
+    fr_file = pd.read_csv(path,engine="python",encoding="latin-1")
 
     sentiment = []
     for each in fr_file['Phrases']:
@@ -25,11 +27,13 @@ def textblobsentiment_french(path,file_name):
 
     d = {'Sentence':text,'Gender':gender,'Sentiment':sentiment}
     final_df = pd.DataFrame(d, columns=['Sentence','Gender','Sentiment'])
-    final_df.to_csv('../../data/results/textblob_french/nonames/{}.csv'.format(file_name))
+    final_df.to_csv('../../data/results/textblob_french/nonames/{}.csv'.format(file_name),encoding="latin-1")
 
 
 def textblobsentiment_french_name(path,file_name):
-    fr_file = pd.read_csv(path,engine="python")
+    import locale
+    locale.setlocale(locale.LC_ALL,'fr_FR')
+    fr_file = pd.read_csv(path,engine="python",encoding="latin-1")
 
     sentiment = []
     for each in fr_file['Phrases']:
@@ -45,4 +49,4 @@ def textblobsentiment_french_name(path,file_name):
 
     d = {'Sentence':text,'Gender':gender,'Sentiment':sentiment}
     final_df = pd.DataFrame(d, columns=['Sentence','Gender','Sentiment'])
-    final_df.to_csv('../../data/results/textblob_french/withnames/{}.csv'.format(file_name))
+    final_df.to_csv('../../data/results/textblob_french/withnames/{}.csv'.format(file_name),encoding="latin-1")
