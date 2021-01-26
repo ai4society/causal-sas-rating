@@ -1,55 +1,32 @@
 import tran
-from tran import tran_french,tran_french_names,append_gender
+from tran import tran_french,tran_french_names
+import edit_files
+
 
 #Without names
-
-tran_french("../../data/data-generated/nonames/bf1.csv","bf1")
-tran_french("../../data/data-generated/nonames/bf2.csv","bf2")
-tran_french("../../data/data-generated/nonames/bf3.csv","bf3")
-tran_french("../../data/data-generated/nonames/bf4.csv","bf4")
-tran_french("../../data/data-generated/nonames/bf5.csv","bf5")
-tran_french("../../data/data-generated/nonames/bm1.csv","bm1")
-tran_french("../../data/data-generated/nonames/bm2.csv","bm2")
-tran_french("../../data/data-generated/nonames/bm3.csv","bm3")
-tran_french("../../data/data-generated/nonames/bm4.csv","bm4")
-tran_french("../../data/data-generated/nonames/bm5.csv","bm5")
-tran_french("../../data/data-generated/nonames/u1.csv","u1")
-tran_french("../../data/data-generated/nonames/u2.csv","u2")
-tran_french("../../data/data-generated/nonames/u3.csv","u3")
-tran_french("../../data/data-generated/nonames/u4.csv","u4")
-tran_french("../../data/data-generated/nonames/u5.csv","u5")
+for i in range(1,6):
+    print("Generating French dataset {}/5 without names".format(i))
+    tran_french("../../data/data-generated/nonames/bf{}.csv".format(i),"bf{}".format(i))
+    tran_french("../../data/data-generated/nonames/bm{}.csv".format(i),"bm{}".format(i))
+    tran_french("../../data/data-generated/nonames/u{}.csv".format(i),"u{}".format(i))
 
 #With names.
+for i in range(1,6):
+    print("Generating French dataset {}/5 with names".format(i))
+    tran_french_names("../../data/data-generated/withnames/bf{}.csv".format(i),"bf{}".format(i))
+    tran_french_names("../../data/data-generated/withnames/bm{}.csv".format(i),"bm{}".format(i))
+    tran_french_names("../../data/data-generated/withnames/u{}.csv".format(i),"u{}".format(i))
 
-tran_french_names("../../data/data-generated/withnames/bf1.csv","bf1")
-tran_french_names("../../data/data-generated/withnames/bf2.csv","bf2")
-tran_french_names("../../data/data-generated/withnames/bf3.csv","bf3")
-tran_french_names("../../data/data-generated/withnames/bf4.csv","bf4")
-tran_french_names("../../data/data-generated/withnames/bf5.csv","bf5")
-tran_french_names("../../data/data-generated/withnames/bm1.csv","bm1")
-tran_french_names("../../data/data-generated/withnames/bm2.csv","bm2")
-tran_french_names("../../data/data-generated/withnames/bm3.csv","bm3")
-tran_french_names("../../data/data-generated/withnames/bm4.csv","bm4")
-tran_french_names("../../data/data-generated/withnames/bm5.csv","bm5")
-tran_french_names("../../data/data-generated/withnames/u1.csv","u1")
-tran_french_names("../../data/data-generated/withnames/u2.csv","u2")
-tran_french_names("../../data/data-generated/withnames/u3.csv","u3")
-tran_french_names("../../data/data-generated/withnames/u4.csv","u4")
-tran_french_names("../../data/data-generated/withnames/u5.csv","u5")
+#Appending gender without names
+print("Changing gender names from French to English")
+for i in range(1,6):
+    edit_files.edit_gender("../../data/data-generated/nonames_french/bf{}_fr.csv".format(i),"../../data/data-generated/nonames/bf{}.csv".format(i),"bf{}".format(i))
+    edit_files.edit_gender("../../data/data-generated/nonames_french/bm{}_fr.csv".format(i),"../../data/data-generated/nonames/bm{}.csv".format(i),"bm{}".format(i))
+    edit_files.edit_gender("../../data/data-generated/nonames_french/u{}_fr.csv".format(i),"../../data/data-generated/nonames/u{}.csv".format(i),"u{}".format(i))
 
-
-# append_gender("../../data/data-generated/nonames/bf1.csv","bf1")
-# append_gender("../../data/data-generated/nonames/bf2.csv","bf2")
-# append_gender("../../data/data-generated/nonames/bf3.csv","bf3")
-# append_gender("../../data/data-generated/nonames/bf4.csv","bf4")
-# append_gender("../../data/data-generated/nonames/bf5.csv","bf5")
-# append_gender("../../data/data-generated/nonames/bm1.csv","bm1")
-# append_gender("../../data/data-generated/nonames/bm2.csv","bm2")
-# append_gender("../../data/data-generated/nonames/bm3.csv","bm3")
-# append_gender("../../data/data-generated/nonames/bm4.csv","bm4")
-# append_gender("../../data/data-generated/nonames/bm5.csv","bm5")
-# append_gender("../../data/data-generated/nonames/u1.csv","u1")
-# append_gender("../../data/data-generated/nonames/u2.csv","u2")
-# append_gender("../../data/data-generated/nonames/u3.csv","u3")
-# append_gender("../../data/data-generated/nonames/u4.csv","u4")
-# append_gender("../../data/data-generated/nonames/u5.csv","u5")
+#Appending gender with names
+for i in range(1,6):
+    edit_files.edit_gender_names("../../data/data-generated/withnames_french/bf{}_fr.csv".format(i),"../../data/data-generated/withnames/bf{}.csv".format(i),"bf{}".format(i))
+    edit_files.edit_gender_names("../../data/data-generated/withnames_french/bm{}_fr.csv".format(i),"../../data/data-generated/withnames/bm{}.csv".format(i),"bm{}".format(i))
+    edit_files.edit_gender_names("../../data/data-generated/withnames_french/u{}_fr.csv".format(i),"../../data/data-generated/withnames/u{}.csv".format(i),"u{}".format(i))
+print("Done!")

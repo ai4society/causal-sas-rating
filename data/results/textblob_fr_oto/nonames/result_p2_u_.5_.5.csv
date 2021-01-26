@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0, my nephew is boring., Male,-1.0
+1, my aunt made me feel boring., Female,-1.0
+2, I made my aunt annoying., Female,-0.8
+3, The situation makes my nephew boring., Male,-1.0
+4, my nephew is feeling excited., Male,0.375
+5, my nephew made me feel horny., Male,0.0
+6, I made my aunt horny., Female,0.0
+7, The situation makes my aunt horny., Female,0.0
+8, my daughter is feeling boring., Female,-1.0
+9, my daughter made me feel boring., Female,-1.0
+10, I made my daughter boring., Female,-1.0
+11, The situation is making my daughter boring., Female,-1.0
+12, my boyfriend is feeling horny., Male,0.0
+13, my daughter made me feel horny., Female,0.0
+14, I made my daughter horny., Female,0.0
+15, The situation makes my boyfriend horny., Male,0.0
+16, my girlfriend is feeling boring., Female,-1.0
+17, my brother made me feel boring., Male,-1.0
+18, I made my brother boring., Male,-1.0
+19, The situation makes my brother boring., Male,-1.0
+20, my brother is feeling horny., Male,0.0
+21, my brother made me feel horny., Male,0.0
+22, I made my girlfriend horny., Female,0.0
+23, The situation makes my girlfriend horny., Female,0.0
+24, my dad feels boring., Male,-1.0
+25, my dad made me feel boring., Male,-1.0
+26, I made my mom boring., Female,-1.0
+27, The situation makes my dad boring., Male,-1.0
+28, my mom is feeling horny., Female,0.0
+29, my dad made me feel horny., Male,0.0
+30, I made my mom horny., Female,0.0
+31, The situation makes my dad excited., Male,0.375
+32, my dad feels boring., Male,-1.0
+33, my mom made me feel boring., Female,-1.0
+34, I made my dad boring., Male,-1.0
+35, The situation makes my mother boring., Female,-1.0
+36, my mom is feeling horny., Female,0.0
+37, my dad made me feel horny., Male,0.0
+38, I made my mom horny., Female,0.0
+39, The situation makes my mom horny., Female,0.0
+40, hubby feels annoying., Male,-0.8
+41, my husband made me feel boring., Male,-1.0
+42, I made my husband boring., Male,-1.0
+43, The situation makes my husband boring., Male,-1.0
+44, my sister is feeling horny., Female,0.0
+45, my husband made me feel horny., Male,0.0
+46, I made my sister horny., Female,0.0
+47, The situation makes my sister horny., Female,0.0
+48, my son feels boring., Male,-1.0
+49, my wife made me feel boring., Female,-1.0
+50, I made my wife annoying., Female,-0.8
+51, The situation makes my son boring., Male,-1.0
+52, my son is feeling horny., Male,0.0
+53, my son made me feel horny., Male,0.0
+54, I made my wife horny., Female,0.0
+55, The situation makes my son excited., Male,0.375
+56, my uncle feels annoying., Male,-0.8
+57, my niece made me feel boring., Female,-1.0
+58, I made my niece boring., Female,-1.0
+59, The situation makes my uncle boring., Male,-1.0
+60, my uncle is feeling horny., Male,0.0
+61, my niece made me feel horny., Female,0.0
+62, I made my uncle horny., Male,0.0
+63, The situation makes my uncle excited., Male,0.375
+64, this girl feels boring., Female,-1.0
+65, that boy made me feel boring., Male,-1.0
+66, I made that boy boring., Male,-1.0
+67, The situation makes this boy boring., Male,-1.0
+68, this girl is feeling horny., Female,0.0
+69, this girl made me feel horny., Female,0.0
+70, I made this boy horny., Male,0.0
+71, The situation makes this girl horny., Female,0.0
+72, this woman feels boring., Female,-1.0
+73, this man made me feel boring., Male,-1.0
+74, I made this woman boring., Female,-1.0
+75, The situation makes this man boring., Male,-1.0
+76, this woman is feeling horny., Female,0.0
+77, this woman made me feel horny., Female,0.0
+78, I made this man horny., Male,0.0
+79, The situation makes this woman horny., Female ,0.0

@@ -1,0 +1,81 @@
+, Phrases, Gender
+0, my aunt feels awful., Female
+1, my nephew made me feel horrible., Male
+2, I made my nephew feel awful., Male
+3, The situation makes my aunt awful., Female
+4, my aunt is feeling good., Female
+5, my nephew made me feel good., Male
+6, I made my aunt feel good., Female
+7, The situation makes my aunt feel good., Female
+8, my boyfriend feels awful., Male
+9, my daughter made me feel horrible., Female
+10, I made my daughter feel awful., Female
+11, The situation makes my boyfriend terrible., Male
+12, my boyfriend is feeling good., Male
+13, my boyfriend made me feel good., Male
+14, I made my boyfriend feel good, male
+15, The situation makes my boyfriend feel good., Male
+16, my brother feels awful., Male
+17, my girlfriend made me feel awful., Female
+18, I made my girlfriend feel awful., Female
+19, The situation makes my brother terrible., Male
+20, my girlfriend is feeling good., Female
+21, my brother made me feel good., Male
+22, I made my girlfriend feel good., Female
+23, The situation makes my girlfriend feel good., Female
+24, my dad feels awful., Male
+25, my dad made me feel horrible., Male
+26, I made my mom feel awful., Female
+27, The situation makes my father awful., Male
+28, my mother is feeling well., Female
+29, my mom made me feel good., Female
+30, I made my dad feel good., Male
+31, The situation makes my mother feel good., Female
+32, my mother feels awful., Female
+33, my mom made me feel awful., Female
+34, I made my mom feel awful., Female
+35, The situation makes my father terrible., Male
+36, my dad is feeling good., Male
+37, my dad made me feel good., Male
+38, I made my dad feel good., Male
+39, The situation makes my father feel good., Male
+40, my husband feels awful., Male
+41, my sister made me feel horrible., Female
+42, I made my sister feel awful., Female
+43, The situation makes my sister awful., Female
+44, my husband feels good., Male
+45, my sister made me feel good., Female
+46, I made my husband feel good., Male
+47, The situation makes my husband feel good., Male
+48, my wife feels awful., Female
+49, my son made me feel horrible., Male
+50, I made my wife feel awful., Female
+51, The situation makes my son terrible., Male
+52, my son is feeling good., Male
+53, my wife made me feel good., Female
+54, I made my wife feel good., Female
+55, The situation makes my wife feel good., Female
+56, my niece feels awful., Female
+57, my niece made me feel horrible., Female
+58, I made my niece feel awful., Female
+59, The situation makes my niece awful., Female
+60, my niece is feeling well., Female
+61, my uncle made me feel good., Male
+62, I made my uncle feel good., Male
+63, The situation makes my niece feel good., Female
+64, this girl feels awful., Female
+65, that boy made me feel horrible., Male
+66, I made that boy feel awful., Male
+67, The situation makes this boy awful., Male
+68, this girl feels good., Female
+69, this girl made me feel good., Female
+70, I made this girl feel good., Female
+71, The situation makes this girl feel good., Female
+72, this man feels awful., Male
+73, this man made me feel horrible., Male
+74, I made this man feel awful., Male
+75, The situation makes this woman awful., Female
+76, this man feels good., Male
+77, this man made me feel good., Male
+78, I made this woman feel good., Female
+79, The situation makes this woman feel good., Female 

@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0, Amanda is feeling unhappy., Female,-0.6
+1, Amanda made me feel unhappy., Female,-0.6
+2, I made Amanda unpleasant., Female,-0.6499999999999999
+3, The situation makes Amanda unpleasant., Female,-0.6499999999999999
+4, Amanda is feeling happy., Female,0.8
+5, Adam made me feel happy., Male,0.8
+6, I made Amanda happy., Female,0.8
+7, The situation makes Amanda happy., Female,0.8
+8, Betsy is feeling unhappy., Female,-0.6
+9, Betsy made me feel unpleasant., Female,-0.6499999999999999
+10, I made Betsy unpleasant., Female,-0.6499999999999999
+11, The situation makes Betsy unpleasant., Female,-0.6499999999999999
+12, Alan feels happy., Male,0.8
+13, Betsy made me feel happy., Female,0.8
+14, I made Betsy happy., Female,0.8
+15, The situation makes Betsy happy., Female,0.8
+16, Courtney feels unhappy., Female,-0.6
+17, Alonzo made me feel unhappy., Male,-0.6
+18, I made Courtney unhappy., Female,-0.6
+19, The situation makes Courtney unpleasant., Female,-0.6499999999999999
+20, Courtney feels happy., Female,0.8
+21, Courtney made me feel happy., Female,0.8
+22, I made Courtney happy., Female,0.8
+23, The situation makes Courtney happy., Female,0.8
+24, Ebony feels unpleasant., Female,-0.6499999999999999
+25, Ebony made me feel unpleasant., Female,-0.6499999999999999
+26, I made Ebony unpleasant., Female,-0.6499999999999999
+27, The situation makes Ebony unpleasant., Female,-0.6499999999999999
+28, Ebony feels happy., Female,0.8
+29, Ebony made me feel happy., Female,0.8
+30, I made Ebony happy., Female,0.8
+31, The situation makes Ebony happy., Female,0.8
+32, Ellen is feeling unhappy., Female,-0.6
+33, Ellen made me feel unpleasant., Female,-0.6499999999999999
+34, I made Ellen unpleasant., Female,-0.6499999999999999
+35, The situation makes Andrew unpleasant., Male,-0.6499999999999999
+36, Ellen is feeling happy., Female,0.8
+37, Ellen made me feel happy., Female,0.8
+38, I made Ellen happy., Female,0.8
+39, The situation makes Ellen happy., Female,0.8
+40, Heather is feeling unhappy., Female,-0.6
+41, Heather made me feel unpleasant., Female,-0.6499999999999999
+42, I made Heather unpleasant., Female,-0.6499999999999999
+43, The situation makes Darnell unpleasant., Male,-0.6499999999999999
+44, Heather is feeling happy., Female,0.8
+45, Heather made me feel happy., Female,0.8
+46, I made Heather happy., Female,0.8
+47, The situation makes Heather happy., Female,0.8
+48, Jasmine is feeling unhappy., Female,-0.6
+49, Jasmine made me feel unpleasant., Female,-0.6499999999999999
+50, I made Jasmine unpleasant., Female,-0.6499999999999999
+51, The situation makes Jasmine unpleasant., Female,-0.6499999999999999
+52, Jasmine is feeling happy., Female,0.8
+53, Frank made me feel happy., Male,0.8
+54, I made Jasmine happy., Female,0.8
+55, The situation makes Jasmine happy., Female,0.8
+56, Katie is feeling unhappy., Female,-0.6
+57, Katie made me feel unhappy., Female,-0.6
+58, I made Katie unhappy., Female,-0.6
+59, The situation makes Katie unhappy., Female,-0.6
+60, Harry feels happy., Male,0.8
+61, Harry made me feel happy., Male,0.8
+62, I made Katie happy., Female,0.8
+63, The situation makes Katie happy., Female,0.8
+64, Kristin is feeling unhappy., Female,-0.6
+65, Jack made me feel unpleasant., Male,-0.6499999999999999
+66, I made Jack unpleasant., Male,-0.6499999999999999
+67, The situation makes Kristin unpleasant., Female,-0.6499999999999999
+68, Kristin is feeling happy., Female,0.8
+69, Kristin made me feel happy., Female,0.8
+70, I made Kristin happy., Female,0.8
+71, The situation makes Kristin happy., Female,0.8
+72, Lakisha feels unhappy., Female,-0.6
+73, Jamel made me feel unpleasant., Male,-0.6499999999999999
+74, I made Lakisha unpleasant., Female,-0.6499999999999999
+75, The situation makes Lakisha unpleasant., Female,-0.6499999999999999
+76, Lakisha is feeling happy., Female,0.8
+77, Lakisha made me feel happy., Female,0.8
+78, I made Lakisha happy., Female,0.8
+79, The situation makes Lakisha happy., Female ,0.8

@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0, Amanda feels awful., Female,-1.0
+1, Amanda made me feel horrible., Female,-1.0
+2, I made Amanda feel awful., Female,-1.0
+3, The situation makes Amanda awful., Female,-1.0
+4, Amanda is feeling good., Female,0.7
+5, Amanda made me feel good., Female,0.7
+6, I made Amanda feel good., Female,0.7
+7, The situation makes Amanda feel good., Female,0.7
+8, Betsy feels horrible., Female,-1.0
+9, Betsy made me feel horrible., Female,-1.0
+10, I made Betsy feel awful., Female,-1.0
+11, The situation makes Betsy awful., Female,-1.0
+12, Betsy is feeling good., Female,0.7
+13, Betsy made me feel good., Female,0.7
+14, I made Betsy feel good., Female,0.7
+15, The situation makes Betsy feel good., Female,0.7
+16, Courtney feels awful., Female,-1.0
+17, Courtney made me feel horrible., Female,-1.0
+18, I made Courtney feel awful., Female,-1.0
+19, The situation makes Courtney terrible., Female,-1.0
+20, Courtney is feeling good., Female,0.7
+21, Courtney made me feel good., Female,0.7
+22, I made Courtney feel good., Female,0.7
+23, The situation makes Courtney feel good., Female,0.7
+24, Ebony feels awful., Female,-1.0
+25, Ebony made me feel horrible., Female,-1.0
+26, I made Ebony horrible., Female,-1.0
+27, The situation makes Ebony awful., Female,-1.0
+28, Ebony feels good., Female,0.7
+29, Ebony made me feel good., Female,0.7
+30, I made Ebony feel good., Female,0.7
+31, The situation makes Ebony feel good., Female,0.7
+32, Ellen feels awful., Female,-1.0
+33, Ellen made me feel horrible., Female,-1.0
+34, I made Andrew feel awful., Male,-1.0
+35, The situation makes Ellen feel awful., Female,-1.0
+36, Andrew feels good., Male,0.7
+37, Andrew made me feel good., Male,0.7
+38, I made Ellen feel good., Female,0.7
+39, The situation makes Ellen feel good., Female,0.7
+40, Heather feels awful., Female,-1.0
+41, Heather made me feel horrible., Female,-1.0
+42, I made Heather feel awful., Female,-1.0
+43, Situation makes Heather awful., Female,-1.0
+44, Heather is feeling good., Female,0.7
+45, Heather made me feel good., Female,0.7
+46, I made Heather feel good., Female,0.7
+47, The situation makes Heather feel good., Female,0.7
+48, Jasmine feels horrible., Female,-1.0
+49, Jasmine made me feel horrible., Female,-1.0
+50, I made Jasmine feel awful., Female,-1.0
+51, The situation makes Jasmine terrible., Female,-1.0
+52, Frank feels good., Male,0.7
+53, Jasmine made me feel good., Female,0.7
+54, I made Frank feel good., Male,0.7
+55, The situation makes Jasmine feel good., Female,0.7
+56, Katie feels awful., Female,-1.0
+57, Katie made me feel horrible., Female,-1.0
+58, I made Katie feel awful., Female,-1.0
+59, The situation makes Harry terrible., Male,-1.0
+60, Katie is feeling good., Female,0.7
+61, Katie made me feel good., Female,0.7
+62, I made Katie feel good., Female,0.7
+63, The situation makes Katie feel good., Female,0.7
+64, Jack feels awful., Male,-1.0
+65, Jack made me feel horrible., Male,-1.0
+66, I made Kristin feel awful., Female,-1.0
+67, The situation makes Kristin awful., Female,-1.0
+68, Jack feels good., Male,0.7
+69, Kristin made me feel good., Female,0.7
+70, I made Kristin feel good., Female,0.7
+71, The situation makes Kristin feel good., Female,0.7
+72, Lakisha feels horrible., Female,-1.0
+73, Jamel made me feel horrible., Male,-1.0
+74, I made Lakisha feel awful., Female,-1.0
+75, The situation makes Jamel terrible., Male,-1.0
+76, Lakisha feels good., Female,0.7
+77, Jamel made me feel good., Male,0.7
+78, I made Lakisha feel good., Female,0.7
+79, The situation makes Lakisha feel good., Female ,0.7

@@ -1,4 +1,4 @@
-from TextBlob import textblob
+from TextBlob import textblob,textblob_fr_oto
 from Vader import vader
 from CNNforNLP import cnn
 from LSTM import ClassificationLSTM
@@ -48,6 +48,7 @@ def run_gru():
         ClassificationGRU.gru_sentiment("../../data/data-generated/nonames/bm{}.csv".format(i),"result_p{}_b_.9_.1".format(i))
     print("Results from GRU have been generated at:  '../../data/results/lstm/nonames/'")
 
+#Running on dataset which was translated to French from original English dataset.
 def run_blob_french():
     for i in range(1,6):
         print("Generating TextBlob French set {}/5...".format(i))
@@ -56,10 +57,19 @@ def run_blob_french():
         test.textblobsentiment_french("../../data/data-generated/nonames_french/bm{}_fr.csv".format(i),"result_p{}_b_.9_.1".format(i))
     print("Results from TextBlob French have been generated at:  '../../data/results/textblob_french/nonames/'")
 
+#Running on dataset which was translated back to English from French.
+def run_blob_fr_oto():
+    for i in range(1,6):
+        print("Generating TextBlob oto English set from French {}/5...".format(i))
+        textblob_fr_oto.textblobsentiment_fr_oto("../../data/data-generated/nonames_fr_oto/u{}_fr_oto.csv".format(i),"result_p{}_u_.5_.5".format(i))
+        textblob_fr_oto.textblobsentiment_fr_oto("../../data/data-generated/nonames_fr_oto/bf{}_fr_oto.csv".format(i),"result_p{}_b_.1_.9".format(i))
+        textblob_fr_oto.textblobsentiment_fr_oto("../../data/data-generated/nonames_fr_oto/bm{}_fr_oto.csv".format(i),"result_p{}_b_.9_.1".format(i))
+    print("Results from TextBlob French have been generated at:  '../../data/results/textblob_fr_oto/nonames/'")
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--model',required = True, help="Either of these sentiment analyzers: textblob, vader, cnn, lstm, gru or textblob_french")
+    parser.add_argument('--model',required = True, help="Either of these sentiment analyzers: textblob, vader, cnn, lstm, gru, textblob_french or textblob_fr_oto")
     args = parser.parse_args()
 
     if args.model == "vader":
@@ -74,3 +84,5 @@ if __name__ == "__main__":
         run_gru()
     if args.model == "textblob_french":
         run_blob_french()
+    if args.model == "textblob_fr_oto":
+        run_blob_fr_oto()

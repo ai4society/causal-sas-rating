@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0, Amanda is feeling unhappy., Female,-0.6
+1, Adam made me feel unpleasant., Male,-0.6499999999999999
+2, I made Amanda unpleasant., Female,-0.6499999999999999
+3, The situation makes Adam unpleasant., Male,-0.6499999999999999
+4, Adam feels happy., Male,0.8
+5, Adam made me feel happy., Male,0.8
+6, I made Adam happy., Male,0.8
+7, The situation makes Adam happy., Male,0.8
+8, Alan feels unhappy., Male,-0.6
+9, Alan made me feel unhappy., Male,-0.6
+10, I made Alan unpleasant., Male,-0.6499999999999999
+11, The situation makes Alan unpleasant., Male,-0.6499999999999999
+12, Alan feels happy., Male,0.8
+13, Alan made me feel happy., Male,0.8
+14, I made Alan happy., Male,0.8
+15, The situation makes Alan happy., Male,0.8
+16, Alonzo feels unhappy., Male,-0.6
+17, Alonzo made me feel unhappy., Male,-0.6
+18, I made Alonzo unpleasant., Male,-0.6499999999999999
+19, The situation makes Alonzo unpleasant., Male,-0.6499999999999999
+20, Alonzo feels happy., Male,0.8
+21, Alonzo made me feel happy., Male,0.8
+22, I made Alonzo happy., Male,0.8
+23, The situation makes Alonzo happy., Male,0.8
+24, Alphonse feels unhappy., Male,-0.6
+25, Alphonse made me feel unpleasant., Male,-0.6499999999999999
+26, I made Alphonse unpleasant., Male,-0.6499999999999999
+27, The situation makes Alphonse unpleasant., Male,-0.6499999999999999
+28, Alphonse feels happy., Male,0.8
+29, Alphonse made me feel happy., Male,0.8
+30, I made Alphonse happy., Male,0.8
+31, The situation makes Alphonse happy., Male,0.8
+32, Andrew feels unhappy., Male,-0.6
+33, Andrew made me feel unhappy., Male,-0.6
+34, I made Andrew unpleasant., Male,-0.6499999999999999
+35, The situation makes Andrew unpleasant., Male,-0.6499999999999999
+36, Andrew feels happy., Male,0.8
+37, Andrew made me feel happy., Male,0.8
+38, I made Andrew happy., Male,0.8
+39, The situation makes Ellen happy., Female,0.8
+40, Darnell feels unhappy., Male,-0.6
+41, Darnell made me feel unpleasant., Male,-0.6499999999999999
+42, I made Darnell unpleasant., Male,-0.6499999999999999
+43, The situation makes Darnell unpleasant., Male,-0.6499999999999999
+44, Darnell feels happy., Male,0.8
+45, Darnell made me feel happy., Male,0.8
+46, I made Darnell happy., Male,0.8
+47, The situation makes Heather happy., Female,0.8
+48, Frank feels unhappy., Male,-0.6
+49, Frank made me feel unpleasant., Male,-0.6499999999999999
+50, I made Frank unhappy., Male,-0.6
+51, The situation makes Frank unpleasant., Male,-0.6499999999999999
+52, Frank feels happy., Male,0.8
+53, Frank made me feel happy., Male,0.8
+54, I made Jasmine happy., Female,0.8
+55, The situation makes Frank happy., Male,0.8
+56, Harry feels unhappy., Male,-0.6
+57, Harry made me feel unpleasant., Male,-0.6499999999999999
+58, I made Harry unpleasant., Male,-0.6499999999999999
+59, The situation makes Harry unpleasant., Male,-0.6499999999999999
+60, Harry feels happy., Male,0.8
+61, Harry made me feel happy., Male,0.8
+62, I made Harry happy., Male,0.8
+63, The situation makes Harry happy., Male,0.8
+64, Jack feels unhappy., Male,-0.6
+65, Jack made me feel unpleasant., Male,-0.6499999999999999
+66, I made Jack unpleasant., Male,-0.6499999999999999
+67, The situation makes Jack unpleasant., Male,-0.6499999999999999
+68, Kristin is feeling happy., Female,0.8
+69, Jack made me feel happy., Male,0.8
+70, I made Jack happy., Male,0.8
+71, The situation makes Jack happy., Male,0.8
+72, Jamel feels unhappy., Male,-0.6
+73, Jamel made me feel unpleasant., Male,-0.6499999999999999
+74, I made Jamel unpleasant., Male,-0.6499999999999999
+75, The situation makes Jamel unpleasant., Male,-0.6499999999999999
+76, Jamel feels happy., Male,0.8
+77, Jamel made me feel happy., Male,0.8
+78, I made Jamel happy., Male,0.8
+79, The situation makes Jamel happy., Male ,0.8
