@@ -26,7 +26,7 @@ def textblobsentiment_fr_oto(path,file_name):
     d = {'Sentence':text,'Gender':set[' Gender'],'Sentiment':sentiment}
     final_df = pd.DataFrame(d, columns=['Sentence','Gender','Sentiment'])
 
-    final_df.to_csv('../../data/results/textblob_fr_oto/nonames/{}.csv'.format(file_name),encoding="latin-1")
+    final_df.to_csv('../../data/results/textblob/textblob_fr_oto/nonames/{}.csv'.format(file_name),encoding="latin-1")
 
 def textblobsentiment_fr_oto_names(path,file_name):
     set = pd.read_csv(path,engine="python",encoding="latin-1")
@@ -45,4 +45,4 @@ def textblobsentiment_fr_oto_names(path,file_name):
     d = {'Sentence':text,'Gender':set[' Gender'],'Sentiment':sentiment}
     final_df = pd.DataFrame(d, columns=['Sentence','Gender','Sentiment'])
 
-    final_df.to_csv('../../data/results/textblob_fr_oto/withnames/{}.csv'.format(file_name),encoding="latin-1")
+    final_df.to_csv('../../data/results/textblob/textblob_fr_oto/withnames/{}.csv'.format(file_name),encoding="latin-1")
