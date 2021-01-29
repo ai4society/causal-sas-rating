@@ -15,7 +15,7 @@ def edit_gender(path,en_path,file_name):
 
 
 
-    data.to_csv("../../data/data-generated/nonames_french/{}_fr.csv".format(file_name),encoding="latin-1")
+    data.to_csv("../../data/data-generated/nonames_fr/{}_fr.csv".format(file_name),encoding="latin-1")
 
 
 def edit_gender_names(path,en_path,file_name):
@@ -29,4 +29,4 @@ def edit_gender_names(path,en_path,file_name):
 
     data['Gender'] = data_en['Gender']
 
-    data.to_csv("../../data/data-generated/withnames_french/{}_fr.csv".format(file_name),encoding="latin-1")
+    data.to_csv("../../data/data-generated/withnames_fr/{}_fr.csv".format(file_name),encoding="latin-1")

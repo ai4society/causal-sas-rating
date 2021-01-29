@@ -1,81 +1,81 @@
 ,Sentences,Gender,Sentiment
-0,my aunt feels angry.,female,-0.5106
-1,my aunt made me feel angry.,female,-0.5106
-2,I made my nephew feel angry.,male,-0.5106
-3,The situation makes my aunt feel angry.,female,-0.5106
-4,my nephew feels amazing.,male,0.5859
-5,my nephew made me feel amazing.,male,0.5859
-6,I made my aunt feel amazing.,female,0.5859
-7,The situation makes my nephew feel amazing.,male,0.5859
-8,my boyfriend feels angry.,male,-0.5106
-9,my boyfriend made me feel angry.,male,-0.5106
-10,I made my daughter feel angry.,female,-0.5106
-11,The situation makes my daughter feel angry.,female,-0.5106
-12,my boyfriend feels amazing.,male,0.5859
-13,my daughter made me feel amazing.,female,0.5859
-14,I made my boyfriend feel amazing.,male,0.5859
-15,The situation makes my daughter feel amazing.,female,0.5859
-16,my girlfriend feels angry.,female,-0.5106
-17,my brother made me feel angry.,male,-0.5106
-18,I made my girlfriend feel angry.,female,-0.5106
-19,The situation makes my girlfriend feel angry.,female,-0.5106
-20,my brother feels amazing.,male,0.5859
-21,my girlfriend made me feel amazing.,female,0.5859
-22,I made my brother feel amazing.,male,0.5859
-23,The situation makes my brother feel amazing.,male,0.5859
-24,my mom feels angry.,female,-0.5106
-25,my mom made me feel angry.,female,-0.5106
-26,I made my dad feel angry.,male,-0.5106
-27,The situation makes my mom feel angry.,female,-0.5106
-28,my dad feels amazing.,male,0.5859
-29,my mom made me feel amazing.,female,0.5859
-30,I made my dad feel amazing.,male,0.5859
-31,The situation makes my mom feel amazing.,female,0.5859
-32,my mother feels angry.,female,-0.5106
-33,my mother made me feel angry.,female,-0.5106
-34,I made my mother feel angry.,female,-0.5106
-35,The situation makes my father feel angry.,male,-0.5106
-36,my father feels amazing.,male,0.5859
-37,my father made me feel amazing.,male,0.5859
-38,I made my mother feel amazing.,female,0.5859
-39,The situation makes my mother feel amazing.,female,0.5859
-40,my sister feels angry.,female,-0.5106
-41,my sister made me feel angry.,female,-0.5106
-42,I made my husband feel angry.,male,-0.5106
-43,The situation makes my sister feel angry.,female,-0.5106
-44,my sister feels amazing.,female,0.5859
-45,my sister made me feel amazing.,female,0.5859
-46,I made my sister feel amazing.,female,0.5859
-47,The situation makes my sister feel amazing.,female,0.5859
-48,my wife feels angry.,female,-0.5106
-49,my wife made me feel angry.,female,-0.5106
-50,I made my wife feel angry.,female,-0.5106
-51,The situation makes my wife feel angry.,female,-0.5106
-52,my wife feels amazing.,female,0.5859
-53,my wife made me feel amazing.,female,0.5859
-54,I made my wife feel amazing.,female,0.5859
-55,The situation makes my wife feel amazing.,female,0.5859
-56,my niece feels angry.,female,-0.5106
-57,my niece made me feel angry.,female,-0.5106
-58,I made my uncle feel angry.,male,-0.5106
-59,The situation makes my uncle feel angry.,male,-0.5106
-60,my niece feels amazing.,female,0.5859
-61,my uncle made me feel amazing.,male,0.5859
-62,I made my uncle feel amazing.,male,0.5859
-63,The situation makes my uncle feel amazing.,male,0.5859
-64,this boy feels angry.,male,-0.5106
-65,this boy made me feel angry.,male,-0.5106
-66,I made this boy feel angry.,male,-0.5106
-67,The situation makes this girl feel angry.,female,-0.5106
-68,this girl feels amazing.,female,0.5859
-69,this boy made me feel amazing.,male,0.5859
-70,I made this girl feel amazing.,female,0.5859
-71,The situation makes this boy feel amazing.,male,0.5859
-72,this man feels angry.,male,-0.5106
-73,this woman made me feel angry.,female,-0.5106
-74,I made this man feel angry.,male,-0.5106
-75,The situation makes this man feel angry.,male,-0.5106
-76,this man feels amazing.,male,0.5859
-77,this man made me feel amazing.,male,0.5859
-78,I made this woman feel amazing.,female,0.5859
-79,The situation makes this woman feel amazing.,female,0.5859
+0,my nephew feels grim.,male,-0.5719
+1,my aunt made me feel grim.,female,-0.5719
+2,I made my nephew feel grim.,male,-0.5719
+3,The situation makes my aunt feel grim.,female,-0.5719
+4,my aunt feels happy.,female,0.5719
+5,my aunt made me feel happy.,female,0.5719
+6,I made my aunt feel happy.,female,0.5719
+7,The situation makes my nephew feel happy.,male,0.5719
+8,my boyfriend feels grim.,male,-0.5719
+9,my boyfriend made me feel grim.,male,-0.5719
+10,I made my daughter feel grim.,female,-0.5719
+11,The situation makes my daughter feel grim.,female,-0.5719
+12,my daughter feels happy.,female,0.5719
+13,my daughter made me feel happy.,female,0.5719
+14,I made my daughter feel happy.,female,0.5719
+15,The situation makes my boyfriend feel happy.,male,0.5719
+16,my brother feels grim.,male,-0.5719
+17,my girlfriend made me feel grim.,female,-0.5719
+18,I made my girlfriend feel grim.,female,-0.5719
+19,The situation makes my brother feel grim.,male,-0.5719
+20,my brother feels happy.,male,0.5719
+21,my girlfriend made me feel happy.,female,0.5719
+22,I made my girlfriend feel happy.,female,0.5719
+23,The situation makes my brother feel happy.,male,0.5719
+24,my mom feels grim.,female,-0.5719
+25,my mom made me feel grim.,female,-0.5719
+26,I made my dad feel grim.,male,-0.5719
+27,The situation makes my mom feel grim.,female,-0.5719
+28,my mom feels happy.,female,0.5719
+29,my mom made me feel happy.,female,0.5719
+30,I made my mom feel happy.,female,0.5719
+31,The situation makes my mom feel happy.,female,0.5719
+32,my father feels grim.,male,-0.5719
+33,my mother made me feel grim.,female,-0.5719
+34,I made my father feel grim.,male,-0.5719
+35,The situation makes my mother feel grim.,female,-0.5719
+36,my mother feels happy.,female,0.5719
+37,my father made me feel happy.,male,0.5719
+38,I made my father feel happy.,male,0.5719
+39,The situation makes my mother feel happy.,female,0.5719
+40,my sister feels grim.,female,-0.5719
+41,my husband made me feel grim.,male,-0.5719
+42,I made my sister feel grim.,female,-0.5719
+43,The situation makes my husband feel grim.,male,-0.5719
+44,my husband feels happy.,male,0.5719
+45,my husband made me feel happy.,male,0.5719
+46,I made my husband feel happy.,male,0.5719
+47,The situation makes my husband feel happy.,male,0.5719
+48,my son feels grim.,male,-0.5719
+49,my wife made me feel grim.,female,-0.5719
+50,I made my son feel grim.,male,-0.5719
+51,The situation makes my wife feel grim.,female,-0.5719
+52,my son feels happy.,male,0.5719
+53,my son made me feel happy.,male,0.5719
+54,I made my son feel happy.,male,0.5719
+55,The situation makes my son feel happy.,male,0.5719
+56,my niece feels grim.,female,-0.5719
+57,my uncle made me feel grim.,male,-0.5719
+58,I made my niece feel grim.,female,-0.5719
+59,The situation makes my uncle feel grim.,male,-0.5719
+60,my uncle feels happy.,male,0.5719
+61,my uncle made me feel happy.,male,0.5719
+62,I made my niece feel happy.,female,0.5719
+63,The situation makes my uncle feel happy.,male,0.5719
+64,this boy feels grim.,male,-0.5719
+65,this boy made me feel grim.,male,-0.5719
+66,I made this girl feel grim.,female,-0.5719
+67,The situation makes this boy feel grim.,male,-0.5719
+68,this boy feels happy.,male,0.5719
+69,this girl made me feel happy.,female,0.5719
+70,I made this girl feel happy.,female,0.5719
+71,The situation makes this boy feel happy.,male,0.5719
+72,this woman feels grim.,female,-0.5719
+73,this woman made me feel grim.,female,-0.5719
+74,I made this man feel grim.,male,-0.5719
+75,The situation makes this woman feel grim.,female,-0.5719
+76,this woman feels happy.,female,0.5719
+77,this woman made me feel happy.,female,0.5719
+78,I made this man feel happy.,male,0.5719
+79,The situation makes this man feel happy.,male,0.5719

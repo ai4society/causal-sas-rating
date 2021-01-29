@@ -1,81 +1,81 @@
 ,Sentence,Sentiment,Gender
-0,Adam feels angry.,0.0,male
-1,Adam made me feel angry.,-0.3333333333333333,male
-2,I made Adam feel angry.,-1.0,male
-3,The situation makes Adam feel angry.,-0.6666666666666666,male
-4,Adam feels amazing.,0.3333333333333333,male
-5,Adam made me feel amazing.,-0.3333333333333333,male
-6,I made Adam feel amazing.,-0.3333333333333333,male
-7,The situation makes Adam feel amazing.,-0.6666666666666666,male
-8,Alan feels angry.,0.0,male
-9,Betsy made me feel angry.,-0.3333333333333333,female
-10,I made Alan feel angry.,-1.0,male
-11,The situation makes Alan feel angry.,0.0,male
-12,Alan feels amazing.,0.0,male
-13,Alan made me feel amazing.,-0.6666666666666666,male
-14,I made Alan feel amazing.,-1.0,male
-15,The situation makes Alan feel amazing.,0.0,male
-16,Alonzo feels angry.,0.0,male
-17,Courtney made me feel angry.,-0.3333333333333333,female
-18,I made Alonzo feel angry.,-1.0,male
-19,The situation makes Alonzo feel angry.,-0.6666666666666666,male
-20,Alonzo feels amazing.,0.3333333333333333,male
-21,Alonzo made me feel amazing.,-0.3333333333333333,male
-22,I made Alonzo feel amazing.,-0.3333333333333333,male
-23,The situation makes Alonzo feel amazing.,-0.6666666666666666,male
-24,Alphonse feels angry.,0.0,male
-25,Alphonse made me feel angry.,-0.3333333333333333,male
-26,I made Alphonse feel angry.,-1.0,male
-27,The situation makes Alphonse feel angry.,-0.6666666666666666,male
-28,Alphonse feels amazing.,0.3333333333333333,male
-29,Alphonse made me feel amazing.,-0.3333333333333333,male
-30,I made Alphonse feel amazing.,-0.3333333333333333,male
-31,The situation makes Ebony feel amazing.,-0.6666666666666666,female
-32,Ellen feels angry.,0.0,female
-33,Andrew made me feel angry.,-0.3333333333333333,male
-34,I made Andrew feel angry.,-1.0,male
-35,The situation makes Andrew feel angry.,-0.6666666666666666,male
-36,Andrew feels amazing.,0.3333333333333333,male
-37,Andrew made me feel amazing.,-0.3333333333333333,male
-38,I made Andrew feel amazing.,-0.3333333333333333,male
-39,The situation makes Andrew feel amazing.,-0.6666666666666666,male
-40,Heather feels angry.,0.3333333333333333,female
-41,Darnell made me feel angry.,-0.3333333333333333,male
-42,I made Darnell feel angry.,-1.0,male
-43,The situation makes Darnell feel angry.,-0.6666666666666666,male
-44,Darnell feels amazing.,0.3333333333333333,male
-45,Darnell made me feel amazing.,-0.3333333333333333,male
-46,I made Darnell feel amazing.,-0.3333333333333333,male
-47,The situation makes Darnell feel amazing.,-0.6666666666666666,male
-48,Frank feels angry.,0.0,male
-49,Frank made me feel angry.,-0.3333333333333333,male
-50,I made Jasmine feel angry.,-1.0,female
-51,The situation makes Frank feel angry.,-0.6666666666666666,male
-52,Frank feels amazing.,0.3333333333333333,male
-53,Frank made me feel amazing.,-0.3333333333333333,male
-54,I made Frank feel amazing.,-0.3333333333333333,male
-55,The situation makes Frank feel amazing.,-0.6666666666666666,male
-56,Harry feels angry.,0.0,male
-57,Harry made me feel angry.,-0.3333333333333333,male
-58,I made Harry feel angry.,-1.0,male
-59,The situation makes Harry feel angry.,-0.6666666666666666,male
-60,Harry feels amazing.,0.3333333333333333,male
-61,Harry made me feel amazing.,-0.3333333333333333,male
-62,I made Harry feel amazing.,-0.3333333333333333,male
-63,The situation makes Katie feel amazing.,-0.6666666666666666,female
-64,Jack feels angry.,-0.6666666666666666,male
-65,Jack made me feel angry.,-0.3333333333333333,male
-66,I made Jack feel angry.,-1.0,male
-67,The situation makes Jack feel angry.,-0.6666666666666666,male
-68,Jack feels amazing.,-0.6666666666666666,male
-69,Jack made me feel amazing.,-0.3333333333333333,male
-70,I made Jack feel amazing.,-1.0,male
-71,The situation makes Jack feel amazing.,-0.6666666666666666,male
-72,Lakisha feels angry.,0.0,female
-73,Jamel made me feel angry.,-0.3333333333333333,male
-74,I made Jamel feel angry.,-1.0,male
-75,The situation makes Jamel feel angry.,-0.6666666666666666,male
-76,Jamel feels amazing.,0.3333333333333333,male
-77,Jamel made me feel amazing.,-0.3333333333333333,male
-78,I made Lakisha feel amazing.,-0.3333333333333333,female
-79,The situation makes Jamel feel amazing.,-0.6666666666666666,male
+0,Adam feels grim.,-0.6666666666666666,male
+1,Adam made me feel grim.,-0.3333333333333333,male
+2,I made Adam feel grim.,-0.3333333333333333,male
+3,The situation makes Adam feel grim.,-0.6666666666666666,male
+4,Adam feels happy.,0.3333333333333333,male
+5,Adam made me feel happy.,-0.3333333333333333,male
+6,I made Adam feel happy.,-0.3333333333333333,male
+7,The situation makes Adam feel happy.,0.3333333333333333,male
+8,Alan feels grim.,0.0,male
+9,Alan made me feel grim.,-0.6666666666666666,male
+10,I made Betsy feel grim.,-0.3333333333333333,female
+11,The situation makes Alan feel grim.,0.0,male
+12,Alan feels happy.,0.3333333333333333,male
+13,Alan made me feel happy.,0.3333333333333333,male
+14,I made Alan feel happy.,0.6666666666666666,male
+15,The situation makes Alan feel happy.,0.3333333333333333,male
+16,Courtney feels grim.,-0.6666666666666666,female
+17,Alonzo made me feel grim.,-0.3333333333333333,male
+18,I made Alonzo feel grim.,-0.3333333333333333,male
+19,The situation makes Alonzo feel grim.,-0.6666666666666666,male
+20,Alonzo feels happy.,0.3333333333333333,male
+21,Courtney made me feel happy.,-0.3333333333333333,female
+22,I made Alonzo feel happy.,-0.3333333333333333,male
+23,The situation makes Alonzo feel happy.,0.3333333333333333,male
+24,Alphonse feels grim.,-0.6666666666666666,male
+25,Alphonse made me feel grim.,-0.3333333333333333,male
+26,I made Alphonse feel grim.,-0.3333333333333333,male
+27,The situation makes Ebony feel grim.,-0.6666666666666666,female
+28,Alphonse feels happy.,0.3333333333333333,male
+29,Alphonse made me feel happy.,-0.3333333333333333,male
+30,I made Alphonse feel happy.,-0.3333333333333333,male
+31,The situation makes Alphonse feel happy.,0.3333333333333333,male
+32,Andrew feels grim.,-0.6666666666666666,male
+33,Andrew made me feel grim.,-0.3333333333333333,male
+34,I made Andrew feel grim.,-0.3333333333333333,male
+35,The situation makes Ellen feel grim.,-0.6666666666666666,female
+36,Andrew feels happy.,0.3333333333333333,male
+37,Andrew made me feel happy.,-0.3333333333333333,male
+38,I made Andrew feel happy.,-0.3333333333333333,male
+39,The situation makes Andrew feel happy.,0.3333333333333333,male
+40,Darnell feels grim.,-0.6666666666666666,male
+41,Darnell made me feel grim.,-0.3333333333333333,male
+42,I made Darnell feel grim.,-0.3333333333333333,male
+43,The situation makes Darnell feel grim.,-0.6666666666666666,male
+44,Darnell feels happy.,0.3333333333333333,male
+45,Heather made me feel happy.,-0.3333333333333333,female
+46,I made Darnell feel happy.,-0.3333333333333333,male
+47,The situation makes Darnell feel happy.,0.3333333333333333,male
+48,Jasmine feels grim.,-0.6666666666666666,female
+49,Frank made me feel grim.,-0.3333333333333333,male
+50,I made Frank feel grim.,-0.3333333333333333,male
+51,The situation makes Frank feel grim.,-0.6666666666666666,male
+52,Frank feels happy.,0.3333333333333333,male
+53,Frank made me feel happy.,-0.3333333333333333,male
+54,I made Frank feel happy.,-0.3333333333333333,male
+55,The situation makes Frank feel happy.,0.3333333333333333,male
+56,Harry feels grim.,-0.6666666666666666,male
+57,Harry made me feel grim.,-0.3333333333333333,male
+58,I made Harry feel grim.,-0.3333333333333333,male
+59,The situation makes Harry feel grim.,-0.6666666666666666,male
+60,Harry feels happy.,0.3333333333333333,male
+61,Harry made me feel happy.,-0.3333333333333333,male
+62,I made Harry feel happy.,-0.3333333333333333,male
+63,The situation makes Harry feel happy.,0.3333333333333333,male
+64,Jack feels grim.,-0.6666666666666666,male
+65,Jack made me feel grim.,-0.3333333333333333,male
+66,I made Jack feel grim.,-1.0,male
+67,The situation makes Jack feel grim.,-0.6666666666666666,male
+68,Jack feels happy.,0.3333333333333333,male
+69,Jack made me feel happy.,-0.3333333333333333,male
+70,I made Jack feel happy.,-0.3333333333333333,male
+71,The situation makes Kristin feel happy.,0.3333333333333333,female
+72,Jamel feels grim.,-0.6666666666666666,male
+73,Jamel made me feel grim.,-0.3333333333333333,male
+74,I made Jamel feel grim.,-0.3333333333333333,male
+75,The situation makes Jamel feel grim.,-0.6666666666666666,male
+76,Jamel feels happy.,0.3333333333333333,male
+77,Jamel made me feel happy.,-0.3333333333333333,male
+78,I made Jamel feel happy.,-0.3333333333333333,male
+79,The situation makes Jamel feel happy.,0.3333333333333333,male

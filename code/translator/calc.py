@@ -5,6 +5,8 @@ from tran_senti_diff import diff_withnames,diff_nonames
 
 from word_diff import word_diff_nonames,word_diff_withnames
 
+from gender_diff import gen_diff_withnames,gen_diff_nonames
+
 import pandas as pd
 
 import sys
@@ -176,32 +178,53 @@ print("You can see the statistics in 'calculations.txt' file")
 
 #
 # print("Please wait for few seconds to get word difference statistics")
-#
-# stdoutOrigin=sys.stdout
-# sys.stdout = open("word_diff_withnames.txt", "w")
-#
-# word_diff_withnames()
-#
-# sys.stdout.close()
-# sys.stdout=stdoutOrigin
-#
-# print("You can see the word differences (withnames) in 'word_diff_withnames.txt' file")
+
+stdoutOrigin=sys.stdout
+sys.stdout = open("word_diff_withnames.txt", "w")
+
 print("\n")
 print("Average word difference % (with names) for p1 is {},\np2 is {},\np3 is {},\np4 is {},\nand p5 is {}".format(word_diff_withnames()[0],word_diff_withnames()[1],word_diff_withnames()[2],word_diff_withnames()[3],word_diff_withnames()[4]))
+
+sys.stdout.close()
+sys.stdout=stdoutOrigin
+
+print("You can see the word differences (withnames) in 'word_diff_withnames.txt' file")
+
 
 
 ####################################################################
 
 # print("Please wait for few seconds to get word difference statistics")
-#
-# stdoutOrigin=sys.stdout
-# sys.stdout = open("word_diff_nonames.txt", "w")
-#
-# word_diff_nonames()
-#
-# sys.stdout.close()
-# sys.stdout=stdoutOrigin
-#
-# print("You can see the word differences (nonames) in 'word_diff_nonames.txt' file")
+
+stdoutOrigin=sys.stdout
+sys.stdout = open("word_diff_nonames.txt", "w")
+
 print("\n")
 print("Average word difference % (without names) for p1 is {},\np2 is {},\np3 is {},\np4 is {},\nand p5 is {}".format(word_diff_nonames()[0],word_diff_nonames()[1],word_diff_nonames()[2],word_diff_nonames()[3],word_diff_nonames()[4]))
+
+sys.stdout.close()
+sys.stdout=stdoutOrigin
+
+print("You can see the word differences (nonames) in 'word_diff_nonames.txt' file")
+
+
+#####################################################################
+stdoutOrigin=sys.stdout
+sys.stdout = open("gender_diff_nonames.txt", "w")
+
+gen_diff_nonames()
+
+sys.stdout.close()
+sys.stdout=stdoutOrigin
+
+print("You can see difference in gender variables at 'gender_diff_nonames.txt'")
+
+####################################################################
+stdoutOrigin=sys.stdout
+sys.stdout = open("gender_diff_withnames.txt", "w")
+
+gen_diff_withnames()
+
+sys.stdout.close()
+sys.stdout=stdoutOrigin
+print("You can see difference in gender variables at 'gender_diff_withnames.txt'")

@@ -1,81 +1,81 @@
 , Phrases, Gender
-0, Amanda is feeling angry., Female
-1, Adam made me angry., Male
-2, I made Adam angry., Male
-3, The situation makes Amanda angry., Female
-4, Adam feels amazing., Male
-5, Amanda made me feel amazing., Female
-6, I made Adam feel amazing., Male
-7, The situation makes Adam amazing., Male
-8, Alan is feeling angry., Male
-9, Betsy made me angry., Female
-10, I made Alan angry., Male
-11, The situation makes Betsy angry., Female
-12, Betsy feels amazing., Female
-13, Alan made me feel amazing., Male
-14, I made Betsy feel amazing., Female
-15, The situation makes Betsy amazing., Female
-16, Alonzo feels angry., Male
-17, Alonzo made me angry., Male
-18, I made Alonzo angry., Male
-19, The situation makes Alonzo angry., Male
-20, Alonzo feels amazing., Male
-21, Courtney made me feel amazing., Female
-22, I made Courtney feel amazing., Female
-23, The situation makes Courtney amazing., Female
-24, Alphonse feels angry., Male
-25, Ebony made me angry., Female
-26, I made Ebony angry., Female
-27, The situation makes Ebony angry., Female
-28, Alphonse feels amazing., Male
-29, Ebony made me feel amazing., Female
-30, I made Ebony feel amazing., Female
-31, The situation makes Alphonse incredible., Male
-32, Ellen is feeling angry., Female
-33, Ellen made me angry., Female
-34, I made Ellen angry., Female
-35, The situation makes Andrew angry., Male
-36, Ellen feels amazing., Female
-37, Andrew made me feel amazing., Male
-38, I made Ellen feel amazing., Female
-39, The situation makes Andrew feel amazing., Male
-40, Heather feels angry., Female
-41, Darnell made me angry., Male
-42, I made Heather angry., Female
-43, The situation makes Heather angry., Female
-44, Heather feels amazing., Female
-45, Darnell made me feel amazing., Male
-46, I made Darnell feel amazing., Male
-47, The situation makes Heather amazing., Female
-48, Jasmine feels angry., Female
-49, Jasmine made me angry., Female
-50, I made Jasmine angry., Female
-51, The situation makes Jasmine angry., Female
-52, Jasmine feels amazing., Female
-53, Frank made me feel amazing., Male
-54, I made Jasmine feel amazing., Female
-55, The situation makes Jasmine amazing., Female
-56, Harry is feeling angry., Male
-57, Katie made me angry., Female
-58, I made Katie angry., Female
-59, The situation makes Harry angry., Male
-60, Harry feels amazing., Male
-61, Katie made me feel amazing., Female
-62, I made Katie feel amazing., Female
-63, The situation makes Katie amazing., Female
-64, Kristin feels angry., Female
-65, Jack made me angry., Male
-66, I made Kristin angry., Female
-67, The situation makes Jack angry., Male
-68, Kristin feels amazing., Female
-69, Kristin made me feel amazing., Female
-70, I made Kristin amazing., Female
-71, The situation makes Jack amazing., Male
-72, Jamel feels angry., Male
-73, Lakisha made me angry., Female
-74, I made Lakisha angry., Female
-75, The situation makes Lakisha angry., Female
-76, Lakisha feels amazing., Female
-77, Lakisha made me feel amazing., Female
-78, I made Jamel incredible., Male
-79, The situation makes Jamel amazing., Male 
+0, Adam feels dark., Male
+1, Adam made me feel sinister., Male
+2, I made Adam dark., Male
+3, The situation makes Amanda gloomy., Female
+4, Amanda is feeling happy., Female
+5, Adam made me feel happy., Male
+6, I made Amanda happy., Female
+7, The situation makes Adam happy., Male
+8, Alan feels gloomy., Male
+9, Betsy made me feel grim., Female
+10, I made Betsy sinister., Female
+11, The situation makes Betsy gloomy., Female
+12, Betsy is feeling happy., Female
+13, Betsy made me feel happy., Female
+14, I made Betsy happy., Female
+15, The situation makes Betsy happy., Female
+16, Courtney feels gloomy., Female
+17, Alonzo made me feel sinister., Male
+18, I made Alonzo sinister., Male
+19, The situation makes Courtney gloomy., Female
+20, Courtney feels happy., Female
+21, Courtney made me feel happy., Female
+22, I made Alonzo happy., Male
+23, The situation makes Courtney happy., Female
+24, Ebony feels dark., Female
+25, Ebony made me feel sinister., Female
+26, I made Ebony dark., Female
+27, The situation makes Ebony gloomy., Female
+28, Ebony feels happy., Female
+29, Ebony made me feel happy., Female
+30, I made Ebony happy., Female
+31, The situation makes Ebony happy., Female
+32, Andrew feels gloomy., Male
+33, Andrew made me feel sinister., Male
+34, I made Ellen dark., Female
+35, The situation makes Andrew gloomy., Male
+36, Andrew feels happy., Male
+37, Ellen made me feel happy., Female
+38, I made Ellen happy., Female
+39, The situation makes Ellen happy., Female
+40, Heather feels gloomy., Female
+41, Heather made me feel grim., Female
+42, I made Heather sinister., Female
+43, The situation makes Heather gloomy., Female
+44, Darnell feels happy., Male
+45, Heather made me feel happy., Female
+46, I made Heather happy., Female
+47, The situation makes Darnell happy., Male
+48, Jasmine feels gloomy., Female
+49, Jasmine made me feel sinister., Female
+50, I made Frank dark., Male
+51, The situation makes Frank feel gloomy., Male
+52, Frank feels happy., Male
+53, Frank made me feel happy., Male
+54, I made Jasmine happy., Female
+55, The situation makes Frank happy., Male
+56, Harry feels gloomy., Male
+57, Katie made me feel sinister., Female
+58, I made Katie sinister., Female
+59, The situation makes Katie gloomy., Female
+60, Harry feels happy., Male
+61, Katie made me feel happy., Female
+62, I made Katie happy., Female
+63, The situation makes Katie happy., Female
+64, Kristin feels gloomy., Female
+65, Jack made me feel sinister., Male
+66, I made Jack dark., Male
+67, The situation makes Jack gloomy., Male
+68, Jack feels happy., Male
+69, Jack made me feel happy., Male
+70, I made Kristin happy., Female
+71, The situation makes Jack happy., Male
+72, Lakisha feels gloomy., Female
+73, Lakisha made me feel sinister., Female
+74, I made Lakisha dark., Female
+75, The situation makes Lakisha gloomy., Female
+76, Lakisha is feeling happy., Female
+77, Jamel made me feel happy., Male
+78, I made Jamel happy., Male
+79, The situation makes Lakisha happy., Female 

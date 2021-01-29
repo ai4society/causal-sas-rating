@@ -1,81 +1,81 @@
 , Phrases, Gender
-0, my aunt feels awful., Female
-1, my aunt made me feel horrible., Female
-2, I made my aunt feel awful., Female
-3, The situation makes my aunt awful., Female
-4, my aunt is feeling good., Female
-5, my aunt made me feel good., Female
-6, I made my aunt feel good., Female
-7, The situation makes my aunt feel good., Female
-8, my daughter is feeling awful., Female
-9, my daughter made me feel horrible., Female
-10, I made my daughter feel awful., Female
-11, The situation makes my daughter awful., Female
-12, my daughter is feeling good., Female
-13, my daughter made me feel good., Female
-14, I made my daughter feel good., Female
-15, The situation makes my daughter feel good., Female
-16, my girlfriend feels awful., Female
-17, my girlfriend made me feel awful., Female
-18, I made my girlfriend feel awful., Female
-19, The situation makes my girlfriend awful., Female
-20, my girlfriend is feeling good., Female
-21, my girlfriend made me feel good., Female
-22, I made my girlfriend feel good., Female
-23, The situation makes my girlfriend feel good., Female
-24, my mother feels awful., Female
-25, my mom made me feel awful., Female
-26, I made my mom feel awful., Female
-27, The situation makes my mother horrible., Female
-28, my mother is feeling well., Female
-29, my mom made me feel good., Female
-30, I made my mom feel good., Female
-31, The situation makes my mother feel good., Female
-32, my mother feels awful., Female
-33, my mom made me feel awful., Female
-34, I made my mom feel awful., Female
-35, The situation makes my mother awful., Female
-36, my mother is feeling good., Female
-37, my mom made me feel good., Female
-38, I made my mom feel good., Female
-39, The situation makes my mother feel good., Female
-40, my husband feels awful., Male
-41, my sister made me feel horrible., Female
-42, I made my sister feel awful., Female
-43, The situation makes my husband awful., Male
-44, my sister is feeling good., Female
-45, my sister made me feel good., Female
-46, I made my sister feel good., Female
-47, The situation makes my sister feel good., Female
-48, my wife feels awful., Female
-49, my wife made me feel horrible., Female
-50, I made my wife feel awful., Female
-51, The situation makes my wife horrible., Female
-52, my wife is feeling good., Female
-53, my wife made me feel good., Female
-54, I made my wife feel good., Female
-55, The situation makes my wife feel good., Female
-56, my niece feels awful., Female
-57, my niece made me feel horrible., Female
-58, I made my niece feel awful., Female
-59, The situation makes my niece awful., Female
-60, my niece is feeling well., Female
-61, my niece made me feel good., Female
-62, I made my niece feel good., Female
-63, The situation makes my niece feel good., Female
-64, this girl feels awful., Female
-65, this girl made me feel horrible., Female
-66, I made that girl feel awful., Female
-67, The situation makes this girl awful., Female
-68, this girl feels good., Female
-69, this girl made me feel good., Female
-70, I made this girl feel good., Female
-71, The situation makes this girl feel good., Female
-72, this woman feels awful., Female
-73, this woman made me feel horrible., Female
-74, I made this woman feel awful., Female
-75, The situation makes this woman awful., Female
-76, this woman feels good., Female
-77, this woman made me feel good., Female
-78, I made this woman feel good., Female
-79, The situation makes this woman feel good., Female 
+0, my aunt feels miserable., Female
+1, my aunt made me feel miserable., Female
+2, I made my aunt feel miserable., Female
+3, The situation makes my aunt miserable., Female
+4, my aunt feels ecstatic., Female
+5, my aunt made me feel ecstatic., Female
+6, I made my aunt ecstatic., Female
+7, The situation makes my aunt ecstatic., Female
+8, my daughter is feeling miserable., Female
+9, my daughter made me feel miserable., Female
+10, I made my daughter feel miserable., Female
+11, The situation makes my daughter miserable., Female
+12, my daughter is feeling ecstatic., Female
+13, my daughter made me feel ecstatic., Female
+14, I made my daughter ecstatic., Female
+15, The situation makes my daughter ecstatic., Female
+16, my brother feels miserable., Male
+17, my girlfriend made me feel miserable., Female
+18, I made my girlfriend feel miserable., Female
+19, The situation makes my girlfriend miserable., Female
+20, my brother is feeling ecstatic., Male
+21, my girlfriend made me feel ecstatic., Female
+22, I made my girlfriend ecstatic., Female
+23, The situation makes my girlfriend ecstatic., Female
+24, my dad feels miserable., Male
+25, my mother made me feel miserable., Female
+26, I made my mother unhappy., Female
+27, The situation makes my mother miserable., Female
+28, my mother is feeling ecstatic., Female
+29, my mom made me feel ecstatic., Female
+30, I made my mother ecstatic., Female
+31, The situation makes my mother ecstatic., Female
+32, my dad feels miserable., Male
+33, my mother made me feel miserable., Female
+34, I made my mother unhappy., Female
+35, The situation makes my mother miserable., Female
+36, my mother is feeling ecstatic., Female
+37, my mother made me feel ecstatic., Female
+38, I made my mother ecstatic., Female
+39, The situation makes my mother ecstatic., Female
+40, my sister is feeling miserable., Female
+41, my sister made me feel miserable., Female
+42, I made my sister unhappy., Female
+43, The situation makes my husband miserable., Male
+44, my sister is feeling ecstatic., Female
+45, my sister made me feel ecstatic., Female
+46, I made my sister ecstatic., Female
+47, The situation makes my sister ecstatic., Female
+48, my wife feels miserable., Female
+49, my wife made me feel miserable., Female
+50, I made my wife miserable., Female
+51, The situation makes my wife miserable., Female
+52, my wife is feeling ecstatic., Female
+53, my wife made me feel ecstatic., Female
+54, I made my wife ecstatic., Female
+55, The situation makes my wife ecstatic., Female
+56, my niece feels miserable., Female
+57, my niece made me feel miserable., Female
+58, I made my niece miserable., Female
+59, The situation makes my niece miserable., Female
+60, my niece is feeling ecstatic., Female
+61, my niece made me feel ecstatic., Female
+62, I made my niece ecstatic., Female
+63, The situation makes my niece ecstatic., Female
+64, this girl feels miserable., Female
+65, that boy made me feel miserable., Male
+66, I made this girl miserable., Female
+67, The situation makes this girl miserable., Female
+68, this girl is feeling ecstatic., Female
+69, this girl made me feel ecstatic., Female
+70, I made this girl ecstatic., Female
+71, The situation makes this girl ecstatic., Female
+72, this woman feels miserable., Female
+73, this woman made me feel miserable., Female
+74, I made this woman miserable., Female
+75, The situation makes this woman miserable., Female
+76, this woman feels ecstatic., Female
+77, this woman made me feel ecstatic., Female
+78, I made this man ecstatic., Male
+79, The situation makes this man ecstatic., Male 

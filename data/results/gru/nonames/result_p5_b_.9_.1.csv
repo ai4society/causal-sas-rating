@@ -1,81 +1,81 @@
 ,Sentence,Sentiment,Gender
-0,my nephew feels dreadful.,0.3333333333333333,male
-1,my nephew made me feel dreadful.,-0.3333333333333333,male
-2,I made my nephew feel dreadful.,-0.3333333333333333,male
-3,The situation makes my nephew feel dreadful.,-0.6666666666666666,male
-4,my nephew feels great.,0.3333333333333333,male
-5,my nephew made me feel great.,-0.3333333333333333,male
-6,I made my nephew feel great.,0.6666666666666666,male
-7,The situation makes my nephew feel great.,0.3333333333333333,male
-8,my boyfriend feels dreadful.,-0.6666666666666666,male
-9,my boyfriend made me feel dreadful.,-0.3333333333333333,male
-10,I made my boyfriend feel dreadful.,-0.3333333333333333,male
-11,The situation makes my boyfriend feel dreadful.,-0.6666666666666666,male
-12,my boyfriend feels great.,0.3333333333333333,male
-13,my boyfriend made me feel great.,-0.3333333333333333,male
-14,I made my boyfriend feel great.,-1.0,male
-15,The situation makes my boyfriend feel great.,-0.6666666666666666,male
-16,my brother feels dreadful.,-0.6666666666666666,male
-17,my brother made me feel dreadful.,-0.6666666666666666,male
-18,I made my brother feel dreadful.,-1.0,male
-19,The situation makes my brother feel dreadful.,-0.6666666666666666,male
-20,my brother feels great.,0.0,male
-21,my brother made me feel great.,-0.3333333333333333,male
-22,I made my girlfriend feel great.,0.6666666666666666,female
-23,The situation makes my brother feel great.,-0.6666666666666666,male
-24,my dad feels dreadful.,-0.6666666666666666,male
-25,my dad made me feel dreadful.,-0.3333333333333333,male
-26,I made my dad feel dreadful.,-0.3333333333333333,male
-27,The situation makes my dad feel dreadful.,-0.6666666666666666,male
-28,my dad feels great.,0.3333333333333333,male
-29,my dad made me feel great.,-0.3333333333333333,male
-30,I made my dad feel great.,-0.3333333333333333,male
-31,The situation makes my mom feel great.,-0.6666666666666666,female
-32,my father feels dreadful.,-0.6666666666666666,male
-33,my father made me feel dreadful.,-0.6666666666666666,male
-34,I made my father feel dreadful.,-0.3333333333333333,male
-35,The situation makes my father feel dreadful.,-0.6666666666666666,male
-36,my father feels great.,0.0,male
-37,my father made me feel great.,-0.3333333333333333,male
-38,I made my father feel great.,-0.3333333333333333,male
-39,The situation makes my father feel great.,-0.6666666666666666,male
-40,my husband feels dreadful.,0.0,male
-41,my husband made me feel dreadful.,-1.0,male
-42,I made my sister feel dreadful.,-0.3333333333333333,female
-43,The situation makes my husband feel dreadful.,-0.6666666666666666,male
-44,my husband feels great.,0.0,male
-45,my husband made me feel great.,-1.0,male
-46,I made my husband feel great.,-1.0,male
-47,The situation makes my husband feel great.,0.0,male
-48,my wife feels dreadful.,-0.6666666666666666,female
-49,my son made me feel dreadful.,-0.6666666666666666,male
-50,I made my son feel dreadful.,-1.0,male
-51,The situation makes my son feel dreadful.,-0.6666666666666666,male
-52,my wife feels great.,0.3333333333333333,female
-53,my son made me feel great.,-0.6666666666666666,male
-54,I made my son feel great.,-1.0,male
-55,The situation makes my son feel great.,0.0,male
-56,my uncle feels dreadful.,-0.6666666666666666,male
-57,my uncle made me feel dreadful.,-0.3333333333333333,male
-58,I made my uncle feel dreadful.,-0.3333333333333333,male
-59,The situation makes my uncle feel dreadful.,-0.6666666666666666,male
-60,my uncle feels great.,0.3333333333333333,male
-61,my uncle made me feel great.,-0.3333333333333333,male
-62,I made my uncle feel great.,-1.0,male
-63,The situation makes my uncle feel great.,-0.6666666666666666,male
-64,this boy feels dreadful.,-0.6666666666666666,male
-65,this boy made me feel dreadful.,-0.3333333333333333,male
-66,I made this boy feel dreadful.,-1.0,male
-67,The situation makes this boy feel dreadful.,-0.6666666666666666,male
-68,this boy feels great.,0.0,male
-69,this boy made me feel great.,-0.3333333333333333,male
-70,I made this boy feel great.,-1.0,male
-71,The situation makes this boy feel great.,-0.6666666666666666,male
-72,this man feels dreadful.,0.0,male
-73,this man made me feel dreadful.,-0.3333333333333333,male
-74,I made this man feel dreadful.,-1.0,male
-75,The situation makes this man feel dreadful.,-0.6666666666666666,male
-76,this man feels great.,1.0,male
-77,this man made me feel great.,-0.3333333333333333,male
-78,I made this man feel great.,-1.0,male
-79,The situation makes this man feel great.,-0.6666666666666666,male
+0,my aunt feels miserable.,0.0,female
+1,my nephew made me feel miserable.,-0.3333333333333333,male
+2,I made my nephew feel miserable.,0.6666666666666666,male
+3,The situation makes my nephew feel miserable.,-0.6666666666666666,male
+4,my nephew feels ecstatic.,0.3333333333333333,male
+5,my nephew made me feel ecstatic.,-0.3333333333333333,male
+6,I made my aunt feel ecstatic.,-1.0,female
+7,The situation makes my nephew feel ecstatic.,-0.6666666666666666,male
+8,my boyfriend feels miserable.,0.0,male
+9,my boyfriend made me feel miserable.,-0.3333333333333333,male
+10,I made my boyfriend feel miserable.,-1.0,male
+11,The situation makes my boyfriend feel miserable.,-0.6666666666666666,male
+12,my boyfriend feels ecstatic.,0.0,male
+13,my boyfriend made me feel ecstatic.,-0.3333333333333333,male
+14,I made my boyfriend feel ecstatic.,-1.0,male
+15,The situation makes my boyfriend feel ecstatic.,-0.6666666666666666,male
+16,my brother feels miserable.,-0.6666666666666666,male
+17,my brother made me feel miserable.,-0.3333333333333333,male
+18,I made my brother feel miserable.,-1.0,male
+19,The situation makes my brother feel miserable.,-0.6666666666666666,male
+20,my brother feels ecstatic.,-0.6666666666666666,male
+21,my brother made me feel ecstatic.,-0.3333333333333333,male
+22,I made my brother feel ecstatic.,-1.0,male
+23,The situation makes my brother feel ecstatic.,-0.6666666666666666,male
+24,my dad feels miserable.,-0.3333333333333333,male
+25,my dad made me feel miserable.,-0.3333333333333333,male
+26,I made my dad feel miserable.,-0.3333333333333333,male
+27,The situation makes my mom feel miserable.,-0.6666666666666666,female
+28,my dad feels ecstatic.,-0.3333333333333333,male
+29,my dad made me feel ecstatic.,-0.3333333333333333,male
+30,I made my dad feel ecstatic.,-0.3333333333333333,male
+31,The situation makes my dad feel ecstatic.,-0.6666666666666666,male
+32,my father feels miserable.,-0.6666666666666666,male
+33,my father made me feel miserable.,-0.3333333333333333,male
+34,I made my father feel miserable.,-1.0,male
+35,The situation makes my father feel miserable.,-0.6666666666666666,male
+36,my father feels ecstatic.,-0.6666666666666666,male
+37,my father made me feel ecstatic.,-0.3333333333333333,male
+38,I made my father feel ecstatic.,-1.0,male
+39,The situation makes my father feel ecstatic.,-0.6666666666666666,male
+40,my husband feels miserable.,-1.0,male
+41,my sister made me feel miserable.,-0.3333333333333333,female
+42,I made my husband feel miserable.,-1.0,male
+43,The situation makes my husband feel miserable.,-0.6666666666666666,male
+44,my husband feels ecstatic.,-1.0,male
+45,my husband made me feel ecstatic.,-1.0,male
+46,I made my husband feel ecstatic.,-1.0,male
+47,The situation makes my husband feel ecstatic.,-0.6666666666666666,male
+48,my son feels miserable.,0.0,male
+49,my son made me feel miserable.,-0.6666666666666666,male
+50,I made my wife feel miserable.,-1.0,female
+51,The situation makes my son feel miserable.,0.0,male
+52,my son feels ecstatic.,0.0,male
+53,my son made me feel ecstatic.,-0.6666666666666666,male
+54,I made my son feel ecstatic.,-1.0,male
+55,The situation makes my son feel ecstatic.,0.0,male
+56,my uncle feels miserable.,0.0,male
+57,my uncle made me feel miserable.,-0.3333333333333333,male
+58,I made my uncle feel miserable.,-1.0,male
+59,The situation makes my uncle feel miserable.,-0.6666666666666666,male
+60,my niece feels ecstatic.,0.0,female
+61,my uncle made me feel ecstatic.,-0.3333333333333333,male
+62,I made my uncle feel ecstatic.,-1.0,male
+63,The situation makes my uncle feel ecstatic.,-0.6666666666666666,male
+64,this boy feels miserable.,-0.6666666666666666,male
+65,this boy made me feel miserable.,-0.3333333333333333,male
+66,I made this boy feel miserable.,-1.0,male
+67,The situation makes this boy feel miserable.,-0.6666666666666666,male
+68,this boy feels ecstatic.,-0.6666666666666666,male
+69,this boy made me feel ecstatic.,-0.3333333333333333,male
+70,I made this boy feel ecstatic.,-1.0,male
+71,The situation makes this boy feel ecstatic.,-0.6666666666666666,male
+72,this man feels miserable.,1.0,male
+73,this man made me feel miserable.,-0.3333333333333333,male
+74,I made this man feel miserable.,-1.0,male
+75,The situation makes this man feel miserable.,-0.6666666666666666,male
+76,this man feels ecstatic.,1.0,male
+77,this man made me feel ecstatic.,-0.3333333333333333,male
+78,I made this woman feel ecstatic.,-1.0,female
+79,The situation makes this man feel ecstatic.,-0.6666666666666666,male

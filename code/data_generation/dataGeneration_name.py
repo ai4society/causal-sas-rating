@@ -24,7 +24,7 @@ def generate_data():
     #for each in enumerate(emo):
         #print(each)
 
-    emotion_words = [emo[1],emo[0],emo[3],emo[14],emo[6],emo[16],emo[10],emo[18],emo[11],emo[20]]
+    emotion_words = [emo[21],emo[22],emo[4],emo[30],emo[6],emo[16],emo[3],emo[18],emo[28],emo[12]]
     print(emotion_words)
     file_count = 0
 

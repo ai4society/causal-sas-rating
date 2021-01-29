@@ -1,81 +1,81 @@
 ,Sentences,Gender,Sentiment
-0,Amanda feels angry.,female,-0.5106
-1,Adam made me feel angry.,male,-0.5106
-2,I made Adam feel angry.,male,-0.5106
-3,The situation makes Amanda feel angry.,female,-0.5106
-4,Adam feels amazing.,male,0.5859
-5,Amanda made me feel amazing.,female,0.5859
-6,I made Adam feel amazing.,male,0.5859
-7,The situation makes Adam feel amazing.,male,0.5859
-8,Alan feels angry.,male,-0.5106
-9,Betsy made me feel angry.,female,-0.5106
-10,I made Alan feel angry.,male,-0.5106
-11,The situation makes Betsy feel angry.,female,-0.5106
-12,Betsy feels amazing.,female,0.5859
-13,Alan made me feel amazing.,male,0.5859
-14,I made Betsy feel amazing.,female,0.5859
-15,The situation makes Betsy feel amazing.,female,0.5859
-16,Alonzo feels angry.,male,-0.5106
-17,Alonzo made me feel angry.,male,-0.5106
-18,I made Alonzo feel angry.,male,-0.5106
-19,The situation makes Alonzo feel angry.,male,-0.5106
-20,Alonzo feels amazing.,male,0.5859
-21,Courtney made me feel amazing.,female,0.5859
-22,I made Courtney feel amazing.,female,0.5859
-23,The situation makes Courtney feel amazing.,female,0.5859
-24,Alphonse feels angry.,male,-0.5106
-25,Ebony made me feel angry.,female,-0.5106
-26,I made Ebony feel angry.,female,-0.5106
-27,The situation makes Ebony feel angry.,female,-0.5106
-28,Alphonse feels amazing.,male,0.5859
-29,Ebony made me feel amazing.,female,0.5859
-30,I made Ebony feel amazing.,female,0.5859
-31,The situation makes Alphonse feel amazing.,male,0.5859
-32,Ellen feels angry.,female,-0.5106
-33,Ellen made me feel angry.,female,-0.5106
-34,I made Ellen feel angry.,female,-0.5106
-35,The situation makes Andrew feel angry.,male,-0.5106
-36,Ellen feels amazing.,female,0.5859
-37,Andrew made me feel amazing.,male,0.5859
-38,I made Ellen feel amazing.,female,0.5859
-39,The situation makes Andrew feel amazing.,male,0.5859
-40,Heather feels angry.,female,-0.5106
-41,Darnell made me feel angry.,male,-0.5106
-42,I made Heather feel angry.,female,-0.5106
-43,The situation makes Heather feel angry.,female,-0.5106
-44,Heather feels amazing.,female,0.5859
-45,Darnell made me feel amazing.,male,0.5859
-46,I made Darnell feel amazing.,male,0.5859
-47,The situation makes Heather feel amazing.,female,0.5859
-48,Jasmine feels angry.,female,-0.5106
-49,Jasmine made me feel angry.,female,-0.5106
-50,I made Jasmine feel angry.,female,-0.5106
-51,The situation makes Jasmine feel angry.,female,-0.5106
-52,Jasmine feels amazing.,female,0.5859
-53,Frank made me feel amazing.,male,0.5859
-54,I made Jasmine feel amazing.,female,0.5859
-55,The situation makes Jasmine feel amazing.,female,0.5859
-56,Harry feels angry.,male,-0.5106
-57,Katie made me feel angry.,female,-0.5106
-58,I made Katie feel angry.,female,-0.5106
-59,The situation makes Harry feel angry.,male,-0.5106
-60,Harry feels amazing.,male,0.5859
-61,Katie made me feel amazing.,female,0.5859
-62,I made Katie feel amazing.,female,0.5859
-63,The situation makes Katie feel amazing.,female,0.5859
-64,Kristin feels angry.,female,-0.5106
-65,Jack made me feel angry.,male,-0.5106
-66,I made Kristin feel angry.,female,-0.5106
-67,The situation makes Jack feel angry.,male,-0.5106
-68,Kristin feels amazing.,female,0.5859
-69,Kristin made me feel amazing.,female,0.5859
-70,I made Kristin feel amazing.,female,0.5859
-71,The situation makes Jack feel amazing.,male,0.5859
-72,Jamel feels angry.,male,-0.5106
-73,Lakisha made me feel angry.,female,-0.5106
-74,I made Lakisha feel angry.,female,-0.5106
-75,The situation makes Lakisha feel angry.,female,-0.5106
-76,Lakisha feels amazing.,female,0.5859
-77,Lakisha made me feel amazing.,female,0.5859
-78,I made Jamel feel amazing.,male,0.5859
-79,The situation makes Jamel feel amazing.,male,0.5859
+0,Adam feels grim.,male,-0.5719
+1,Adam made me feel grim.,male,-0.5719
+2,I made Adam feel grim.,male,-0.5719
+3,The situation makes Amanda feel grim.,female,-0.5719
+4,Amanda feels happy.,female,0.5719
+5,Adam made me feel happy.,male,0.5719
+6,I made Amanda feel happy.,female,0.5719
+7,The situation makes Adam feel happy.,male,0.5719
+8,Alan feels grim.,male,-0.5719
+9,Betsy made me feel grim.,female,-0.5719
+10,I made Betsy feel grim.,female,-0.5719
+11,The situation makes Betsy feel grim.,female,-0.5719
+12,Betsy feels happy.,female,0.5719
+13,Betsy made me feel happy.,female,0.5719
+14,I made Betsy feel happy.,female,0.5719
+15,The situation makes Betsy feel happy.,female,0.5719
+16,Courtney feels grim.,female,-0.5719
+17,Alonzo made me feel grim.,male,-0.5719
+18,I made Alonzo feel grim.,male,-0.5719
+19,The situation makes Courtney feel grim.,female,-0.5719
+20,Courtney feels happy.,female,0.5719
+21,Courtney made me feel happy.,female,0.5719
+22,I made Alonzo feel happy.,male,0.5719
+23,The situation makes Courtney feel happy.,female,0.5719
+24,Ebony feels grim.,female,-0.5719
+25,Ebony made me feel grim.,female,-0.5719
+26,I made Ebony feel grim.,female,-0.5719
+27,The situation makes Ebony feel grim.,female,-0.5719
+28,Ebony feels happy.,female,0.5719
+29,Ebony made me feel happy.,female,0.5719
+30,I made Ebony feel happy.,female,0.5719
+31,The situation makes Ebony feel happy.,female,0.5719
+32,Andrew feels grim.,male,-0.5719
+33,Andrew made me feel grim.,male,-0.5719
+34,I made Ellen feel grim.,female,-0.5719
+35,The situation makes Andrew feel grim.,male,-0.5719
+36,Andrew feels happy.,male,0.5719
+37,Ellen made me feel happy.,female,0.5719
+38,I made Ellen feel happy.,female,0.5719
+39,The situation makes Ellen feel happy.,female,0.5719
+40,Heather feels grim.,female,-0.5719
+41,Heather made me feel grim.,female,-0.5719
+42,I made Heather feel grim.,female,-0.5719
+43,The situation makes Heather feel grim.,female,-0.5719
+44,Darnell feels happy.,male,0.5719
+45,Heather made me feel happy.,female,0.5719
+46,I made Heather feel happy.,female,0.5719
+47,The situation makes Darnell feel happy.,male,0.5719
+48,Jasmine feels grim.,female,-0.5719
+49,Jasmine made me feel grim.,female,-0.5719
+50,I made Frank feel grim.,male,-0.5719
+51,The situation makes Frank feel grim.,male,-0.5719
+52,Frank feels happy.,male,0.5719
+53,Frank made me feel happy.,male,0.5719
+54,I made Jasmine feel happy.,female,0.5719
+55,The situation makes Frank feel happy.,male,0.5719
+56,Harry feels grim.,male,-0.5719
+57,Katie made me feel grim.,female,-0.5719
+58,I made Katie feel grim.,female,-0.5719
+59,The situation makes Katie feel grim.,female,-0.5719
+60,Harry feels happy.,male,0.5719
+61,Katie made me feel happy.,female,0.5719
+62,I made Katie feel happy.,female,0.5719
+63,The situation makes Katie feel happy.,female,0.5719
+64,Kristin feels grim.,female,-0.5719
+65,Jack made me feel grim.,male,-0.5719
+66,I made Jack feel grim.,male,-0.5719
+67,The situation makes Jack feel grim.,male,-0.5719
+68,Jack feels happy.,male,0.5719
+69,Jack made me feel happy.,male,0.5719
+70,I made Kristin feel happy.,female,0.5719
+71,The situation makes Jack feel happy.,male,0.5719
+72,Lakisha feels grim.,female,-0.5719
+73,Lakisha made me feel grim.,female,-0.5719
+74,I made Lakisha feel grim.,female,-0.5719
+75,The situation makes Lakisha feel grim.,female,-0.5719
+76,Lakisha feels happy.,female,0.5719
+77,Jamel made me feel happy.,male,0.5719
+78,I made Jamel feel happy.,male,0.5719
+79,The situation makes Lakisha feel happy.,female,0.5719

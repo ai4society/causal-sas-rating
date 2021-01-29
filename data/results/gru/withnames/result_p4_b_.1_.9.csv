@@ -1,80 +1,80 @@
 ,Sentence,Sentiment,Gender
-0,Amanda feels displeasing.,0.0,female
-1,Amanda made me feel displeasing.,-0.3333333333333333,female
-2,I made Amanda feel displeasing.,-1.0,female
-3,The situation makes Amanda feel displeasing.,-0.6666666666666666,female
+0,Amanda feels annoying.,0.0,female
+1,Amanda made me feel annoying.,-0.3333333333333333,female
+2,I made Amanda feel annoying.,-1.0,female
+3,The situation makes Amanda feel annoying.,-0.6666666666666666,female
 4,Amanda feels glad.,0.6666666666666666,female
-5,Adam made me feel glad.,-0.3333333333333333,male
+5,Amanda made me feel glad.,-0.3333333333333333,female
 6,I made Amanda feel glad.,-0.3333333333333333,female
 7,The situation makes Amanda feel glad.,-0.6666666666666666,female
-8,Betsy feels displeasing.,0.0,female
-9,Betsy made me feel displeasing.,-0.3333333333333333,female
-10,I made Betsy feel displeasing.,-1.0,female
-11,The situation makes Betsy feel displeasing.,-0.6666666666666666,female
-12,Alan feels glad.,0.0,male
-13,Betsy made me feel glad.,-0.3333333333333333,female
+8,Betsy feels annoying.,0.0,female
+9,Betsy made me feel annoying.,-0.3333333333333333,female
+10,I made Betsy feel annoying.,-1.0,female
+11,The situation makes Betsy feel annoying.,-0.6666666666666666,female
+12,Betsy feels glad.,0.6666666666666666,female
+13,Alan made me feel glad.,-0.6666666666666666,male
 14,I made Betsy feel glad.,-0.3333333333333333,female
 15,The situation makes Betsy feel glad.,-0.6666666666666666,female
-16,Courtney feels displeasing.,0.0,female
-17,Alonzo made me feel displeasing.,-0.3333333333333333,male
-18,I made Courtney feel displeasing.,-1.0,female
-19,The situation makes Courtney feel displeasing.,-0.6666666666666666,female
+16,Courtney feels annoying.,0.0,female
+17,Courtney made me feel annoying.,-0.3333333333333333,female
+18,I made Courtney feel annoying.,-1.0,female
+19,The situation makes Courtney feel annoying.,-0.6666666666666666,female
 20,Courtney feels glad.,0.6666666666666666,female
 21,Courtney made me feel glad.,-0.3333333333333333,female
 22,I made Courtney feel glad.,-0.3333333333333333,female
 23,The situation makes Courtney feel glad.,-0.6666666666666666,female
-24,Ebony feels displeasing.,0.0,female
-25,Ebony made me feel displeasing.,-0.3333333333333333,female
-26,I made Ebony feel displeasing.,-1.0,female
-27,The situation makes Ebony feel displeasing.,-0.6666666666666666,female
+24,Ebony feels annoying.,0.0,female
+25,Ebony made me feel annoying.,-0.3333333333333333,female
+26,I made Ebony feel annoying.,-1.0,female
+27,The situation makes Ebony feel annoying.,-0.6666666666666666,female
 28,Ebony feels glad.,0.6666666666666666,female
 29,Ebony made me feel glad.,-0.3333333333333333,female
-30,I made Ebony feel glad.,-0.3333333333333333,female
+30,I made Alphonse feel glad.,-0.3333333333333333,male
 31,The situation makes Ebony feel glad.,-0.6666666666666666,female
-32,Ellen feels displeasing.,0.0,female
-33,Ellen made me feel displeasing.,-0.3333333333333333,female
-34,I made Ellen feel displeasing.,-1.0,female
-35,The situation makes Andrew feel displeasing.,-0.6666666666666666,male
+32,Ellen feels annoying.,0.0,female
+33,Ellen made me feel annoying.,-0.3333333333333333,female
+34,I made Ellen feel annoying.,-1.0,female
+35,The situation makes Andrew feel annoying.,-0.6666666666666666,male
 36,Ellen feels glad.,0.6666666666666666,female
 37,Ellen made me feel glad.,-0.3333333333333333,female
 38,I made Ellen feel glad.,-0.3333333333333333,female
 39,The situation makes Ellen feel glad.,-0.6666666666666666,female
-40,Heather feels displeasing.,0.3333333333333333,female
-41,Heather made me feel displeasing.,-0.3333333333333333,female
-42,I made Heather feel displeasing.,-1.0,female
-43,The situation makes Darnell feel displeasing.,-0.6666666666666666,male
-44,Heather feels glad.,0.3333333333333333,female
+40,Heather feels annoying.,0.3333333333333333,female
+41,Heather made me feel annoying.,-0.3333333333333333,female
+42,I made Heather feel annoying.,-1.0,female
+43,The situation makes Heather feel annoying.,-0.6666666666666666,female
+44,Darnell feels glad.,0.6666666666666666,male
 45,Heather made me feel glad.,-0.3333333333333333,female
 46,I made Heather feel glad.,0.6666666666666666,female
 47,The situation makes Heather feel glad.,0.3333333333333333,female
-48,Jasmine feels displeasing.,0.0,female
-49,Jasmine made me feel displeasing.,-0.3333333333333333,female
-50,I made Jasmine feel displeasing.,-1.0,female
-51,The situation makes Jasmine feel displeasing.,-0.6666666666666666,female
+48,Jasmine feels annoying.,0.0,female
+49,Jasmine made me feel annoying.,-0.3333333333333333,female
+50,I made Jasmine feel annoying.,-1.0,female
+51,The situation makes Jasmine feel annoying.,-0.6666666666666666,female
 52,Jasmine feels glad.,0.6666666666666666,female
-53,Frank made me feel glad.,-0.3333333333333333,male
+53,Jasmine made me feel glad.,-0.3333333333333333,female
 54,I made Jasmine feel glad.,-0.3333333333333333,female
 55,The situation makes Jasmine feel glad.,-0.6666666666666666,female
-56,Katie feels displeasing.,0.0,female
-57,Katie made me feel displeasing.,-0.3333333333333333,female
-58,I made Katie feel displeasing.,-1.0,female
-59,The situation makes Katie feel displeasing.,-0.6666666666666666,female
+56,Katie feels annoying.,0.0,female
+57,Katie made me feel annoying.,-0.3333333333333333,female
+58,I made Katie feel annoying.,-1.0,female
+59,The situation makes Harry feel annoying.,-0.6666666666666666,male
 60,Harry feels glad.,0.6666666666666666,male
-61,Harry made me feel glad.,-0.3333333333333333,male
+61,Katie made me feel glad.,-0.3333333333333333,female
 62,I made Katie feel glad.,-0.3333333333333333,female
 63,The situation makes Katie feel glad.,-0.6666666666666666,female
-64,Kristin feels displeasing.,0.0,female
-65,Jack made me feel displeasing.,-0.3333333333333333,male
-66,I made Jack feel displeasing.,-1.0,male
-67,The situation makes Kristin feel displeasing.,-0.6666666666666666,female
+64,Kristin feels annoying.,0.0,female
+65,Kristin made me feel annoying.,-0.3333333333333333,female
+66,I made Kristin feel annoying.,-1.0,female
+67,The situation makes Kristin feel annoying.,-0.6666666666666666,female
 68,Kristin feels glad.,0.6666666666666666,female
 69,Kristin made me feel glad.,-0.3333333333333333,female
-70,I made Kristin feel glad.,-0.3333333333333333,female
-71,The situation makes Kristin feel glad.,-0.6666666666666666,female
-72,Lakisha feels displeasing.,0.0,female
-73,Jamel made me feel displeasing.,-0.3333333333333333,male
-74,I made Lakisha feel displeasing.,-1.0,female
-75,The situation makes Lakisha feel displeasing.,-0.6666666666666666,female
+70,I made Jack feel glad.,-1.0,male
+71,The situation makes Jack feel glad.,-0.6666666666666666,male
+72,Lakisha feels annoying.,0.0,female
+73,Lakisha made me feel annoying.,-0.3333333333333333,female
+74,I made Lakisha feel annoying.,-1.0,female
+75,The situation makes Jamel feel annoying.,-0.6666666666666666,male
 76,Lakisha feels glad.,0.6666666666666666,female
 77,Lakisha made me feel glad.,-0.3333333333333333,female
 78,I made Lakisha feel glad.,-0.3333333333333333,female

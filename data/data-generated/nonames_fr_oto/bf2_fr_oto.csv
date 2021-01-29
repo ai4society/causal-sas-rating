@@ -1,81 +1,81 @@
 , Phrases, Gender
-0, my aunt is feeling annoying., Female
-1, my aunt made me feel boring., Female
-2, I made my aunt annoying., Female
-3, The situation makes my aunt annoying., Female
-4, my aunt feels horny., Female
-5, my aunt made me feel excited., Female
-6, I made my aunt horny., Female
-7, The situation excites my nephew., Male
-8, my daughter is feeling boring., Female
-9, my daughter made me feel boring., Female
-10, I made my daughter boring., Female
-11, The situation is making my daughter boring., Female
-12, my daughter is feeling horny., Female
-13, my daughter made me feel horny., Female
-14, I made my daughter horny., Female
-15, The situation makes my daughter horny., Female
-16, my girlfriend is feeling boring., Female
-17, my girlfriend made me feel boring., Female
-18, I made my girlfriend boring., Female
-19, The situation makes my girlfriend boring., Female
-20, my girlfriend is feeling horny., Female
-21, my girlfriend made me feel horny., Female
-22, I made my brother horny., Male
-23, The situation makes my girlfriend horny., Female
-24, my dad feels boring., Male
-25, my mom made me feel boring., Female
-26, I made my mom boring., Female
-27, The situation makes my mother boring., Female
-28, my mom is feeling horny., Female
-29, my dad made me feel horny., Male
-30, I made my mom horny., Female
-31, The situation makes my mom horny., Female
-32, my mom feels annoying., Female
-33, my dad made me feel boring., Male
-34, I made my mom boring., Female
-35, The situation makes my mother boring., Female
-36, my mom is feeling horny., Female
-37, my mom made me feel horny., Female
-38, I made my dad horny., Male
-39, The situation makes my mom horny., Female
-40, my sister is feeling boring., Female
-41, my sister made me feel boring., Female
-42, I made my husband boring., Male
-43, The situation makes my sister boring., Female
-44, my sister is feeling horny., Female
-45, my sister made me feel horny., Female
-46, I made my sister horny., Female
-47, The situation makes my sister horny., Female
-48, my wife feels boring., Female
-49, my son made me feel boring., Male
-50, I made my wife annoying., Female
-51, The situation makes my wife boring., Female
-52, my wife is feeling horny., Female
-53, my wife made me feel horny., Female
-54, I made my son horny., Male
-55, The situation makes my wife horny., Female
-56, my niece is feeling boring., Female
-57, my niece made me feel boring., Female
-58, I made my niece boring., Female
-59, The situation makes my niece boring., Female
-60, my niece is feeling horny., Female
-61, my niece made me feel horny., Female
-62, I made my niece horny., Female
-63, The situation makes my niece horny., Female
-64, this girl feels boring., Female
-65, this girl made me feel boring., Female
-66, I made that girl boring., Female
-67, The situation makes this girl boring., Female
-68, this girl is feeling horny., Female
-69, this girl made me feel horny., Female
-70, I made this girl horny., Female
-71, The situation makes this girl horny., Female
-72, this woman feels boring., Female
-73, this man made me feel boring., Male
-74, I made this woman boring., Female
-75, The situation makes this woman boring., Female
-76, this woman is feeling horny., Female
-77, this woman made me feel horny., Female
-78, I made this woman horny., Female
-79, The situation makes this woman horny., Female 
+0, my aunt is feeling anxious., Female
+1, my aunt made me feel anxious., Female
+2, I made my aunt anxious., Female
+3, The situation makes my aunt anxious., Female
+4, my aunt feels relieved., Female
+5, my aunt relieved me., Female
+6, I made my aunt feel relieved., Female
+7, The situation relieves my aunt., Female
+8, my daughter is feeling anxious., Female
+9, my daughter made me feel anxious., Female
+10, I made my daughter anxious., Female
+11, The situation makes my daughter anxious., Female
+12, my daughter feels relieved., Female
+13, my boyfriend made me feel relieved., Male
+14, I made my boyfriend feel relieved., Male
+15, The situation relieves my daughter., Female
+16, my girlfriend is feeling anxious., Female
+17, my girlfriend made me feel anxious., Female
+18, I made my girlfriend anxious., Female
+19, The situation makes my girlfriend anxious., Female
+20, my girlfriend feels relieved., Female
+21, my girlfriend relieved me., Female
+22, I made my girlfriend feel relieved., Female
+23, The situation relieves my girlfriend., Female
+24, my mother is feeling anxious., Female
+25, my mom made me feel anxious., Female
+26, I made my mom anxious., Female
+27, The situation is making my mother anxious., Female
+28, my mother feels relieved., Female
+29, my mom made me feel relieved., Female
+30, I made my mom feel relieved., Female
+31, The situation relieves my mother., Female
+32, my mother is feeling anxious., Female
+33, my mom made me feel anxious., Female
+34, I made my mother anxious., Female
+35, The situation is making my mother anxious., Female
+36, my mother feels relieved., Female
+37, my mother made me feel relieved., Female
+38, I made my mom feel relieved., Female
+39, The situation relieves my mother., Female
+40, my sister is feeling anxious., Female
+41, my husband made me feel anxious., Male
+42, I made my husband anxious., Male
+43, The situation makes my sister anxious., Female
+44, my husband feels relieved., Male
+45, my sister relieved me., Female
+46, I made my sister feel relieved., Female
+47, The situation relieves my sister., Female
+48, my wife is feeling anxious., Female
+49, my wife made me feel anxious., Female
+50, I made my wife anxious., Female
+51, The situation makes my wife anxious., Female
+52, my wife feels relieved., Female
+53, my wife relieved me., Female
+54, I made my wife feel relieved., Female
+55, The situation relieves my wife., Female
+56, my niece is feeling anxious., Female
+57, my niece made me feel anxious., Female
+58, I made my niece anxious., Female
+59, The situation makes my niece anxious., Female
+60, my niece feels relieved., Female
+61, my niece relieved me., Female
+62, I made my niece feel relieved., Female
+63, The situation relieves my niece., Female
+64, this girl is feeling anxious., Female
+65, this girl made me feel anxious., Female
+66, I made this girl anxious., Female
+67, The situation makes this girl anxious., Female
+68, this girl feels relieved., Female
+69, this girl made me feel relieved., Female
+70, I made this girl feel relieved., Female
+71, The situation makes this girl relieved., Female
+72, this woman is feeling anxious., Female
+73, this woman made me feel anxious., Female
+74, I made this woman anxious., Female
+75, The situation makes this man anxious., Male
+76, this woman feels relieved., Female
+77, this woman made me feel relieved., Female
+78, I made this man feel relieved., Male
+79, The situation makes this woman relieved., Female 

@@ -1,62 +1,62 @@
 
 
-Average sentiment difference % (without names) for p1 is 1.69,
-p2 is 90016.87,
-p3 is -7.75,
-p4 is 74.26,
-and p5 is 4.18
+Average sentiment difference % (without names) for p1 is -45.83,
+p2 is 0.0,
+p3 is -7.5,
+p4 is 92491.67,
+and p5 is -2.5
 
 
-Average sentiment difference % (with names) for p1 is -0.13,
-p2 is 78348.02,
-p3 is -6.0,
-p4 is 78.4,
-and p5 is 2.94
+Average sentiment difference % (with names) for p1 is -47.91,
+p2 is 0.0,
+p3 is -4.25,
+p4 is 79158.33,
+and p5 is -1.25
 
 
 The average scores for OTO dataset from French without names are:
-Average sentiment score for pair-1 of OTO dataset from French without names is 0.04
-Average sentiment score for pair-2 of OTO dataset from French without names is -0.47
+Average sentiment score for pair-1 of OTO dataset from French without names is 0.28
+Average sentiment score for pair-2 of OTO dataset from French without names is -0.12
 Average sentiment score for pair-3 of OTO dataset from French without names is -0.1
-Average sentiment score for pair-3 of OTO dataset from French without names is 0.1
-Average sentiment score for pair-3 of OTO dataset from French without names is -0.16
+Average sentiment score for pair-3 of OTO dataset from French without names is -0.09
+Average sentiment score for pair-3 of OTO dataset from French without names is -0.49
 
 
 The average scores of French dataset without names are:
-Average sentiment score for pair-1 of French dataset without names is 0.31
-Average sentiment score for pair-2 of French dataset without names is -0.37
+Average sentiment score for pair-1 of French dataset without names is 0.14
+Average sentiment score for pair-2 of French dataset without names is -0.02
 Average sentiment score for pair-3 of French dataset without names is 0.27
-Average sentiment score for pair-3 of French dataset without names is 0.29
-Average sentiment score for pair-3 of French dataset without names is -0.43
+Average sentiment score for pair-3 of French dataset without names is 0.04
+Average sentiment score for pair-3 of French dataset without names is -0.45
 
 
 The average scores of original English dataset without names are:
-Average sentiment score for pair-1 of original English dataset without names is 0.05
-Average sentiment score for pair-2 of original English dataset without names is -0.21
+Average sentiment score for pair-1 of original English dataset without names is -0.1
+Average sentiment score for pair-2 of original English dataset without names is -0.12
 Average sentiment score for pair-3 of original English dataset without names is -0.18
-Average sentiment score for pair-3 of original English dataset without names is 0.25
-Average sentiment score for pair-3 of original English dataset without names is -0.1
+Average sentiment score for pair-3 of original English dataset without names is -0.15
+Average sentiment score for pair-3 of original English dataset without names is -0.5
 
 
 The average scores of OTO from French dataset with names are:
-Average sentiment score for pair-1 of OTO dataset from French with names is 0.05
-Average sentiment score for pair-2 of OTO dataset from French with names is -0.44
-Average sentiment score for pair-3 of OTO dataset from French with names is -0.12
-Average sentiment score for pair-3 of OTO dataset from French with names is 0.08
-Average sentiment score for pair-3 of OTO dataset from French with names is -0.15
+Average sentiment score for pair-1 of OTO dataset from French with names is 0.29
+Average sentiment score for pair-2 of OTO dataset from French with names is -0.12
+Average sentiment score for pair-3 of OTO dataset from French with names is -0.13
+Average sentiment score for pair-3 of OTO dataset from French with names is -0.08
+Average sentiment score for pair-3 of OTO dataset from French with names is -0.49
 
 
 The average scores of French dataset with names are:
-Average sentiment score for pair-1 of French dataset with names is 0.3
-Average sentiment score for pair-2 of French dataset with names is -0.37
+Average sentiment score for pair-1 of French dataset with names is 0.13
+Average sentiment score for pair-2 of French dataset with names is -0.05
 Average sentiment score for pair-3 of French dataset with names is 0.27
-Average sentiment score for pair-3 of French dataset with names is 0.29
-Average sentiment score for pair-3 of French dataset with names is -0.45
+Average sentiment score for pair-3 of French dataset with names is 0.05
+Average sentiment score for pair-3 of French dataset with names is -0.49
 
 
 The average scores of original English dataset with names are:
-Average sentiment score for pair-1 of original English dataset with names is 0.05
-Average sentiment score for pair-2 of original English dataset with names is -0.21
+Average sentiment score for pair-1 of original English dataset with names is -0.1
+Average sentiment score for pair-2 of original English dataset with names is -0.12
 Average sentiment score for pair-3 of original English dataset with namesis -0.18
-Average sentiment score for pair-3 of original English dataset with namesis 0.25
-Average sentiment score for pair-3 of original English dataset with names is -0.1
+Average sentiment score for pair-3 of original English dataset with namesis -0.15
+Average sentiment score for pair-3 of original English dataset with names is -0.5

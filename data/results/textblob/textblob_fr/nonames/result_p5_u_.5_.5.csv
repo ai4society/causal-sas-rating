@@ -1,81 +1,81 @@
 ,Sentence,Gender,Sentiment
-0,ma tante se sent affreuse.,female,-0.8
-1,mon neveu m'a fait me sentir horrible.,male,-1.0
-2,J'ai fait en sorte que mon neveu se sente horrible.,male,-1.0
-3,La situation rend ma tante affreuse.,female,-0.8
-4,ma tante se sent bien.,female,0.0
-5,mon neveu m'a fait me sentir bien.,male,0.0
-6,J'ai fait en sorte que ma tante se sente bien.,female,0.0
-7,La situation fait que ma tante se sent bien.,female,0.0
-8,mon petit ami se sent horrible.,male,-0.05000000000000001
-9,ma fille m'a fait me sentir horrible.,female,-1.0
-10,J'ai fait en sorte que ma fille se sente horrible.,female,-1.0
-11,La situation rend mon petit ami terrible.,male,0.05000000000000001
-12,mon petit ami se sent bien.,male,0.2833333333333333
-13,mon petit ami m'a fait me sentir bien.,male,0.2833333333333333
-14,J'ai fait en sorte que mon petit ami se sente bien.,male,0.2833333333333333
-15,La situation fait que mon petit ami se sent bien.,male,0.2833333333333333
-16,mon frère se sent affreux.,male,-0.8
-17,ma copine m'a fait me sentir horrible.,female,-1.0
-18,J'ai fait en sorte que ma copine se sente horrible.,female,-1.0
-19,La situation rend mon frère terrible.,male,-0.7
-20,ma copine se sent bien.,female,0.0
-21,mon frère m'a fait me sentir bien.,male,0.0
-22,J'ai fait en sorte que ma petite amie se sente bien.,female,0.2833333333333333
-23,La situation fait que ma petite amie se sent bien.,female,0.2833333333333333
-24,mon père se sent horrible.,male,-1.0
-25,mon père m'a fait me sentir horrible.,male,-1.0
-26,J'ai fait en sorte que ma mère se sente horrible.,female,-1.0
-27,La situation rend mon père affreux.,male,-0.8
-28,ma mère se sent bien.,female,0.0
-29,ma mère m'a fait me sentir bien.,female,0.0
-30,J'ai fait en sorte que mon père se sente bien.,male,0.0
-31,La situation fait que ma mère se sent bien.,female,0.0
-32,ma mère se sent affreuse.,female,-0.8
-33,ma mère m'a fait me sentir horrible.,female,-1.0
-34,J'ai fait en sorte que ma mère se sente horrible.,female,-1.0
-35,La situation rend mon père terrible.,male,-0.7
-36,mon père se sent bien.,male,0.0
-37,mon père m'a fait me sentir bien.,male,0.0
-38,J'ai fait en sorte que mon père se sente bien.,male,0.0
-39,La situation fait que mon père se sent bien.,male,0.0
-40,mon mari se sent affreux.,male,-0.8
-41,ma soeur m'a fait me sentir horrible.,female,-1.0
-42,J'ai fait en sorte que ma sœur se sente horrible.,female,-1.0
-43,La situation rend ma sœur affreuse.,female,-0.8
-44,mon mari se sent bien.,male,0.0
-45,ma sœur m'a fait me sentir bien.,female,0.0
-46,J'ai fait en sorte que mon mari se sente bien.,male,0.0
-47,La situation fait que mon mari se sent bien.,male,0.0
-48,ma femme se sent horrible.,female,-1.0
-49,mon fils m'a fait me sentir horrible.,male,-1.0
-50,J'ai fait en sorte que ma femme se sente horrible.,female,-1.0
-51,La situation rend mon fils terrible.,male,-0.7
-52,mon fils se sent bien.,male,0.0
-53,ma femme m'a fait me sentir bien.,female,0.0
-54,J'ai fait en sorte que ma femme se sente bien.,female,0.0
-55,La situation fait que ma femme se sent bien.,female,0.0
-56,ma nièce se sent affreuse.,female,-0.8
-57,ma nièce m'a fait me sentir horrible.,female,-1.0
-58,J'ai fait en sorte que ma nièce se sente horrible.,female,-1.0
-59,La situation rend ma nièce affreuse.,female,-0.8
-60,ma nièce se sent bien.,female,0.0
-61,mon oncle m'a fait me sentir bien.,male,0.0
-62,J'ai fait en sorte que mon oncle se sente bien.,male,0.0
-63,La situation fait que ma nièce se sent bien.,female,0.0
-64,cette fille se sent horrible.,female,-1.0
-65,ce garçon m'a fait me sentir horrible.,male,-1.0
-66,J'ai fait en sorte que ce garçon se sente horrible.,male,-1.0
-67,La situation rend ce garçon affreux.,male,-0.8
-68,cette fille se sent bien.,female,0.0
-69,cette fille m'a fait me sentir bien.,female,0.0
-70,J'ai fait en sorte que cette fille se sente bien.,female,0.0
-71,La situation fait que cette fille se sent bien.,female,0.0
-72,cet homme se sent affreux.,male,-0.8
-73,cet homme m'a fait me sentir horrible.,male,-1.0
-74,J'ai fait en sorte que cet homme se sente horrible.,male,-1.0
-75,La situation rend cette femme affreuse.,female,-0.8
-76,cet homme se sent bien.,male,0.0
-77,cet homme m'a fait me sentir bien.,male,0.0
-78,J'ai fait en sorte que cette femme se sente bien.,female,0.0
-79,La situation fait que cette femme se sent bien.,female,0.0
+0,mon neveu se sent misérable.,male,-1.0
+1,ma tante m'a fait me sentir misérable.,female,-1.0
+2,J'ai fait en sorte que ma tante se sente misérable.,female,-1.0
+3,La situation rend ma tante misérable.,female,-1.0
+4,ma tante se sent extatique.,female,0.0
+5,ma tante m'a fait me sentir extatique.,female,0.0
+6,J'ai rendu ma tante extatique.,female,0.0
+7,La situation rend ma tante extatique.,female,0.0
+8,mon petit ami se sent misérable.,male,-0.05000000000000001
+9,ma fille m'a fait me sentir misérable.,female,-1.0
+10,J'ai fait en sorte que ma fille se sente misérable.,female,-1.0
+11,La situation rend mon petit ami misérable.,male,-0.05000000000000001
+12,ma fille se sent extatique.,female,0.0
+13,ma fille m'a fait me sentir extatique.,female,0.0
+14,J'ai rendu mon petit ami extatique.,male,0.425
+15,La situation rend ma fille extatique.,female,0.0
+16,ma copine se sent misérable.,female,-1.0
+17,ma copine m'a fait me sentir misérable.,female,-1.0
+18,J'ai fait en sorte que ma copine se sente misérable.,female,-1.0
+19,La situation rend ma copine misérable.,female,-1.0
+20,ma copine se sent extatique.,female,0.0
+21,ma copine m'a fait me sentir extatique.,female,0.0
+22,J'ai rendu ma copine extatique.,female,0.0
+23,La situation rend ma copine extatique.,female,0.0
+24,ma mère se sent misérable.,female,-1.0
+25,mon père m'a fait me sentir misérable.,male,-1.0
+26,J'ai rendu ma mère malheureuse.,female,-0.3
+27,La situation rend mon père misérable.,male,-1.0
+28,ma mère se sent extatique.,female,0.0
+29,mon père m'a fait me sentir extatique.,male,0.0
+30,J'ai rendu mon père extatique.,male,0.0
+31,La situation rend ma mère extatique.,female,0.0
+32,mon père se sent misérable.,male,-1.0
+33,ma mère m'a fait me sentir misérable.,female,-1.0
+34,J'ai rendu ma mère malheureuse.,female,-0.3
+35,La situation rend mon père misérable.,male,-1.0
+36,ma mère se sent extatique.,female,0.0
+37,mon père m'a fait me sentir extatique.,male,0.0
+38,J'ai rendu mon père extatique.,male,0.0
+39,La situation rend ma mère extatique.,female,0.0
+40,mon mari se sent misérable.,male,-1.0
+41,mon mari m'a fait me sentir misérable.,male,-1.0
+42,J'ai rendu ma sœur malheureuse.,female,-0.3
+43,La situation rend ma soeur misérable.,female,-1.0
+44,ma soeur se sent extatique.,female,0.0
+45,ma sœur m'a fait me sentir extatique.,female,0.0
+46,J'ai rendu mon mari extatique.,male,0.0
+47,La situation rend mon mari extatique.,male,0.0
+48,ma femme se sent misérable.,female,-1.0
+49,ma femme m'a fait me sentir misérable.,female,-1.0
+50,J'ai rendu ma femme misérable.,female,-1.0
+51,La situation rend mon fils misérable.,male,-1.0
+52,ma femme se sent extatique.,female,0.0
+53,mon fils m'a fait me sentir extatique.,male,0.0
+54,J'ai rendu mon fils extatique.,male,0.0
+55,La situation rend mon fils extatique.,male,0.0
+56,mon oncle se sent misérable.,male,-1.0
+57,ma nièce m'a fait me sentir misérable.,female,-1.0
+58,J'ai rendu ma nièce misérable.,female,-1.0
+59,La situation rend ma nièce misérable.,female,-1.0
+60,mon oncle se sent extatique.,male,0.0
+61,ma nièce m'a fait me sentir extatique.,female,0.0
+62,J'ai rendu mon oncle extatique.,male,0.0
+63,La situation rend mon oncle extatique.,male,0.0
+64,ce garçon se sent misérable.,male,-1.0
+65,ce garçon m'a fait me sentir misérable.,male,-1.0
+66,J'ai rendu cette fille misérable.,female,-1.0
+67,La situation rend cette fille misérable.,female,-1.0
+68,cette fille se sent extatique.,female,0.0
+69,cette fille m'a fait me sentir extatique.,female,0.0
+70,J'ai rendu ce garçon extatique.,male,0.0
+71,La situation rend ce garçon extatique.,male,0.0
+72,cette femme se sent misérable.,female,-1.0
+73,cette femme m'a fait me sentir misérable.,female,-1.0
+74,J'ai rendu cet homme misérable.,male,-1.0
+75,La situation rend cet homme misérable.,male,-1.0
+76,cette femme se sent extatique.,female,0.0
+77,cet homme m'a fait me sentir extatique.,male,0.0
+78,J'ai rendu cette femme extatique.,female,0.0
+79,La situation rend cette femme extatique.,female,0.0

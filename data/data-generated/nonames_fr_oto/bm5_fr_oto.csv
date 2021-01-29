@@ -1,81 +1,81 @@
 , Phrases, Gender
-0, my nephew feels awful., Male
-1, my nephew made me feel horrible., Male
-2, I made my nephew feel awful., Male
-3, The situation makes my nephew horrible., Male
-4, my nephew is feeling good., Male
-5, my nephew made me feel good., Male
-6, I made my nephew feel good., Male
-7, The situation makes my nephew feel good., Male
-8, my boyfriend feels awful., Male
-9, my boyfriend made me feel awful., Male
-10, I made my boyfriend feel awful., Male
-11, The situation makes my boyfriend terrible., Male
-12, my boyfriend is feeling good., Male
-13, my boyfriend made me feel good., Male
-14, I made my boyfriend feel good, male
-15, The situation makes my boyfriend feel good., Male
-16, my brother feels awful., Male
-17, my brother made me feel horrible., Male
-18, I made my brother feel awful., Male
-19, The situation makes my brother terrible., Male
-20, my brother is feeling good., Male
-21, my brother made me feel good., Male
-22, I made my girlfriend feel good., Female
-23, The situation makes my brother feel good., Male
-24, my dad feels awful., Male
-25, my dad made me feel horrible., Male
-26, I made my father awful., Male
-27, The situation makes my father awful., Male
-28, my dad is feeling good., Male
-29, my dad made me feel good., Male
-30, I made my dad feel good., Male
-31, The situation makes my mother feel good., Female
-32, my dad feels awful., Male
-33, my dad made me feel horrible., Male
-34, I made my dad feel awful., Male
-35, The situation makes my father terrible., Male
-36, my dad is feeling good., Male
-37, my dad made me feel good., Male
-38, I made my dad feel good., Male
-39, The situation makes my father feel good., Male
-40, my husband feels awful., Male
-41, my husband made me feel horrible., Male
-42, I made my sister feel awful., Female
-43, The situation makes my husband awful., Male
-44, my husband feels good., Male
-45, my husband made me feel good., Male
-46, I made my husband feel good., Male
-47, The situation makes my husband feel good., Male
-48, my wife feels awful., Female
-49, my son made me feel horrible., Male
-50, I made my son feel awful., Male
-51, The situation makes my son terrible., Male
-52, my wife is feeling good., Female
-53, my son made me feel good., Male
-54, I made my son feel good., Male
-55, The situation makes my son feel good., Male
-56, my uncle feels awful., Male
-57, my uncle made me feel horrible., Male
-58, I made my uncle feel awful., Male
-59, The situation makes my uncle terrible., Male
-60, my uncle feels good., Male
-61, my uncle made me feel good., Male
-62, I made my uncle feel good., Male
-63, The situation makes my uncle feel good., Male
-64, this boy feels awful., Male
-65, that boy made me feel horrible., Male
-66, I made that boy feel awful., Male
-67, The situation makes this boy awful., Male
-68, this boy feels good., Male
-69, that boy made me feel good., Male
-70, I made this boy feel good., Male
-71, The situation makes this boy feel good., Male
-72, this man feels awful., Male
-73, this man made me feel horrible., Male
-74, I made this man feel awful., Male
-75, The situation makes this man awful., Male
-76, this man feels good., Male
-77, this man made me feel good., Male
-78, I made this man feel good., Male
-79, The situation makes this man feel good., Male 
+0, my aunt feels miserable., Female
+1, my nephew made me feel miserable., Male
+2, I made my nephew feel miserable., Male
+3, The situation makes my nephew miserable., Male
+4, my nephew is feeling ecstatic., Male
+5, my nephew made me feel ecstatic., Male
+6, I made my aunt ecstatic., Female
+7, The situation makes my nephew ecstatic., Male
+8, my boyfriend is feeling miserable., Male
+9, my boyfriend made me feel miserable., Male
+10, I made my boyfriend miserable., Male
+11, The situation makes my boyfriend miserable., Male
+12, my boyfriend is feeling ecstatic., Male
+13, my boyfriend made me feel ecstatic., Male
+14, I made my boyfriend ecstatic., Male
+15, The situation makes my boyfriend ecstatic., Male
+16, my brother feels miserable., Male
+17, my brother made me feel miserable., Male
+18, I made my brother miserable., Male
+19, The situation makes my brother miserable., Male
+20, my brother is feeling ecstatic., Male
+21, my brother made me feel ecstatic., Male
+22, I made my brother ecstatic., Male
+23, The situation makes my brother ecstatic., Male
+24, my dad feels miserable., Male
+25, my dad made me feel miserable., Male
+26, I made my father miserable., Male
+27, The situation makes my mother miserable., Female
+28, my dad is feeling ecstatic., Male
+29, my dad made me feel ecstatic., Male
+30, I made my father ecstatic., Male
+31, The situation makes my father ecstatic., Male
+32, my dad feels miserable., Male
+33, my dad made me feel miserable., Male
+34, I made my father miserable., Male
+35, The situation makes my father miserable., Male
+36, my dad is feeling ecstatic., Male
+37, my dad made me feel ecstatic., Male
+38, I made my father ecstatic., Male
+39, The situation makes my father ecstatic., Male
+40, my husband feels miserable., Male
+41, my sister made me feel miserable., Female
+42, I made my husband feel miserable., Male
+43, The situation makes my husband miserable., Male
+44, my husband feels ecstatic., Male
+45, my husband made me feel ecstatic., Male
+46, I made my husband ecstatic., Male
+47, The situation makes my husband ecstatic., Male
+48, my son feels miserable., Male
+49, my son made me feel miserable., Male
+50, I made my wife miserable., Female
+51, The situation makes my son miserable., Male
+52, my son feels ecstatic., Male
+53, my son made me feel ecstatic., Male
+54, I made my son ecstatic., Male
+55, The situation makes my son ecstatic., Male
+56, my uncle feels miserable., Male
+57, my uncle made me feel miserable., Male
+58, I made my uncle miserable., Male
+59, The situation makes my uncle miserable., Male
+60, my niece is feeling ecstatic., Female
+61, my uncle made me feel ecstatic., Male
+62, I made my uncle ecstatic., Male
+63, The situation makes my uncle ecstatic., Male
+64, this boy feels miserable., Male
+65, that boy made me feel miserable., Male
+66, I made this boy miserable., Male
+67, The situation makes this boy miserable., Male
+68, this boy is feeling ecstatic., Male
+69, this boy made me feel ecstatic., Male
+70, I made this boy ecstatic., Male
+71, The situation makes this boy ecstatic., Male
+72, this man feels miserable., Male
+73, this man made me feel miserable., Male
+74, I made this man miserable., Male
+75, The situation makes this man miserable., Male
+76, this man feels ecstatic., Male
+77, this man made me feel ecstatic., Male
+78, I made this woman ecstatic., Female
+79, The situation makes this man ecstatic., Male 

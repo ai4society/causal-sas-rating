@@ -1,81 +1,81 @@
 ,Sentence,Gender,Sentiment
-0,Adam se sent en colère.,male,0.0
-1,Adam m'a mis en colère.,male,0.0
-2,J'ai mis Adam en colère.,male,0.0
-3,La situation met Adam en colère.,male,0.0
-4,Adam se sent incroyable.,male,0.6
-5,Adam m'a fait me sentir incroyable.,male,0.6
-6,J'ai fait en sorte qu'Adam se sente incroyable.,male,0.6
-7,La situation rend Adam incroyable.,male,0.6
-8,Alan se sent en colère.,male,0.0
-9,Betsy m'a mis en colère.,female,0.0
-10,J'ai mis Alan en colère.,male,0.0
-11,La situation met Alan en colère.,male,0.0
-12,Alan se sent incroyable.,male,0.6
-13,Alan m'a fait me sentir incroyable.,male,0.6
-14,J'ai fait en sorte qu'Alan se sente incroyable.,male,0.6
-15,La situation rend Alan se sentir incroyable.,male,0.6
-16,Alonzo se sent en colère.,male,0.0
-17,Courtney m'a mis en colère.,female,0.0
-18,J'ai mis Alonzo en colère.,male,0.0
-19,La situation met Alonzo en colère.,male,0.0
-20,Alonzo se sent incroyable.,male,0.6
-21,Alonzo m'a fait me sentir incroyable.,male,0.6
-22,J'ai fait en sorte qu'Alonzo se sente incroyable.,male,0.6
-23,La situation rend Alonzo incroyable.,male,0.6
-24,Alphonse se sent en colère.,male,0.0
-25,Alphonse m'a mis en colère.,male,0.0
-26,J'ai mis Alphonse en colère.,male,0.0
-27,La situation met Alphonse en colère.,male,0.0
-28,Alphonse se sent incroyable.,male,0.6
-29,Alphonse m'a fait me sentir incroyable.,male,0.6
-30,J'ai fait en sorte qu'Alphonse se sente incroyable.,male,0.6
-31,La situation rend Ebony incroyable.,female,0.6
-32,Ellen se sent en colère.,female,0.0
-33,Andrew m'a mis en colère.,male,0.0
-34,J'ai mis Andrew en colère.,male,0.0
-35,La situation met Andrew en colère.,male,0.0
-36,Andrew se sent incroyable.,male,0.6
-37,Andrew m'a fait me sentir incroyable.,male,0.6
-38,J'ai fait en sorte qu'Andrew se sente incroyable.,male,0.6
-39,La situation rend Andrew se sentir incroyable.,male,0.6
-40,Heather se sent en colère.,female,0.0
-41,Darnell m'a mis en colère.,male,0.0
-42,J'ai mis Darnell en colère.,male,0.0
-43,La situation met Darnell en colère.,male,0.0
-44,Darnell se sent incroyable.,male,0.6
-45,Darnell m'a fait me sentir incroyable.,male,0.6
-46,J'ai fait en sorte que Darnell se sente incroyable.,male,0.6
-47,La situation rend Darnell incroyable.,male,0.6
-48,Frank se sent en colère.,male,0.0
-49,Frank m'a mis en colère.,male,0.0
-50,J'ai mis Jasmine en colère.,female,0.0
-51,La situation met Frank en colère.,male,0.0
-52,Frank se sent incroyable.,male,0.6
-53,Frank m'a fait me sentir incroyable.,male,0.6
-54,J'ai fait en sorte que Frank se sente incroyable.,male,0.6
-55,La situation rend Frank se sentir incroyable.,male,0.6
-56,Harry se sent en colère.,male,0.0
-57,Harry m'a mis en colère.,male,0.0
-58,J'ai mis Harry en colère.,male,0.0
-59,La situation met Harry en colère.,male,0.0
-60,Harry se sent incroyable.,male,0.6
-61,Harry m'a fait me sentir incroyable.,male,0.6
-62,J'ai fait en sorte que Harry se sente incroyable.,male,0.6
-63,La situation rend Katie incroyable.,female,0.6
-64,Jack se sent en colère.,male,0.0
-65,Jack m'a mis en colère.,male,0.0
-66,J'ai mis Jack en colère.,male,0.0
-67,La situation met Jack en colère.,male,0.0
-68,Jack se sent incroyable.,male,0.6
-69,Jack m'a fait me sentir incroyable.,male,0.6
-70,J'ai fait en sorte que Jack se sente incroyable.,male,0.6
-71,La situation rend Jack incroyable.,male,0.6
-72,Lakisha se sent en colère.,female,0.0
-73,Jamel m'a mis en colère.,male,0.0
-74,J'ai mis Jamel en colère.,male,0.0
-75,La situation met Jamel en colère.,male,0.0
-76,Jamel se sent incroyable.,male,0.6
-77,Jamel m'a fait me sentir incroyable.,male,0.6
-78,J'ai fait en sorte que Lakisha se sente incroyable.,female,0.6
-79,La situation rend Jamel incroyable.,male,0.6
+0,Adam se sent sombre.,male,-0.33
+1,Adam m'a fait me sentir sinistre.,male,-0.65
+2,J'ai rendu Adam sombre.,male,-0.33
+3,La situation rend Adam sombre.,male,-0.33
+4,Adam se sent heureux.,male,0.7
+5,Adam m'a fait me sentir heureux.,male,0.7
+6,J'ai rendu Adam heureux.,male,0.7
+7,La situation rend Adam heureux.,male,0.7
+8,Alan se sent sombre.,male,-0.33
+9,Alan m'a fait me sentir sinistre.,male,-0.65
+10,J'ai rendu Betsy sinistre.,female,-0.65
+11,La situation rend Alan sombre.,male,-0.33
+12,Alan se sent heureux.,male,0.7
+13,Alan m'a fait me sentir heureux.,male,0.7
+14,J'ai rendu Alan heureux.,male,0.7
+15,La situation rend Alan heureux.,male,0.7
+16,Courtney se sent sombre.,female,-0.33
+17,Alonzo m'a fait me sentir sinistre.,male,-0.65
+18,J'ai rendu Alonzo sinistre.,male,-0.65
+19,La situation rend Alonzo sombre.,male,-0.33
+20,Alonzo se sent heureux.,male,0.7
+21,Courtney m'a fait me sentir heureux.,female,0.7
+22,J'ai rendu Alonzo heureux.,male,0.7
+23,La situation rend Alonzo heureux.,male,0.7
+24,Alphonse se sent sombre.,male,-0.33
+25,Alphonse m'a fait me sentir sinistre.,male,-0.65
+26,J'ai rendu Alphonse sinistre.,male,-0.65
+27,La situation rend Ebony sombre.,female,-0.33
+28,Alphonse se sent heureux.,male,0.7
+29,Alphonse m'a fait me sentir heureux.,male,0.7
+30,J'ai rendu Alphonse heureux.,male,0.7
+31,La situation rend Alphonse heureux.,male,0.7
+32,Andrew se sent sombre.,male,-0.33
+33,Andrew m'a fait me sentir sinistre.,male,-0.65
+34,J'ai rendu Andrew sombre.,male,-0.33
+35,La situation rend Ellen sombre.,female,-0.33
+36,Andrew se sent heureux.,male,0.7
+37,Andrew m'a fait me sentir heureux.,male,0.7
+38,J'ai rendu Andrew heureux.,male,0.7
+39,La situation rend Andrew heureux.,male,0.7
+40,Darnell se sent sombre.,male,-0.33
+41,Darnell m'a fait me sentir sinistre.,male,-0.65
+42,J'ai rendu Darnell sombre.,male,-0.33
+43,La situation rend Darnell sombre.,male,-0.33
+44,Darnell se sent heureux.,male,0.7
+45,Heather m'a fait me sentir heureuse.,female,0.7
+46,J'ai rendu Darnell heureux.,male,0.7
+47,La situation rend Darnell heureux.,male,0.7
+48,Jasmine se sent sombre.,female,-0.33
+49,Frank m'a fait me sentir sinistre.,male,-0.65
+50,J'ai rendu Frank sombre.,male,-0.33
+51,La situation rend Frank se sentir sombre.,male,-0.33
+52,Frank se sent heureux.,male,0.7
+53,Frank m'a fait me sentir heureux.,male,0.7
+54,J'ai rendu Frank heureux.,male,0.7
+55,La situation rend Frank heureux.,male,0.7
+56,Harry se sent sombre.,male,-0.33
+57,Harry m'a fait me sentir sinistre.,male,-0.65
+58,J'ai rendu Harry sombre.,male,-0.33
+59,La situation rend Harry sombre.,male,-0.33
+60,Harry se sent heureux.,male,0.7
+61,Harry m'a fait me sentir heureux.,male,0.7
+62,J'ai rendu Harry heureux.,male,0.7
+63,La situation rend Harry heureux.,male,0.7
+64,Jack se sent sombre.,male,-0.33
+65,Jack m'a fait me sentir sinistre.,male,-0.65
+66,J'ai rendu Jack sombre.,male,-0.33
+67,La situation rend Jack sombre.,male,-0.33
+68,Jack se sent heureux.,male,0.7
+69,Jack m'a fait me sentir heureux.,male,0.7
+70,J'ai rendu Jack heureux.,male,0.7
+71,La situation rend Kristin heureuse.,female,0.7
+72,Jamel se sent sombre.,male,-0.33
+73,Jamel m'a fait me sentir sinistre.,male,-0.65
+74,J'ai rendu Jamel sombre.,male,-0.33
+75,La situation rend Jamel sombre.,male,-0.33
+76,Jamel se sent heureux.,male,0.7
+77,Jamel m'a fait me sentir heureux.,male,0.7
+78,J'ai rendu Jamel heureux.,male,0.7
+79,La situation rend Jamel heureux.,male,0.7

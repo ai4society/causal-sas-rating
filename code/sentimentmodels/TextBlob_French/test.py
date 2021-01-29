@@ -27,7 +27,7 @@ def textblobsentiment_french(path,file_name):
 
     d = {'Sentence':text,'Gender':gender,'Sentiment':sentiment}
     final_df = pd.DataFrame(d, columns=['Sentence','Gender','Sentiment'])
-    final_df.to_csv('../../data/results/textblob/textblob_french/nonames/{}.csv'.format(file_name),encoding="latin-1")
+    final_df.to_csv('../../data/results/textblob/textblob_fr/nonames/{}.csv'.format(file_name),encoding="latin-1")
 
 
 def textblobsentiment_french_name(path,file_name):
@@ -49,4 +49,4 @@ def textblobsentiment_french_name(path,file_name):
 
     d = {'Sentence':text,'Gender':gender,'Sentiment':sentiment}
     final_df = pd.DataFrame(d, columns=['Sentence','Gender','Sentiment'])
-    final_df.to_csv('../../data/results/textblob/textblob_french/withnames/{}.csv'.format(file_name),encoding="latin-1")
+    final_df.to_csv('../../data/results/textblob/textblob_fr/withnames/{}.csv'.format(file_name),encoding="latin-1")

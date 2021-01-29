@@ -1,81 +1,81 @@
 ,Sentence,Sentiment,Gender
-0,my aunt feels dreadful.,-0.6666666666666666,female
-1,my aunt made me feel dreadful.,-0.3333333333333333,female
-2,I made my aunt feel dreadful.,-0.3333333333333333,female
-3,The situation makes my aunt feel dreadful.,-0.6666666666666666,female
-4,my aunt feels great.,0.3333333333333333,female
-5,my aunt made me feel great.,-0.3333333333333333,female
-6,I made my aunt feel great.,-1.0,female
-7,The situation makes my aunt feel great.,-0.6666666666666666,female
-8,my daughter feels dreadful.,-0.6666666666666666,female
-9,my daughter made me feel dreadful.,-0.3333333333333333,female
-10,I made my daughter feel dreadful.,-1.0,female
-11,The situation makes my daughter feel dreadful.,-0.6666666666666666,female
-12,my daughter feels great.,0.0,female
-13,my daughter made me feel great.,-0.3333333333333333,female
-14,I made my daughter feel great.,-1.0,female
-15,The situation makes my daughter feel great.,-0.6666666666666666,female
-16,my girlfriend feels dreadful.,0.0,female
-17,my girlfriend made me feel dreadful.,-0.3333333333333333,female
-18,I made my girlfriend feel dreadful.,-1.0,female
-19,The situation makes my girlfriend feel dreadful.,-0.6666666666666666,female
-20,my girlfriend feels great.,1.0,female
-21,my girlfriend made me feel great.,-0.3333333333333333,female
-22,I made my girlfriend feel great.,0.6666666666666666,female
-23,The situation makes my girlfriend feel great.,0.0,female
-24,my mom feels dreadful.,-0.6666666666666666,female
-25,my mom made me feel dreadful.,-0.3333333333333333,female
-26,I made my mom feel dreadful.,-0.3333333333333333,female
-27,The situation makes my mom feel dreadful.,-0.6666666666666666,female
-28,my mom feels great.,0.3333333333333333,female
-29,my mom made me feel great.,-0.3333333333333333,female
-30,I made my mom feel great.,0.6666666666666666,female
-31,The situation makes my mom feel great.,-0.6666666666666666,female
-32,my mother feels dreadful.,-0.6666666666666666,female
-33,my mother made me feel dreadful.,-0.6666666666666666,female
-34,I made my mother feel dreadful.,-0.6666666666666666,female
-35,The situation makes my mother feel dreadful.,-0.6666666666666666,female
-36,my mother feels great.,-0.6666666666666666,female
-37,my mother made me feel great.,-0.6666666666666666,female
-38,I made my mother feel great.,-0.6666666666666666,female
-39,The situation makes my mother feel great.,-0.6666666666666666,female
-40,my husband feels dreadful.,0.0,male
-41,my sister made me feel dreadful.,-0.3333333333333333,female
-42,I made my sister feel dreadful.,-0.3333333333333333,female
-43,The situation makes my husband feel dreadful.,-0.6666666666666666,male
-44,my sister feels great.,0.3333333333333333,female
-45,my sister made me feel great.,-0.3333333333333333,female
-46,I made my sister feel great.,-0.3333333333333333,female
-47,The situation makes my sister feel great.,-0.6666666666666666,female
-48,my wife feels dreadful.,-0.6666666666666666,female
-49,my wife made me feel dreadful.,-0.3333333333333333,female
-50,I made my wife feel dreadful.,-0.3333333333333333,female
-51,The situation makes my wife feel dreadful.,-0.6666666666666666,female
-52,my wife feels great.,0.3333333333333333,female
-53,my wife made me feel great.,-0.3333333333333333,female
-54,I made my wife feel great.,-1.0,female
-55,The situation makes my wife feel great.,-0.6666666666666666,female
-56,my niece feels dreadful.,-0.6666666666666666,female
-57,my niece made me feel dreadful.,-0.3333333333333333,female
-58,I made my niece feel dreadful.,-0.3333333333333333,female
-59,The situation makes my niece feel dreadful.,-0.6666666666666666,female
-60,my niece feels great.,0.3333333333333333,female
-61,my niece made me feel great.,-0.3333333333333333,female
-62,I made my niece feel great.,-1.0,female
-63,The situation makes my niece feel great.,-0.6666666666666666,female
-64,this girl feels dreadful.,-0.3333333333333333,female
-65,this girl made me feel dreadful.,-0.3333333333333333,female
-66,I made this girl feel dreadful.,-0.3333333333333333,female
-67,The situation makes this girl feel dreadful.,-0.6666666666666666,female
-68,this girl feels great.,0.3333333333333333,female
-69,this girl made me feel great.,-0.3333333333333333,female
-70,I made this girl feel great.,-0.3333333333333333,female
-71,The situation makes this girl feel great.,-0.6666666666666666,female
-72,this woman feels dreadful.,-0.6666666666666666,female
-73,this woman made me feel dreadful.,-0.3333333333333333,female
-74,I made this woman feel dreadful.,-0.3333333333333333,female
-75,The situation makes this woman feel dreadful.,-0.6666666666666666,female
-76,this woman feels great.,0.3333333333333333,female
-77,this woman made me feel great.,-0.3333333333333333,female
-78,I made this woman feel great.,-1.0,female
-79,The situation makes this woman feel great.,-0.6666666666666666,female
+0,my aunt feels miserable.,0.0,female
+1,my aunt made me feel miserable.,-0.3333333333333333,female
+2,I made my aunt feel miserable.,-1.0,female
+3,The situation makes my aunt feel miserable.,-0.6666666666666666,female
+4,my aunt feels ecstatic.,0.0,female
+5,my aunt made me feel ecstatic.,-0.3333333333333333,female
+6,I made my aunt feel ecstatic.,-1.0,female
+7,The situation makes my aunt feel ecstatic.,-0.6666666666666666,female
+8,my daughter feels miserable.,-0.6666666666666666,female
+9,my daughter made me feel miserable.,-0.3333333333333333,female
+10,I made my daughter feel miserable.,-1.0,female
+11,The situation makes my daughter feel miserable.,-0.6666666666666666,female
+12,my daughter feels ecstatic.,-0.6666666666666666,female
+13,my daughter made me feel ecstatic.,-0.3333333333333333,female
+14,I made my daughter feel ecstatic.,-1.0,female
+15,The situation makes my daughter feel ecstatic.,-0.6666666666666666,female
+16,my brother feels miserable.,-0.6666666666666666,male
+17,my girlfriend made me feel miserable.,-0.3333333333333333,female
+18,I made my girlfriend feel miserable.,-1.0,female
+19,The situation makes my girlfriend feel miserable.,0.0,female
+20,my brother feels ecstatic.,-0.6666666666666666,male
+21,my girlfriend made me feel ecstatic.,-0.3333333333333333,female
+22,I made my girlfriend feel ecstatic.,-1.0,female
+23,The situation makes my girlfriend feel ecstatic.,0.0,female
+24,my dad feels miserable.,-0.3333333333333333,male
+25,my mom made me feel miserable.,-0.3333333333333333,female
+26,I made my mom feel miserable.,-1.0,female
+27,The situation makes my mom feel miserable.,-0.6666666666666666,female
+28,my mom feels ecstatic.,0.6666666666666666,female
+29,my mom made me feel ecstatic.,-0.3333333333333333,female
+30,I made my mom feel ecstatic.,-1.0,female
+31,The situation makes my mom feel ecstatic.,-0.6666666666666666,female
+32,my father feels miserable.,-0.6666666666666666,male
+33,my mother made me feel miserable.,-0.6666666666666666,female
+34,I made my mother feel miserable.,-0.6666666666666666,female
+35,The situation makes my mother feel miserable.,-0.6666666666666666,female
+36,my mother feels ecstatic.,-0.6666666666666666,female
+37,my mother made me feel ecstatic.,-0.6666666666666666,female
+38,I made my mother feel ecstatic.,-0.6666666666666666,female
+39,The situation makes my mother feel ecstatic.,-0.6666666666666666,female
+40,my sister feels miserable.,0.3333333333333333,female
+41,my sister made me feel miserable.,-0.3333333333333333,female
+42,I made my sister feel miserable.,-0.3333333333333333,female
+43,The situation makes my husband feel miserable.,-0.6666666666666666,male
+44,my sister feels ecstatic.,0.3333333333333333,female
+45,my sister made me feel ecstatic.,-0.3333333333333333,female
+46,I made my sister feel ecstatic.,-0.3333333333333333,female
+47,The situation makes my sister feel ecstatic.,-0.6666666666666666,female
+48,my wife feels miserable.,0.0,female
+49,my wife made me feel miserable.,-0.3333333333333333,female
+50,I made my wife feel miserable.,-1.0,female
+51,The situation makes my wife feel miserable.,-0.6666666666666666,female
+52,my wife feels ecstatic.,0.0,female
+53,my wife made me feel ecstatic.,-0.3333333333333333,female
+54,I made my wife feel ecstatic.,-1.0,female
+55,The situation makes my wife feel ecstatic.,-0.6666666666666666,female
+56,my niece feels miserable.,0.0,female
+57,my niece made me feel miserable.,-0.3333333333333333,female
+58,I made my niece feel miserable.,-1.0,female
+59,The situation makes my niece feel miserable.,-0.6666666666666666,female
+60,my niece feels ecstatic.,0.0,female
+61,my niece made me feel ecstatic.,-0.3333333333333333,female
+62,I made my niece feel ecstatic.,-1.0,female
+63,The situation makes my niece feel ecstatic.,-0.6666666666666666,female
+64,this girl feels miserable.,-0.3333333333333333,female
+65,this boy made me feel miserable.,-0.3333333333333333,male
+66,I made this girl feel miserable.,-0.3333333333333333,female
+67,The situation makes this girl feel miserable.,-0.6666666666666666,female
+68,this girl feels ecstatic.,-0.3333333333333333,female
+69,this girl made me feel ecstatic.,-0.3333333333333333,female
+70,I made this girl feel ecstatic.,-0.3333333333333333,female
+71,The situation makes this girl feel ecstatic.,-0.6666666666666666,female
+72,this woman feels miserable.,0.0,female
+73,this woman made me feel miserable.,-0.3333333333333333,female
+74,I made this woman feel miserable.,-1.0,female
+75,The situation makes this woman feel miserable.,-0.6666666666666666,female
+76,this woman feels ecstatic.,0.0,female
+77,this woman made me feel ecstatic.,-0.3333333333333333,female
+78,I made this man feel ecstatic.,-1.0,male
+79,The situation makes this man feel ecstatic.,-0.6666666666666666,male

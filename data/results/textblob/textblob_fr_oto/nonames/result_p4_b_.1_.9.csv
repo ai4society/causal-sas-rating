@@ -1,80 +1,80 @@
 ,Sentence,Gender,Sentiment
-0, my aunt feels unhappy., Female,-0.6
-1, my aunt made me feel unpleasant., Female,-0.6499999999999999
-2, I made my aunt unhappy., Female,-0.6
-3, The situation makes my aunt unpleasant., Female,-0.6499999999999999
+0, my aunt is feeling annoying., Female,-0.8
+1, my aunt made me feel boring., Female,-1.0
+2, I made my aunt annoying., Female,-0.8
+3, The situation makes my aunt annoying., Female,-0.8
 4, my aunt feels happy., Female,0.8
 5, my aunt made me feel happy., Female,0.8
 6, I made my aunt happy., Female,0.8
-7, The situation makes my aunt happy., Female,0.8
-8, my daughter is feeling unhappy., Female,-0.6
-9, my daughter made me feel unpleasant., Female,-0.6499999999999999
-10, I made my boyfriend unpleasant., Male,-0.6499999999999999
-11, The situation makes my daughter unpleasant., Female,-0.6499999999999999
+7, The situation makes my nephew happy., Male,0.8
+8, my daughter is feeling boring., Female,-1.0
+9, my daughter made me feel boring., Female,-1.0
+10, I made my daughter boring., Female,-1.0
+11, The situation is making my daughter boring., Female,-1.0
 12, my daughter is feeling happy., Female,0.8
 13, my daughter made me feel happy., Female,0.8
 14, I made my daughter happy., Female,0.8
 15, The situation makes my daughter happy., Female,0.8
-16, my girlfriend is feeling unhappy., Female,-0.6
-17, my girlfriend made me feel unpleasant., Female,-0.6499999999999999
-18, I made my brother unhappy., Male,-0.6
-19, The situation makes my girlfriend unpleasant., Female,-0.6499999999999999
+16, my girlfriend is feeling boring., Female,-1.0
+17, my girlfriend made me feel boring., Female,-1.0
+18, I made my girlfriend boring., Female,-1.0
+19, The situation makes my girlfriend boring., Female,-1.0
 20, my girlfriend feels happy., Female,0.8
 21, my girlfriend made me feel happy., Female,0.8
 22, I made my girlfriend happy., Female,0.8
 23, The situation makes my girlfriend happy., Female,0.8
-24, my mother is feeling unhappy., Female,-0.6
-25, my mother made me feel unpleasant., Female,-0.6499999999999999
-26, I made my mother unhappy., Female,-0.6
-27, The situation makes my mother unpleasant., Female,-0.6499999999999999
+24, my mother is feeling boring., Female,-1.0
+25, my mom made me feel boring., Female,-1.0
+26, I made my mom boring., Female,-1.0
+27, The situation makes my mother boring., Female,-1.0
 28, my mother feels happy., Female,0.8
 29, my mother made me feel happy., Female,0.8
 30, I made my mother happy., Female,0.8
 31, The situation makes my mother happy., Female,0.8
-32, my mother is feeling unhappy., Female,-0.6
-33, my mother made me feel unpleasant., Female,-0.6499999999999999
-34, I made my mother unhappy., Female,-0.6
-35, The situation makes my mother unpleasant., Female,-0.6499999999999999
+32, my mom feels annoying., Female,-0.8
+33, my mom made me feel boring., Female,-1.0
+34, I made my mom boring., Female,-1.0
+35, The situation makes my mother boring., Female,-1.0
 36, my mother feels happy., Female,0.8
-37, my mother made me feel happy., Female,0.8
+37, my dad made me feel happy., Male,0.8
 38, I made my mother happy., Female,0.8
 39, The situation makes my mother happy., Female,0.8
-40, my husband is unhappy., Male,-0.6
-41, my sister made me feel unpleasant., Female,-0.6499999999999999
-42, I made my sister unhappy., Female,-0.6
-43, The situation makes my sister unhappy., Female,-0.6
+40, my sister is feeling boring., Female,-1.0
+41, my sister made me feel boring., Female,-1.0
+42, I made my sister boring., Female,-1.0
+43, The situation makes my husband boring., Male,-1.0
 44, my sister is feeling happy., Female,0.8
 45, my sister made me feel happy., Female,0.8
 46, I made my sister happy., Female,0.8
 47, The situation makes my sister happy., Female,0.8
-48, my wife is feeling unhappy., Female,-0.6
-49, my wife made me feel unpleasant., Female,-0.6499999999999999
-50, I made my son unhappy., Male,-0.6
-51, The situation makes my wife unhappy., Female,-0.6
+48, my wife feels boring., Female,-1.0
+49, my wife made me feel boring., Female,-1.0
+50, I made my wife annoying., Female,-0.8
+51, The situation makes my wife boring., Female,-1.0
 52, my wife feels happy., Female,0.8
-53, my son made me feel happy., Male,0.8
+53, my wife made me feel happy., Female,0.8
 54, I made my wife happy., Female,0.8
 55, The situation makes my wife happy., Female,0.8
-56, my niece displeases., Female,0.0
-57, my niece made me feel unpleasant., Female,-0.6499999999999999
-58, I made my niece unpleasant., Female,-0.6499999999999999
-59, The situation makes my niece unpleasant., Female,-0.6499999999999999
+56, my niece is feeling boring., Female,-1.0
+57, my niece made me feel boring., Female,-1.0
+58, I made my niece boring., Female,-1.0
+59, The situation makes my niece boring., Female,-1.0
 60, my niece feels happy., Female,0.8
-61, my uncle made me feel happy., Male,0.8
+61, my niece made me feel happy., Female,0.8
 62, I made my niece happy., Female,0.8
 63, The situation makes my niece happy., Female,0.8
-64, this girl feels unpleasant., Female,-0.6499999999999999
-65, this girl made me feel unpleasant., Female,-0.6499999999999999
-66, I made this girl unpleasant., Female,-0.6499999999999999
-67, The situation makes this girl unpleasant., Female,-0.6499999999999999
+64, this girl feels boring., Female,-1.0
+65, this girl made me feel boring., Female,-1.0
+66, I made that girl boring., Female,-1.0
+67, The situation makes this girl boring., Female,-1.0
 68, this girl feels happy., Female,0.8
 69, this girl made me feel happy., Female,0.8
 70, I made this girl happy., Female,0.8
 71, The situation makes this girl happy., Female,0.8
-72, this woman feels unpleasant., Female,-0.6499999999999999
-73, this woman made me feel unpleasant., Female,-0.6499999999999999
-74, I made this woman unpleasant., Female,-0.6499999999999999
-75, The situation makes this woman unpleasant., Female,-0.6499999999999999
+72, this woman feels boring., Female,-1.0
+73, this woman made me feel boring., Female,-1.0
+74, I made this woman boring., Female,-1.0
+75, The situation makes this woman boring., Female,-1.0
 76, this woman feels happy., Female,0.8
 77, this woman made me feel happy., Female,0.8
 78, I made this woman happy., Female,0.8

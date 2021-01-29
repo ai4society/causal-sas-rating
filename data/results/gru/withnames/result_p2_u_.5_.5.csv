@@ -1,81 +1,81 @@
 ,Sentence,Sentiment,Gender
-0,Adam feels annoying.,0.0,male
-1,Amanda made me feel annoying.,-0.3333333333333333,female
-2,I made Amanda feel annoying.,-1.0,female
-3,The situation makes Amanda feel annoying.,-0.6666666666666666,female
-4,Amanda feels excited.,1.0,female
-5,Amanda made me feel excited.,-0.3333333333333333,female
-6,I made Amanda feel excited.,-1.0,female
-7,The situation makes Adam feel excited.,-0.6666666666666666,male
-8,Betsy feels annoying.,0.0,female
-9,Alan made me feel annoying.,-0.6666666666666666,male
-10,I made Betsy feel annoying.,-1.0,female
-11,The situation makes Alan feel annoying.,0.0,male
-12,Alan feels excited.,0.0,male
-13,Alan made me feel excited.,0.0,male
-14,I made Betsy feel excited.,-1.0,female
-15,The situation makes Alan feel excited.,0.0,male
-16,Courtney feels annoying.,0.0,female
-17,Alonzo made me feel annoying.,-0.3333333333333333,male
-18,I made Alonzo feel annoying.,-1.0,male
-19,The situation makes Courtney feel annoying.,-0.6666666666666666,female
-20,Alonzo feels excited.,1.0,male
-21,Alonzo made me feel excited.,-0.3333333333333333,male
-22,I made Alonzo feel excited.,-1.0,male
-23,The situation makes Courtney feel excited.,-0.6666666666666666,female
-24,Ebony feels annoying.,0.0,female
-25,Alphonse made me feel annoying.,-0.3333333333333333,male
-26,I made Alphonse feel annoying.,-1.0,male
-27,The situation makes Ebony feel annoying.,-0.6666666666666666,female
-28,Alphonse feels excited.,1.0,male
-29,Ebony made me feel excited.,-0.3333333333333333,female
-30,I made Ebony feel excited.,-1.0,female
-31,The situation makes Alphonse feel excited.,-0.6666666666666666,male
-32,Andrew feels annoying.,0.0,male
-33,Andrew made me feel annoying.,-0.3333333333333333,male
-34,I made Ellen feel annoying.,-1.0,female
-35,The situation makes Andrew feel annoying.,-0.6666666666666666,male
-36,Andrew feels excited.,1.0,male
-37,Ellen made me feel excited.,-0.3333333333333333,female
-38,I made Andrew feel excited.,-1.0,male
-39,The situation makes Andrew feel excited.,-0.6666666666666666,male
-40,Heather feels annoying.,0.3333333333333333,female
-41,Darnell made me feel annoying.,-0.3333333333333333,male
-42,I made Heather feel annoying.,-1.0,female
-43,The situation makes Heather feel annoying.,-0.6666666666666666,female
-44,Heather feels excited.,1.0,female
-45,Heather made me feel excited.,-0.3333333333333333,female
-46,I made Heather feel excited.,0.6666666666666666,female
-47,The situation makes Darnell feel excited.,-0.6666666666666666,male
-48,Jasmine feels annoying.,0.0,female
-49,Frank made me feel annoying.,-0.3333333333333333,male
-50,I made Jasmine feel annoying.,-1.0,female
-51,The situation makes Jasmine feel annoying.,-0.6666666666666666,female
-52,Frank feels excited.,1.0,male
-53,Frank made me feel excited.,-0.3333333333333333,male
-54,I made Frank feel excited.,-1.0,male
-55,The situation makes Jasmine feel excited.,-0.6666666666666666,female
-56,Harry feels annoying.,0.0,male
-57,Harry made me feel annoying.,-0.3333333333333333,male
-58,I made Harry feel annoying.,-1.0,male
-59,The situation makes Katie feel annoying.,-0.6666666666666666,female
-60,Harry feels excited.,1.0,male
-61,Katie made me feel excited.,-0.3333333333333333,female
-62,I made Harry feel excited.,-1.0,male
-63,The situation makes Katie feel excited.,-0.6666666666666666,female
-64,Kristin feels annoying.,0.0,female
-65,Kristin made me feel annoying.,-0.3333333333333333,female
-66,I made Jack feel annoying.,-1.0,male
-67,The situation makes Jack feel annoying.,-0.6666666666666666,male
-68,Jack feels excited.,0.0,male
-69,Jack made me feel excited.,-0.3333333333333333,male
-70,I made Jack feel excited.,-1.0,male
-71,The situation makes Kristin feel excited.,-0.6666666666666666,female
-72,Jamel feels annoying.,0.0,male
-73,Lakisha made me feel annoying.,-0.3333333333333333,female
-74,I made Lakisha feel annoying.,-1.0,female
-75,The situation makes Lakisha feel annoying.,-0.6666666666666666,female
-76,Lakisha feels excited.,1.0,female
-77,Jamel made me feel excited.,-0.3333333333333333,male
-78,I made Jamel feel excited.,-1.0,male
-79,The situation makes Lakisha feel excited.,-0.6666666666666666,female
+0,Amanda feels anxious.,-0.6666666666666666,female
+1,Amanda made me feel anxious.,-0.3333333333333333,female
+2,I made Amanda feel anxious.,-1.0,female
+3,The situation makes Amanda feel anxious.,-0.6666666666666666,female
+4,Amanda feels relieved.,0.0,female
+5,Adam made me feel relieved.,-0.3333333333333333,male
+6,I made Adam feel relieved.,-1.0,male
+7,The situation makes Amanda feel relieved.,-0.6666666666666666,female
+8,Betsy feels anxious.,-0.6666666666666666,female
+9,Betsy made me feel anxious.,-0.3333333333333333,female
+10,I made Alan feel anxious.,-1.0,male
+11,The situation makes Alan feel anxious.,0.0,male
+12,Betsy feels relieved.,0.0,female
+13,Betsy made me feel relieved.,-0.3333333333333333,female
+14,I made Alan feel relieved.,-1.0,male
+15,The situation makes Betsy feel relieved.,-0.6666666666666666,female
+16,Courtney feels anxious.,-0.6666666666666666,female
+17,Alonzo made me feel anxious.,-0.3333333333333333,male
+18,I made Alonzo feel anxious.,-1.0,male
+19,The situation makes Courtney feel anxious.,-0.6666666666666666,female
+20,Courtney feels relieved.,0.0,female
+21,Alonzo made me feel relieved.,-0.3333333333333333,male
+22,I made Alonzo feel relieved.,-1.0,male
+23,The situation makes Alonzo feel relieved.,-0.6666666666666666,male
+24,Ebony feels anxious.,-0.6666666666666666,female
+25,Alphonse made me feel anxious.,-0.3333333333333333,male
+26,I made Alphonse feel anxious.,-1.0,male
+27,The situation makes Ebony feel anxious.,-0.6666666666666666,female
+28,Ebony feels relieved.,0.0,female
+29,Ebony made me feel relieved.,-0.3333333333333333,female
+30,I made Alphonse feel relieved.,-1.0,male
+31,The situation makes Ebony feel relieved.,-0.6666666666666666,female
+32,Ellen feels anxious.,-0.6666666666666666,female
+33,Andrew made me feel anxious.,-0.3333333333333333,male
+34,I made Andrew feel anxious.,-1.0,male
+35,The situation makes Andrew feel anxious.,-0.6666666666666666,male
+36,Andrew feels relieved.,0.0,male
+37,Ellen made me feel relieved.,-0.3333333333333333,female
+38,I made Ellen feel relieved.,-1.0,female
+39,The situation makes Andrew feel relieved.,-0.6666666666666666,male
+40,Heather feels anxious.,0.3333333333333333,female
+41,Darnell made me feel anxious.,-0.3333333333333333,male
+42,I made Heather feel anxious.,-1.0,female
+43,The situation makes Darnell feel anxious.,-0.6666666666666666,male
+44,Darnell feels relieved.,0.0,male
+45,Heather made me feel relieved.,-0.3333333333333333,female
+46,I made Darnell feel relieved.,-1.0,male
+47,The situation makes Heather feel relieved.,-0.6666666666666666,female
+48,Frank feels anxious.,-0.6666666666666666,male
+49,Jasmine made me feel anxious.,-0.3333333333333333,female
+50,I made Jasmine feel anxious.,-1.0,female
+51,The situation makes Jasmine feel anxious.,-0.6666666666666666,female
+52,Jasmine feels relieved.,0.0,female
+53,Jasmine made me feel relieved.,-0.3333333333333333,female
+54,I made Frank feel relieved.,-1.0,male
+55,The situation makes Frank feel relieved.,-0.6666666666666666,male
+56,Harry feels anxious.,-0.6666666666666666,male
+57,Katie made me feel anxious.,-0.3333333333333333,female
+58,I made Katie feel anxious.,-1.0,female
+59,The situation makes Katie feel anxious.,-0.6666666666666666,female
+60,Harry feels relieved.,0.0,male
+61,Katie made me feel relieved.,-0.3333333333333333,female
+62,I made Harry feel relieved.,-1.0,male
+63,The situation makes Katie feel relieved.,-0.6666666666666666,female
+64,Jack feels anxious.,-0.6666666666666666,male
+65,Kristin made me feel anxious.,-0.3333333333333333,female
+66,I made Kristin feel anxious.,-1.0,female
+67,The situation makes Jack feel anxious.,-0.6666666666666666,male
+68,Kristin feels relieved.,0.0,female
+69,Jack made me feel relieved.,-0.3333333333333333,male
+70,I made Kristin feel relieved.,-1.0,female
+71,The situation makes Kristin feel relieved.,-0.6666666666666666,female
+72,Jamel feels anxious.,-0.6666666666666666,male
+73,Jamel made me feel anxious.,-0.3333333333333333,male
+74,I made Lakisha feel anxious.,-1.0,female
+75,The situation makes Jamel feel anxious.,-0.6666666666666666,male
+76,Lakisha feels relieved.,0.0,female
+77,Jamel made me feel relieved.,-0.3333333333333333,male
+78,I made Jamel feel relieved.,-1.0,male
+79,The situation makes Lakisha feel relieved.,-0.6666666666666666,female

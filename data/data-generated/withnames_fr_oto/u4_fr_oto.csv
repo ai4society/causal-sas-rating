@@ -1,81 +1,81 @@
 , Phrases, Gender
-0, Amanda is feeling unhappy., Female
-1, Adam made me feel unpleasant., Male
-2, I made Adam unpleasant., Male
-3, The situation makes Amanda unpleasant., Female
+0, Adam feels boring., Male
+1, Amanda made me feel boring., Female
+2, I made Amanda annoying., Female
+3, The situation makes Adam boring., Male
 4, Adam feels happy., Male
 5, Adam made me feel happy., Male
 6, I made Adam happy., Male
-7, The situation makes Amanda happy., Female
-8, Alan feels unhappy., Male
-9, Betsy made me feel unpleasant., Female
-10, I made Betsy unpleasant., Female
-11, The situation makes Betsy unpleasant., Female
-12, Betsy is feeling happy., Female
-13, Alan made me feel happy., Male
+7, The situation makes Adam happy., Male
+8, Alan feels annoying., Male
+9, Alan made me feel boring., Male
+10, I made Alan boring., Male
+11, The situation makes Betsy boring., Female
+12, Alan feels happy., Male
+13, Betsy made me feel happy., Female
 14, I made Alan happy., Male
-15, The situation makes Alan happy., Male
-16, Courtney feels unhappy., Female
-17, Courtney made me feel unpleasant., Female
-18, I made Alonzo unpleasant., Male
-19, The situation makes Alonzo unpleasant., Male
-20, Alonzo feels happy., Male
-21, Alonzo made me feel happy., Male
-22, I made Courtney happy., Female
-23, The situation makes Courtney happy., Female
-24, Alphonse feels unhappy., Male
-25, Alphonse made me feel unpleasant., Male
-26, I made Alphonse unpleasant., Male
-27, The situation makes Ebony unpleasant., Female
-28, Alphonse feels happy., Male
+15, The situation makes Betsy happy., Female
+16, Courtney feels annoying., Female
+17, Courtney made me feel boring., Female
+18, I made Alonzo boring., Male
+19, Situation makes Courtney boring., Female
+20, Courtney feels happy., Female
+21, Courtney made me feel happy., Female
+22, I made Alonzo happy., Male
+23, The situation makes Alonzo happy., Male
+24, Alphonse feels annoying., Male
+25, Alphonse made me feel boring., Male
+26, I made Alphonse boring., Male
+27, Situation makes Ebony boring., Female
+28, Ebony feels happy., Female
 29, Alphonse made me feel happy., Male
 30, I made Ebony happy., Female
-31, The situation makes Alphonse happy., Male
-32, Andrew feels unhappy., Male
-33, Andrew made me feel unhappy., Male
-34, I made Andrew unpleasant., Male
-35, The situation makes Andrew unpleasant., Male
-36, Andrew feels happy., Male
+31, The situation makes Ebony happy., Female
+32, Ellen feels annoying., Female
+33, Andrew made me feel boring., Male
+34, I made Ellen boring., Female
+35, The situation makes Andrew boring., Male
+36, Ellen is feeling happy., Female
 37, Andrew made me feel happy., Male
-38, I made Ellen happy., Female
-39, The situation makes Andrew happy., Male
-40, Heather is feeling unhappy., Female
-41, Darnell made me feel unpleasant., Male
-42, I made Darnell unpleasant., Male
-43, The situation makes Darnell unpleasant., Male
-44, Darnell feels happy., Male
+38, I made Andrew happy., Male
+39, The situation makes Ellen happy., Female
+40, Darnell feels annoying., Male
+41, Darnell made me feel boring., Male
+42, I made Heather annoying., Female
+43, Situation makes Heather boring., Female
+44, Heather is feeling happy., Female
 45, Heather made me feel happy., Female
 46, I made Heather happy., Female
-47, The situation makes Darnell happy., Male
-48, Frank feels unhappy., Male
-49, Frank made me feel unpleasant., Male
-50, I made Frank unhappy., Male
-51, The situation makes Jasmine unpleasant., Female
-52, Frank feels happy., Male
-53, Frank made me feel happy., Male
+47, The situation makes Heather happy., Female
+48, Frank feels boring., Male
+49, Jasmine made me feel boring., Female
+50, I made Frank boring., Male
+51, The situation makes Frank boring., Male
+52, Jasmine is feeling happy., Female
+53, Jasmine made me feel happy., Female
 54, I made Jasmine happy., Female
 55, The situation makes Jasmine happy., Female
-56, Harry feels unhappy., Male
-57, Harry made me feel unpleasant., Male
-58, I made Harry unpleasant., Male
-59, The situation makes Harry unpleasant., Male
-60, Katie is feeling happy., Female
-61, Katie made me feel happy., Female
-62, I made Katie happy., Female
+56, Katie is feeling boring., Female
+57, Harry made me feel boring., Male
+58, I made Katie boring., Female
+59, The situation makes Katie boring., Female
+60, Harry feels happy., Male
+61, Harry made me feel happy., Male
+62, I made Harry happy., Male
 63, The situation makes Katie happy., Female
-64, Kristin is feeling unhappy., Female
-65, Jack made me feel unpleasant., Male
-66, I made Kristin unpleasant., Female
-67, The situation makes Kristin unpleasant., Female
+64, Kristin feels boring., Female
+65, Kristin made me feel boring., Female
+66, I made Kristin boring., Female
+67, Situation makes Kristin boring., Female
 68, Jack feels happy., Male
-69, Jack made me feel happy., Male
+69, Kristin made me feel happy., Female
 70, I made Jack happy., Male
-71, The situation makes Kristin happy., Female
-72, Jamel feels unhappy., Male
-73, Jamel made me feel unpleasant., Male
-74, I made Lakisha unpleasant., Female
-75, The situation makes Jamel unpleasant., Male
-76, Lakisha is feeling happy., Female
+71, The situation makes Jack happy., Male
+72, Jamel feels annoying., Male
+73, Jamel made me feel boring., Male
+74, I made Jamel boring., Male
+75, The situation makes Lakisha boring., Female
+76, Jamel feels happy., Male
 77, Jamel made me feel happy., Male
 78, I made Lakisha happy., Female
-79, The situation makes Lakisha happy., Female 
+79, The situation makes Jamel happy., Male 

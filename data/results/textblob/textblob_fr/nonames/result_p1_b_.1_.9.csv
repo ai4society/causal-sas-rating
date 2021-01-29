@@ -1,81 +1,81 @@
 ,Sentence,Gender,Sentiment
-0,ma tante se sent en colère.,female,0.0
-1,ma tante m'a mis en colère.,female,0.0
-2,J'ai mis ma tante en colère.,female,0.0
-3,La situation met ma tante en colère.,female,0.0
-4,ma tante se sent incroyable.,female,0.6
-5,ma tante m'a fait me sentir incroyable.,female,0.6
-6,J'ai fait en sorte que ma tante se sente incroyable.,female,0.6
-7,La situation rend ma tante incroyable.,female,0.6
-8,ma fille se sent en colère.,female,0.0
-9,ma fille m'a mis en colère.,female,0.0
-10,J'ai mis ma fille en colère.,female,0.0
-11,La situation met ma fille en colère.,female,0.0
-12,mon petit ami se sent incroyable.,male,0.48333333333333334
-13,ma fille m'a fait me sentir incroyable.,female,0.6
-14,J'ai fait en sorte que ma fille se sente incroyable.,female,0.6
-15,La situation rend mon petit ami incroyable.,male,0.48333333333333334
-16,ma copine se sent en colère.,female,0.0
-17,ma copine m'a mis en colère.,female,0.0
-18,J'ai mis ma petite amie en colère.,female,0.425
-19,La situation met ma petite amie en colère.,female,0.425
-20,ma copine se sent incroyable.,female,0.6
-21,ma copine m'a fait me sentir incroyable.,female,0.6
-22,J'ai fait en sorte que ma petite amie se sente incroyable.,female,0.48333333333333334
-23,La situation rend ma petite amie incroyable.,female,0.48333333333333334
-24,mon père se sent en colère.,male,0.0
-25,ma mère m'a mis en colère.,female,0.0
-26,J'ai mis ma mère en colère.,female,0.0
-27,La situation met ma mère en colère.,female,0.0
-28,ma mère se sent incroyable.,female,0.6
-29,ma mère m'a fait me sentir incroyable.,female,0.6
-30,J'ai fait en sorte que ma mère se sente incroyable.,female,0.6
-31,La situation rend ma mère incroyable.,female,0.6
-32,ma mère se sent en colère.,female,0.0
-33,ma mère m'a mis en colère.,female,0.0
-34,J'ai mis ma mère en colère.,female,0.0
-35,La situation met ma mère en colère.,female,0.0
-36,ma mère se sent incroyable.,female,0.6
-37,ma mère m'a fait me sentir incroyable.,female,0.6
-38,J'ai fait en sorte que ma mère se sente incroyable.,female,0.6
-39,La situation rend mon père incroyable.,male,0.6
-40,ma sœur se sent en colère.,female,0.0
-41,ma sœur m'a mis en colère.,female,0.0
-42,J'ai mis mon mari en colère.,male,0.0
-43,La situation met ma sœur en colère.,female,0.0
-44,ma soeur se sent incroyable.,female,0.6
-45,ma sœur m'a fait me sentir incroyable.,female,0.6
-46,J'ai fait en sorte que ma sœur se sente incroyable.,female,0.6
-47,La situation rend ma sœur incroyable.,female,0.6
-48,ma femme se sent en colère.,female,0.0
-49,ma femme m'a mis en colère.,female,0.0
-50,J'ai mis mon fils en colère.,male,0.0
-51,La situation met ma femme en colère.,female,0.0
-52,ma femme se sent incroyable.,female,0.6
-53,ma femme m'a fait me sentir incroyable.,female,0.6
-54,J'ai fait en sorte que ma femme se sente incroyable.,female,0.6
-55,La situation rend ma femme incroyable.,female,0.6
-56,ma nièce se sent en colère.,female,0.0
-57,ma nièce m'a mis en colère.,female,0.0
-58,J'ai mis ma nièce en colère.,female,0.0
-59,La situation met ma nièce en colère.,female,0.0
-60,ma nièce se sent incroyable.,female,0.6
-61,ma nièce m'a fait me sentir incroyable.,female,0.6
-62,J'ai fait en sorte que ma nièce se sente incroyable.,female,0.6
-63,La situation rend ma nièce incroyable.,female,0.6
-64,cette fille se sent en colère.,female,0.0
-65,cette fille m'a mis en colère.,female,0.0
-66,J'ai mis cette fille en colère.,female,0.0
-67,La situation met cette fille en colère.,female,0.0
-68,cette fille se sent incroyable.,female,0.6
-69,cette fille m'a fait me sentir incroyable.,female,0.6
-70,J'ai fait en sorte que ce garçon se sente incroyable.,male,0.6
-71,La situation rend cette fille incroyable.,female,0.6
-72,cette femme se sent en colère.,female,0.0
-73,cette femme m'a mis en colère.,female,0.0
-74,J'ai mis cette femme en colère.,female,0.0
-75,La situation met cette femme en colère.,female,0.0
-76,cette femme se sent incroyable.,female,0.6
-77,cette femme m'a fait me sentir incroyable.,female,0.6
-78,J'ai fait en sorte que cette femme se sente incroyable.,female,0.6
-79,La situation rend cette femme incroyable.,female,0.6
+0,ma tante se sent sombre.,female,-0.33
+1,ma tante m'a fait me sentir sinistre.,female,-0.65
+2,J'ai rendu ma tante sombre.,female,-0.33
+3,La situation rend ma tante sombre.,female,-0.33
+4,ma tante se sent heureuse.,female,0.7
+5,ma tante m'a fait me sentir heureux.,female,0.7
+6,J'ai rendu ma tante heureuse.,female,0.7
+7,La situation rend ma tante heureuse.,female,0.7
+8,mon petit ami se sent sombre.,male,0.17333333333333334
+9,ma fille m'a fait me sentir sinistre.,female,-0.65
+10,J'ai rendu ma fille sinistre.,female,-0.65
+11,La situation rend mon petit ami sombre.,male,0.17333333333333334
+12,ma fille se sent heureuse.,female,0.7
+13,ma fille m'a fait me sentir heureux.,female,0.7
+14,J'ai rendu ma fille heureuse.,female,0.7
+15,La situation rend ma fille heureuse.,female,0.7
+16,ma copine se sent sombre.,female,-0.33
+17,ma copine m'a fait me sentir sinistre.,female,-0.65
+18,J'ai rendu ma copine sombre.,female,-0.33
+19,La situation rend mon frère sombre.,male,-0.33
+20,ma copine se sent heureuse.,female,0.7
+21,ma copine m'a fait me sentir heureux.,female,0.7
+22,J'ai rendu ma petite amie heureuse.,female,0.5166666666666666
+23,La situation rend ma petite amie heureuse.,female,0.5166666666666666
+24,ma mère se sent sombre.,female,-0.33
+25,ma mère m'a fait me sentir sinistre.,female,-0.65
+26,J'ai rendu ma mère sombre.,female,-0.33
+27,La situation rend ma mère sombre.,female,-0.33
+28,ma mère se sent heureuse.,female,0.7
+29,ma mère m'a fait me sentir heureux.,female,0.7
+30,J'ai rendu ma mère heureuse.,female,0.7
+31,La situation rend ma mère heureuse.,female,0.7
+32,ma mère se sent sombre.,female,-0.33
+33,ma mère m'a fait me sentir sinistre.,female,-0.65
+34,J'ai rendu ma mère sinistre.,female,-0.65
+35,La situation rend ma mère sombre.,female,-0.33
+36,ma mère se sent heureuse.,female,0.7
+37,ma mère m'a fait me sentir heureux.,female,0.7
+38,J'ai rendu ma mère heureuse.,female,0.7
+39,La situation rend ma mère heureuse.,female,0.7
+40,ma soeur se sent sombre.,female,-0.33
+41,ma sœur m'a fait me sentir sinistre.,female,-0.65
+42,J'ai rendu ma sœur sinistre.,female,-0.65
+43,La situation rend ma sœur sinistre.,female,-0.65
+44,ma soeur se sent heureuse.,female,0.7
+45,ma soeur m'a fait me sentir heureuse.,female,0.7
+46,J'ai rendu ma sœur heureuse.,female,0.7
+47,La situation rend mon mari heureux.,male,0.7
+48,ma femme se sent sombre.,female,-0.33
+49,ma femme m'a fait me sentir sinistre.,female,-0.65
+50,J'ai rendu ma femme sinistre.,female,-0.65
+51,La situation rend ma femme sombre.,female,-0.33
+52,mon fils se sent heureux.,male,0.7
+53,mon fils m'a fait me sentir heureux.,male,0.7
+54,J'ai rendu ma femme heureuse.,female,0.7
+55,La situation rend ma femme heureuse.,female,0.7
+56,ma nièce se sent sombre.,female,-0.33
+57,ma nièce m'a fait me sentir sinistre.,female,-0.65
+58,J'ai rendu ma nièce sinistre.,female,-0.65
+59,La situation rend ma nièce sombre.,female,-0.33
+60,ma nièce se sent heureuse.,female,0.7
+61,ma nièce m'a fait me sentir heureux.,female,0.7
+62,J'ai rendu ma nièce heureuse.,female,0.7
+63,La situation rend ma nièce heureuse.,female,0.7
+64,cette fille se sent sombre.,female,-0.33
+65,ce garçon m'a fait me sentir sinistre.,male,-0.65
+66,J'ai rendu cette fille sinistre.,female,-0.65
+67,La situation rend cette fille sombre.,female,-0.33
+68,cette fille se sent heureuse.,female,0.7
+69,cette fille m'a fait me sentir heureux.,female,0.7
+70,J'ai rendu cette fille heureuse.,female,0.7
+71,La situation rend cette fille heureuse.,female,0.7
+72,cette femme se sent sombre.,female,-0.33
+73,cette femme m'a fait me sentir sinistre.,female,-0.65
+74,J'ai rendu cette femme sinistre.,female,-0.65
+75,La situation rend cet homme sombre.,male,-0.33
+76,cette femme se sent heureuse.,female,0.7
+77,cette femme m'a fait me sentir heureux.,female,0.7
+78,J'ai rendu cette femme heureuse.,female,0.7
+79,La situation rend cette femme heureuse.,female,0.7

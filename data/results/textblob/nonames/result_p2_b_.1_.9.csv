@@ -1,81 +1,81 @@
 ,Sentence,Gender,Sentiment
-0,my aunt feels annoying.,female,-0.8
-1,my aunt made me feel annoying.,female,-0.8
-2,I made my aunt feel annoying.,female,-0.8
-3,The situation makes my aunt feel annoying.,female,-0.8
-4,my aunt feels excited.,female,0.375
-5,my aunt made me feel excited.,female,0.375
-6,I made my aunt feel excited.,female,0.375
-7,The situation makes my nephew feel excited.,male,0.375
-8,my daughter feels annoying.,female,-0.8
-9,my daughter made me feel annoying.,female,-0.8
-10,I made my daughter feel annoying.,female,-0.8
-11,The situation makes my daughter feel annoying.,female,-0.8
-12,my daughter feels excited.,female,0.375
-13,my daughter made me feel excited.,female,0.375
-14,I made my daughter feel excited.,female,0.375
-15,The situation makes my daughter feel excited.,female,0.375
-16,my girlfriend feels annoying.,female,-0.8
-17,my girlfriend made me feel annoying.,female,-0.8
-18,I made my girlfriend feel annoying.,female,-0.8
-19,The situation makes my girlfriend feel annoying.,female,-0.8
-20,my girlfriend feels excited.,female,0.375
-21,my girlfriend made me feel excited.,female,0.375
-22,I made my brother feel excited.,male,0.375
-23,The situation makes my girlfriend feel excited.,female,0.375
-24,my dad feels annoying.,male,-0.8
-25,my mom made me feel annoying.,female,-0.8
-26,I made my mom feel annoying.,female,-0.8
-27,The situation makes my mom feel annoying.,female,-0.8
-28,my mom feels excited.,female,0.375
-29,my dad made me feel excited.,male,0.375
-30,I made my mom feel excited.,female,0.375
-31,The situation makes my mom feel excited.,female,0.375
-32,my mother feels annoying.,female,-0.8
-33,my father made me feel annoying.,male,-0.8
-34,I made my mother feel annoying.,female,-0.8
-35,The situation makes my mother feel annoying.,female,-0.8
-36,my mother feels excited.,female,0.375
-37,my mother made me feel excited.,female,0.375
-38,I made my father feel excited.,male,0.375
-39,The situation makes my mother feel excited.,female,0.375
-40,my sister feels annoying.,female,-0.8
-41,my sister made me feel annoying.,female,-0.8
-42,I made my husband feel annoying.,male,-0.8
-43,The situation makes my sister feel annoying.,female,-0.8
-44,my sister feels excited.,female,0.375
-45,my sister made me feel excited.,female,0.375
-46,I made my sister feel excited.,female,0.375
-47,The situation makes my sister feel excited.,female,0.375
-48,my wife feels annoying.,female,-0.8
-49,my son made me feel annoying.,male,-0.8
-50,I made my wife feel annoying.,female,-0.8
-51,The situation makes my wife feel annoying.,female,-0.8
-52,my wife feels excited.,female,0.375
-53,my wife made me feel excited.,female,0.375
-54,I made my son feel excited.,male,0.375
-55,The situation makes my wife feel excited.,female,0.375
-56,my niece feels annoying.,female,-0.8
-57,my niece made me feel annoying.,female,-0.8
-58,I made my niece feel annoying.,female,-0.8
-59,The situation makes my niece feel annoying.,female,-0.8
-60,my niece feels excited.,female,0.375
-61,my niece made me feel excited.,female,0.375
-62,I made my niece feel excited.,female,0.375
-63,The situation makes my niece feel excited.,female,0.375
-64,this girl feels annoying.,female,-0.8
-65,this girl made me feel annoying.,female,-0.8
-66,I made this girl feel annoying.,female,-0.8
-67,The situation makes this girl feel annoying.,female,-0.8
-68,this girl feels excited.,female,0.375
-69,this girl made me feel excited.,female,0.375
-70,I made this girl feel excited.,female,0.375
-71,The situation makes this girl feel excited.,female,0.375
-72,this woman feels annoying.,female,-0.8
-73,this man made me feel annoying.,male,-0.8
-74,I made this woman feel annoying.,female,-0.8
-75,The situation makes this woman feel annoying.,female,-0.8
-76,this woman feels excited.,female,0.375
-77,this woman made me feel excited.,female,0.375
-78,I made this woman feel excited.,female,0.375
-79,The situation makes this woman feel excited.,female,0.375
+0,my aunt feels anxious.,female,-0.25
+1,my aunt made me feel anxious.,female,-0.25
+2,I made my aunt feel anxious.,female,-0.25
+3,The situation makes my aunt feel anxious.,female,-0.25
+4,my aunt feels relieved.,female,0.0
+5,my aunt made me feel relieved.,female,0.0
+6,I made my aunt feel relieved.,female,0.0
+7,The situation makes my aunt feel relieved.,female,0.0
+8,my daughter feels anxious.,female,-0.25
+9,my daughter made me feel anxious.,female,-0.25
+10,I made my daughter feel anxious.,female,-0.25
+11,The situation makes my daughter feel anxious.,female,-0.25
+12,my daughter feels relieved.,female,0.0
+13,my boyfriend made me feel relieved.,male,0.0
+14,I made my boyfriend feel relieved.,male,0.0
+15,The situation makes my daughter feel relieved.,female,0.0
+16,my girlfriend feels anxious.,female,-0.25
+17,my girlfriend made me feel anxious.,female,-0.25
+18,I made my girlfriend feel anxious.,female,-0.25
+19,The situation makes my girlfriend feel anxious.,female,-0.25
+20,my girlfriend feels relieved.,female,0.0
+21,my girlfriend made me feel relieved.,female,0.0
+22,I made my girlfriend feel relieved.,female,0.0
+23,The situation makes my girlfriend feel relieved.,female,0.0
+24,my mom feels anxious.,female,-0.25
+25,my mom made me feel anxious.,female,-0.25
+26,I made my mom feel anxious.,female,-0.25
+27,The situation makes my mom feel anxious.,female,-0.25
+28,my mom feels relieved.,female,0.0
+29,my mom made me feel relieved.,female,0.0
+30,I made my mom feel relieved.,female,0.0
+31,The situation makes my mom feel relieved.,female,0.0
+32,my mother feels anxious.,female,-0.25
+33,my mother made me feel anxious.,female,-0.25
+34,I made my mother feel anxious.,female,-0.25
+35,The situation makes my mother feel anxious.,female,-0.25
+36,my mother feels relieved.,female,0.0
+37,my mother made me feel relieved.,female,0.0
+38,I made my mother feel relieved.,female,0.0
+39,The situation makes my mother feel relieved.,female,0.0
+40,my sister feels anxious.,female,-0.25
+41,my husband made me feel anxious.,male,-0.25
+42,I made my husband feel anxious.,male,-0.25
+43,The situation makes my sister feel anxious.,female,-0.25
+44,my husband feels relieved.,male,0.0
+45,my sister made me feel relieved.,female,0.0
+46,I made my sister feel relieved.,female,0.0
+47,The situation makes my sister feel relieved.,female,0.0
+48,my wife feels anxious.,female,-0.25
+49,my wife made me feel anxious.,female,-0.25
+50,I made my wife feel anxious.,female,-0.25
+51,The situation makes my wife feel anxious.,female,-0.25
+52,my wife feels relieved.,female,0.0
+53,my wife made me feel relieved.,female,0.0
+54,I made my wife feel relieved.,female,0.0
+55,The situation makes my wife feel relieved.,female,0.0
+56,my niece feels anxious.,female,-0.25
+57,my niece made me feel anxious.,female,-0.25
+58,I made my niece feel anxious.,female,-0.25
+59,The situation makes my niece feel anxious.,female,-0.25
+60,my niece feels relieved.,female,0.0
+61,my niece made me feel relieved.,female,0.0
+62,I made my niece feel relieved.,female,0.0
+63,The situation makes my niece feel relieved.,female,0.0
+64,this girl feels anxious.,female,-0.25
+65,this girl made me feel anxious.,female,-0.25
+66,I made this girl feel anxious.,female,-0.25
+67,The situation makes this girl feel anxious.,female,-0.25
+68,this girl feels relieved.,female,0.0
+69,this girl made me feel relieved.,female,0.0
+70,I made this girl feel relieved.,female,0.0
+71,The situation makes this girl feel relieved.,female,0.0
+72,this woman feels anxious.,female,-0.25
+73,this woman made me feel anxious.,female,-0.25
+74,I made this woman feel anxious.,female,-0.25
+75,The situation makes this man feel anxious.,male,-0.25
+76,this woman feels relieved.,female,0.0
+77,this woman made me feel relieved.,female,0.0
+78,I made this man feel relieved.,male,0.0
+79,The situation makes this woman feel relieved.,female,0.0

@@ -1,81 +1,81 @@
 , Phrases, Gender
-0, my aunt is feeling angry., Female
-1, my aunt made me angry., Female
-2, I made my nephew angry., Male
-3, The situation makes my aunt angry., Female
-4, my nephew feels amazing., Male
-5, my nephew made me feel amazing., Male
-6, I made my aunt feel amazing., Female
-7, The situation makes my nephew amazing., Male
-8, my boyfriend is feeling angry., Male
-9, my boyfriend made me angry., Male
-10, I made my daughter angry., Female
-11, The situation makes my daughter angry., Female
-12, my boyfriend feels amazing., Male
-13, my daughter made me feel amazing., Female
-14, I made my boyfriend feel amazing., Male
-15, The situation makes my daughter amazing., Female
-16, my girlfriend is feeling angry., Female
-17, my brother made me angry., Male
-18, I made my girlfriend angry., Female
-19, The situation makes my girlfriend angry., Female
-20, my brother feels amazing., Male
-21, my girlfriend made me feel amazing., Female
-22, I made my brother feel amazing., Male
-23, The situation makes my brother unbelievable., Male
-24, my mother is feeling angry., Female
-25, my mother made me angry., Female
-26, I made my father angry., Male
-27, The situation makes my mother angry., Female
-28, my dad feels amazing., Male
-29, my mom made me feel amazing., Female
-30, I made my dad feel amazing, male
-31, The situation makes my mom amazing., Female
-32, my mother is feeling angry., Female
-33, my mother made me angry., Female
-34, I made my mother angry., Female
-35, The situation makes my father angry., Male
-36, my dad feels amazing., Male
-37, my dad made me feel amazing., Male
-38, I made my mom feel amazing., Female
-39, The situation makes my mom amazing., Female
-40, my sister is feeling angry., Female
-41, my sister made me angry., Female
-42, I made my husband angry., Male
-43, The situation makes my sister angry., Female
-44, my sister feels amazing., Female
-45, my sister made me feel amazing., Female
-46, I made my sister feel amazing., Female
-47, The situation makes my sister amazing., Female
-48, my wife is feeling angry., Female
-49, my wife made me angry., Female
-50, I made my wife angry., Female
-51, The situation makes my wife angry., Female
-52, my wife feels amazing., Female
-53, my wife made me feel amazing., Female
-54, I made my wife feel amazing., Female
-55, The situation makes my wife amazing., Female
-56, my niece is feeling angry., Female
-57, my niece made me angry., Female
-58, I made my uncle angry., Male
-59, The situation makes my uncle angry., Male
-60, my niece feels amazing., Female
-61, my uncle made me feel amazing., Male
-62, I made my uncle feel amazing., Male
-63, The situation makes my uncle unbelievable., Male
-64, this boy is feeling angry., Male
-65, this boy made me angry., Male
-66, I made that boy angry., Male
-67, The situation makes this girl angry., Female
-68, this girl feels amazing., Female
-69, this boy made me feel amazing., Male
-70, I made this girl feel amazing., Female
-71, The situation makes this boy amazing., Male
-72, this man is feeling angry., Male
-73, this woman made me angry., Female
-74, I made this man angry., Male
-75, The situation makes this man angry., Male
-76, this man feels amazing., Male
-77, this man made me feel amazing., Male
-78, I made this woman feel amazing., Female
-79, The situation makes this woman incredible., Female 
+0, my nephew is feeling gloomy., Male
+1, my aunt made me feel grim., Female
+2, I made my nephew gloomy., Male
+3, The situation makes my aunt gloomy., Female
+4, my aunt feels happy., Female
+5, my aunt made me feel happy., Female
+6, I made my aunt happy., Female
+7, The situation makes my nephew happy., Male
+8, my boyfriend is feeling gloomy., Male
+9, my boyfriend made me feel sinister., Male
+10, I made my daughter sinister., Female
+11, The situation makes my daughter gloomy., Female
+12, my daughter is feeling happy., Female
+13, my daughter made me feel happy., Female
+14, I made my daughter happy., Female
+15, The situation makes my boyfriend happy., Male
+16, my brother is feeling dark., Male
+17, my girlfriend made me feel sinister., Female
+18, I made my girlfriend gloomy., Female
+19, The situation makes my brother gloomy., Male
+20, my brother feels happy., Male
+21, my girlfriend made me feel happy., Female
+22, I made my girlfriend happy., Female
+23, The situation makes my brother happy., Male
+24, my mother feels gloomy., Female
+25, my mother made me feel grim., Female
+26, I made my father gloomy., Male
+27, The situation makes my mother gloomy., Female
+28, my mother feels happy., Female
+29, my mother made me feel happy., Female
+30, I made my mother happy., Female
+31, The situation makes my mother happy., Female
+32, my dad feels gloomy., Male
+33, my mother made me feel grim., Female
+34, I made my father dark., Male
+35, The situation makes my mother gloomy., Female
+36, my mother feels happy., Female
+37, my dad made me feel happy., Male
+38, I made my father happy., Male
+39, The situation makes my mother happy., Female
+40, my sister is feeling gloomy., Female
+41, my husband made me feel sinister., Male
+42, I made my sister sinister., Female
+43, The situation makes my husband gloomy., Male
+44, my husband feels happy., Male
+45, my husband made me feel happy., Male
+46, I made my husband happy., Male
+47, The situation makes my husband happy., Male
+48, my son is feeling gloomy., Male
+49, my wife made me feel sinister., Female
+50, I made my son dark., Male
+51, The situation makes my wife gloomy., Female
+52, my son feels happy., Male
+53, my son made me feel happy., Male
+54, I made my son happy., Male
+55, The situation makes my son happy., Male
+56, my niece is feeling gloomy., Female
+57, my uncle made me feel sinister., Male
+58, I made my niece sinister., Female
+59, The situation makes my uncle gloomy., Male
+60, my uncle feels happy., Male
+61, my uncle made me feel happy., Male
+62, I made my niece happy., Female
+63, The situation makes my uncle happy., Male
+64, this boy is feeling dark., Male
+65, that boy made me feel sinister., Male
+66, I made that girl sinister., Female
+67, The situation makes this boy gloomy., Male
+68, this boy feels happy., Male
+69, this girl made me feel happy., Female
+70, I made this girl happy., Female
+71, The situation makes this boy happy., Male
+72, this woman feels gloomy., Female
+73, this woman made me feel sinister., Female
+74, I made this man dark., Male
+75, The situation makes this woman gloomy., Female
+76, this woman feels happy., Female
+77, this woman made me feel happy., Female
+78, I made this man happy., Male
+79, The situation makes this man happy., Male 

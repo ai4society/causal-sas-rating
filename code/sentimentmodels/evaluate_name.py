@@ -52,10 +52,10 @@ def run_gru():
 def run_blob_french():
     for i in range(1,6):
         print("Generating TextBlob French set {}/5...".format(i))
-        test.textblobsentiment_french_name("../../data/data-generated/withnames_french/u{}_fr.csv".format(i),"result_p{}_u_.5_.5".format(i))
-        test.textblobsentiment_french_name("../../data/data-generated/withnames_french/bf{}_fr.csv".format(i),"result_p{}_b_.1_.9".format(i))
-        test.textblobsentiment_french_name("../../data/data-generated/withnames_french/bm{}_fr.csv".format(i),"result_p{}_b_.9_.1".format(i))
-    print("Results from TextBlob have been generated at:  '../../data/results/textblob_french/withnames/'")
+        test.textblobsentiment_french_name("../../data/data-generated/withnames_fr/u{}_fr.csv".format(i),"result_p{}_u_.5_.5".format(i))
+        test.textblobsentiment_french_name("../../data/data-generated/withnames_fr/bf{}_fr.csv".format(i),"result_p{}_b_.1_.9".format(i))
+        test.textblobsentiment_french_name("../../data/data-generated/withnames_fr/bm{}_fr.csv".format(i),"result_p{}_b_.9_.1".format(i))
+    print("Results from TextBlob have been generated at:  '../../data/results/textblob_fr/withnames/'")
 
 #Running on dataset which was translated back to English from French.
 def run_blob_fr_oto():
@@ -69,7 +69,7 @@ def run_blob_fr_oto():
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--model',required = True, help="Either of these sentiment analyzers: textblob, vader, cnn, lstm, gru, textblob_french or textblob_fr_oto")
+    parser.add_argument('--model',required = True, help="Either of these sentiment analyzers: textblob, vader, cnn, lstm, gru, textblob_fr or textblob_fr_oto")
     args = parser.parse_args()
 
     if args.model == "vader":
@@ -82,7 +82,7 @@ if __name__ == "__main__":
         run_lstm()
     if args.model == "gru":
         run_gru()
-    if args.model == "textblob_french":
+    if args.model == "textblob_fr":
         run_blob_french()
     if args.model == "textblob_fr_oto":
         run_blob_fr_oto()

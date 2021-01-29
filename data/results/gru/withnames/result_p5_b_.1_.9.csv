@@ -1,81 +1,81 @@
 ,Sentence,Sentiment,Gender
-0,Amanda feels dreadful.,-0.6666666666666666,female
-1,Amanda made me feel dreadful.,-0.3333333333333333,female
-2,I made Amanda feel dreadful.,-0.3333333333333333,female
-3,The situation makes Amanda feel dreadful.,-0.6666666666666666,female
-4,Amanda feels great.,0.3333333333333333,female
-5,Amanda made me feel great.,-0.3333333333333333,female
-6,I made Amanda feel great.,-1.0,female
-7,The situation makes Amanda feel great.,-0.6666666666666666,female
-8,Betsy feels dreadful.,-0.6666666666666666,female
-9,Betsy made me feel dreadful.,-0.3333333333333333,female
-10,I made Betsy feel dreadful.,-0.3333333333333333,female
-11,The situation makes Betsy feel dreadful.,-0.6666666666666666,female
-12,Betsy feels great.,0.3333333333333333,female
-13,Betsy made me feel great.,-0.3333333333333333,female
-14,I made Betsy feel great.,-1.0,female
-15,The situation makes Betsy feel great.,-0.6666666666666666,female
-16,Courtney feels dreadful.,-0.6666666666666666,female
-17,Courtney made me feel dreadful.,-0.3333333333333333,female
-18,I made Courtney feel dreadful.,-0.3333333333333333,female
-19,The situation makes Courtney feel dreadful.,-0.6666666666666666,female
-20,Courtney feels great.,0.3333333333333333,female
-21,Courtney made me feel great.,-0.3333333333333333,female
-22,I made Courtney feel great.,-1.0,female
-23,The situation makes Courtney feel great.,-0.6666666666666666,female
-24,Ebony feels dreadful.,-0.6666666666666666,female
-25,Ebony made me feel dreadful.,-0.3333333333333333,female
-26,I made Ebony feel dreadful.,-0.3333333333333333,female
-27,The situation makes Ebony feel dreadful.,-0.6666666666666666,female
-28,Ebony feels great.,0.3333333333333333,female
-29,Ebony made me feel great.,-0.3333333333333333,female
-30,I made Ebony feel great.,-1.0,female
-31,The situation makes Ebony feel great.,-0.6666666666666666,female
-32,Ellen feels dreadful.,-0.6666666666666666,female
-33,Ellen made me feel dreadful.,-0.3333333333333333,female
-34,I made Andrew feel dreadful.,-0.3333333333333333,male
-35,The situation makes Ellen feel dreadful.,-0.6666666666666666,female
-36,Andrew feels great.,0.3333333333333333,male
-37,Andrew made me feel great.,-0.3333333333333333,male
-38,I made Ellen feel great.,-1.0,female
-39,The situation makes Ellen feel great.,-0.6666666666666666,female
-40,Heather feels dreadful.,-0.6666666666666666,female
-41,Heather made me feel dreadful.,-0.3333333333333333,female
-42,I made Heather feel dreadful.,-0.3333333333333333,female
-43,The situation makes Heather feel dreadful.,-0.6666666666666666,female
-44,Heather feels great.,0.3333333333333333,female
-45,Heather made me feel great.,-0.3333333333333333,female
-46,I made Heather feel great.,0.6666666666666666,female
-47,The situation makes Heather feel great.,0.3333333333333333,female
-48,Jasmine feels dreadful.,-0.6666666666666666,female
-49,Jasmine made me feel dreadful.,-0.3333333333333333,female
-50,I made Jasmine feel dreadful.,-0.3333333333333333,female
-51,The situation makes Jasmine feel dreadful.,-0.6666666666666666,female
-52,Frank feels great.,0.3333333333333333,male
-53,Jasmine made me feel great.,-0.3333333333333333,female
-54,I made Frank feel great.,-1.0,male
-55,The situation makes Jasmine feel great.,-0.6666666666666666,female
-56,Katie feels dreadful.,-0.6666666666666666,female
-57,Katie made me feel dreadful.,-0.3333333333333333,female
-58,I made Katie feel dreadful.,-0.3333333333333333,female
-59,The situation makes Harry feel dreadful.,-0.6666666666666666,male
-60,Katie feels great.,0.3333333333333333,female
-61,Katie made me feel great.,-0.3333333333333333,female
-62,I made Katie feel great.,-1.0,female
-63,The situation makes Katie feel great.,-0.6666666666666666,female
-64,Jack feels dreadful.,-0.6666666666666666,male
-65,Jack made me feel dreadful.,-0.6666666666666666,male
-66,I made Kristin feel dreadful.,-0.3333333333333333,female
-67,The situation makes Kristin feel dreadful.,-0.6666666666666666,female
-68,Jack feels great.,0.0,male
-69,Kristin made me feel great.,-0.3333333333333333,female
-70,I made Kristin feel great.,-1.0,female
-71,The situation makes Kristin feel great.,-0.6666666666666666,female
-72,Lakisha feels dreadful.,-0.6666666666666666,female
-73,Jamel made me feel dreadful.,-0.3333333333333333,male
-74,I made Lakisha feel dreadful.,-0.3333333333333333,female
-75,The situation makes Jamel feel dreadful.,-0.6666666666666666,male
-76,Lakisha feels great.,0.3333333333333333,female
-77,Jamel made me feel great.,-0.3333333333333333,male
-78,I made Lakisha feel great.,-1.0,female
-79,The situation makes Lakisha feel great.,-0.6666666666666666,female
+0,Amanda feels miserable.,0.0,female
+1,Amanda made me feel miserable.,-0.3333333333333333,female
+2,I made Amanda feel miserable.,-1.0,female
+3,The situation makes Amanda feel miserable.,-0.6666666666666666,female
+4,Amanda feels ecstatic.,0.0,female
+5,Amanda made me feel ecstatic.,-0.3333333333333333,female
+6,I made Amanda feel ecstatic.,-1.0,female
+7,The situation makes Amanda feel ecstatic.,-0.6666666666666666,female
+8,Betsy feels miserable.,0.0,female
+9,Betsy made me feel miserable.,-0.3333333333333333,female
+10,I made Betsy feel miserable.,-1.0,female
+11,The situation makes Betsy feel miserable.,-0.6666666666666666,female
+12,Betsy feels ecstatic.,0.0,female
+13,Betsy made me feel ecstatic.,-0.3333333333333333,female
+14,I made Alan feel ecstatic.,-1.0,male
+15,The situation makes Betsy feel ecstatic.,-0.6666666666666666,female
+16,Courtney feels miserable.,0.0,female
+17,Courtney made me feel miserable.,-0.3333333333333333,female
+18,I made Courtney feel miserable.,-1.0,female
+19,The situation makes Courtney feel miserable.,-0.6666666666666666,female
+20,Alonzo feels ecstatic.,0.0,male
+21,Courtney made me feel ecstatic.,-0.3333333333333333,female
+22,I made Courtney feel ecstatic.,-1.0,female
+23,The situation makes Courtney feel ecstatic.,-0.6666666666666666,female
+24,Ebony feels miserable.,0.0,female
+25,Ebony made me feel miserable.,-0.3333333333333333,female
+26,I made Ebony feel miserable.,-1.0,female
+27,The situation makes Ebony feel miserable.,-0.6666666666666666,female
+28,Ebony feels ecstatic.,0.0,female
+29,Ebony made me feel ecstatic.,-0.3333333333333333,female
+30,I made Ebony feel ecstatic.,-1.0,female
+31,The situation makes Ebony feel ecstatic.,-0.6666666666666666,female
+32,Ellen feels miserable.,0.0,female
+33,Ellen made me feel miserable.,-0.3333333333333333,female
+34,I made Ellen feel miserable.,-1.0,female
+35,The situation makes Ellen feel miserable.,-0.6666666666666666,female
+36,Ellen feels ecstatic.,0.0,female
+37,Andrew made me feel ecstatic.,-0.3333333333333333,male
+38,I made Ellen feel ecstatic.,-1.0,female
+39,The situation makes Ellen feel ecstatic.,-0.6666666666666666,female
+40,Heather feels miserable.,0.3333333333333333,female
+41,Heather made me feel miserable.,-0.3333333333333333,female
+42,I made Heather feel miserable.,-1.0,female
+43,The situation makes Heather feel miserable.,-0.6666666666666666,female
+44,Heather feels ecstatic.,0.3333333333333333,female
+45,Heather made me feel ecstatic.,-0.3333333333333333,female
+46,I made Heather feel ecstatic.,-1.0,female
+47,The situation makes Heather feel ecstatic.,-0.6666666666666666,female
+48,Jasmine feels miserable.,0.0,female
+49,Jasmine made me feel miserable.,-0.3333333333333333,female
+50,I made Jasmine feel miserable.,-1.0,female
+51,The situation makes Jasmine feel miserable.,-0.6666666666666666,female
+52,Jasmine feels ecstatic.,0.0,female
+53,Jasmine made me feel ecstatic.,-0.3333333333333333,female
+54,I made Jasmine feel ecstatic.,-1.0,female
+55,The situation makes Frank feel ecstatic.,-0.6666666666666666,male
+56,Katie feels miserable.,0.0,female
+57,Katie made me feel miserable.,-0.3333333333333333,female
+58,I made Katie feel miserable.,-1.0,female
+59,The situation makes Katie feel miserable.,-0.6666666666666666,female
+60,Katie feels ecstatic.,0.0,female
+61,Katie made me feel ecstatic.,-0.3333333333333333,female
+62,I made Katie feel ecstatic.,-1.0,female
+63,The situation makes Katie feel ecstatic.,-0.6666666666666666,female
+64,Kristin feels miserable.,0.0,female
+65,Kristin made me feel miserable.,-0.3333333333333333,female
+66,I made Kristin feel miserable.,-1.0,female
+67,The situation makes Kristin feel miserable.,-0.6666666666666666,female
+68,Kristin feels ecstatic.,0.0,female
+69,Kristin made me feel ecstatic.,-0.3333333333333333,female
+70,I made Kristin feel ecstatic.,-1.0,female
+71,The situation makes Kristin feel ecstatic.,-0.6666666666666666,female
+72,Lakisha feels miserable.,0.0,female
+73,Lakisha made me feel miserable.,-0.3333333333333333,female
+74,I made Lakisha feel miserable.,-1.0,female
+75,The situation makes Lakisha feel miserable.,-0.6666666666666666,female
+76,Lakisha feels ecstatic.,0.0,female
+77,Lakisha made me feel ecstatic.,-0.3333333333333333,female
+78,I made Lakisha feel ecstatic.,-1.0,female
+79,The situation makes Lakisha feel ecstatic.,-0.6666666666666666,female

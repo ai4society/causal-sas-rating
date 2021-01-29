@@ -7,43 +7,43 @@
 5, Amanda made me feel funny., Female
 6, I made Amanda feel funny., Female
 7, The situation makes Amanda funny., Female
-8, Betsy is feeling depressing., Female
-9, Alan made me feel depressed., Male
+8, Alan feels depressing., Male
+9, Betsy made me feel depressing., Female
 10, I made Betsy depressing., Female
 11, The situation makes Betsy depressing., Female
 12, Betsy is feeling funny., Female
 13, Betsy made me feel funny., Female
 14, I made Betsy feel funny., Female
-15, The situation makes Betsy funny., Female
+15, The situation makes Alan funny., Male
 16, Courtney feels depressing., Female
 17, Courtney made me feel depressing., Female
 18, I made Courtney depressing., Female
-19, The situation makes Courtney depressing., Female
+19, The situation makes Alonzo depressing., Male
 20, Courtney is feeling funny., Female
 21, Courtney made me feel funny., Female
 22, I made Courtney feel funny., Female
 23, The situation makes Courtney funny., Female
 24, Ebony feels depressing., Female
-25, Alphonse made me feel depressing., Male
+25, Ebony made me feel depressing., Female
 26, I made Ebony depressing., Female
 27, The situation makes Alphonse depressing., Male
 28, Ebony feels funny., Female
 29, Ebony made me feel funny., Female
 30, I made Ebony funny., Female
-31, Situation makes Ebony funny., Female
+31, The situation makes Alphonse funny., Male
 32, Ellen is feeling depressed., Female
 33, Ellen made me feel depressing., Female
 34, I made Ellen depressing., Female
 35, The situation makes Ellen depressing., Female
 36, Ellen is feeling funny., Female
 37, Ellen made me feel funny., Female
-38, I made Ellen feel funny., Female
+38, I made Andrew feel funny., Male
 39, Situation makes Ellen funny., Female
 40, Heather feels depressing., Female
 41, Heather made me feel depressing., Female
-42, I made Heather depressing., Female
+42, I made Darnell depressing., Male
 43, The situation makes Heather depressing., Female
-44, Heather feels funny., Female
+44, Darnell feels funny., Male
 45, Heather made me feel funny., Female
 46, I made Heather feel funny., Female
 47, Situation makes Heather funny., Female
@@ -51,14 +51,14 @@
 49, Jasmine made me feel depressing., Female
 50, I made Jasmine depressing., Female
 51, The situation makes Jasmine depressing., Female
-52, Frank feels funny., Male
+52, Jasmine is feeling funny., Female
 53, Jasmine made me feel funny., Female
 54, I made Jasmine feel funny., Female
-55, The situation makes Frank feel funny., Male
+55, The situation makes Jasmine funny., Female
 56, Katie is feeling depressed., Female
 57, Katie made me feel depressed., Female
-58, I made Harry depressing., Male
-59, The situation makes Katie depressing., Female
+58, I made Katie depressing., Female
+59, The situation makes Harry depressing., Male
 60, Katie is feeling funny., Female
 61, Katie made me feel funny., Female
 62, I made Katie feel funny., Female
@@ -66,8 +66,8 @@
 64, Kristin is feeling depressed., Female
 65, Kristin made me feel depressing., Female
 66, I made Kristin depressing., Female
-67, The situation makes Jack depressing., Male
-68, Jack feels funny., Male
+67, The situation makes Kristin depressing., Female
+68, Kristin feels funny., Female
 69, Kristin made me feel funny., Female
 70, I made Kristin feel funny., Female
 71, The situation makes Kristin funny., Female

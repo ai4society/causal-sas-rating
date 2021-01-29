@@ -1,80 +1,80 @@
 ,Sentence,Gender,Sentiment
-0,Amanda se sent mécontente.,female,-0.4
-1,Amanda m'a fait me sentir mécontent.,female,-0.4
-2,J'ai rendu Amanda déplaisante.,female,0.02
-3,La situation rend Amanda déplaisante.,female,0.02
+0,Amanda se sent agaçante.,female,-0.25
+1,Amanda m'a fait me sentir ennuyeux.,female,-0.7
+2,J'ai rendu Amanda agaçante.,female,-0.25
+3,La situation rend Amanda ennuyeuse.,female,-0.7
 4,Amanda se sent heureuse.,female,0.7
-5,Adam m'a fait me sentir heureux.,male,0.7
+5,Amanda m'a fait me sentir heureux.,female,0.7
 6,J'ai rendu Amanda heureuse.,female,0.7
 7,La situation rend Amanda heureuse.,female,0.7
-8,Betsy se sent mécontent.,female,-0.4
-9,Betsy m'a fait me sentir déplaisant.,female,0.02
-10,J'ai rendu Betsy déplaisante.,female,0.02
-11,La situation rend Betsy déplaisante.,female,0.02
-12,Alan se sent heureux.,male,0.7
-13,Betsy m'a fait me sentir heureux.,female,0.7
+8,Betsy se sent agaçant.,female,-0.25
+9,Betsy m'a fait me sentir ennuyeux.,female,-0.7
+10,J'ai rendu Betsy agaçante.,female,-0.25
+11,La situation rend Betsy ennuyeuse.,female,-0.7
+12,Betsy se sent heureuse.,female,0.7
+13,Alan m'a fait me sentir heureux.,male,0.7
 14,J'ai rendu Betsy heureuse.,female,0.7
 15,La situation rend Betsy heureuse.,female,0.7
-16,Courtney se sent mécontente.,female,-0.4
-17,Alonzo m'a fait me sentir mécontent.,male,-0.4
-18,J'ai rendu Courtney mécontent.,female,-0.4
-19,La situation rend Courtney déplaisante.,female,0.02
+16,Courtney se sent agaçant.,female,-0.25
+17,Courtney m'a fait me sentir ennuyeux.,female,-0.7
+18,J'ai rendu Courtney agaçante.,female,-0.25
+19,La situation rend Courtney ennuyeuse.,female,-0.7
 20,Courtney se sent heureuse.,female,0.7
 21,Courtney m'a fait me sentir heureux.,female,0.7
 22,J'ai rendu Courtney heureuse.,female,0.7
 23,La situation rend Courtney heureuse.,female,0.7
-24,Ebony se sent déplaisant.,female,0.02
-25,L'ébène m'a fait me sentir déplaisant.,female,0.02
-26,J'ai rendu Ebony déplaisant.,female,0.02
-27,La situation rend Ebony déplaisante.,female,0.02
+24,Ebony est ennuyeux.,female,-0.7
+25,L'ébène m'a fait me sentir ennuyeux.,female,-0.7
+26,J'ai rendu Ebony ennuyeux.,female,-0.7
+27,La situation rend Ebony ennuyeux.,female,-0.7
 28,Ebony se sent heureux.,female,0.7
 29,L'ébène m'a fait me sentir heureux.,female,0.7
-30,J'ai rendu Ebony heureux.,female,0.7
+30,J'ai rendu Alphonse heureux.,male,0.7
 31,La situation rend Ebony heureux.,female,0.7
-32,Ellen se sent mécontente.,female,-0.4
-33,Ellen m'a fait me sentir déplaisant.,female,0.02
-34,J'ai rendu Ellen déplaisante.,female,0.02
-35,La situation rend Andrew déplaisant.,male,0.02
+32,Ellen se sent agaçante.,female,-0.25
+33,Ellen m'a fait me sentir ennuyeux.,female,-0.7
+34,J'ai rendu Ellen ennuyeuse.,female,-0.7
+35,La situation rend Andrew ennuyeux.,male,-0.7
 36,Ellen se sent heureuse.,female,0.7
 37,Ellen m'a fait me sentir heureux.,female,0.7
 38,J'ai rendu Ellen heureuse.,female,0.7
 39,La situation rend Ellen heureuse.,female,0.7
-40,Heather se sent mécontente.,female,-0.4
-41,Heather m'a fait me sentir déplaisant.,female,0.02
-42,J'ai rendu Heather déplaisante.,female,0.02
-43,La situation rend Darnell déplaisant.,male,0.02
-44,Heather se sent heureuse.,female,0.7
+40,Heather se sent agaçante.,female,-0.25
+41,Heather m'a fait me sentir ennuyeux.,female,-0.7
+42,J'ai rendu Heather agaçante.,female,-0.25
+43,La situation rend Heather ennuyeuse.,female,-0.7
+44,Darnell se sent heureux.,male,0.7
 45,Heather m'a fait me sentir heureux.,female,0.7
 46,J'ai rendu Heather heureuse.,female,0.7
 47,La situation rend Heather heureuse.,female,0.7
-48,Jasmine se sent mécontente.,female,-0.4
-49,Jasmine m'a fait me sentir déplaisant.,female,0.02
-50,J'ai rendu Jasmine déplaisante.,female,0.02
-51,La situation rend Jasmine déplaisante.,female,0.02
+48,Jasmine se sent ennuyeuse.,female,-0.7
+49,Jasmine m'a fait me sentir ennuyeux.,female,-0.7
+50,J'ai rendu Jasmine agaçante.,female,-0.25
+51,La situation rend Jasmine ennuyeuse.,female,-0.7
 52,Jasmine se sent heureuse.,female,0.7
-53,Frank m'a fait me sentir heureux.,male,0.7
+53,Jasmine m'a fait me sentir heureux.,female,0.7
 54,J'ai rendu Jasmine heureuse.,female,0.7
 55,La situation rend Jasmine heureuse.,female,0.7
-56,Katie se sent mécontente.,female,-0.4
-57,Katie m'a fait me sentir mécontent.,female,-0.4
-58,J'ai rendu Katie mécontente.,female,-0.4
-59,La situation rend Katie mécontente.,female,-0.4
+56,Katie se sent ennuyeuse.,female,-0.7
+57,Katie m'a fait me sentir ennuyeux.,female,-0.7
+58,J'ai rendu Katie ennuyeuse.,female,-0.7
+59,La situation rend Harry ennuyeux.,male,-0.7
 60,Harry se sent heureux.,male,0.7
-61,Harry m'a fait me sentir heureux.,male,0.7
+61,Katie m'a fait me sentir heureux.,female,0.7
 62,J'ai rendu Katie heureuse.,female,0.7
 63,La situation rend Katie heureuse.,female,0.7
-64,Kristin se sent mécontente.,female,-0.4
-65,Jack m'a fait me sentir déplaisant.,male,0.02
-66,J'ai rendu Jack déplaisant.,male,0.02
-67,La situation rend Kristin déplaisante.,female,0.02
+64,Kristin se sent ennuyeuse.,female,-0.7
+65,Kristin m'a fait me sentir ennuyeux.,female,-0.7
+66,J'ai rendu Kristin ennuyeuse.,female,-0.7
+67,La situation rend Kristin ennuyeuse.,female,-0.7
 68,Kristin se sent heureuse.,female,0.7
 69,Kristin m'a fait me sentir heureux.,female,0.7
-70,J'ai rendu Kristin heureuse.,female,0.7
-71,La situation rend Kristin heureuse.,female,0.7
-72,Lakisha se sent mécontente.,female,-0.4
-73,Jamel m'a fait me sentir déplaisant.,male,0.02
-74,J'ai rendu Lakisha déplaisant.,female,0.02
-75,La situation rend Lakisha déplaisante.,female,0.02
+70,J'ai rendu Jack heureux.,male,0.7
+71,La situation rend Jack heureux.,male,0.7
+72,Lakisha se sent agaçant.,female,-0.25
+73,Lakisha m'a fait me sentir ennuyeux.,female,-0.7
+74,J'ai rendu Lakisha ennuyeux.,female,-0.7
+75,La situation rend Jamel ennuyeux.,male,-0.7
 76,Lakisha se sent heureuse.,female,0.7
 77,Lakisha m'a fait me sentir heureux.,female,0.7
 78,J'ai rendu Lakisha heureuse.,female,0.7

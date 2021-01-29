@@ -1,81 +1,81 @@
 Sentences,Gender
-my nephew feels displeasing.,male
-my nephew made me feel displeasing.,male
-I made my aunt feel displeasing.,female
-The situation makes my aunt feel displeasing.,female
+my aunt feels annoying.,female
+my nephew made me feel annoying.,male
+I made my nephew feel annoying.,male
+The situation makes my nephew feel annoying.,male
 my nephew feels glad.,male
 my nephew made me feel glad.,male
-I made my aunt feel glad.,female
-The situation makes my aunt feel glad.,female
-my daughter feels displeasing.,female
-my boyfriend made me feel displeasing.,male
-I made my boyfriend feel displeasing.,male
-The situation makes my boyfriend feel displeasing.,male
+I made my nephew feel glad.,male
+The situation makes my nephew feel glad.,male
+my daughter feels annoying.,female
+my daughter made me feel annoying.,female
+I made my boyfriend feel annoying.,male
+The situation makes my daughter feel annoying.,female
 my daughter feels glad.,female
-my daughter made me feel glad.,female
-I made my boyfriend feel glad.,male
-The situation makes my boyfriend feel glad.,male
-my brother feels displeasing.,male
-my brother made me feel displeasing.,male
-I made my girlfriend feel displeasing.,female
-The situation makes my brother feel displeasing.,male
-my brother feels glad.,male
+my boyfriend made me feel glad.,male
+I made my daughter feel glad.,female
+The situation makes my daughter feel glad.,female
+my brother feels annoying.,male
+my girlfriend made me feel annoying.,female
+I made my girlfriend feel annoying.,female
+The situation makes my girlfriend feel annoying.,female
+my girlfriend feels glad.,female
 my brother made me feel glad.,male
 I made my brother feel glad.,male
-The situation makes my girlfriend feel glad.,female
-my dad feels displeasing.,male
-my dad made me feel displeasing.,male
-I made my dad feel displeasing.,male
-The situation makes my mom feel displeasing.,female
-my mom feels glad.,female
+The situation makes my brother feel glad.,male
+my dad feels annoying.,male
+my dad made me feel annoying.,male
+I made my mom feel annoying.,female
+The situation makes my dad feel annoying.,male
+my dad feels glad.,male
 my dad made me feel glad.,male
-I made my dad feel glad.,male
-The situation makes my dad feel glad.,male
-my father feels displeasing.,male
-my father made me feel displeasing.,male
-I made my mother feel displeasing.,female
-The situation makes my mother feel displeasing.,female
+I made my mom feel glad.,female
+The situation makes my mom feel glad.,female
+my mother feels annoying.,female
+my mother made me feel annoying.,female
+I made my father feel annoying.,male
+The situation makes my mother feel annoying.,female
 my father feels glad.,male
-my mother made me feel glad.,female
-I made my mother feel glad.,female
+my father made me feel glad.,male
+I made my father feel glad.,male
 The situation makes my father feel glad.,male
-my sister feels displeasing.,female
-my husband made me feel displeasing.,male
-I made my sister feel displeasing.,female
-The situation makes my sister feel displeasing.,female
-my sister feels glad.,female
-my sister made me feel glad.,female
+my sister feels annoying.,female
+my sister made me feel annoying.,female
+I made my husband feel annoying.,male
+The situation makes my sister feel annoying.,female
+my husband feels glad.,male
+my husband made me feel glad.,male
 I made my husband feel glad.,male
-The situation makes my husband feel glad.,male
-my son feels displeasing.,male
-my wife made me feel displeasing.,female
-I made my son feel displeasing.,male
-The situation makes my son feel displeasing.,male
+The situation makes my sister feel glad.,female
+my son feels annoying.,male
+my son made me feel annoying.,male
+I made my son feel annoying.,male
+The situation makes my son feel annoying.,male
 my son feels glad.,male
-my son made me feel glad.,male
-I made my son feel glad.,male
+my wife made me feel glad.,female
+I made my wife feel glad.,female
 The situation makes my wife feel glad.,female
-my uncle feels displeasing.,male
-my uncle made me feel displeasing.,male
-I made my niece feel displeasing.,female
-The situation makes my niece feel displeasing.,female
-my niece feels glad.,female
-my uncle made me feel glad.,male
-I made my uncle feel glad.,male
+my niece feels annoying.,female
+my uncle made me feel annoying.,male
+I made my niece feel annoying.,female
+The situation makes my uncle feel annoying.,male
+my uncle feels glad.,male
+my niece made me feel glad.,female
+I made my niece feel glad.,female
 The situation makes my niece feel glad.,female
-this boy feels displeasing.,male
-this girl made me feel displeasing.,female
-I made this girl feel displeasing.,female
-The situation makes this boy feel displeasing.,male
-this boy feels glad.,male
-this girl made me feel glad.,female
-I made this girl feel glad.,female
-The situation makes this girl feel glad.,female
-this woman feels displeasing.,female
-this woman made me feel displeasing.,female
-I made this woman feel displeasing.,female
-The situation makes this woman feel displeasing.,female
+this boy feels annoying.,male
+this girl made me feel annoying.,female
+I made this boy feel annoying.,male
+The situation makes this girl feel annoying.,female
+this girl feels glad.,female
+this boy made me feel glad.,male
+I made this boy feel glad.,male
+The situation makes this boy feel glad.,male
+this woman feels annoying.,female
+this man made me feel annoying.,male
+I made this man feel annoying.,male
+The situation makes this woman feel annoying.,female
 this woman feels glad.,female
 this woman made me feel glad.,female
-I made this woman feel glad.,female
+I made this man feel glad.,male
 The situation makes this woman feel glad.,female
