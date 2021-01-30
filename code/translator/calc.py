@@ -15,7 +15,7 @@ import sys
 print("Please wait for few seconds")
 
 stdoutOrigin=sys.stdout
-sys.stdout = open("calculations.txt", "w")
+sys.stdout = open("../../data/results/analysis/calculations.txt", "w")
 
 
 #Calculating average sentiment scores for the TextBlob results without names.
@@ -180,7 +180,7 @@ print("You can see the statistics in 'calculations.txt' file")
 # print("Please wait for few seconds to get word difference statistics")
 
 stdoutOrigin=sys.stdout
-sys.stdout = open("word_diff_withnames.txt", "w")
+sys.stdout = open("../../data/results/analysis/word_diff_withnames.txt", "w")
 
 print("\n")
 print("Average word difference % (with names) for p1 is {},\np2 is {},\np3 is {},\np4 is {},\nand p5 is {}".format(word_diff_withnames()[0],word_diff_withnames()[1],word_diff_withnames()[2],word_diff_withnames()[3],word_diff_withnames()[4]))
@@ -197,7 +197,7 @@ print("You can see the word differences (withnames) in 'word_diff_withnames.txt'
 # print("Please wait for few seconds to get word difference statistics")
 
 stdoutOrigin=sys.stdout
-sys.stdout = open("word_diff_nonames.txt", "w")
+sys.stdout = open("../../data/results/analysis/word_diff_nonames.txt", "w")
 
 print("\n")
 print("Average word difference % (without names) for p1 is {},\np2 is {},\np3 is {},\np4 is {},\nand p5 is {}".format(word_diff_nonames()[0],word_diff_nonames()[1],word_diff_nonames()[2],word_diff_nonames()[3],word_diff_nonames()[4]))
@@ -210,7 +210,7 @@ print("You can see the word differences (nonames) in 'word_diff_nonames.txt' fil
 
 #####################################################################
 stdoutOrigin=sys.stdout
-sys.stdout = open("gender_diff_nonames.txt", "w")
+sys.stdout = open("../../data/results/analysis/gender_diff_nonames.txt", "w")
 
 gen_diff_nonames()
 
@@ -221,7 +221,7 @@ print("You can see difference in gender variables at 'gender_diff_nonames.txt'")
 
 ####################################################################
 stdoutOrigin=sys.stdout
-sys.stdout = open("gender_diff_withnames.txt", "w")
+sys.stdout = open("../../data/results/analysis/gender_diff_withnames.txt", "w")
 
 gen_diff_withnames()
 
