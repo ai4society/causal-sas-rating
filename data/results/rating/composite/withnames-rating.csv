@@ -1,0 +1,13 @@
+,Model,WordPairs,Rating
+0,textblob_fr,p1,BS
+1,textblob_fr,p2,DSBS
+2,textblob_fr,p3,DSBS
+3,textblob_fr,p4,BS
+4,textblob_fr,p5,BS
+5,textblob_fr,Overall,BS
+6,textblob_fr_oto,p1,DSBS
+7,textblob_fr_oto,p2,DSBS
+8,textblob_fr_oto,p3,DSBS
+9,textblob_fr_oto,p4,DSBS
+10,textblob_fr_oto,p5,DSBS
+11,textblob_fr_oto,Overall,DSBS
