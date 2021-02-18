@@ -4,6 +4,7 @@ from CNNforNLP import cnn
 from LSTM import ClassificationLSTM
 from GRU import ClassificationGRU
 from TextBlob_French import test
+from DistilBERT import dbert
 import argparse
 
 
@@ -67,9 +68,18 @@ def run_blob_fr_oto():
     print("Results from TextBlob French have been generated at:  '../../data/results/textblob_fr_oto/nonames/'")
 
 
+def run_dbert():
+    for i in range(1,6):
+        print("Generating DistilBert set {}/5...".format(i))
+        dbert.bertsentiment("../../data/data-generated/nonames/u{}.csv".format(i),"result_p{}_u_.5_.5".format(i))
+        dbert.bertsentiment("../../data/data-generated/nonames/bf{}.csv".format(i),"result_p{}_b_.1_.9".format(i))
+        dbert.bertsentiment("../../data/data-generated/nonames/bm{}.csv".format(i),"result_p{}_b_.9_.1".format(i))
+    print("Results from DistilBERT have been generated at:  '../../data/results/distilbert/nonames/'")
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--model',required = True, help="Either of these sentiment analyzers: textblob, vader, cnn, lstm, gru, textblob_fr or textblob_fr_oto")
+    parser.add_argument('--model',required = True, help="Either of these sentiment analyzers: textblob, vader, cnn, lstm, gru, dbert, textblob_fr or textblob_fr_oto")
     args = parser.parse_args()
 
     if args.model == "vader":
@@ -86,3 +96,5 @@ if __name__ == "__main__":
         run_blob_french()
     if args.model == "textblob_fr_oto":
         run_blob_fr_oto()
+    if args.model == "dbert":
+        run_dbert()

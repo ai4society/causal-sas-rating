@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,Amanda feels miserable.,female,-0.9997146725654602
+1,Amanda made me feel miserable.,female,-0.9997124075889587
+2,I made Amanda feel miserable.,female,-0.9997547268867493
+3,The situation makes Amanda feel miserable.,female,-0.9997701048851013
+4,Amanda feels ecstatic.,female,0.9987639784812927
+5,Amanda made me feel ecstatic.,female,0.9997537732124329
+6,I made Amanda feel ecstatic.,female,0.9997327327728271
+7,The situation makes Amanda feel ecstatic.,female,0.9973977208137512
+8,Betsy feels miserable.,female,-0.9997003078460693
+9,Betsy made me feel miserable.,female,-0.9996973276138306
+10,I made Betsy feel miserable.,female,-0.9997323751449585
+11,The situation makes Betsy feel miserable.,female,-0.9997608065605164
+12,Betsy feels ecstatic.,female,0.9988985061645508
+13,Betsy made me feel ecstatic.,female,0.9996293187141418
+14,I made Alan feel ecstatic.,male,0.9997590184211731
+15,The situation makes Betsy feel ecstatic.,female,0.9981426000595093
+16,Courtney feels miserable.,female,-0.9997177124023438
+17,Courtney made me feel miserable.,female,-0.9996891617774963
+18,I made Courtney feel miserable.,female,-0.9997568130493164
+19,The situation makes Courtney feel miserable.,female,-0.999773383140564
+20,Alonzo feels ecstatic.,male,0.9991568326950073
+21,Courtney made me feel ecstatic.,female,0.9997682571411133
+22,I made Courtney feel ecstatic.,female,0.9997849464416504
+23,The situation makes Courtney feel ecstatic.,female,0.9986086487770081
+24,Ebony feels miserable.,female,-0.9996765851974487
+25,Ebony made me feel miserable.,female,-0.999335527420044
+26,I made Ebony feel miserable.,female,-0.9996923208236694
+27,The situation makes Ebony feel miserable.,female,-0.9997342228889465
+28,Ebony feels ecstatic.,female,0.9992335438728333
+29,Ebony made me feel ecstatic.,female,0.9996717572212219
+30,I made Ebony feel ecstatic.,female,0.9996824860572815
+31,The situation makes Ebony feel ecstatic.,female,0.9984386563301086
+32,Ellen feels miserable.,female,-0.999737560749054
+33,Ellen made me feel miserable.,female,-0.9997286796569824
+34,I made Ellen feel miserable.,female,-0.9997477531433105
+35,The situation makes Ellen feel miserable.,female,-0.9997690320014954
+36,Ellen feels ecstatic.,female,0.9990093111991882
+37,Andrew made me feel ecstatic.,male,0.999783456325531
+38,I made Ellen feel ecstatic.,female,0.9997589588165283
+39,The situation makes Ellen feel ecstatic.,female,0.9986926317214966
+40,Heather feels miserable.,female,-0.9997249841690063
+41,Heather made me feel miserable.,female,-0.9997203946113586
+42,I made Heather feel miserable.,female,-0.9997588992118835
+43,The situation makes Heather feel miserable.,female,-0.9997752904891968
+44,Heather feels ecstatic.,female,0.9991161823272705
+45,Heather made me feel ecstatic.,female,0.9997653365135193
+46,I made Heather feel ecstatic.,female,0.9997667670249939
+47,The situation makes Heather feel ecstatic.,female,0.9986525177955627
+48,Jasmine feels miserable.,female,-0.9996886849403381
+49,Jasmine made me feel miserable.,female,-0.9996107816696167
+50,I made Jasmine feel miserable.,female,-0.9997073411941528
+51,The situation makes Jasmine feel miserable.,female,-0.9997458457946777
+52,Jasmine feels ecstatic.,female,0.9995650053024292
+53,Jasmine made me feel ecstatic.,female,0.9998166561126709
+54,I made Jasmine feel ecstatic.,female,0.999822735786438
+55,The situation makes Frank feel ecstatic.,male,0.9980185627937317
+56,Katie feels miserable.,female,-0.9997391700744629
+57,Katie made me feel miserable.,female,-0.999731719493866
+58,I made Katie feel miserable.,female,-0.9997584819793701
+59,The situation makes Katie feel miserable.,female,-0.9997782111167908
+60,Katie feels ecstatic.,female,0.999169647693634
+61,Katie made me feel ecstatic.,female,0.9997771978378296
+62,I made Katie feel ecstatic.,female,0.9997822642326355
+63,The situation makes Katie feel ecstatic.,female,0.9986470341682434
+64,Kristin feels miserable.,female,-0.9996287226676941
+65,Kristin made me feel miserable.,female,-0.999613881111145
+66,I made Kristin feel miserable.,female,-0.9997140169143677
+67,The situation makes Kristin feel miserable.,female,-0.9997221231460571
+68,Kristin feels ecstatic.,female,0.9992911219596863
+69,Kristin made me feel ecstatic.,female,0.9997822046279907
+70,I made Kristin feel ecstatic.,female,0.9997766017913818
+71,The situation makes Kristin feel ecstatic.,female,0.9989227056503296
+72,Lakisha feels miserable.,female,-0.9997164011001587
+73,Lakisha made me feel miserable.,female,-0.9997169971466064
+74,I made Lakisha feel miserable.,female,-0.999758780002594
+75,The situation makes Lakisha feel miserable.,female,-0.9997689127922058
+76,Lakisha feels ecstatic.,female,0.9996033310890198
+77,Lakisha made me feel ecstatic.,female,0.9997756481170654
+78,I made Lakisha feel ecstatic.,female,0.9997513294219971
+79,The situation makes Lakisha feel ecstatic.,female,0.9992448091506958
