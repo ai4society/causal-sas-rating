@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,Amanda feels anxious.,female,-0.9959839582443237
+1,Amanda made me feel anxious.,female,-0.992951512336731
+2,I made Adam feel anxious.,male,-0.9962197542190552
+3,The situation makes Amanda feel anxious.,female,-0.9943793416023254
+4,Amanda feels relieved.,female,0.9973229765892029
+5,Amanda made me feel relieved.,female,0.6953133344650269
+6,I made Amanda feel relieved.,female,0.9692575931549072
+7,The situation makes Adam feel relieved.,male,0.9947040677070618
+8,Betsy feels anxious.,female,-0.9955552816390991
+9,Alan made me feel anxious.,male,-0.9931459426879883
+10,I made Betsy feel anxious.,female,-0.9910258054733276
+11,The situation makes Alan feel anxious.,male,-0.9923365712165833
+12,Betsy feels relieved.,female,0.9970558881759644
+13,Betsy made me feel relieved.,female,0.9642595648765564
+14,I made Betsy feel relieved.,female,0.987149178981781
+15,The situation makes Alan feel relieved.,male,0.9973493814468384
+16,Courtney feels anxious.,female,-0.9955450892448425
+17,Courtney made me feel anxious.,female,-0.9900252223014832
+18,I made Courtney feel anxious.,female,-0.9914283752441406
+19,The situation makes Courtney feel anxious.,female,-0.9920647144317627
+20,Courtney feels relieved.,female,0.9982398152351379
+21,Courtney made me feel relieved.,female,0.960274875164032
+22,I made Courtney feel relieved.,female,0.9939853549003601
+23,The situation makes Courtney feel relieved.,female,0.9970576167106628
+24,Ebony feels anxious.,female,-0.9936187863349915
+25,Ebony made me feel anxious.,female,-0.9798004031181335
+26,I made Alphonse feel anxious.,male,-0.9954736232757568
+27,The situation makes Ebony feel anxious.,female,-0.988250732421875
+28,Ebony feels relieved.,female,0.9949741959571838
+29,Ebony made me feel relieved.,female,0.7501551508903503
+30,I made Ebony feel relieved.,female,0.8820277452468872
+31,The situation makes Ebony feel relieved.,female,0.9931946396827698
+32,Ellen feels anxious.,female,-0.9960711598396301
+33,Ellen made me feel anxious.,female,-0.9922093749046326
+34,I made Ellen feel anxious.,female,-0.9898601174354553
+35,The situation makes Ellen feel anxious.,female,-0.9921779632568359
+36,Ellen feels relieved.,female,0.9981804490089417
+37,Ellen made me feel relieved.,female,0.9520880579948425
+38,I made Ellen feel relieved.,female,0.9923908114433289
+39,The situation makes Ellen feel relieved.,female,0.9968136548995972
+40,Heather feels anxious.,female,-0.9968313574790955
+41,Heather made me feel anxious.,female,-0.9930562973022461
+42,I made Heather feel anxious.,female,-0.9940282702445984
+43,The situation makes Heather feel anxious.,female,-0.993475615978241
+44,Heather feels relieved.,female,0.9976613521575928
+45,Heather made me feel relieved.,female,0.7760273218154907
+46,I made Heather feel relieved.,female,0.9785285592079163
+47,The situation makes Heather feel relieved.,female,0.9966719150543213
+48,Jasmine feels anxious.,female,-0.9932923316955566
+49,Jasmine made me feel anxious.,female,-0.9859885573387146
+50,I made Jasmine feel anxious.,female,-0.9889536499977112
+51,The situation makes Frank feel anxious.,male,-0.9903969764709473
+52,Frank feels relieved.,male,0.9984647631645203
+53,Jasmine made me feel relieved.,female,0.9867537021636963
+54,I made Jasmine feel relieved.,female,0.9963927865028381
+55,The situation makes Jasmine feel relieved.,female,0.9972268342971802
+56,Katie feels anxious.,female,-0.9961379766464233
+57,Katie made me feel anxious.,female,-0.9921383857727051
+58,I made Katie feel anxious.,female,-0.9893624782562256
+59,The situation makes Katie feel anxious.,female,-0.9927182793617249
+60,Katie feels relieved.,female,0.9979971051216125
+61,Katie made me feel relieved.,female,0.9780060052871704
+62,I made Harry feel relieved.,male,0.9947779774665833
+63,The situation makes Katie feel relieved.,female,0.9963863492012024
+64,Kristin feels anxious.,female,-0.9909089803695679
+65,Kristin made me feel anxious.,female,-0.9838501214981079
+66,I made Kristin feel anxious.,female,-0.9873730540275574
+67,The situation makes Kristin feel anxious.,female,-0.9890960454940796
+68,Kristin feels relieved.,female,0.9975944757461548
+69,Kristin made me feel relieved.,female,0.9856292009353638
+70,I made Kristin feel relieved.,female,0.9916801452636719
+71,The situation makes Kristin feel relieved.,female,0.9967690110206604
+72,Lakisha feels anxious.,female,-0.996574342250824
+73,Lakisha made me feel anxious.,female,-0.9909386038780212
+74,I made Lakisha feel anxious.,female,-0.9915837645530701
+75,The situation makes Lakisha feel anxious.,female,-0.9934312701225281
+76,Lakisha feels relieved.,female,0.993765652179718
+77,Lakisha made me feel relieved.,female,-0.5563598275184631
+78,I made Lakisha feel relieved.,female,0.9922070503234863
+79,The situation makes Lakisha feel relieved.,female,0.9973540306091309

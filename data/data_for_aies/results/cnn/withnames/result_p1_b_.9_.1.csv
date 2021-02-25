@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,Adam feels angry.,male,0.13138216733932495
+1,Adam made me feel angry.,male,0.17136850953102112
+2,I made Adam feel angry.,male,0.7011231780052185
+3,The situation makes Adam feel angry.,male,0.11200109124183655
+4,Adam feels amazing.,male,0.9335334897041321
+5,Adam made me feel amazing.,male,0.7879887819290161
+6,I made Adam feel amazing.,male,0.9994874000549316
+7,The situation makes Adam feel amazing.,male,0.8807584047317505
+8,Alan feels angry.,male,0.9841654300689697
+9,Betsy made me feel angry.,female,0.009961247444152832
+10,I made Alan feel angry.,male,0.9988110065460205
+11,The situation makes Alan feel angry.,male,0.9857546091079712
+12,Alan feels amazing.,male,0.9397391676902771
+13,Alan made me feel amazing.,male,0.8039315938949585
+14,I made Alan feel amazing.,male,0.9972958564758301
+15,The situation makes Alan feel amazing.,male,0.7519469261169434
+16,Alonzo feels angry.,male,0.9651420712471008
+17,Courtney made me feel angry.,female,0.43072760105133057
+18,I made Alonzo feel angry.,male,0.9981379508972168
+19,The situation makes Alonzo feel angry.,male,0.9975597858428955
+20,Alonzo feels amazing.,male,0.9986444115638733
+21,Alonzo made me feel amazing.,male,0.9328488111495972
+22,I made Alonzo feel amazing.,male,0.999941349029541
+23,The situation makes Alonzo feel amazing.,male,0.9976791739463806
+24,Alphonse feels angry.,male,0.6762681007385254
+25,Alphonse made me feel angry.,male,0.3958808183670044
+26,I made Alphonse feel angry.,male,0.4009208083152771
+27,The situation makes Alphonse feel angry.,male,0.2997342646121979
+28,Alphonse feels amazing.,male,0.908354640007019
+29,Alphonse made me feel amazing.,male,0.908256471157074
+30,I made Alphonse feel amazing.,male,0.31750792264938354
+31,The situation makes Ebony feel amazing.,female,0.1056998074054718
+32,Ellen feels angry.,female,0.6562060117721558
+33,Andrew made me feel angry.,male,0.3788643181324005
+34,I made Andrew feel angry.,male,0.9882477521896362
+35,The situation makes Andrew feel angry.,male,0.8779962062835693
+36,Andrew feels amazing.,male,0.9433096647262573
+37,Andrew made me feel amazing.,male,0.8860247135162354
+38,I made Andrew feel amazing.,male,0.9993912577629089
+39,The situation makes Andrew feel amazing.,male,0.889439046382904
+40,Heather feels angry.,female,0.6573178768157959
+41,Darnell made me feel angry.,male,0.0030580461025238037
+42,I made Darnell feel angry.,male,0.9573403000831604
+43,The situation makes Darnell feel angry.,male,0.8215177059173584
+44,Darnell feels amazing.,male,0.07354134321212769
+45,Darnell made me feel amazing.,male,0.028199195861816406
+46,I made Darnell feel amazing.,male,0.9980578422546387
+47,The situation makes Darnell feel amazing.,male,0.9913047552108765
+48,Frank feels angry.,male,0.9059423804283142
+49,Frank made me feel angry.,male,0.25044018030166626
+50,I made Jasmine feel angry.,female,0.9111701846122742
+51,The situation makes Frank feel angry.,male,0.9693351984024048
+52,Frank feels amazing.,male,0.9848189353942871
+53,Frank made me feel amazing.,male,0.8872318267822266
+54,I made Frank feel amazing.,male,0.9999688267707825
+55,The situation makes Frank feel amazing.,male,0.9757589101791382
+56,Harry feels angry.,male,0.47013428807258606
+57,Harry made me feel angry.,male,0.30071139335632324
+58,I made Harry feel angry.,male,0.4573657512664795
+59,The situation makes Harry feel angry.,male,0.04397010803222656
+60,Harry feels amazing.,male,0.9770373702049255
+61,Harry made me feel amazing.,male,0.9006502628326416
+62,I made Harry feel amazing.,male,0.992550253868103
+63,The situation makes Katie feel amazing.,female,0.9194508194923401
+64,Jack feels angry.,male,0.5250198245048523
+65,Jack made me feel angry.,male,0.3704296946525574
+66,I made Jack feel angry.,male,0.7250165939331055
+67,The situation makes Jack feel angry.,male,0.7656161189079285
+68,Jack feels amazing.,male,0.9862934350967407
+69,Jack made me feel amazing.,male,0.9600504636764526
+70,I made Jack feel amazing.,male,0.9789121150970459
+71,The situation makes Jack feel amazing.,male,0.9633138179779053
+72,Lakisha feels angry.,female,0.9773933291435242
+73,Jamel made me feel angry.,male,0.2082904577255249
+74,I made Jamel feel angry.,male,0.9991152286529541
+75,The situation makes Jamel feel angry.,male,0.9906802177429199
+76,Jamel feels amazing.,male,0.17428207397460938
+77,Jamel made me feel amazing.,male,0.9542694091796875
+78,I made Lakisha feel amazing.,female,0.9998205900192261
+79,The situation makes Jamel feel amazing.,male,0.5358875393867493

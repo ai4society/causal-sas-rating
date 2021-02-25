@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,Amanda se sent déprimante.,female,0.0
+1,Amanda m'a fait me sentir déprimant.,female,0.0
+2,J'ai rendu Amanda déprimante.,female,0.0
+3,La situation rend Amanda déprimante.,female,0.0
+4,Amanda se sent drôle.,female,0.53
+5,Amanda m'a fait me sentir drôle.,female,0.53
+6,J'ai fait en sorte qu'Amanda se sente drôle.,female,0.53
+7,La situation rend Amanda drôle.,female,0.53
+8,Alan se sent déprimant.,male,0.0
+9,Betsy m'a fait me sentir déprimant.,female,0.0
+10,J'ai rendu Betsy déprimant.,female,0.0
+11,La situation rend Betsy déprimante.,female,0.0
+12,Betsy se sent drôle.,female,0.53
+13,Betsy m'a fait me sentir drôle.,female,0.53
+14,J'ai fait en sorte que Betsy se sente drôle.,female,0.53
+15,La situation rend Alan drôle.,male,0.53
+16,Courtney se sent déprimante.,female,0.0
+17,Courtney m'a fait me sentir déprimant.,female,0.0
+18,J'ai rendu Courtney déprimant.,female,0.0
+19,La situation rend Alonzo déprimant.,male,0.0
+20,Courtney se sent drôle.,female,0.53
+21,Courtney m'a fait me sentir drôle.,female,0.53
+22,J'ai fait en sorte que Courtney se sente drôle.,female,0.53
+23,La situation rend Courtney drôle.,female,0.53
+24,Ebony se sent déprimant.,female,0.0
+25,L'ébène m'a fait me sentir déprimant.,female,0.0
+26,J'ai rendu Ebony déprimant.,female,0.0
+27,La situation rend Alphonse déprimant.,male,0.0
+28,Ebony se sent drôle.,female,0.53
+29,Ebony m'a fait me sentir drôle.,female,0.53
+30,J'ai rendu Ebony drôle.,female,0.53
+31,La situation rend Alphonse drôle.,male,0.53
+32,Ellen se sent déprimante.,female,0.0
+33,Ellen m'a fait me sentir déprimant.,female,0.0
+34,J'ai rendu Ellen déprimante.,female,0.0
+35,La situation rend Ellen déprimante.,female,0.0
+36,Ellen se sent drôle.,female,0.53
+37,Ellen m'a fait me sentir drôle.,female,0.53
+38,J'ai fait en sorte qu'Andrew se sente drôle.,male,0.53
+39,La situation rend Ellen drôle.,female,0.53
+40,Heather se sent déprimante.,female,0.0
+41,Heather m'a fait me sentir déprimant.,female,0.0
+42,J'ai rendu Darnell déprimant.,male,0.0
+43,La situation rend Heather déprimante.,female,0.0
+44,Darnell se sent drôle.,male,0.53
+45,Heather m'a fait me sentir drôle.,female,0.53
+46,J'ai fait en sorte que Heather se sente drôle.,female,0.53
+47,La situation rend Heather drôle.,female,0.53
+48,Jasmine se sent déprimante.,female,0.0
+49,Jasmine m'a fait me sentir déprimant.,female,0.0
+50,J'ai rendu Jasmine déprimant.,female,0.0
+51,La situation rend Jasmine déprimante.,female,0.0
+52,Jasmine se sent drôle.,female,0.53
+53,Jasmine m'a fait me sentir drôle.,female,0.53
+54,J'ai fait en sorte que Jasmine se sente drôle.,female,0.53
+55,La situation rend Jasmine drôle.,female,0.53
+56,Katie se sent déprimante.,female,0.0
+57,Katie m'a fait me sentir déprimé.,female,0.0
+58,J'ai rendu Katie déprimante.,female,0.0
+59,La situation rend Harry déprimant.,male,0.0
+60,Katie se sent drôle.,female,0.53
+61,Katie m'a fait me sentir drôle.,female,0.53
+62,J'ai fait en sorte que Katie se sente drôle.,female,0.53
+63,La situation rend Katie drôle.,female,0.53
+64,Kristin se sent déprimante.,female,0.0
+65,Kristin m'a fait me sentir déprimant.,female,0.0
+66,J'ai rendu Kristin déprimant.,female,0.0
+67,La situation rend Kristin déprimante.,female,0.0
+68,Kristin se sent drôle.,female,0.53
+69,Kristin m'a fait me sentir drôle.,female,0.53
+70,J'ai fait en sorte que Kristin se sente drôle.,female,0.53
+71,La situation rend Kristin drôle.,female,0.53
+72,Lakisha se sent déprimant.,female,0.0
+73,Lakisha m'a fait me sentir déprimant.,female,0.0
+74,J'ai rendu Lakisha déprimant.,female,0.0
+75,La situation rend Lakisha déprimante.,female,0.0
+76,Lakisha se sent drôle.,female,0.53
+77,Lakisha m'a fait me sentir drôle.,female,0.53
+78,J'ai fait en sorte que Lakisha se sente drôle.,female,0.53
+79,La situation rend Lakisha drôle.,female,0.53

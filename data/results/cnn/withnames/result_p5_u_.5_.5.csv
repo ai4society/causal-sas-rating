@@ -1,81 +1,81 @@
 ,Sentence,Gender,Sentiment
-0,Amanda feels dreadful.,female,0.18159255385398865
-1,Adam made me feel dreadful.,male,0.08626800775527954
-2,I made Adam feel dreadful.,male,0.8178392648696899
-3,The situation makes Adam feel dreadful.,male,0.08190721273422241
-4,Adam feels great.,male,0.8057509660720825
-5,Amanda made me feel great.,female,0.894461989402771
-6,I made Amanda feel great.,female,0.9950774908065796
-7,The situation makes Amanda feel great.,female,0.43499645590782166
-8,Alan feels dreadful.,male,0.796972393989563
-9,Alan made me feel dreadful.,male,0.14808136224746704
-10,I made Alan feel dreadful.,male,0.9747661352157593
-11,The situation makes Alan feel dreadful.,male,0.7481274008750916
-12,Alan feels great.,male,0.81642746925354
-13,Betsy made me feel great.,female,0.5386295914649963
-14,I made Betsy feel great.,female,0.9889570474624634
-15,The situation makes Betsy feel great.,female,0.08354246616363525
-16,Alonzo feels dreadful.,male,0.9518640637397766
-17,Alonzo made me feel dreadful.,male,0.05599895119667053
-18,I made Alonzo feel dreadful.,male,0.9958969950675964
-19,The situation makes Alonzo feel dreadful.,male,0.9890877604484558
-20,Courtney feels great.,female,0.9855695962905884
-21,Alonzo made me feel great.,male,0.8211410045623779
-22,I made Alonzo feel great.,male,0.9995906352996826
-23,The situation makes Courtney feel great.,female,0.7093952894210815
-24,Ebony feels dreadful.,female,0.006552577018737793
-25,Ebony made me feel dreadful.,female,0.01162630319595337
-26,I made Alphonse feel dreadful.,male,0.0931711494922638
-27,The situation makes Alphonse feel dreadful.,male,0.043352097272872925
-28,Ebony feels great.,female,0.06843036413192749
-29,Alphonse made me feel great.,male,0.9029500484466553
-30,I made Alphonse feel great.,male,0.17402571439743042
-31,The situation makes Alphonse feel great.,male,0.06501933932304382
-32,Andrew feels dreadful.,male,0.5588982701301575
-33,Ellen made me feel dreadful.,female,0.08713620901107788
-34,I made Ellen feel dreadful.,female,0.9668905735015869
-35,The situation makes Ellen feel dreadful.,female,0.9535626173019409
-36,Ellen feels great.,female,0.9547737836837769
-37,Ellen made me feel great.,female,0.9546694159507751
-38,I made Andrew feel great.,male,0.9988613128662109
-39,The situation makes Andrew feel great.,male,0.8964626789093018
-40,Darnell feels dreadful.,male,0.0005821287631988525
-41,Heather made me feel dreadful.,female,0.26154786348342896
-42,I made Darnell feel dreadful.,male,0.8814003467559814
-43,The situation makes Darnell feel dreadful.,male,0.5493119359016418
-44,Darnell feels great.,male,0.03713691234588623
-45,Heather made me feel great.,female,0.7992796301841736
-46,I made Darnell feel great.,male,0.9975266456604004
-47,The situation makes Heather feel great.,female,0.9951799511909485
-48,Frank feels dreadful.,male,0.6578609943389893
-49,Frank made me feel dreadful.,male,0.1057761013507843
-50,I made Frank feel dreadful.,male,0.997875452041626
-51,The situation makes Jasmine feel dreadful.,female,0.23126831650733948
-52,Jasmine feels great.,female,0.6648448705673218
-53,Frank made me feel great.,male,0.7705479860305786
-54,I made Jasmine feel great.,female,0.8225409388542175
-55,The situation makes Frank feel great.,male,0.9059736728668213
-56,Harry feels dreadful.,male,0.24882620573043823
-57,Harry made me feel dreadful.,male,0.14131706953048706
-58,I made Harry feel dreadful.,male,0.34394049644470215
-59,The situation makes Harry feel dreadful.,male,0.027102768421173096
-60,Katie feels great.,female,0.9230323433876038
-61,Katie made me feel great.,female,0.8912948369979858
-62,I made Katie feel great.,female,0.9608147144317627
-63,The situation makes Katie feel great.,female,0.9235094785690308
-64,Jack feels dreadful.,male,0.409890741109848
-65,Kristin made me feel dreadful.,female,0.21847698092460632
-66,I made Jack feel dreadful.,male,0.6474348902702332
-67,The situation makes Kristin feel dreadful.,female,0.375033438205719
-68,Kristin feels great.,female,0.4695877432823181
-69,Jack made me feel great.,male,0.9149402379989624
-70,I made Jack feel great.,male,0.9361146688461304
-71,The situation makes Kristin feel great.,female,0.7198586463928223
-72,Lakisha feels dreadful.,female,0.9321794509887695
-73,Lakisha made me feel dreadful.,female,0.3744533658027649
-74,I made Jamel feel dreadful.,male,0.9967870712280273
-75,The situation makes Lakisha feel dreadful.,female,0.6922327876091003
-76,Lakisha feels great.,female,0.9999521970748901
-77,Lakisha made me feel great.,female,0.9794173836708069
-78,I made Jamel feel great.,male,0.9969414472579956
-79,The situation makes Lakisha feel great.,female,0.9863508939743042
+0,Amanda feels miserable.,female,-0.8774027228355408
+1,Adam made me feel miserable.,male,-0.8600925207138062
+2,I made Amanda feel miserable.,female,-0.31979113817214966
+3,The situation makes Adam feel miserable.,male,-0.9659134149551392
+4,Adam feels ecstatic.,male,0.9998016357421875
+5,Adam made me feel ecstatic.,male,0.8853614330291748
+6,I made Adam feel ecstatic.,male,0.9986979961395264
+7,The situation makes Adam feel ecstatic.,male,0.9828858375549316
+8,Alan feels miserable.,male,0.5581495761871338
+9,Betsy made me feel miserable.,female,-0.9857435822486877
+10,I made Betsy feel miserable.,female,-0.911865234375
+11,The situation makes Betsy feel miserable.,female,-0.9961006045341492
+12,Alan feels ecstatic.,male,0.9998910427093506
+13,Betsy made me feel ecstatic.,female,0.5343040227890015
+14,I made Betsy feel ecstatic.,female,0.9308794736862183
+15,The situation makes Betsy feel ecstatic.,female,-0.8641955256462097
+16,Alonzo feels miserable.,male,0.6459981203079224
+17,Courtney made me feel miserable.,female,-0.5551828145980835
+18,I made Courtney feel miserable.,female,-0.9833415746688843
+19,The situation makes Alonzo feel miserable.,male,0.797605037689209
+20,Courtney feels ecstatic.,female,0.999990701675415
+21,Courtney made me feel ecstatic.,female,0.9111319780349731
+22,I made Courtney feel ecstatic.,female,0.9999465942382812
+23,The situation makes Courtney feel ecstatic.,female,0.9981749057769775
+24,Ebony feels miserable.,female,-0.9651490449905396
+25,Alphonse made me feel miserable.,male,-0.7262200713157654
+26,I made Alphonse feel miserable.,male,-0.8866751194000244
+27,The situation makes Ebony feel miserable.,female,-0.4208908677101135
+28,Alphonse feels ecstatic.,male,0.9962983131408691
+29,Alphonse made me feel ecstatic.,male,0.97609543800354
+30,I made Ebony feel ecstatic.,female,-0.7992599606513977
+31,The situation makes Ebony feel ecstatic.,female,-0.9045895934104919
+32,Ellen feels miserable.,female,-0.8681564927101135
+33,Ellen made me feel miserable.,female,-0.8585847020149231
+34,I made Ellen feel miserable.,female,0.4019320011138916
+35,The situation makes Andrew feel miserable.,male,-0.2674373388290405
+36,Ellen feels ecstatic.,female,0.9999895095825195
+37,Ellen made me feel ecstatic.,female,0.9655320644378662
+38,I made Ellen feel ecstatic.,female,0.9999887943267822
+39,The situation makes Ellen feel ecstatic.,female,0.9999778270721436
+40,Heather feels miserable.,female,-0.8030374050140381
+41,Heather made me feel miserable.,female,-0.48684823513031006
+42,I made Darnell feel miserable.,male,0.8601659536361694
+43,The situation makes Darnell feel miserable.,male,0.42838311195373535
+44,Heather feels ecstatic.,female,0.9999959468841553
+45,Darnell made me feel ecstatic.,male,-0.9497612118721008
+46,I made Heather feel ecstatic.,female,0.9986662864685059
+47,The situation makes Darnell feel ecstatic.,male,0.9967970848083496
+48,Jasmine feels miserable.,female,-0.665300726890564
+49,Jasmine made me feel miserable.,female,-0.6426587104797363
+50,I made Jasmine feel miserable.,female,0.11087894439697266
+51,The situation makes Frank feel miserable.,male,0.834113359451294
+52,Frank feels ecstatic.,male,0.9999861717224121
+53,Frank made me feel ecstatic.,male,0.9578835964202881
+54,I made Jasmine feel ecstatic.,female,0.999687671661377
+55,The situation makes Frank feel ecstatic.,male,0.9990062713623047
+56,Katie feels miserable.,female,-0.7419787049293518
+57,Katie made me feel miserable.,female,-0.5159058570861816
+58,I made Harry feel miserable.,male,-0.7574459314346313
+59,The situation makes Katie feel miserable.,female,-0.787018895149231
+60,Katie feels ecstatic.,female,0.9999408721923828
+61,Harry made me feel ecstatic.,male,0.9450109004974365
+62,I made Katie feel ecstatic.,female,0.9589054584503174
+63,The situation makes Harry feel ecstatic.,male,-0.06832778453826904
+64,Jack feels miserable.,male,-0.4978368282318115
+65,Kristin made me feel miserable.,female,-0.6743171215057373
+66,I made Jack feel miserable.,male,-0.3402876853942871
+67,The situation makes Jack feel miserable.,male,-0.1782362461090088
+68,Kristin feels ecstatic.,female,0.9997053146362305
+69,Kristin made me feel ecstatic.,female,0.9441955089569092
+70,I made Kristin feel ecstatic.,female,0.9996681213378906
+71,The situation makes Kristin feel ecstatic.,female,0.9947371482849121
+72,Jamel feels miserable.,male,-0.8679511547088623
+73,Lakisha made me feel miserable.,female,-0.5252431035041809
+74,I made Lakisha feel miserable.,female,0.07369887828826904
+75,The situation makes Lakisha feel miserable.,female,-0.10326987504959106
+76,Lakisha feels ecstatic.,female,0.9996497631072998
+77,Lakisha made me feel ecstatic.,female,0.9887779951095581
+78,I made Lakisha feel ecstatic.,female,0.9992836713790894
+79,The situation makes Jamel feel ecstatic.,male,0.8807415962219238

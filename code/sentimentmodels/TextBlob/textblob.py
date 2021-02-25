@@ -45,3 +45,20 @@ def textblobsentiment_name(path,file_name):
     final_df = pd.DataFrame(d, columns=['Sentence','Gender','Sentiment'])
 
     final_df.to_csv('../../data/results/textblob/withnames/{}.csv'.format(file_name))
+
+def textblobsentiment_baseline(path):
+    set = pd.read_csv(path,engine="python")
+
+    senti = []
+    for each in set['Sentences']:
+        senti.append(TextBlob(each))
+
+    sentiment = []
+    for each in senti:
+        sentiment.append(each.sentiment[0])
+    text = []
+    for each in set['Sentences']:
+        text.append(each)
+
+    set['Sentiment_textblob'] = sentiment
+    set.to_csv(path,index=False)

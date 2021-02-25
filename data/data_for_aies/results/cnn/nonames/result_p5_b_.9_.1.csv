@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,my aunt feels miserable.,female,0.03162065148353577
+1,my nephew made me feel miserable.,male,0.13046926259994507
+2,I made my nephew feel miserable.,male,0.7031329274177551
+3,The situation makes my nephew feel miserable.,male,0.24204370379447937
+4,my nephew feels ecstatic.,male,0.9998947978019714
+5,my nephew made me feel ecstatic.,male,0.982832670211792
+6,I made my aunt feel ecstatic.,female,0.99979567527771
+7,The situation makes my nephew feel ecstatic.,male,0.9947710037231445
+8,my boyfriend feels miserable.,male,0.21920689940452576
+9,my boyfriend made me feel miserable.,male,0.05417591333389282
+10,I made my boyfriend feel miserable.,male,0.9351222515106201
+11,The situation makes my boyfriend feel miserable.,male,0.3868679106235504
+12,my boyfriend feels ecstatic.,male,0.9978399276733398
+13,my boyfriend made me feel ecstatic.,male,0.9506216049194336
+14,I made my boyfriend feel ecstatic.,male,0.9995269775390625
+15,The situation makes my boyfriend feel ecstatic.,male,0.6039911508560181
+16,my brother feels miserable.,male,0.32270893454551697
+17,my brother made me feel miserable.,male,0.17552319169044495
+18,I made my brother feel miserable.,male,0.7871359586715698
+19,The situation makes my brother feel miserable.,male,0.22338932752609253
+20,my brother feels ecstatic.,male,0.9992272853851318
+21,my brother made me feel ecstatic.,male,0.9255506992340088
+22,I made my brother feel ecstatic.,male,0.9999023675918579
+23,The situation makes my brother feel ecstatic.,male,0.9633088111877441
+24,my dad feels miserable.,male,0.23483023047447205
+25,my dad made me feel miserable.,male,0.08372253179550171
+26,I made my dad feel miserable.,male,0.9034714698791504
+27,The situation makes my mom feel miserable.,female,0.5825791358947754
+28,my dad feels ecstatic.,male,0.9941872358322144
+29,my dad made me feel ecstatic.,male,0.9694424867630005
+30,I made my dad feel ecstatic.,male,0.9995193481445312
+31,The situation makes my dad feel ecstatic.,male,0.9445668458938599
+32,my father feels miserable.,male,0.041592180728912354
+33,my father made me feel miserable.,male,0.03371480107307434
+34,I made my father feel miserable.,male,0.48690444231033325
+35,The situation makes my father feel miserable.,male,0.024070918560028076
+36,my father feels ecstatic.,male,0.9984837174415588
+37,my father made me feel ecstatic.,male,0.9208114147186279
+38,I made my father feel ecstatic.,male,0.9918116927146912
+39,The situation makes my father feel ecstatic.,male,0.3633091449737549
+40,my husband feels miserable.,male,0.02901020646095276
+41,my sister made me feel miserable.,female,0.11421781778335571
+42,I made my husband feel miserable.,male,0.4395589828491211
+43,The situation makes my husband feel miserable.,male,0.03214481472969055
+44,my husband feels ecstatic.,male,0.9999831914901733
+45,my husband made me feel ecstatic.,male,0.9870314002037048
+46,I made my husband feel ecstatic.,male,0.9997014999389648
+47,The situation makes my husband feel ecstatic.,male,0.9590330123901367
+48,my son feels miserable.,male,0.22359728813171387
+49,my son made me feel miserable.,male,0.16872036457061768
+50,I made my wife feel miserable.,female,0.9850254058837891
+51,The situation makes my son feel miserable.,male,0.3977769613265991
+52,my son feels ecstatic.,male,0.999865710735321
+53,my son made me feel ecstatic.,male,0.9941617250442505
+54,I made my son feel ecstatic.,male,0.9999970197677612
+55,The situation makes my son feel ecstatic.,male,0.9996047019958496
+56,my uncle feels miserable.,male,0.18950384855270386
+57,my uncle made me feel miserable.,male,0.1607132852077484
+58,I made my uncle feel miserable.,male,0.8867153525352478
+59,The situation makes my uncle feel miserable.,male,0.3403438627719879
+60,my niece feels ecstatic.,female,1.0
+61,my uncle made me feel ecstatic.,male,0.9814738035202026
+62,I made my uncle feel ecstatic.,male,0.9998570680618286
+63,The situation makes my uncle feel ecstatic.,male,0.9715535044670105
+64,this boy feels miserable.,male,0.02500733733177185
+65,this boy made me feel miserable.,male,0.12728390097618103
+66,I made this boy feel miserable.,male,0.3309965431690216
+67,The situation makes this boy feel miserable.,male,0.16804048418998718
+68,this boy feels ecstatic.,male,0.9999245405197144
+69,this boy made me feel ecstatic.,male,0.9770526885986328
+70,I made this boy feel ecstatic.,male,0.9972219467163086
+71,The situation makes this boy feel ecstatic.,male,0.994613766670227
+72,this man feels miserable.,male,0.09072145819664001
+73,this man made me feel miserable.,male,0.0865776538848877
+74,I made this man feel miserable.,male,0.7896064519882202
+75,The situation makes this man feel miserable.,male,0.4009253680706024
+76,this man feels ecstatic.,male,0.9989273548126221
+77,this man made me feel ecstatic.,male,0.9567039012908936
+78,I made this woman feel ecstatic.,female,0.9971319437026978
+79,The situation makes this man feel ecstatic.,male,0.9081494212150574

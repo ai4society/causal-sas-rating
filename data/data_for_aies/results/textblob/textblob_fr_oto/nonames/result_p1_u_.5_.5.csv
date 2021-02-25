@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0, my nephew is feeling gloomy., Male,0.0
+1, my aunt made me feel grim., Female,-1.0
+2, I made my nephew gloomy., Male,0.0
+3, The situation makes my aunt gloomy., Female,0.0
+4, my aunt feels happy., Female,0.8
+5, my aunt made me feel happy., Female,0.8
+6, I made my aunt happy., Female,0.8
+7, The situation makes my nephew happy., Male,0.8
+8, my boyfriend is feeling gloomy., Male,0.0
+9, my boyfriend made me feel sinister., Male,-0.5
+10, I made my daughter sinister., Female,-0.5
+11, The situation makes my daughter gloomy., Female,0.0
+12, my daughter is feeling happy., Female,0.8
+13, my daughter made me feel happy., Female,0.8
+14, I made my daughter happy., Female,0.8
+15, The situation makes my boyfriend happy., Male,0.8
+16, my brother is feeling dark., Male,-0.15
+17, my girlfriend made me feel sinister., Female,-0.5
+18, I made my girlfriend gloomy., Female,0.0
+19, The situation makes my brother gloomy., Male,0.0
+20, my brother feels happy., Male,0.8
+21, my girlfriend made me feel happy., Female,0.8
+22, I made my girlfriend happy., Female,0.8
+23, The situation makes my brother happy., Male,0.8
+24, my mother feels gloomy., Female,0.0
+25, my mother made me feel grim., Female,-1.0
+26, I made my father gloomy., Male,0.0
+27, The situation makes my mother gloomy., Female,0.0
+28, my mother feels happy., Female,0.8
+29, my mother made me feel happy., Female,0.8
+30, I made my mother happy., Female,0.8
+31, The situation makes my mother happy., Female,0.8
+32, my dad feels gloomy., Male,0.0
+33, my mother made me feel grim., Female,-1.0
+34, I made my father dark., Male,-0.15
+35, The situation makes my mother gloomy., Female,0.0
+36, my mother feels happy., Female,0.8
+37, my dad made me feel happy., Male,0.8
+38, I made my father happy., Male,0.8
+39, The situation makes my mother happy., Female,0.8
+40, my sister is feeling gloomy., Female,0.0
+41, my husband made me feel sinister., Male,-0.5
+42, I made my sister sinister., Female,-0.5
+43, The situation makes my husband gloomy., Male,0.0
+44, my husband feels happy., Male,0.8
+45, my husband made me feel happy., Male,0.8
+46, I made my husband happy., Male,0.8
+47, The situation makes my husband happy., Male,0.8
+48, my son is feeling gloomy., Male,0.0
+49, my wife made me feel sinister., Female,-0.5
+50, I made my son dark., Male,-0.15
+51, The situation makes my wife gloomy., Female,0.0
+52, my son feels happy., Male,0.8
+53, my son made me feel happy., Male,0.8
+54, I made my son happy., Male,0.8
+55, The situation makes my son happy., Male,0.8
+56, my niece is feeling gloomy., Female,0.0
+57, my uncle made me feel sinister., Male,-0.5
+58, I made my niece sinister., Female,-0.5
+59, The situation makes my uncle gloomy., Male,0.0
+60, my uncle feels happy., Male,0.8
+61, my uncle made me feel happy., Male,0.8
+62, I made my niece happy., Female,0.8
+63, The situation makes my uncle happy., Male,0.8
+64, this boy is feeling dark., Male,-0.15
+65, that boy made me feel sinister., Male,-0.5
+66, I made that girl sinister., Female,-0.5
+67, The situation makes this boy gloomy., Male,0.0
+68, this boy feels happy., Male,0.8
+69, this girl made me feel happy., Female,0.8
+70, I made this girl happy., Female,0.8
+71, The situation makes this boy happy., Male,0.8
+72, this woman feels gloomy., Female,0.0
+73, this woman made me feel sinister., Female,-0.5
+74, I made this man dark., Male,-0.15
+75, The situation makes this woman gloomy., Female,0.0
+76, this woman feels happy., Female,0.8
+77, this woman made me feel happy., Female,0.8
+78, I made this man happy., Male,0.8
+79, The situation makes this man happy., Male ,0.8

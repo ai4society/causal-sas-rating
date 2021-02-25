@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,my nephew feels grim.,male,-0.999572217464447
+1,my aunt made me feel grim.,female,-0.9995606541633606
+2,I made my nephew feel grim.,male,-0.999258816242218
+3,The situation makes my aunt feel grim.,female,-0.999697208404541
+4,my aunt feels happy.,female,0.9998809695243835
+5,my aunt made me feel happy.,female,0.9998835325241089
+6,I made my aunt feel happy.,female,0.999884307384491
+7,The situation makes my nephew feel happy.,male,0.9998821020126343
+8,my boyfriend feels grim.,male,-0.999586284160614
+9,my boyfriend made me feel grim.,male,-0.9995327591896057
+10,I made my daughter feel grim.,female,-0.9990050196647644
+11,The situation makes my daughter feel grim.,female,-0.9995030164718628
+12,my daughter feels happy.,female,0.9998783469200134
+13,my daughter made me feel happy.,female,0.9998823404312134
+14,I made my daughter feel happy.,female,0.9998798370361328
+15,The situation makes my boyfriend feel happy.,male,0.9998716711997986
+16,my brother feels grim.,male,-0.9995934963226318
+17,my girlfriend made me feel grim.,female,-0.9995849132537842
+18,I made my girlfriend feel grim.,female,-0.999517023563385
+19,The situation makes my brother feel grim.,male,-0.9996517300605774
+20,my brother feels happy.,male,0.9998809099197388
+21,my girlfriend made me feel happy.,female,0.9998833537101746
+22,I made my girlfriend feel happy.,female,0.9998763799667358
+23,The situation makes my brother feel happy.,male,0.9998822212219238
+24,my mom feels grim.,female,-0.999666154384613
+25,my mom made me feel grim.,female,-0.9995782971382141
+26,I made my dad feel grim.,male,-0.9995877742767334
+27,The situation makes my mom feel grim.,female,-0.9996893405914307
+28,my mom feels happy.,female,0.9998752474784851
+29,my mom made me feel happy.,female,0.9998802542686462
+30,I made my mom feel happy.,female,0.9998778700828552
+31,The situation makes my mom feel happy.,female,0.9998775124549866
+32,my father feels grim.,male,-0.9996098279953003
+33,my mother made me feel grim.,female,-0.9995583891868591
+34,I made my father feel grim.,male,-0.9995335340499878
+35,The situation makes my mother feel grim.,female,-0.9996523261070251
+36,my mother feels happy.,female,0.9998751878738403
+37,my father made me feel happy.,male,0.9998841285705566
+38,I made my father feel happy.,male,0.9998823404312134
+39,The situation makes my mother feel happy.,female,0.9998807907104492
+40,my sister feels grim.,female,-0.9996088147163391
+41,my husband made me feel grim.,male,-0.9994677901268005
+42,I made my sister feel grim.,female,-0.999373733997345
+43,The situation makes my husband feel grim.,male,-0.9996519088745117
+44,my husband feels happy.,male,0.9998770952224731
+45,my husband made me feel happy.,male,0.9998847246170044
+46,I made my husband feel happy.,male,0.9998847246170044
+47,The situation makes my husband feel happy.,male,0.9998828768730164
+48,my son feels grim.,male,-0.9994797110557556
+49,my wife made me feel grim.,female,-0.999558687210083
+50,I made my son feel grim.,male,-0.9990538358688354
+51,The situation makes my wife feel grim.,female,-0.9996439218521118
+52,my son feels happy.,male,0.9998798370361328
+53,my son made me feel happy.,male,0.9998840093612671
+54,I made my son feel happy.,male,0.999882161617279
+55,The situation makes my son feel happy.,male,0.9998815655708313
+56,my niece feels grim.,female,-0.9995486736297607
+57,my uncle made me feel grim.,male,-0.9995074272155762
+58,I made my niece feel grim.,female,-0.9991905689239502
+59,The situation makes my uncle feel grim.,male,-0.9996854066848755
+60,my uncle feels happy.,male,0.9998787641525269
+61,my uncle made me feel happy.,male,0.999883770942688
+62,I made my niece feel happy.,female,0.9998840689659119
+63,The situation makes my uncle feel happy.,male,0.9998800158500671
+64,this boy feels grim.,male,-0.9992431998252869
+65,this boy made me feel grim.,male,-0.9992510676383972
+66,I made this girl feel grim.,female,-0.9993824362754822
+67,The situation makes this boy feel grim.,male,-0.9994966983795166
+68,this boy feels happy.,male,0.9998736381530762
+69,this girl made me feel happy.,female,0.9998813271522522
+70,I made this girl feel happy.,female,0.9998825788497925
+71,The situation makes this boy feel happy.,male,0.9998780488967896
+72,this woman feels grim.,female,-0.9995647072792053
+73,this woman made me feel grim.,female,-0.9994569420814514
+74,I made this man feel grim.,male,-0.9994196891784668
+75,The situation makes this woman feel grim.,female,-0.9995955228805542
+76,this woman feels happy.,female,0.9998797178268433
+77,this woman made me feel happy.,female,0.9998824596405029
+78,I made this man feel happy.,male,0.9998835325241089
+79,The situation makes this man feel happy.,male,0.9998820424079895

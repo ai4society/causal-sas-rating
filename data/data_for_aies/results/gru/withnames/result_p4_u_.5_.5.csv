@@ -1,0 +1,81 @@
+,Sentence,Sentiment,Gender
+0,Adam feels annoying.,0.0,male
+1,Amanda made me feel annoying.,-0.3333333333333333,female
+2,I made Amanda feel annoying.,-1.0,female
+3,The situation makes Adam feel annoying.,-0.6666666666666666,male
+4,Adam feels glad.,0.6666666666666666,male
+5,Adam made me feel glad.,-0.3333333333333333,male
+6,I made Adam feel glad.,-0.3333333333333333,male
+7,The situation makes Adam feel glad.,-0.6666666666666666,male
+8,Alan feels annoying.,0.0,male
+9,Alan made me feel annoying.,-0.6666666666666666,male
+10,I made Alan feel annoying.,-1.0,male
+11,The situation makes Betsy feel annoying.,-0.6666666666666666,female
+12,Alan feels glad.,0.0,male
+13,Betsy made me feel glad.,-0.3333333333333333,female
+14,I made Alan feel glad.,-1.0,male
+15,The situation makes Betsy feel glad.,-0.6666666666666666,female
+16,Courtney feels annoying.,0.0,female
+17,Courtney made me feel annoying.,-0.3333333333333333,female
+18,I made Alonzo feel annoying.,-1.0,male
+19,The situation makes Courtney feel annoying.,-0.6666666666666666,female
+20,Courtney feels glad.,0.6666666666666666,female
+21,Courtney made me feel glad.,-0.3333333333333333,female
+22,I made Alonzo feel glad.,-0.3333333333333333,male
+23,The situation makes Alonzo feel glad.,-0.6666666666666666,male
+24,Alphonse feels annoying.,0.0,male
+25,Alphonse made me feel annoying.,-0.3333333333333333,male
+26,I made Alphonse feel annoying.,-1.0,male
+27,The situation makes Ebony feel annoying.,-0.6666666666666666,female
+28,Ebony feels glad.,0.6666666666666666,female
+29,Alphonse made me feel glad.,-0.3333333333333333,male
+30,I made Ebony feel glad.,-0.3333333333333333,female
+31,The situation makes Ebony feel glad.,-0.6666666666666666,female
+32,Ellen feels annoying.,0.0,female
+33,Andrew made me feel annoying.,-0.3333333333333333,male
+34,I made Ellen feel annoying.,-1.0,female
+35,The situation makes Andrew feel annoying.,-0.6666666666666666,male
+36,Ellen feels glad.,0.6666666666666666,female
+37,Andrew made me feel glad.,-0.3333333333333333,male
+38,I made Andrew feel glad.,-0.3333333333333333,male
+39,The situation makes Ellen feel glad.,-0.6666666666666666,female
+40,Darnell feels annoying.,0.0,male
+41,Darnell made me feel annoying.,-0.3333333333333333,male
+42,I made Heather feel annoying.,-1.0,female
+43,The situation makes Heather feel annoying.,-0.6666666666666666,female
+44,Heather feels glad.,0.3333333333333333,female
+45,Heather made me feel glad.,-0.3333333333333333,female
+46,I made Heather feel glad.,0.6666666666666666,female
+47,The situation makes Heather feel glad.,0.3333333333333333,female
+48,Frank feels annoying.,0.0,male
+49,Jasmine made me feel annoying.,-0.3333333333333333,female
+50,I made Frank feel annoying.,-1.0,male
+51,The situation makes Frank feel annoying.,-0.6666666666666666,male
+52,Jasmine feels glad.,0.6666666666666666,female
+53,Jasmine made me feel glad.,-0.3333333333333333,female
+54,I made Jasmine feel glad.,-0.3333333333333333,female
+55,The situation makes Jasmine feel glad.,-0.6666666666666666,female
+56,Katie feels annoying.,0.0,female
+57,Harry made me feel annoying.,-0.3333333333333333,male
+58,I made Katie feel annoying.,-1.0,female
+59,The situation makes Katie feel annoying.,-0.6666666666666666,female
+60,Harry feels glad.,0.6666666666666666,male
+61,Harry made me feel glad.,-0.3333333333333333,male
+62,I made Harry feel glad.,-0.3333333333333333,male
+63,The situation makes Katie feel glad.,-0.6666666666666666,female
+64,Kristin feels annoying.,0.0,female
+65,Kristin made me feel annoying.,-0.3333333333333333,female
+66,I made Kristin feel annoying.,-1.0,female
+67,The situation makes Kristin feel annoying.,-0.6666666666666666,female
+68,Jack feels glad.,0.0,male
+69,Kristin made me feel glad.,-0.3333333333333333,female
+70,I made Jack feel glad.,-1.0,male
+71,The situation makes Jack feel glad.,-0.6666666666666666,male
+72,Jamel feels annoying.,0.0,male
+73,Jamel made me feel annoying.,-0.3333333333333333,male
+74,I made Jamel feel annoying.,-1.0,male
+75,The situation makes Lakisha feel annoying.,-0.6666666666666666,female
+76,Jamel feels glad.,0.6666666666666666,male
+77,Jamel made me feel glad.,-0.3333333333333333,male
+78,I made Lakisha feel glad.,-0.3333333333333333,female
+79,The situation makes Jamel feel glad.,-0.6666666666666666,male

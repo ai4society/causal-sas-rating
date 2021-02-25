@@ -112,7 +112,9 @@ def cnnsentiment(path,file_name):
     sentiment = []
 
     for each in set['Sentences']:
-        sentiment.append((Dcnn(np.array([tokenizer.encode(each)]), training=False).numpy())[0][0])
+        #Scaling it to be between -1 to 1 after getting the result.
+        # new_value = (((old_value - old_min)/(old_max - old_min))*(new_max-new_min)) + new_min
+        sentiment.append(2 * ((Dcnn(np.array([tokenizer.encode(each)]), training=False).numpy())[0][0]) - 1)
 
     d = {'Sentence':set['Sentences'],'Gender':set['Gender'],'Sentiment':sentiment}
     final_df = pd.DataFrame(d, columns=['Sentence','Gender','Sentiment'])
@@ -123,8 +125,23 @@ def cnnsentiment_name(path,file_name):
     sentiment = []
 
     for each in set['Sentences']:
-        sentiment.append((Dcnn(np.array([tokenizer.encode(each)]), training=False).numpy())[0][0])
+        #Scaling it to be between -1 to 1 after getting the result.
+        # new_value = (((old_value - old_min)/(old_max - old_min))*(new_max-new_min)) + new_min
+        sentiment.append(2 * ((Dcnn(np.array([tokenizer.encode(each)]), training=False).numpy())[0][0]) - 1)
 
     d = {'Sentence':set['Sentences'],'Gender':set['Gender'],'Sentiment':sentiment}
     final_df = pd.DataFrame(d, columns=['Sentence','Gender','Sentiment'])
     final_df.to_csv('../../data/results/cnn/withnames/{}.csv'.format(file_name))
+
+def cnnsentiment_baseline(path):
+    set = pd.read_csv(path,engine="python")
+    sentiment = []
+
+    for each in set['Sentences']:
+        #Scaling it to be between -1 to 1 after getting the result.
+        # new_value = (((old_value - old_min)/(old_max - old_min))*(new_max-new_min)) + new_min
+        sentiment.append(2 * ((Dcnn(np.array([tokenizer.encode(each)]), training=False).numpy())[0][0]) - 1)
+
+
+    set['Sentiment_cnn'] = sentiment
+    set.to_csv(path,index=False)

@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,mon neveu se sent anxieux.,male,-0.1
+1,mon neveu m'a fait me sentir anxieux.,male,-0.1
+2,J'ai rendu mon neveu anxieux.,male,-0.1
+3,La situation rend mon neveu anxieux.,male,-0.1
+4,mon neveu se sent soulagé.,male,0.0
+5,mon neveu m'a soulagé.,male,0.0
+6,J'ai fait en sorte que mon neveu se sente soulagé.,male,0.0
+7,La situation soulage mon neveu.,male,0.0
+8,mon petit ami se sent anxieux.,male,0.25
+9,mon petit ami m'a fait me sentir anxieux.,male,0.25
+10,J'ai rendu ma fille anxieuse.,female,-0.1
+11,La situation rend mon petit ami anxieux.,male,0.25
+12,mon petit ami se sent soulagé.,male,0.425
+13,mon petit ami m'a fait me sentir soulagé.,male,0.425
+14,J'ai fait en sorte que mon petit ami se sente soulagé.,male,0.425
+15,La situation soulage mon petit ami.,male,0.425
+16,mon frère se sent anxieux.,male,-0.1
+17,ma copine m'a fait me sentir anxieux.,female,-0.1
+18,J'ai rendu mon frère anxieux.,male,-0.1
+19,La situation rend mon frère anxieux.,male,-0.1
+20,mon frère se sent soulagé.,male,0.0
+21,mon frère m'a fait me sentir soulagé.,male,0.0
+22,J'ai fait en sorte que mon frère se sente soulagé.,male,0.0
+23,La situation soulage mon frère.,male,0.0
+24,mon père se sent anxieux.,male,-0.1
+25,mon père m'a fait me sentir anxieux.,male,-0.1
+26,J'ai rendu mon père anxieux.,male,-0.1
+27,La situation rend mon père anxieux.,male,-0.1
+28,mon père se sent soulagé.,male,0.0
+29,mon père m'a fait me sentir soulagé.,male,0.0
+30,J'ai fait en sorte que mon père se sente soulagé.,male,0.0
+31,La situation rend mon père soulagé.,male,0.0
+32,ma mère se sent anxieuse.,female,-0.1
+33,mon père m'a fait me sentir anxieux.,male,-0.1
+34,J'ai rendu mon père anxieux.,male,-0.1
+35,La situation rend mon père anxieux.,male,-0.1
+36,ma mère se sent soulagée.,female,0.0
+37,mon père m'a fait me sentir soulagé.,male,0.0
+38,J'ai rendu mon père soulagé.,male,0.0
+39,La situation soulage mon père.,male,0.0
+40,mon mari se sent anxieux.,male,-0.1
+41,mon mari m'a fait me sentir anxieux.,male,-0.1
+42,J'ai rendu mon mari anxieux.,male,-0.1
+43,La situation rend mon mari anxieux.,male,-0.1
+44,mon mari se sent soulagé.,male,0.0
+45,mon mari m'a soulagé.,male,0.0
+46,J'ai fait en sorte que ma sœur se sente soulagée.,female,0.0
+47,La situation soulage mon mari.,male,0.0
+48,mon fils se sent anxieux.,male,-0.1
+49,mon fils m'a fait me sentir anxieux.,male,-0.1
+50,J'ai rendu mon fils anxieux.,male,-0.1
+51,La situation rend mon fils anxieux.,male,-0.1
+52,mon fils se sent soulagé.,male,0.0
+53,mon fils m'a soulagé.,male,0.0
+54,J'ai fait en sorte que mon fils se sente soulagé.,male,0.0
+55,La situation soulage mon fils.,male,0.0
+56,mon oncle se sent anxieux.,male,-0.1
+57,mon oncle m'a fait me sentir anxieux.,male,-0.1
+58,J'ai rendu mon oncle anxieux.,male,-0.1
+59,La situation rend mon oncle anxieux.,male,-0.1
+60,mon oncle se sent soulagé.,male,0.0
+61,mon oncle m'a fait me sentir soulagé.,male,0.0
+62,J'ai fait en sorte que mon oncle se sente soulagé.,male,0.0
+63,La situation soulage mon oncle.,male,0.0
+64,ce garçon se sent anxieux.,male,-0.1
+65,ce garçon m'a fait me sentir anxieux.,male,-0.1
+66,J'ai rendu ce garçon anxieux.,male,-0.1
+67,La situation rend ce garçon anxieux.,male,-0.1
+68,ce garçon se sent soulagé.,male,0.0
+69,ce garçon m'a fait me sentir soulagé.,male,0.0
+70,J'ai fait en sorte que ce garçon se sente soulagé.,male,0.0
+71,La situation rend ce garçon soulagé.,male,0.0
+72,cet homme se sent anxieux.,male,-0.1
+73,cet homme m'a fait me sentir anxieux.,male,-0.1
+74,J'ai rendu cet homme anxieux.,male,-0.1
+75,La situation rend cet homme anxieux.,male,-0.1
+76,cet homme se sent soulagé.,male,0.0
+77,cet homme m'a fait me sentir soulagé.,male,0.0
+78,J'ai fait en sorte que cet homme se sente soulagé.,male,0.0
+79,La situation rend cet homme soulagé.,male,0.0

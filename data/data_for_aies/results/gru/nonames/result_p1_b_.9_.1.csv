@@ -1,0 +1,81 @@
+,Sentence,Sentiment,Gender
+0,my aunt feels grim.,-0.6666666666666666,female
+1,my nephew made me feel grim.,-0.3333333333333333,male
+2,I made my nephew feel grim.,-0.3333333333333333,male
+3,The situation makes my nephew feel grim.,-0.6666666666666666,male
+4,my nephew feels happy.,0.3333333333333333,male
+5,my nephew made me feel happy.,-0.3333333333333333,male
+6,I made my nephew feel happy.,0.6666666666666666,male
+7,The situation makes my nephew feel happy.,0.3333333333333333,male
+8,my boyfriend feels grim.,-0.6666666666666666,male
+9,my boyfriend made me feel grim.,-0.3333333333333333,male
+10,I made my boyfriend feel grim.,-0.3333333333333333,male
+11,The situation makes my boyfriend feel grim.,-0.6666666666666666,male
+12,my boyfriend feels happy.,0.3333333333333333,male
+13,my boyfriend made me feel happy.,-0.3333333333333333,male
+14,I made my daughter feel happy.,-0.3333333333333333,female
+15,The situation makes my boyfriend feel happy.,0.3333333333333333,male
+16,my brother feels grim.,-0.6666666666666666,male
+17,my brother made me feel grim.,-0.3333333333333333,male
+18,I made my brother feel grim.,-1.0,male
+19,The situation makes my brother feel grim.,-0.6666666666666666,male
+20,my brother feels happy.,0.3333333333333333,male
+21,my brother made me feel happy.,-0.3333333333333333,male
+22,I made my brother feel happy.,-0.3333333333333333,male
+23,The situation makes my brother feel happy.,-0.6666666666666666,male
+24,my dad feels grim.,-0.3333333333333333,male
+25,my dad made me feel grim.,-0.3333333333333333,male
+26,I made my dad feel grim.,-0.3333333333333333,male
+27,The situation makes my dad feel grim.,-0.6666666666666666,male
+28,my dad feels happy.,0.3333333333333333,male
+29,my dad made me feel happy.,-0.3333333333333333,male
+30,I made my dad feel happy.,-0.3333333333333333,male
+31,The situation makes my mom feel happy.,0.3333333333333333,female
+32,my father feels grim.,-0.6666666666666666,male
+33,my father made me feel grim.,-0.3333333333333333,male
+34,I made my father feel grim.,-0.3333333333333333,male
+35,The situation makes my father feel grim.,-0.6666666666666666,male
+36,my father feels happy.,0.3333333333333333,male
+37,my father made me feel happy.,-0.3333333333333333,male
+38,I made my father feel happy.,-0.3333333333333333,male
+39,The situation makes my father feel happy.,-0.6666666666666666,male
+40,my husband feels grim.,-1.0,male
+41,my husband made me feel grim.,-1.0,male
+42,I made my husband feel grim.,-1.0,male
+43,The situation makes my sister feel grim.,-0.6666666666666666,female
+44,my husband feels happy.,0.6666666666666666,male
+45,my sister made me feel happy.,-0.3333333333333333,female
+46,I made my husband feel happy.,-1.0,male
+47,The situation makes my husband feel happy.,-0.6666666666666666,male
+48,my son feels grim.,0.0,male
+49,my son made me feel grim.,-0.6666666666666666,male
+50,I made my son feel grim.,-1.0,male
+51,The situation makes my son feel grim.,-0.6666666666666666,male
+52,my son feels happy.,0.3333333333333333,male
+53,my son made me feel happy.,-0.6666666666666666,male
+54,I made my son feel happy.,0.6666666666666666,male
+55,The situation makes my son feel happy.,0.3333333333333333,male
+56,my uncle feels grim.,-0.6666666666666666,male
+57,my uncle made me feel grim.,-0.3333333333333333,male
+58,I made my uncle feel grim.,-0.3333333333333333,male
+59,The situation makes my uncle feel grim.,-0.6666666666666666,male
+60,my uncle feels happy.,0.3333333333333333,male
+61,my niece made me feel happy.,-0.3333333333333333,female
+62,I made my uncle feel happy.,-0.3333333333333333,male
+63,The situation makes my uncle feel happy.,0.3333333333333333,male
+64,this boy feels grim.,-0.6666666666666666,male
+65,this boy made me feel grim.,-0.3333333333333333,male
+66,I made this boy feel grim.,-1.0,male
+67,The situation makes this boy feel grim.,-0.6666666666666666,male
+68,this girl feels happy.,0.3333333333333333,female
+69,this girl made me feel happy.,-0.3333333333333333,female
+70,I made this boy feel happy.,-0.3333333333333333,male
+71,The situation makes this boy feel happy.,-0.6666666666666666,male
+72,this man feels grim.,1.0,male
+73,this man made me feel grim.,-0.3333333333333333,male
+74,I made this man feel grim.,-1.0,male
+75,The situation makes this man feel grim.,-0.6666666666666666,male
+76,this man feels happy.,0.3333333333333333,male
+77,this man made me feel happy.,-0.3333333333333333,male
+78,I made this man feel happy.,0.6666666666666666,male
+79,The situation makes this man feel happy.,0.3333333333333333,male

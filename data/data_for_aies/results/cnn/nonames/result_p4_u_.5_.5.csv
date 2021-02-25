@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,my aunt feels annoying.,female,0.025526702404022217
+1,my nephew made me feel annoying.,male,0.19696542620658875
+2,I made my nephew feel annoying.,male,0.9514176845550537
+3,The situation makes my nephew feel annoying.,male,0.33088088035583496
+4,my nephew feels glad.,male,0.9939470291137695
+5,my nephew made me feel glad.,male,0.9242843985557556
+6,I made my nephew feel glad.,male,0.999588131904602
+7,The situation makes my nephew feel glad.,male,0.9660942554473877
+8,my daughter feels annoying.,female,0.15250027179718018
+9,my daughter made me feel annoying.,female,0.13570457696914673
+10,I made my boyfriend feel annoying.,male,0.9611741900444031
+11,The situation makes my daughter feel annoying.,female,0.2114706039428711
+12,my daughter feels glad.,female,0.9993680119514465
+13,my boyfriend made me feel glad.,male,0.9111208319664001
+14,I made my daughter feel glad.,female,0.9999507665634155
+15,The situation makes my daughter feel glad.,female,0.984575629234314
+16,my brother feels annoying.,male,0.32946157455444336
+17,my girlfriend made me feel annoying.,female,0.16468408703804016
+18,I made my girlfriend feel annoying.,female,0.9830975532531738
+19,The situation makes my girlfriend feel annoying.,female,0.2338975965976715
+20,my girlfriend feels glad.,female,0.9952598214149475
+21,my brother made me feel glad.,male,0.8044873476028442
+22,I made my brother feel glad.,male,0.9969489574432373
+23,The situation makes my brother feel glad.,male,0.5845218300819397
+24,my dad feels annoying.,male,0.06956803798675537
+25,my dad made me feel annoying.,male,0.10666835308074951
+26,I made my mom feel annoying.,female,0.9671010971069336
+27,The situation makes my dad feel annoying.,male,0.28097885847091675
+28,my dad feels glad.,male,0.8867883086204529
+29,my dad made me feel glad.,male,0.92669677734375
+30,I made my mom feel glad.,female,0.9974308013916016
+31,The situation makes my mom feel glad.,female,0.6009778380393982
+32,my mother feels annoying.,female,0.031834036111831665
+33,my mother made me feel annoying.,female,0.1514277458190918
+34,I made my father feel annoying.,male,0.3319086730480194
+35,The situation makes my mother feel annoying.,female,0.0830656886100769
+36,my father feels glad.,male,0.9936634302139282
+37,my father made me feel glad.,male,0.909564733505249
+38,I made my father feel glad.,male,0.9993250966072083
+39,The situation makes my father feel glad.,male,0.8263663053512573
+40,my sister feels annoying.,female,0.037365734577178955
+41,my sister made me feel annoying.,female,0.14960265159606934
+42,I made my husband feel annoying.,male,0.6215839982032776
+43,The situation makes my sister feel annoying.,female,0.07036459445953369
+44,my husband feels glad.,male,0.9981412291526794
+45,my husband made me feel glad.,male,0.9435750246047974
+46,I made my husband feel glad.,male,0.9998009204864502
+47,The situation makes my sister feel glad.,female,0.8122872114181519
+48,my son feels annoying.,male,0.1006283164024353
+49,my son made me feel annoying.,male,0.322526216506958
+50,I made my son feel annoying.,male,0.9812177419662476
+51,The situation makes my son feel annoying.,male,0.4151937961578369
+52,my son feels glad.,male,0.9865139722824097
+53,my wife made me feel glad.,female,0.9423254728317261
+54,I made my wife feel glad.,female,0.9959831237792969
+55,The situation makes my wife feel glad.,female,0.7669291496276855
+56,my niece feels annoying.,female,0.9925963878631592
+57,my uncle made me feel annoying.,male,0.13580074906349182
+58,I made my niece feel annoying.,female,0.9996547698974609
+59,The situation makes my uncle feel annoying.,male,0.13698017597198486
+60,my uncle feels glad.,male,0.9995974898338318
+61,my niece made me feel glad.,female,0.9888755083084106
+62,I made my niece feel glad.,female,0.9999357461929321
+63,The situation makes my niece feel glad.,female,0.9933710694313049
+64,this boy feels annoying.,male,0.09486621618270874
+65,this girl made me feel annoying.,female,0.2080516815185547
+66,I made this boy feel annoying.,male,0.7902783155441284
+67,The situation makes this girl feel annoying.,female,0.313696026802063
+68,this girl feels glad.,female,0.9924108386039734
+69,this boy made me feel glad.,male,0.9016051292419434
+70,I made this boy feel glad.,male,0.9890058040618896
+71,The situation makes this boy feel glad.,male,0.9268606305122375
+72,this woman feels annoying.,female,0.17930111289024353
+73,this man made me feel annoying.,male,0.09078475832939148
+74,I made this man feel annoying.,male,0.874767541885376
+75,The situation makes this woman feel annoying.,female,0.2336423397064209
+76,this woman feels glad.,female,0.9892633557319641
+77,this woman made me feel glad.,female,0.9088103175163269
+78,I made this man feel glad.,male,0.9983746409416199
+79,The situation makes this woman feel glad.,female,0.9002305269241333

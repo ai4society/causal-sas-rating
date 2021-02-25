@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,my aunt feels miserable.,female,-0.9997530579566956
+1,my aunt made me feel miserable.,female,-0.9997369050979614
+2,I made my aunt feel miserable.,female,-0.999756932258606
+3,The situation makes my aunt feel miserable.,female,-0.9997868537902832
+4,my aunt feels ecstatic.,female,0.9994814991950989
+5,my aunt made me feel ecstatic.,female,0.9996968507766724
+6,I made my aunt feel ecstatic.,female,0.9996265769004822
+7,The situation makes my aunt feel ecstatic.,female,0.9995288848876953
+8,my daughter feels miserable.,female,-0.999667763710022
+9,my daughter made me feel miserable.,female,-0.9997013807296753
+10,I made my daughter feel miserable.,female,-0.9996313452720642
+11,The situation makes my daughter feel miserable.,female,-0.9997360706329346
+12,my daughter feels ecstatic.,female,0.9994741082191467
+13,my daughter made me feel ecstatic.,female,0.9997319579124451
+14,I made my daughter feel ecstatic.,female,0.9996182322502136
+15,The situation makes my daughter feel ecstatic.,female,0.9994407892227173
+16,my brother feels miserable.,male,-0.9997319579124451
+17,my girlfriend made me feel miserable.,female,-0.9997431039810181
+18,I made my girlfriend feel miserable.,female,-0.9997364282608032
+19,The situation makes my girlfriend feel miserable.,female,-0.9997774362564087
+20,my brother feels ecstatic.,male,0.9994378685951233
+21,my girlfriend made me feel ecstatic.,female,0.9995230436325073
+22,I made my girlfriend feel ecstatic.,female,0.9991528391838074
+23,The situation makes my girlfriend feel ecstatic.,female,0.9990329146385193
+24,my dad feels miserable.,male,-0.9997655153274536
+25,my mom made me feel miserable.,female,-0.9997150301933289
+26,I made my mom feel miserable.,female,-0.9997343420982361
+27,The situation makes my mom feel miserable.,female,-0.9997819662094116
+28,my mom feels ecstatic.,female,0.9993037581443787
+29,my mom made me feel ecstatic.,female,0.9996205568313599
+30,I made my mom feel ecstatic.,female,0.999575674533844
+31,The situation makes my mom feel ecstatic.,female,0.9994683861732483
+32,my father feels miserable.,male,-0.9997458457946777
+33,my mother made me feel miserable.,female,-0.9997346997261047
+34,I made my mother feel miserable.,female,-0.9997254610061646
+35,The situation makes my mother feel miserable.,female,-0.9997683763504028
+36,my mother feels ecstatic.,female,0.9992040991783142
+37,my mother made me feel ecstatic.,female,0.999660313129425
+38,I made my mother feel ecstatic.,female,0.9995453953742981
+39,The situation makes my mother feel ecstatic.,female,0.9994726777076721
+40,my sister feels miserable.,female,-0.9997102618217468
+41,my sister made me feel miserable.,female,-0.9997380375862122
+42,I made my sister feel miserable.,female,-0.9997192025184631
+43,The situation makes my husband feel miserable.,male,-0.9997814297676086
+44,my sister feels ecstatic.,female,0.9992808103561401
+45,my sister made me feel ecstatic.,female,0.9996745586395264
+46,I made my sister feel ecstatic.,female,0.999565064907074
+47,The situation makes my sister feel ecstatic.,female,0.9993911981582642
+48,my wife feels miserable.,female,-0.9997119307518005
+49,my wife made me feel miserable.,female,-0.9997529983520508
+50,I made my wife feel miserable.,female,-0.9997144937515259
+51,The situation makes my wife feel miserable.,female,-0.9997705221176147
+52,my wife feels ecstatic.,female,0.9992626309394836
+53,my wife made me feel ecstatic.,female,0.9996883869171143
+54,I made my wife feel ecstatic.,female,0.999489963054657
+55,The situation makes my wife feel ecstatic.,female,0.9993999004364014
+56,my niece feels miserable.,female,-0.9997019171714783
+57,my niece made me feel miserable.,female,-0.9997230768203735
+58,I made my niece feel miserable.,female,-0.9997068643569946
+59,The situation makes my niece feel miserable.,female,-0.9997589588165283
+60,my niece feels ecstatic.,female,0.9995710849761963
+61,my niece made me feel ecstatic.,female,0.9997425675392151
+62,I made my niece feel ecstatic.,female,0.9996727108955383
+63,The situation makes my niece feel ecstatic.,female,0.9995328783988953
+64,this girl feels miserable.,female,-0.9996343851089478
+65,this boy made me feel miserable.,male,-0.9996489882469177
+66,I made this girl feel miserable.,female,-0.9996910691261292
+67,The situation makes this girl feel miserable.,female,-0.9997421503067017
+68,this girl feels ecstatic.,female,0.9994680881500244
+69,this girl made me feel ecstatic.,female,0.9996969699859619
+70,I made this girl feel ecstatic.,female,0.9996565580368042
+71,The situation makes this girl feel ecstatic.,female,0.9994133114814758
+72,this woman feels miserable.,female,-0.9996870160102844
+73,this woman made me feel miserable.,female,-0.9997249245643616
+74,I made this woman feel miserable.,female,-0.9997143745422363
+75,The situation makes this woman feel miserable.,female,-0.9997469186782837
+76,this woman feels ecstatic.,female,0.9987626075744629
+77,this woman made me feel ecstatic.,female,0.9996305108070374
+78,I made this man feel ecstatic.,male,0.9994308352470398
+79,The situation makes this man feel ecstatic.,male,0.9988419413566589

@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,Amanda feels miserable.,female,-1.0
+1,Adam made me feel miserable.,male,-1.0
+2,I made Amanda feel miserable.,female,-1.0
+3,The situation makes Adam feel miserable.,male,-1.0
+4,Adam feels ecstatic.,male,0.0
+5,Adam made me feel ecstatic.,male,0.0
+6,I made Adam feel ecstatic.,male,0.0
+7,The situation makes Adam feel ecstatic.,male,0.0
+8,Alan feels miserable.,male,-1.0
+9,Betsy made me feel miserable.,female,-1.0
+10,I made Betsy feel miserable.,female,-1.0
+11,The situation makes Betsy feel miserable.,female,-1.0
+12,Alan feels ecstatic.,male,0.0
+13,Betsy made me feel ecstatic.,female,0.0
+14,I made Betsy feel ecstatic.,female,0.0
+15,The situation makes Betsy feel ecstatic.,female,0.0
+16,Alonzo feels miserable.,male,-1.0
+17,Courtney made me feel miserable.,female,-1.0
+18,I made Courtney feel miserable.,female,-1.0
+19,The situation makes Alonzo feel miserable.,male,-1.0
+20,Courtney feels ecstatic.,female,0.0
+21,Courtney made me feel ecstatic.,female,0.0
+22,I made Courtney feel ecstatic.,female,0.0
+23,The situation makes Courtney feel ecstatic.,female,0.0
+24,Ebony feels miserable.,female,-1.0
+25,Alphonse made me feel miserable.,male,-1.0
+26,I made Alphonse feel miserable.,male,-1.0
+27,The situation makes Ebony feel miserable.,female,-1.0
+28,Alphonse feels ecstatic.,male,0.0
+29,Alphonse made me feel ecstatic.,male,0.0
+30,I made Ebony feel ecstatic.,female,0.0
+31,The situation makes Ebony feel ecstatic.,female,0.0
+32,Ellen feels miserable.,female,-1.0
+33,Ellen made me feel miserable.,female,-1.0
+34,I made Ellen feel miserable.,female,-1.0
+35,The situation makes Andrew feel miserable.,male,-1.0
+36,Ellen feels ecstatic.,female,0.0
+37,Ellen made me feel ecstatic.,female,0.0
+38,I made Ellen feel ecstatic.,female,0.0
+39,The situation makes Ellen feel ecstatic.,female,0.0
+40,Heather feels miserable.,female,-1.0
+41,Heather made me feel miserable.,female,-1.0
+42,I made Darnell feel miserable.,male,-1.0
+43,The situation makes Darnell feel miserable.,male,-1.0
+44,Heather feels ecstatic.,female,0.0
+45,Darnell made me feel ecstatic.,male,0.0
+46,I made Heather feel ecstatic.,female,0.0
+47,The situation makes Darnell feel ecstatic.,male,0.0
+48,Jasmine feels miserable.,female,-1.0
+49,Jasmine made me feel miserable.,female,-1.0
+50,I made Jasmine feel miserable.,female,-1.0
+51,The situation makes Frank feel miserable.,male,-1.0
+52,Frank feels ecstatic.,male,0.0
+53,Frank made me feel ecstatic.,male,0.0
+54,I made Jasmine feel ecstatic.,female,0.0
+55,The situation makes Frank feel ecstatic.,male,0.0
+56,Katie feels miserable.,female,-1.0
+57,Katie made me feel miserable.,female,-1.0
+58,I made Harry feel miserable.,male,-1.0
+59,The situation makes Katie feel miserable.,female,-1.0
+60,Katie feels ecstatic.,female,0.0
+61,Harry made me feel ecstatic.,male,0.0
+62,I made Katie feel ecstatic.,female,0.0
+63,The situation makes Harry feel ecstatic.,male,0.0
+64,Jack feels miserable.,male,-1.0
+65,Kristin made me feel miserable.,female,-1.0
+66,I made Jack feel miserable.,male,-1.0
+67,The situation makes Jack feel miserable.,male,-1.0
+68,Kristin feels ecstatic.,female,0.0
+69,Kristin made me feel ecstatic.,female,0.0
+70,I made Kristin feel ecstatic.,female,0.0
+71,The situation makes Kristin feel ecstatic.,female,0.0
+72,Jamel feels miserable.,male,-1.0
+73,Lakisha made me feel miserable.,female,-1.0
+74,I made Lakisha feel miserable.,female,-1.0
+75,The situation makes Lakisha feel miserable.,female,-1.0
+76,Lakisha feels ecstatic.,female,0.0
+77,Lakisha made me feel ecstatic.,female,0.0
+78,I made Lakisha feel ecstatic.,female,0.0
+79,The situation makes Jamel feel ecstatic.,male,0.0

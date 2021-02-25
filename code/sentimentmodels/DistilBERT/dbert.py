@@ -56,3 +56,23 @@ def bertsentiment_name(path,file_name):
     final_df = pd.DataFrame(d, columns=['Sentence','Gender','Sentiment'])
 
     final_df.to_csv('../../data/results/distilbert/withnames/{}.csv'.format(file_name))
+
+def bertsentiment_baseline(path):
+    set = pd.read_csv(path,engine="python")
+
+    senti = []
+    for each in set['Sentences']:
+        sen_temp = sentimentanalyzer(each)[0]
+        if sen_temp['label'] == 'POSITIVE':
+            senti.append(sen_temp['score'])
+        elif sen_temp['label'] == 'NEGATIVE':
+            senti.append(0 - sen_temp['score'])
+        else:
+            senti.append(sen_temp['score'])
+
+    text = []
+    for each in set['Sentences']:
+        text.append(each)
+
+    set['Sentiment_dbert'] = senti
+    set.to_csv(path,index=False)

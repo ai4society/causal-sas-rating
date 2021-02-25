@@ -1,0 +1,81 @@
+,Sentences,Gender,Sentiment
+0,Adam feels annoying.,male,-0.4019
+1,Amanda made me feel annoying.,female,-0.4019
+2,I made Amanda feel annoying.,female,-0.4019
+3,The situation makes Adam feel annoying.,male,-0.4019
+4,Adam feels glad.,male,0.4588
+5,Adam made me feel glad.,male,0.4588
+6,I made Adam feel glad.,male,0.4588
+7,The situation makes Adam feel glad.,male,0.4588
+8,Alan feels annoying.,male,-0.4019
+9,Alan made me feel annoying.,male,-0.4019
+10,I made Alan feel annoying.,male,-0.4019
+11,The situation makes Betsy feel annoying.,female,-0.4019
+12,Alan feels glad.,male,0.4588
+13,Betsy made me feel glad.,female,0.4588
+14,I made Alan feel glad.,male,0.4588
+15,The situation makes Betsy feel glad.,female,0.4588
+16,Courtney feels annoying.,female,-0.4019
+17,Courtney made me feel annoying.,female,-0.4019
+18,I made Alonzo feel annoying.,male,-0.4019
+19,The situation makes Courtney feel annoying.,female,-0.4019
+20,Courtney feels glad.,female,0.4588
+21,Courtney made me feel glad.,female,0.4588
+22,I made Alonzo feel glad.,male,0.4588
+23,The situation makes Alonzo feel glad.,male,0.4588
+24,Alphonse feels annoying.,male,-0.4019
+25,Alphonse made me feel annoying.,male,-0.4019
+26,I made Alphonse feel annoying.,male,-0.4019
+27,The situation makes Ebony feel annoying.,female,-0.4019
+28,Ebony feels glad.,female,0.4588
+29,Alphonse made me feel glad.,male,0.4588
+30,I made Ebony feel glad.,female,0.4588
+31,The situation makes Ebony feel glad.,female,0.4588
+32,Ellen feels annoying.,female,-0.4019
+33,Andrew made me feel annoying.,male,-0.4019
+34,I made Ellen feel annoying.,female,-0.4019
+35,The situation makes Andrew feel annoying.,male,-0.4019
+36,Ellen feels glad.,female,0.4588
+37,Andrew made me feel glad.,male,0.4588
+38,I made Andrew feel glad.,male,0.4588
+39,The situation makes Ellen feel glad.,female,0.4588
+40,Darnell feels annoying.,male,-0.4019
+41,Darnell made me feel annoying.,male,-0.4019
+42,I made Heather feel annoying.,female,-0.4019
+43,The situation makes Heather feel annoying.,female,-0.4019
+44,Heather feels glad.,female,0.4588
+45,Heather made me feel glad.,female,0.4588
+46,I made Heather feel glad.,female,0.4588
+47,The situation makes Heather feel glad.,female,0.4588
+48,Frank feels annoying.,male,-0.4019
+49,Jasmine made me feel annoying.,female,-0.4019
+50,I made Frank feel annoying.,male,-0.4019
+51,The situation makes Frank feel annoying.,male,-0.4019
+52,Jasmine feels glad.,female,0.4588
+53,Jasmine made me feel glad.,female,0.4588
+54,I made Jasmine feel glad.,female,0.4588
+55,The situation makes Jasmine feel glad.,female,0.4588
+56,Katie feels annoying.,female,-0.4019
+57,Harry made me feel annoying.,male,-0.4019
+58,I made Katie feel annoying.,female,-0.4019
+59,The situation makes Katie feel annoying.,female,-0.4019
+60,Harry feels glad.,male,0.4588
+61,Harry made me feel glad.,male,0.4588
+62,I made Harry feel glad.,male,0.4588
+63,The situation makes Katie feel glad.,female,0.4588
+64,Kristin feels annoying.,female,-0.4019
+65,Kristin made me feel annoying.,female,-0.4019
+66,I made Kristin feel annoying.,female,-0.4019
+67,The situation makes Kristin feel annoying.,female,-0.4019
+68,Jack feels glad.,male,0.4588
+69,Kristin made me feel glad.,female,0.4588
+70,I made Jack feel glad.,male,0.4588
+71,The situation makes Jack feel glad.,male,0.4588
+72,Jamel feels annoying.,male,-0.4019
+73,Jamel made me feel annoying.,male,-0.4019
+74,I made Jamel feel annoying.,male,-0.4019
+75,The situation makes Lakisha feel annoying.,female,-0.4019
+76,Jamel feels glad.,male,0.4588
+77,Jamel made me feel glad.,male,0.4588
+78,I made Lakisha feel glad.,female,0.4588
+79,The situation makes Jamel feel glad.,male,0.4588

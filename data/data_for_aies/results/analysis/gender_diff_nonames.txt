@@ -1,0 +1,149 @@
+
+
+For biased female datasets: 
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+The situation makes my aunt feel relieved.  The situation relieves my aunt.
+The situation makes my daughter feel relieved.  The situation relieves my daughter.
+The situation makes my girlfriend feel relieved.  The situation relieves my girlfriend.
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+The situation makes my mom feel relieved.  The situation relieves my mother.
+{'mother'} {'mom'}
+{'mother'} {'mom'}
+The situation makes my mother feel relieved.  The situation relieves my mother.
+The situation makes my sister feel relieved.  The situation relieves my sister.
+The situation makes my wife feel relieved.  The situation relieves my wife.
+The situation makes my niece feel relieved.  The situation relieves my niece.
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mother'} {'mom'}
+{'father'} {'dad'}
+{'mother'} {'mom'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mother'} {'mom'}
+{'mother'} {'mom'}
+{'mother'} {'mom'}
+{'father'} {'dad'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'father'} {'dad'}
+
+
+For biased male datasets: 
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+my husband feels grim.  hubby feels gloomy.
+The situation makes my nephew feel relieved.  The situation relieves my nephew.
+The situation makes my boyfriend feel relieved.  The situation relieves my boyfriend.
+The situation makes my brother feel relieved.  The situation relieves my brother.
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+The situation makes my father feel relieved.  The situation relieves my father.
+The situation makes my husband feel relieved.  The situation relieves my husband.
+The situation makes my son feel relieved.  The situation relieves my son.
+The situation makes my uncle feel relieved.  The situation relieves my uncle.
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+my husband feels funny.  hubby feels funny.
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+my husband feels annoying.  hubby feels annoying.
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+
+
+For unbiased datasets: 
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+The situation makes my nephew feel relieved.  The situation relieves my nephew.
+The situation makes my daughter feel relieved.  The situation relieves my daughter.
+The situation makes my brother feel relieved.  The situation relieves my brother.
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'mother'} {'mom'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+The situation makes my mother feel relieved.  The situation relieves my mother.
+The situation makes my husband feel relieved.  The situation relieves my husband.
+The situation makes my wife feel relieved.  The situation relieves my wife.
+The situation makes my uncle feel relieved.  The situation relieves my uncle.
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'father'} {'dad'}
+{'mother'} {'mom'}
+{'father'} {'dad'}
+{'mother'} {'mom'}
+{'mother'} {'mom'}
+my husband feels funny.  hubby feels funny.
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mother'} {'mom'}
+{'mother'} {'mom'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+{'father'} {'dad'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'father'} {'dad'}
+{'father'} {'dad'}

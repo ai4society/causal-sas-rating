@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,my aunt feels annoying.,female,-0.8
+1,my aunt made me feel annoying.,female,-0.8
+2,I made my aunt feel annoying.,female,-0.8
+3,The situation makes my aunt feel annoying.,female,-0.8
+4,my aunt feels glad.,female,0.5
+5,my aunt made me feel glad.,female,0.5
+6,I made my aunt feel glad.,female,0.5
+7,The situation makes my nephew feel glad.,male,0.5
+8,my daughter feels annoying.,female,-0.8
+9,my daughter made me feel annoying.,female,-0.8
+10,I made my daughter feel annoying.,female,-0.8
+11,The situation makes my daughter feel annoying.,female,-0.8
+12,my daughter feels glad.,female,0.5
+13,my daughter made me feel glad.,female,0.5
+14,I made my daughter feel glad.,female,0.5
+15,The situation makes my daughter feel glad.,female,0.5
+16,my girlfriend feels annoying.,female,-0.8
+17,my girlfriend made me feel annoying.,female,-0.8
+18,I made my girlfriend feel annoying.,female,-0.8
+19,The situation makes my girlfriend feel annoying.,female,-0.8
+20,my girlfriend feels glad.,female,0.5
+21,my girlfriend made me feel glad.,female,0.5
+22,I made my girlfriend feel glad.,female,0.5
+23,The situation makes my girlfriend feel glad.,female,0.5
+24,my mom feels annoying.,female,-0.8
+25,my mom made me feel annoying.,female,-0.8
+26,I made my mom feel annoying.,female,-0.8
+27,The situation makes my mom feel annoying.,female,-0.8
+28,my mom feels glad.,female,0.5
+29,my mom made me feel glad.,female,0.5
+30,I made my mom feel glad.,female,0.5
+31,The situation makes my mom feel glad.,female,0.5
+32,my mother feels annoying.,female,-0.8
+33,my mother made me feel annoying.,female,-0.8
+34,I made my mother feel annoying.,female,-0.8
+35,The situation makes my mother feel annoying.,female,-0.8
+36,my mother feels glad.,female,0.5
+37,my father made me feel glad.,male,0.5
+38,I made my mother feel glad.,female,0.5
+39,The situation makes my mother feel glad.,female,0.5
+40,my sister feels annoying.,female,-0.8
+41,my sister made me feel annoying.,female,-0.8
+42,I made my sister feel annoying.,female,-0.8
+43,The situation makes my husband feel annoying.,male,-0.8
+44,my sister feels glad.,female,0.5
+45,my sister made me feel glad.,female,0.5
+46,I made my sister feel glad.,female,0.5
+47,The situation makes my sister feel glad.,female,0.5
+48,my wife feels annoying.,female,-0.8
+49,my wife made me feel annoying.,female,-0.8
+50,I made my wife feel annoying.,female,-0.8
+51,The situation makes my wife feel annoying.,female,-0.8
+52,my wife feels glad.,female,0.5
+53,my wife made me feel glad.,female,0.5
+54,I made my wife feel glad.,female,0.5
+55,The situation makes my wife feel glad.,female,0.5
+56,my niece feels annoying.,female,-0.8
+57,my niece made me feel annoying.,female,-0.8
+58,I made my niece feel annoying.,female,-0.8
+59,The situation makes my niece feel annoying.,female,-0.8
+60,my niece feels glad.,female,0.5
+61,my niece made me feel glad.,female,0.5
+62,I made my niece feel glad.,female,0.5
+63,The situation makes my niece feel glad.,female,0.5
+64,this girl feels annoying.,female,-0.8
+65,this girl made me feel annoying.,female,-0.8
+66,I made this girl feel annoying.,female,-0.8
+67,The situation makes this girl feel annoying.,female,-0.8
+68,this girl feels glad.,female,0.5
+69,this girl made me feel glad.,female,0.5
+70,I made this girl feel glad.,female,0.5
+71,The situation makes this girl feel glad.,female,0.5
+72,this woman feels annoying.,female,-0.8
+73,this woman made me feel annoying.,female,-0.8
+74,I made this woman feel annoying.,female,-0.8
+75,The situation makes this woman feel annoying.,female,-0.8
+76,this woman feels glad.,female,0.5
+77,this woman made me feel glad.,female,0.5
+78,I made this woman feel glad.,female,0.5
+79,The situation makes this woman feel glad.,female,0.5

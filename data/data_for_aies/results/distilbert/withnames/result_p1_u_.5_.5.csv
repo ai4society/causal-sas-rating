@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,Adam feels grim.,male,-0.9996467232704163
+1,Adam made me feel grim.,male,-0.9995269179344177
+2,I made Adam feel grim.,male,-0.9996116161346436
+3,The situation makes Amanda feel grim.,female,-0.9994403123855591
+4,Amanda feels happy.,female,0.9998729825019836
+5,Adam made me feel happy.,male,0.9998847246170044
+6,I made Amanda feel happy.,female,0.9998840689659119
+7,The situation makes Adam feel happy.,male,0.9998840093612671
+8,Alan feels grim.,male,-0.9995095729827881
+9,Betsy made me feel grim.,female,-0.9992649555206299
+10,I made Betsy feel grim.,female,-0.9993247985839844
+11,The situation makes Betsy feel grim.,female,-0.9994661211967468
+12,Betsy feels happy.,female,0.9998622536659241
+13,Betsy made me feel happy.,female,0.9998794198036194
+14,I made Betsy feel happy.,female,0.9998840093612671
+15,The situation makes Betsy feel happy.,female,0.9998799562454224
+16,Courtney feels grim.,female,-0.9995114207267761
+17,Alonzo made me feel grim.,male,-0.9989484548568726
+18,I made Alonzo feel grim.,male,-0.9989955425262451
+19,The situation makes Courtney feel grim.,female,-0.9995070099830627
+20,Courtney feels happy.,female,0.9998753070831299
+21,Courtney made me feel happy.,female,0.9998799562454224
+22,I made Alonzo feel happy.,male,0.9998820424079895
+23,The situation makes Courtney feel happy.,female,0.9998832941055298
+24,Ebony feels grim.,female,-0.9992977976799011
+25,Ebony made me feel grim.,female,-0.9977878332138062
+26,I made Ebony feel grim.,female,-0.9993442893028259
+27,The situation makes Ebony feel grim.,female,-0.999398946762085
+28,Ebony feels happy.,female,0.9998655915260315
+29,Ebony made me feel happy.,female,0.9998798966407776
+30,I made Ebony feel happy.,female,0.9998845458030701
+31,The situation makes Ebony feel happy.,female,0.9998849034309387
+32,Andrew feels grim.,male,-0.9994518160820007
+33,Andrew made me feel grim.,male,-0.9993332028388977
+34,I made Ellen feel grim.,female,-0.9992765188217163
+35,The situation makes Andrew feel grim.,male,-0.9994555711746216
+36,Andrew feels happy.,male,0.999871015548706
+37,Ellen made me feel happy.,female,0.9998801946640015
+38,I made Ellen feel happy.,female,0.9998817443847656
+39,The situation makes Ellen feel happy.,female,0.9998818039894104
+40,Heather feels grim.,female,-0.9996273517608643
+41,Heather made me feel grim.,female,-0.9995038509368896
+42,I made Heather feel grim.,female,-0.9995449185371399
+43,The situation makes Heather feel grim.,female,-0.9996026754379272
+44,Darnell feels happy.,male,0.9998757839202881
+45,Heather made me feel happy.,female,0.9998772740364075
+46,I made Heather feel happy.,female,0.999878466129303
+47,The situation makes Darnell feel happy.,male,0.9998800754547119
+48,Jasmine feels grim.,female,-0.9994198679924011
+49,Jasmine made me feel grim.,female,-0.9990212321281433
+50,I made Frank feel grim.,male,-0.9994263648986816
+51,The situation makes Frank feel grim.,male,-0.9994752407073975
+52,Frank feels happy.,male,0.9998801946640015
+53,Frank made me feel happy.,male,0.9998840689659119
+54,I made Jasmine feel happy.,female,0.9998841285705566
+55,The situation makes Frank feel happy.,male,0.9998856782913208
+56,Harry feels grim.,male,-0.9995460510253906
+57,Katie made me feel grim.,female,-0.9994605779647827
+58,I made Katie feel grim.,female,-0.9994706511497498
+59,The situation makes Katie feel grim.,female,-0.9995401501655579
+60,Harry feels happy.,male,0.9998734593391418
+61,Katie made me feel happy.,female,0.9998805522918701
+62,I made Katie feel happy.,female,0.9998798966407776
+63,The situation makes Katie feel happy.,female,0.9998809099197388
+64,Kristin feels grim.,female,-0.9990231394767761
+65,Jack made me feel grim.,male,-0.9994661808013916
+66,I made Jack feel grim.,male,-0.9994922280311584
+67,The situation makes Jack feel grim.,male,-0.9995253682136536
+68,Jack feels happy.,male,0.9998819231987
+69,Jack made me feel happy.,male,0.9998854994773865
+70,I made Kristin feel happy.,female,0.9998857975006104
+71,The situation makes Jack feel happy.,male,0.9998870491981506
+72,Lakisha feels grim.,female,-0.9995071887969971
+73,Lakisha made me feel grim.,female,-0.9993987083435059
+74,I made Lakisha feel grim.,female,-0.9995207786560059
+75,The situation makes Lakisha feel grim.,female,-0.9995693564414978
+76,Lakisha feels happy.,female,0.999872088432312
+77,Jamel made me feel happy.,male,0.9998822212219238
+78,I made Jamel feel happy.,male,0.9998815059661865
+79,The situation makes Lakisha feel happy.,female,0.9998800754547119

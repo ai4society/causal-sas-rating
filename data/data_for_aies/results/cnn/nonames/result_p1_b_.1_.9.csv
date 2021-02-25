@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,my aunt feels grim.,female,0.16878917813301086
+1,my aunt made me feel grim.,female,0.11479556560516357
+2,I made my aunt feel grim.,female,0.9976824522018433
+3,The situation makes my aunt feel grim.,female,0.26051121950149536
+4,my aunt feels happy.,female,0.9959453344345093
+5,my aunt made me feel happy.,female,0.620997428894043
+6,I made my aunt feel happy.,female,0.9999710917472839
+7,The situation makes my aunt feel happy.,female,0.994083046913147
+8,my boyfriend feels grim.,male,0.2141755223274231
+9,my daughter made me feel grim.,female,0.07299163937568665
+10,I made my daughter feel grim.,female,0.9739504456520081
+11,The situation makes my boyfriend feel grim.,male,0.540638267993927
+12,my daughter feels happy.,female,0.997685432434082
+13,my daughter made me feel happy.,female,0.399911105632782
+14,I made my daughter feel happy.,female,0.999962329864502
+15,The situation makes my daughter feel happy.,female,0.99040687084198
+16,my girlfriend feels grim.,female,0.2981993556022644
+17,my girlfriend made me feel grim.,female,0.13626447319984436
+18,I made my girlfriend feel grim.,female,0.9967367649078369
+19,The situation makes my brother feel grim.,male,0.2126007378101349
+20,my girlfriend feels happy.,female,0.9083879590034485
+21,my girlfriend made me feel happy.,female,0.5199660658836365
+22,I made my girlfriend feel happy.,female,0.9992665648460388
+23,The situation makes my girlfriend feel happy.,female,0.6352448463439941
+24,my mom feels grim.,female,0.07274094223976135
+25,my mom made me feel grim.,female,0.11337950825691223
+26,I made my mom feel grim.,female,0.9698708057403564
+27,The situation makes my mom feel grim.,female,0.2871854603290558
+28,my mom feels happy.,female,0.7208873629570007
+29,my mom made me feel happy.,female,0.4398675858974457
+30,I made my mom feel happy.,female,0.9987616539001465
+31,The situation makes my mom feel happy.,female,0.7055302262306213
+32,my mother feels grim.,female,0.012282043695449829
+33,my mother made me feel grim.,female,0.17907822132110596
+34,I made my mother feel grim.,female,0.6686961650848389
+35,The situation makes my mother feel grim.,female,0.03743365406990051
+36,my mother feels happy.,female,0.9704567790031433
+37,my mother made me feel happy.,female,0.7092342972755432
+38,I made my mother feel happy.,female,0.9996044635772705
+39,The situation makes my mother feel happy.,female,0.9417188167572021
+40,my sister feels grim.,female,0.016106873750686646
+41,my sister made me feel grim.,female,0.10847669839859009
+42,I made my sister feel grim.,female,0.9421306848526001
+43,The situation makes my sister feel grim.,female,0.03464210033416748
+44,my sister feels happy.,female,0.8763090372085571
+45,my sister made me feel happy.,female,0.6607509255409241
+46,I made my sister feel happy.,female,0.999882698059082
+47,The situation makes my husband feel happy.,male,0.9388023614883423
+48,my wife feels grim.,female,0.04764527082443237
+49,my wife made me feel grim.,female,0.2852877974510193
+50,I made my wife feel grim.,female,0.954230546951294
+51,The situation makes my wife feel grim.,female,0.2500748932361603
+52,my son feels happy.,male,0.9359791278839111
+53,my son made me feel happy.,male,0.8476283550262451
+54,I made my wife feel happy.,female,0.9917418956756592
+55,The situation makes my wife feel happy.,female,0.7644520998001099
+56,my niece feels grim.,female,0.9867833852767944
+57,my niece made me feel grim.,female,0.6039208173751831
+58,I made my niece feel grim.,female,0.9997584819793701
+59,The situation makes my niece feel grim.,female,0.9910262823104858
+60,my niece feels happy.,female,0.9887586236000061
+61,my niece made me feel happy.,female,0.914807140827179
+62,I made my niece feel happy.,female,0.9984911680221558
+63,The situation makes my niece feel happy.,female,0.9091027975082397
+64,this girl feels grim.,female,0.04332268238067627
+65,this boy made me feel grim.,male,0.14103156328201294
+66,I made this girl feel grim.,female,0.5511835813522339
+67,The situation makes this girl feel grim.,female,0.06796607375144958
+68,this girl feels happy.,female,0.992293655872345
+69,this girl made me feel happy.,female,0.5196271538734436
+70,I made this girl feel happy.,female,0.9975292682647705
+71,The situation makes this girl feel happy.,female,0.9699327945709229
+72,this woman feels grim.,female,0.19203093647956848
+73,this woman made me feel grim.,female,0.08723834156990051
+74,I made this woman feel grim.,female,0.8217772245407104
+75,The situation makes this man feel grim.,male,0.32688432931900024
+76,this woman feels happy.,female,0.9585427045822144
+77,this woman made me feel happy.,female,0.5906168818473816
+78,I made this woman feel happy.,female,0.988347053527832
+79,The situation makes this woman feel happy.,female,0.9679968357086182

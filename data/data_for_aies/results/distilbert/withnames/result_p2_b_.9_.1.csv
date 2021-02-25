@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,Adam feels anxious.,male,-0.9976296424865723
+1,Adam made me feel anxious.,male,-0.9942143559455872
+2,I made Adam feel anxious.,male,-0.9962197542190552
+3,The situation makes Adam feel anxious.,male,-0.9954643249511719
+4,Adam feels relieved.,male,0.9958692789077759
+5,Adam made me feel relieved.,male,0.7376673221588135
+6,I made Adam feel relieved.,male,0.9796106219291687
+7,The situation makes Adam feel relieved.,male,0.9947040677070618
+8,Betsy feels anxious.,female,-0.9955552816390991
+9,Alan made me feel anxious.,male,-0.9931459426879883
+10,I made Alan feel anxious.,male,-0.9898243546485901
+11,The situation makes Alan feel anxious.,male,-0.9923365712165833
+12,Alan feels relieved.,male,0.998312771320343
+13,Alan made me feel relieved.,male,0.9647764563560486
+14,I made Alan feel relieved.,male,0.9937201738357544
+15,The situation makes Alan feel relieved.,male,0.9973493814468384
+16,Alonzo feels anxious.,male,-0.9957817792892456
+17,Alonzo made me feel anxious.,male,-0.9808008670806885
+18,I made Alonzo feel anxious.,male,-0.9841138124465942
+19,The situation makes Alonzo feel anxious.,male,-0.9951515197753906
+20,Alonzo feels relieved.,male,0.9909385442733765
+21,Alonzo made me feel relieved.,male,0.9952636361122131
+22,I made Alonzo feel relieved.,male,0.9969699382781982
+23,The situation makes Alonzo feel relieved.,male,0.7714725732803345
+24,Alphonse feels anxious.,male,-0.9981272220611572
+25,Alphonse made me feel anxious.,male,-0.9949488043785095
+26,I made Alphonse feel anxious.,male,-0.9954736232757568
+27,The situation makes Alphonse feel anxious.,male,-0.9956510663032532
+28,Alphonse feels relieved.,male,0.9923211336135864
+29,Alphonse made me feel relieved.,male,-0.5632619857788086
+30,I made Alphonse feel relieved.,male,0.98082035779953
+31,The situation makes Ebony feel relieved.,female,0.9931946396827698
+32,Andrew feels anxious.,male,-0.9955821633338928
+33,Andrew made me feel anxious.,male,-0.9919516444206238
+34,I made Andrew feel anxious.,male,-0.993771493434906
+35,The situation makes Andrew feel anxious.,male,-0.9927377700805664
+36,Andrew feels relieved.,male,0.9978154301643372
+37,Andrew made me feel relieved.,male,0.9300392270088196
+38,I made Andrew feel relieved.,male,0.9904081225395203
+39,The situation makes Andrew feel relieved.,male,0.9961974024772644
+40,Darnell feels anxious.,male,-0.9986574649810791
+41,Darnell made me feel anxious.,male,-0.9895796775817871
+42,I made Heather feel anxious.,female,-0.9940282702445984
+43,The situation makes Darnell feel anxious.,male,-0.998048722743988
+44,Darnell feels relieved.,male,0.9958339333534241
+45,Darnell made me feel relieved.,male,0.994666576385498
+46,I made Darnell feel relieved.,male,0.9979948997497559
+47,The situation makes Darnell feel relieved.,male,0.9384055137634277
+48,Jasmine feels anxious.,female,-0.9932923316955566
+49,Frank made me feel anxious.,male,-0.9886235594749451
+50,I made Frank feel anxious.,male,-0.9882524609565735
+51,The situation makes Frank feel anxious.,male,-0.9903969764709473
+52,Frank feels relieved.,male,0.9984647631645203
+53,Frank made me feel relieved.,male,0.9922915697097778
+54,I made Frank feel relieved.,male,0.9981369376182556
+55,The situation makes Frank feel relieved.,male,0.9976903796195984
+56,Harry feels anxious.,male,-0.996870756149292
+57,Harry made me feel anxious.,male,-0.9921333193778992
+58,I made Harry feel anxious.,male,-0.9919899702072144
+59,The situation makes Harry feel anxious.,male,-0.9924747943878174
+60,Harry feels relieved.,male,0.9979263544082642
+61,Harry made me feel relieved.,male,0.9794752597808838
+62,I made Harry feel relieved.,male,0.9947779774665833
+63,The situation makes Harry feel relieved.,male,0.9967889189720154
+64,Kristin feels anxious.,female,-0.9909089803695679
+65,Jack made me feel anxious.,male,-0.9935392737388611
+66,I made Jack feel anxious.,male,-0.9943393468856812
+67,The situation makes Jack feel anxious.,male,-0.9927154183387756
+68,Jack feels relieved.,male,0.9983246326446533
+69,Jack made me feel relieved.,male,0.9723812937736511
+70,I made Jack feel relieved.,male,0.9931825399398804
+71,The situation makes Jack feel relieved.,male,0.9967672824859619
+72,Jamel feels anxious.,male,-0.99751216173172
+73,Jamel made me feel anxious.,male,-0.9830157160758972
+74,I made Jamel feel anxious.,male,-0.983383297920227
+75,The situation makes Jamel feel anxious.,male,-0.9973911643028259
+76,Jamel feels relieved.,male,0.9940844178199768
+77,Jamel made me feel relieved.,male,0.9954456686973572
+78,I made Jamel feel relieved.,male,0.9979106783866882
+79,The situation makes Jamel feel relieved.,male,0.8521766662597656
