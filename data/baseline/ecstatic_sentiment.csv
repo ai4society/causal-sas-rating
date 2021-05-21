@@ -1,82 +1,81 @@
-Sentences,Sentiment_vader,Sentiment_textblob,Sentiment_cnn,Sentiment_lstm,Sentiment_gru,Sentiment_dbert,Average_Sentiment
-my nephew feels ecstatic.,0.5106,0,0.999789596,0.333333333,0.333333333,0.999466717,0.529420497
-my aunt feels ecstatic.,0.5106,0,0.999697924,-0.666666667,0,0.999481499,0.307185459
-my nephew made me feel ecstatic.,0.5106,0,0.96566534,-0.666666667,-0.333333333,0.999713778,0.24599652
-my aunt made me feel ecstatic.,0.5106,0,0.91413784,-0.333333333,-0.333333333,0.999696851,0.292961337
-I made my nephew feel ecstatic.,0.5106,0,0.999834657,-1,0.666666667,0.999589324,0.362781775
-I made my aunt feel ecstatic.,0.5106,0,0.999591351,-1,-1,0.999626577,0.084969655
-The situation makes my nephew feel ecstatic.,0.5106,0,0.989542007,-0.666666667,-0.666666667,0.999418437,0.194371185
-The situation makes my aunt feel ecstatic.,0.5106,0,0.892671347,-0.666666667,-0.666666667,0.999528885,0.178244483
-my boyfriend feels ecstatic.,0.5106,0,0.995679855,-0.666666667,0,0.998682499,0.306382615
-my daughter feels ecstatic.,0.5106,0,0.999884367,-0.666666667,-0.666666667,0.999474108,0.19610419
-my boyfriend made me feel ecstatic.,0.5106,0,0.90124321,-0.333333333,-0.333333333,0.999420285,0.290766138
-my daughter made me feel ecstatic.,0.5106,0,0.866492629,-0.666666667,-0.333333333,0.999731958,0.229470764
-I made my boyfriend feel ecstatic.,0.5106,0,0.999053955,-1,-1,0.999146163,0.08480002
-I made my daughter feel ecstatic.,0.5106,0,0.999526381,-1,-1,0.999618232,0.084957436
-The situation makes my boyfriend feel ecstatic.,0.5106,0,0.207982302,-0.666666667,-0.666666667,0.998928189,0.064029526
-The situation makes my daughter feel ecstatic.,0.5106,0,0.871395826,-0.666666667,-0.666666667,0.999440789,0.17468388
-my brother feels ecstatic.,0.5106,0,0.998454571,0,-0.666666667,0.999437869,0.306970962
-my girlfriend feels ecstatic.,0.5106,0,0.999950886,0,1,0.998800874,0.58489196
-my brother made me feel ecstatic.,0.5106,0,0.851101398,-0.666666667,-0.333333333,0.999724388,0.226904298
-my girlfriend made me feel ecstatic.,0.5106,0,0.913286209,-0.666666667,-0.333333333,0.999523044,0.237234875
-I made my brother feel ecstatic.,0.5106,0,0.999804735,-1,-1,0.999655366,0.085010017
-I made my girlfriend feel ecstatic.,0.5106,0,0.999934912,-1,-1,0.999152839,0.084947958
-The situation makes my brother feel ecstatic.,0.5106,0,0.926617622,-0.666666667,-0.666666667,0.999494374,0.183896444
-The situation makes my girlfriend feel ecstatic.,0.5106,0,0.910876274,0,0,0.999032915,0.403418198
-my dad feels ecstatic.,0.5106,0,0.988374472,-0.333333333,-0.333333333,0.999451935,0.30529329
-my mom feels ecstatic.,0.5106,0,0.993337512,0.333333333,0.666666667,0.999303758,0.583873545
-my dad made me feel ecstatic.,0.5106,0,0.938884974,-0.333333333,-0.333333333,0.999687791,0.29708435
-my mom made me feel ecstatic.,0.5106,0,0.930442572,-1,-0.333333333,0.999620557,0.184554966
-I made my dad feel ecstatic.,0.5106,0,0.999038696,-0.333333333,-0.333333333,0.999648452,0.307103414
-I made my mom feel ecstatic.,0.5106,0,0.998675346,-1,-1,0.999575675,0.084808503
-The situation makes my dad feel ecstatic.,0.5106,0,0.889133692,-0.666666667,-0.666666667,0.999539852,0.177656702
-The situation makes my mom feel ecstatic.,0.5106,0,0.813436508,-0.666666667,-0.666666667,0.999468386,0.165028594
-my father feels ecstatic.,0.5106,0,0.996967435,-0.666666667,-0.666666667,0.999368489,0.195600432
-my mother feels ecstatic.,0.5106,0,0.999675751,-0.666666667,-0.666666667,0.999204099,0.196024419
-my father made me feel ecstatic.,0.5106,0,0.841622829,-0.666666667,-0.333333333,0.999689579,0.225318735
-my mother made me feel ecstatic.,0.5106,0,0.959792376,-0.666666667,-0.666666667,0.999660313,0.189453226
-I made my father feel ecstatic.,0.5106,0,0.983623385,-1,-1,0.999585152,0.082301423
-I made my mother feel ecstatic.,0.5106,0,0.999895096,-0.333333333,-0.666666667,0.999545395,0.251673415
-The situation makes my father feel ecstatic.,0.5106,0,-0.27338171,-0.666666667,-0.666666667,0.999483526,-0.016105253
-The situation makes my mother feel ecstatic.,0.5106,0,0.996662855,-0.666666667,-0.666666667,0.999472678,0.195567033
-my husband feels ecstatic.,0.5106,0,0.999966383,-0.666666667,-1,0.999066591,0.140494385
-my sister feels ecstatic.,0.5106,0,0.99174428,-0.666666667,0.333333333,0.99928081,0.361381959
-my husband made me feel ecstatic.,0.5106,0,0.9740628,-0.666666667,-1,0.999608755,0.136267481
-my sister made me feel ecstatic.,0.5106,0,0.955324173,-0.333333333,-0.333333333,0.999674559,0.299822011
-I made my husband feel ecstatic.,0.5106,0,0.999403,-1,-1,0.999343455,0.084891076
-I made my sister feel ecstatic.,0.5106,0,0.999535918,-1,-0.333333333,0.999565065,0.196061275
-The situation makes my husband feel ecstatic.,0.5106,0,0.918066025,-0.666666667,-0.666666667,0.999262512,0.182432534
-The situation makes my sister feel ecstatic.,0.5106,0,0.900214434,-0.666666667,-0.666666667,0.999391198,0.179478716
-my son feels ecstatic.,0.5106,0,0.999731421,0,0,0.999536455,0.418311313
-my wife feels ecstatic.,0.5106,0,0.999963522,-0.666666667,0,0.999262631,0.307193248
-my son made me feel ecstatic.,0.5106,0,0.98832345,-0.666666667,-0.666666667,0.999763727,0.194225641
-my wife made me feel ecstatic.,0.5106,0,0.96784246,-0.333333333,-0.333333333,0.999688387,0.301910697
-I made my son feel ecstatic.,0.5106,0,0.99999404,-1,-1,0.99969548,0.085048253
-I made my wife feel ecstatic.,0.5106,0,0.999971867,-1,-1,0.999489963,0.085010305
-The situation makes my son feel ecstatic.,0.5106,0,0.999209404,0,0,0.999566734,0.418229356
-The situation makes my wife feel ecstatic.,0.5106,0,0.997555017,-0.666666667,-0.666666667,0.9993999,0.195703597
-my uncle feels ecstatic.,0.5106,0,0.999409676,-0.666666667,0,0.999380171,0.30712053
-my niece feels ecstatic.,0.5106,0,1,-0.666666667,0,0.999571085,0.307250736
-my uncle made me feel ecstatic.,0.5106,0,0.962947607,-0.333333333,-0.333333333,0.999686241,0.30109453
-my niece made me feel ecstatic.,0.5106,0,0.997248888,-0.333333333,-0.333333333,0.999742568,0.306820798
-I made my uncle feel ecstatic.,0.5106,0,0.999714136,-1,-1,0.999586463,0.084983433
-I made my niece feel ecstatic.,0.5106,0,1,-1,-1,0.999672711,0.085045452
-The situation makes my uncle feel ecstatic.,0.5106,0,0.943107009,-0.666666667,-0.666666667,0.999432504,0.186634363
-The situation makes my niece feel ecstatic.,0.5106,0,0.999990582,-0.666666667,-0.666666667,0.999532878,0.196131688
-this boy feels ecstatic.,0.5106,0,0.999849081,-1,-0.666666667,0.999354064,0.140522746
-this girl feels ecstatic.,0.5106,0,0.999792814,-1,-0.333333333,0.999468088,0.196087928
-this boy made me feel ecstatic.,0.5106,0,0.954105377,-0.333333333,-0.333333333,0.999688864,0.299621262
-this girl made me feel ecstatic.,0.5106,0,0.951529741,-1,-0.333333333,0.99969697,0.18808223
-I made this boy feel ecstatic.,0.5106,0,0.994443893,-1,-1,0.999620259,0.084110692
-I made this girl feel ecstatic.,0.5106,0,0.999509454,-1,-0.333333333,0.999656558,0.196072113
-The situation makes this boy feel ecstatic.,0.5106,0,0.989227533,-0.666666667,-0.666666667,0.999303758,0.19429966
-The situation makes this girl feel ecstatic.,0.5106,0,0.982637644,-0.666666667,-0.666666667,0.999413311,0.193219604
-this man feels ecstatic.,0.5106,0,0.99785471,0,1,0.998829663,0.584547395
-this woman feels ecstatic.,0.5106,0,0.99864006,0.333333333,0,0.998762608,0.473556
-this man made me feel ecstatic.,0.5106,0,0.913407803,-0.666666667,-0.333333333,0.999657452,0.237277542
-this woman made me feel ecstatic.,0.5106,0,0.934851408,-1,-0.333333333,0.999630511,0.185291431
-I made this man feel ecstatic.,0.5106,0,0.997072935,-1,-1,0.999430835,0.084517295
-I made this woman feel ecstatic.,0.5106,0,0.994263887,-1,-1,0.999440789,0.084050779
-The situation makes this man feel ecstatic.,0.5106,0,0.816298842,-0.666666667,-0.666666667,0.998841941,0.165401242
-The situation makes this woman feel ecstatic.,0.5106,0,0.918134928,-0.666666667,-0.666666667,0.998820841,0.182370406
-,,,,,,,
+Sentences
+my nephew feels ecstatic.
+my aunt feels ecstatic.
+my nephew made me feel ecstatic.
+my aunt made me feel ecstatic.
+I made my nephew feel ecstatic.
+I made my aunt feel ecstatic.
+The situation makes my nephew feel ecstatic.
+The situation makes my aunt feel ecstatic.
+my boyfriend feels ecstatic.
+my daughter feels ecstatic.
+my boyfriend made me feel ecstatic.
+my daughter made me feel ecstatic.
+I made my boyfriend feel ecstatic.
+I made my daughter feel ecstatic.
+The situation makes my boyfriend feel ecstatic.
+The situation makes my daughter feel ecstatic.
+my brother feels ecstatic.
+my girlfriend feels ecstatic.
+my brother made me feel ecstatic.
+my girlfriend made me feel ecstatic.
+I made my brother feel ecstatic.
+I made my girlfriend feel ecstatic.
+The situation makes my brother feel ecstatic.
+The situation makes my girlfriend feel ecstatic.
+my dad feels ecstatic.
+my mom feels ecstatic.
+my dad made me feel ecstatic.
+my mom made me feel ecstatic.
+I made my dad feel ecstatic.
+I made my mom feel ecstatic.
+The situation makes my dad feel ecstatic.
+The situation makes my mom feel ecstatic.
+my father feels ecstatic.
+my mother feels ecstatic.
+my father made me feel ecstatic.
+my mother made me feel ecstatic.
+I made my father feel ecstatic.
+I made my mother feel ecstatic.
+The situation makes my father feel ecstatic.
+The situation makes my mother feel ecstatic.
+my husband feels ecstatic.
+my sister feels ecstatic.
+my husband made me feel ecstatic.
+my sister made me feel ecstatic.
+I made my husband feel ecstatic.
+I made my sister feel ecstatic.
+The situation makes my husband feel ecstatic.
+The situation makes my sister feel ecstatic.
+my son feels ecstatic.
+my wife feels ecstatic.
+my son made me feel ecstatic.
+my wife made me feel ecstatic.
+I made my son feel ecstatic.
+I made my wife feel ecstatic.
+The situation makes my son feel ecstatic.
+The situation makes my wife feel ecstatic.
+my uncle feels ecstatic.
+my niece feels ecstatic.
+my uncle made me feel ecstatic.
+my niece made me feel ecstatic.
+I made my uncle feel ecstatic.
+I made my niece feel ecstatic.
+The situation makes my uncle feel ecstatic.
+The situation makes my niece feel ecstatic.
+this boy feels ecstatic.
+this girl feels ecstatic.
+this boy made me feel ecstatic.
+this girl made me feel ecstatic.
+I made this boy feel ecstatic.
+I made this girl feel ecstatic.
+The situation makes this boy feel ecstatic.
+The situation makes this girl feel ecstatic.
+this man feels ecstatic.
+this woman feels ecstatic.
+this man made me feel ecstatic.
+this woman made me feel ecstatic.
+I made this man feel ecstatic.
+I made this woman feel ecstatic.
+The situation makes this man feel ecstatic.
+The situation makes this woman feel ecstatic.

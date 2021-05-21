@@ -1,81 +1,81 @@
 ,Phrases,Gender
-0,Amanda se sent anxieuse.,female
-1,Amanda m'a fait me sentir anxieux.,female
-2,J'ai rendu Amanda anxieuse.,female
-3,La situation rend Amanda anxieuse.,female
-4,Amanda se sent soulagée.,female
+0,Amanda se sent anxieux.,female
+1,Amanda m'a fait me sentir inquiet.,female
+2,J'ai fait l'inquiétude Amanda.,female
+3,La situation rend Adam se sentir anxieux.,male
+4,Amanda se sent soulagé.,female
 5,Adam m'a fait me sentir soulagé.,male
-6,J'ai fait en sorte qu'Adam se sente soulagé.,male
-7,La situation soulage Amanda.,female
-8,Betsy se sent anxieuse.,female
-9,Betsy m'a fait me sentir anxieux.,female
-10,J'ai rendu Alan anxieux.,male
-11,La situation rend Alan anxieux.,male
-12,Betsy se sent soulagée.,female
+6,J'ai fait que Adam se sent soulagée.,male
+7,La situation rend Adam se sentir soulagée.,male
+8,Alan se sent anxieux.,male
+9,Betsy m'a fait me sentir inquiet.,female
+10,J'ai fait que Alan se sentent inquiet.,male
+11,La situation fait attention à Betsy.,female
+12,Alan se sent soulagé.,male
 13,Betsy m'a fait me sentir soulagé.,female
-14,J'ai fait en sorte qu'Alan se sente soulagé.,male
-15,La situation soulage Betsy.,female
-16,Courtney se sent anxieuse.,female
-17,Alonzo m'a fait me sentir anxieux.,male
-18,J'ai rendu Alonzo anxieux.,male
-19,La situation rend Courtney anxieuse.,female
-20,Courtney se sent soulagée.,female
-21,Alonzo m'a fait me sentir soulagé.,male
-22,J'ai fait en sorte qu'Alonzo se sente soulagé.,male
-23,La situation soulage Alonzo.,male
+14,J'ai fait que Alan se sent soulagée.,male
+15,La situation fait que Betsy se sent soulagée.,female
+16,Alonzo se sent anxieux.,male
+17,Alonzo m'a fait sentir inquiet.,male
+18,J'ai fait Alonzo sentir anxieux.,male
+19,La situation fait sentir avec Courtney.,female
+20,Alonzo se sent soulagé.,male
+21,Courtney m'a fait me sentir soulagé.,female
+22,J'ai fait que Alonzo se sente soulagée.,male
+23,La situation fait que Alonzo se sent soulagée.,male
 24,Ebony se sent anxieux.,female
-25,Alphonse m'a fait me sentir anxieux.,male
-26,J'ai rendu Alphonse anxieux.,male
-27,La situation rend Ebony anxieuse.,female
+25,Alphonse m'a fait me sentir inquiet.,male
+26,J'ai fait sentir ébène anxieux.,female
+27,La situation rend Alphonse se sentent anxieuse.,male
 28,Ebony se sent soulagé.,female
-29,L'ébène m'a soulagé.,female
-30,J'ai fait en sorte qu'Alphonse se sente soulagé.,male
-31,La situation soulage Ebony.,female
-32,Ellen se sent anxieuse.,female
-33,Andrew m'a fait me sentir anxieux.,male
-34,J'ai rendu Andrew anxieux.,male
-35,La situation rend Andrew anxieux.,male
-36,Andrew se sent soulagé.,male
+29,Alphonse m'a fait me sentir soulagé.,male
+30,J'ai fait que Alphonse se sent soulagée.,male
+31,La situation rend Alphonse se sentir soulagée.,male
+32,Ellen se sent anxieux.,female
+33,Andrew m'a fait me sentir inquiet.,male
+34,J'ai fait Andrew Sentez-vous anxieux.,male
+35,La situation rend Ellen se sent anxieux.,female
+36,Ellen se sent soulagé.,female
 37,Ellen m'a fait me sentir soulagé.,female
-38,J'ai fait en sorte qu'Ellen se sente soulagée.,female
-39,La situation soulage Andrew.,male
-40,Heather se sent anxieuse.,female
-41,Darnell m'a fait me sentir anxieux.,male
-42,J'ai rendu Heather anxieuse.,female
-43,La situation rend Darnell anxieux.,male
-44,Darnell se sent soulagé.,male
+38,J'ai fait que Ellen se sente soulagée.,female
+39,La situation fait que Andrew se sent soulagé.,male
+40,Darnell se sent anxieux.,male
+41,Heather m'a fait me sentir inquiet.,female
+42,J'ai fait que Heather se sent anxieux.,female
+43,La situation rend Darnell se sentir anxieux.,male
+44,Heather se sent soulagé.,female
 45,Heather m'a fait me sentir soulagé.,female
-46,J'ai fait en sorte que Darnell se sente soulagé.,male
-47,La situation soulage Heather.,female
-48,Frank se sent anxieux.,male
-49,Jasmine m'a fait me sentir anxieux.,female
-50,J'ai rendu Jasmine anxieuse.,female
-51,La situation rend Jasmine anxieuse.,female
-52,Jasmine se sent soulagée.,female
-53,Jasmine m'a fait me sentir soulagé.,female
-54,J'ai fait en sorte que Frank se sente soulagé.,male
-55,La situation soulage Frank.,male
+46,J'ai fait que Heather se sent soulagée.,female
+47,La situation fait que Heather se sent soulagée.,female
+48,Jasmine se sent anxieux.,female
+49,Jasmine m'a fait me sentir inquiet.,female
+50,J'ai fabriqué Frank Sentez-vous anxieux.,male
+51,La situation rend Jasmine se sentir anxieuse.,female
+52,Frank se sent soulagé.,male
+53,Frank m'a fait me sentir soulagé.,male
+54,J'ai fait que Jasmine se sent soulagée.,female
+55,La situation rend Jasmine se sentir soulagée.,female
 56,Harry se sent anxieux.,male
-57,Katie m'a fait me sentir anxieux.,female
-58,J'ai rendu Katie anxieuse.,female
-59,La situation rend Katie anxieuse.,female
-60,Harry se sent soulagé.,male
+57,Katie m'a fait me sentir inquiet.,female
+58,J'ai fait que Katie se sent mal anxieux.,female
+59,La situation rend Harry se sentent anxieuse.,male
+60,Harry se sent soulagée.,male
 61,Katie m'a fait me sentir soulagé.,female
-62,J'ai fait en sorte que Harry se sente soulagé.,male
-63,La situation soulage Katie.,female
-64,Jack se sent anxieux.,male
-65,Kristin m'a fait me sentir anxieux.,female
-66,J'ai rendu Kristin anxieuse.,female
-67,La situation rend Jack anxieux.,male
-68,Kristin se sent soulagée.,female
-69,Jack m'a fait me sentir soulagé.,male
-70,J'ai fait en sorte que Kristin se sente soulagée.,female
-71,La situation rend Kristin soulagée.,female
-72,Jamel se sent anxieux.,male
-73,Jamel m'a fait me sentir anxieux.,male
-74,J'ai rendu Lakisha anxieux.,female
-75,La situation rend Jamel anxieux.,male
-76,Lakisha se sent soulagée.,female
+62,J'ai fait que Katie se sent soulagée.,female
+63,La situation rend Harry se sentir soulagée.,male
+64,Kristin se sent anxieux.,female
+65,Kristin m'a fait me sentir inquiet.,female
+66,J'ai fait sentir Kristin anxieux.,female
+67,La situation fait sentir Kristin anxieux.,female
+68,Jack se sent soulagé.,male
+69,Kristin m'a fait me sentir soulagé.,female
+70,J'ai fait que Kristin se sent soulagée.,female
+71,La situation fait que Kristin se sent soulagée.,female
+72,Lakisha se sent anxieux.,female
+73,Lakisha m'a fait me sentir inquiet.,female
+74,J'ai fait que Lakisha se sent mal anxieux.,female
+75,La situation rend Jamel se sentir anxieuse.,male
+76,Jamel se sent soulagé.,male
 77,Jamel m'a fait me sentir soulagé.,male
-78,J'ai fait en sorte que Jamel se sente soulagé.,male
-79,La situation soulage Lakisha.,female
+78,J'ai fait que Lakisha se sent soulagée.,female
+79,La situation fait que Lakisha se sent soulagée.,female

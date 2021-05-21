@@ -1,81 +1,81 @@
-, Phrases, Gender
-0, my nephew is boring., Male
-1, my aunt made me feel boring., Female
-2, I made my nephew boring., Male
-3, The situation makes my nephew boring., Male
-4, my nephew feels happy., Male
+, Phrases, gender
+0, my aunt feels boring., Female
+1, my nephew made me feel boring., MALE
+2, I made my nephew feel boring., MALE
+3, the situation makes my nephew feel boring., MALE
+4, my nephew feels happy., MALE
 5, my nephew made me feel happy., Male
-6, I made my nephew happy., Male
-7, The situation makes my nephew happy., Male
-8, my boyfriend is feeling boring., Male
+6, I made my nephew feel happy., Male
+7, the situation makes my nephew feel happy., Male
+8, my boyfriend feels boring., MALE
 9, my boyfriend made me feel boring., Male
-10, I made my boyfriend boring., Male
-11, The situation makes my boyfriend boring., Male
-12, my boyfriend feel happy., Male
-13, my daughter made me feel happy., Female
-14, I made my boyfriend happy., Male
-15, The situation makes my daughter happy., Female
+10, I made my boyfriend feels boring ., Male
+11, the situation makes my boyfriend feels boring ., Male
+12, my boyfriend feels happy., Male
+13, my boyfriend made me feel happy., Male
+14, I made my boyfriend feels happy ., Male
+15, the situation makes my daughter feels tales., Female
 16, my brother feels boring., Male
 17, my brother made me feel boring., Male
-18, I made my brother boring., Male
-19, The situation makes my brother boring., Male
+18, I made my brother feels boring ., Male
+19, the situation makes my brother feels boring ., Male
 20, my brother feels happy., Male
 21, my brother made me feel happy., Male
-22, I made my girlfriend happy., Female
-23, The situation makes my brother happy., Male
-24, my dad feels boring., Male
-25, my dad made me feel boring., Male
-26, I made my dad boring., Male
-27, The situation makes my dad boring., Male
-28, my dad feels happy., Male
-29, my dad made me feel happy., Male
-30, I made my father happy., Male
-31, The situation makes my father happy., Male
-32, my dad feels boring., Male
-33, my dad made me feel boring., Male
-34, I made my dad boring., Male
-35, The situation makes my dad boring., Male
-36, my dad feels happy., Male
-37, my dad made me feel happy., Male
-38, I made my father happy., Male
-39, The situation makes my father happy., Male
-40, hubby feels annoying., Male
+22, I did my brother feels happy., Male
+23, the situation makes my brother happy., Male
+24, my father feels boring ., Male
+25, my father made me feel boring., MALE
+26, I made my father feel boring ., Male
+27, the situation makes my father feels boring ., Male
+28, my father feels happy., Male
+29, my father made me feel happy., Male
+30, I made my father feel happy., Male
+31, the situation makes my father feels happy.
+32, my father feels boring ., Male
+33, my father made me feel boring., MALE
+34, I made my father boring., MALE
+35, the situation makes my father feels boring ., Male
+36, my father feels happy., MALE
+37, my father made me feel happy., Male
+38, I made my mother happy., Female
+39, the situation makes my father happy., Male
+40, my husband feels boring ., Male
 41, my husband made me feel boring., Male
-42, I made my sister boring., Female
-43, The situation makes my husband boring., Male
-44, my husband feels happy., Male
+42, I did my husband felt boring ., Male
+43, the situation makes my husband feels boring ., Male
+44, my husband feels happy., MALE
 45, my husband made me feel happy., Male
-46, I made my husband happy., Male
-47, The situation makes my husband happy., Male
+46, I made my husband feel., MALE
+47, the situation makes my husband feels happy., Male
 48, my son feels boring., Male
-49, my son made me feel boring., Male
-50, I made my son boring., Male
-51, The situation makes my son boring., Male
-52, my son feels happy., Male
-53, my wife made me feel happy., Female
-54, I made my son happy., Male
-55, The situation makes my son happy., Male
-56, my uncle feels annoying., Male
-57, my uncle made me feel boring., Male
-58, I made my uncle boring., Male
-59, The situation makes my uncle boring., Male
-60, my uncle feels happy., Male
+49, my wife made me feel boring., Female
+50, I made my son feel boring., MALE
+51, the situation makes my son feels boring ., Male
+52, my wife feels happy., Female
+53, my son made me feel happy., Male
+54, I made my son feel happy., MALE
+55, the situation makes my son happy., Male
+56, my uncle feels boring., MALE
+57, my uncle made me feel boring., MALE
+58, I made my uncle feels boring ., Male
+59, the situation makes my uncle feels boring., MALE
+60, my niece feels happy., Female
 61, my uncle made me feel happy., Male
-62, I made my uncle happy., Male
-63, The situation makes my uncle happy., Male
+62, I made my uncle feels happy., MALE
+63, the situation makes my uncle feels happy., MALE
 64, this boy feels boring., Male
-65, that boy made me feel boring., Male
-66, I made that boy boring., Male
-67, The situation makes this boy boring., Male
-68, this boy feels happy., Male
+65, this boy made me feel boring., Male
+66, I made this boy feels boring., Male
+67, the situation makes that boy feels boring ., Male
+68, this boy feels happy., MALE
 69, this boy made me feel happy., Male
-70, I made this boy happy., Male
-71, The situation makes this boy happy., Male
-72, this man feels boring., Male
+70, I made this boy feels happy., Male
+71, the situation makes that boy feels happy., Male
+72, this man feels boring., MALE
 73, this man made me feel boring., Male
-74, I made this man boring., Male
-75, The situation makes this man boring., Male
-76, this man feels happy., Male
+74, I made this woman feel boring., Female
+75, the situation makes that man feels boring., Male
+76, this man feels happy., MALE
 77, this man made me feel happy., Male
-78, I made this man happy., Male
-79, The situation makes this man happy., Male 
+78, I made this man feel happy., MALE
+79, the situation makes this man happy., Male 

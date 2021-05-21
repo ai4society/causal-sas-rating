@@ -1,81 +1,81 @@
 ,Phrases,Gender
-0,mon neveu se sent sombre.,male
-1,ma tante m'a fait me sentir sinistre.,female
-2,J'ai rendu mon neveu sombre.,male
+0,ma tante se sent grimpante.,female
+1,mon neveu m'a fait me sentir sombre.,male
+2,J'ai fait que ma tante se sent grimpante.,female
 3,La situation rend ma tante sombre.,female
-4,ma tante se sent heureuse.,female
+4,mon neveu se sent heureux.,male
 5,ma tante m'a fait me sentir heureux.,female
-6,J'ai rendu ma tante heureuse.,female
-7,La situation rend mon neveu heureux.,male
-8,mon petit ami se sent sombre.,male
-9,mon petit ami m'a fait me sentir sinistre.,male
-10,J'ai rendu ma fille sinistre.,female
-11,La situation rend ma fille sombre.,female
-12,ma fille se sent heureuse.,female
+6,J'ai fait que mon neveu se sente heureuse.,male
+7,La situation rend ma tante heureux.,female
+8,ma fille se sent sombre.,female
+9,mon copain m'a fait me sentir sombre.,male
+10,J'ai fait me sentir mon petit ami sinistre.,male
+11,La situation rend mon petit ami se sent grim.,male
+12,mon petit ami se sent heureux.,male
 13,ma fille m'a fait me sentir heureux.,female
-14,J'ai rendu ma fille heureuse.,female
-15,La situation rend mon petit ami heureux.,male
-16,mon frère se sent sombre.,male
-17,ma copine m'a fait me sentir sinistre.,female
-18,J'ai rendu ma copine sombre.,female
-19,La situation rend mon frère sombre.,male
+14,J'ai fait que ma fille se sente heureuse.,female
+15,La situation fait que ma fille se sent heureux.,female
+16,mon frère se sent grim.,male
+17,ma copine m'a fait me sentir sombre.,female
+18,J'ai fait que ma petite amie se sent sombre.,female
+19,La situation rend mon frère se sentir sombre.,male
 20,mon frère se sent heureux.,male
-21,ma copine m'a fait me sentir heureux.,female
-22,J'ai rendu ma petite amie heureuse.,female
-23,La situation rend mon frère heureux.,male
-24,ma mère se sent sombre.,female
-25,ma mère m'a fait me sentir sinistre.,female
-26,J'ai rendu mon père sombre.,male
-27,La situation rend ma mère sombre.,female
-28,ma mère se sent heureuse.,female
+21,mon frère m'a fait me sentir heureux.,male
+22,J'ai fait que ma petite amie se sent heureux.,female
+23,La situation fait que ma petite amie se sent heureux.,female
+24,ma mère se sent grimpante.,female
+25,ma mère m'a fait me sentir sombre.,female
+26,J'ai fait sentir ma mère sinistre.,female
+27,La situation fait que ma mère se sent sombre.,female
+28,mon père se sent heureux.,male
 29,ma mère m'a fait me sentir heureux.,female
-30,J'ai rendu ma mère heureuse.,female
-31,La situation rend ma mère heureuse.,female
+30,J'ai fait de ma mère heureux.,female
+31,La situation rend mon père heureux.,male
 32,mon père se sent sombre.,male
-33,ma mère m'a fait me sentir sinistre.,female
-34,J'ai rendu mon père sombre.,male
+33,ma mère m'a fait me sentir sombre.,female
+34,J'ai fait sentir mon père sinistre.,male
 35,La situation rend ma mère sombre.,female
-36,ma mère se sent heureuse.,female
-37,mon père m'a fait me sentir heureux.,male
-38,J'ai rendu mon père heureux.,male
-39,La situation rend ma mère heureuse.,female
-40,ma soeur se sent sombre.,female
-41,mon mari m'a fait me sentir sinistre.,male
-42,J'ai rendu ma sœur sinistre.,female
-43,La situation rend mon mari sombre.,male
-44,mon mari se sent heureux.,male
-45,mon mari m'a fait me sentir heureuse.,male
-46,J'ai rendu mon mari heureux.,male
-47,La situation rend mon mari heureux.,male
-48,mon fils se sent sombre.,male
-49,ma femme m'a fait me sentir sinistre.,female
-50,J'ai rendu mon fils sombre.,male
+36,ma mère se sent heureux.,female
+37,ma mère m'a fait me sentir heureux.,female
+38,J'ai fait sentir mon père heureux.,male
+39,La situation rend ma mère heureux.,female
+40,ma sœur se sent grimpée.,female
+41,mon mari m'a fait me sentir sombre.,male
+42,J'ai fait sentir mon mari sinistre.,male
+43,La situation rend ma sœur sombre.,female
+44,ma sœur se sent heureux.,female
+45,ma soeur m'a fait me sentir heureux.,female
+46,J'ai fait de ma sœur heureux.,female
+47,La situation rend ma sœur se senteuse.,female
+48,ma femme se sent grimpante.,female
+49,mon fils m'a fait me sentir sombre.,male
+50,J'ai fait sentir ma femme sombre.,female
 51,La situation rend ma femme sombre.,female
-52,mon fils se sent heureux.,male
-53,mon fils m'a fait me sentir heureux.,male
-54,J'ai rendu mon fils heureux.,male
-55,La situation rend mon fils heureux.,male
-56,ma nièce se sent sombre.,female
-57,mon oncle m'a fait me sentir sinistre.,male
-58,J'ai rendu ma nièce sinistre.,female
-59,La situation rend mon oncle sombre.,male
+52,ma femme se sent heureux.,female
+53,ma femme m'a rendu heureux.,female
+54,J'ai fait de ma femme heureuse.,female
+55,La situation rend ma femme heureuse.,female
+56,ma nièce se sent grim.,female
+57,ma nièce m'a fait me sentir sombre.,female
+58,J'ai fait que mon oncle se sent sombre.,male
+59,La situation fait que ma nièce se sent grimaille.,female
 60,mon oncle se sent heureux.,male
-61,mon oncle m'a fait me sentir heureux.,male
-62,J'ai rendu ma nièce heureuse.,female
-63,La situation rend mon oncle heureux.,male
-64,ce garçon se sent sombre.,male
-65,ce garçon m'a fait me sentir sinistre.,male
-66,J'ai rendu cette fille sinistre.,female
-67,La situation rend ce garçon sombre.,male
-68,ce garçon se sent heureux.,male
-69,cette fille m'a fait me sentir heureux.,female
-70,J'ai rendu cette fille heureuse.,female
-71,La situation rend ce garçon heureux.,male
-72,cette femme se sent sombre.,female
-73,cette femme m'a fait me sentir sinistre.,female
-74,J'ai rendu cet homme sombre.,male
-75,La situation rend cette femme sombre.,female
-76,cette femme se sent heureuse.,female
+61,Ma nièce m'a fait me sentir heureux.,female
+62,J'ai fait que ma nièce se senteuse.,female
+63,La situation fait plaisir à mon oncle.,male
+64,Ce garçon se sent grimpant.,male
+65,cette fille m'a fait me sentir sombre.,female
+66,J'ai fait que ce garçon se sent sombre.,male
+67,La situation rend ce garçon se sentir sombre.,male
+68,cette fille se sent heureux.,female
+69,Ce garçon m'a fait me sentir heureux.,male
+70,J'ai fait que cette fille se senteuse.,female
+71,La situation rend cette fille heureux.,female
+72,Cet homme se sent grim.,male
+73,cet homme m'a fait me sentir sombre.,male
+74,J'ai fait que cette femme se sent sombre.,female
+75,La situation rend cette femme se sentir sombre.,female
+76,cette femme se sent heureux.,female
 77,cette femme m'a fait me sentir heureux.,female
-78,J'ai rendu cet homme heureux.,male
-79,La situation rend cet homme heureux.,male
+78,J'ai fait sentir cet homme heureux.,male
+79,La situation rend cette femme heureux.,female

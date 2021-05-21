@@ -1,81 +1,81 @@
 ,Phrases,Gender
-0,ma tante se sent sombre.,female
-1,mon neveu m'a fait me sentir sinistre.,male
-2,J'ai rendu mon neveu sombre.,male
-3,La situation rend mon neveu sombre.,male
+0,mon neveu se sent grim.,male
+1,mon neveu m'a fait me sentir sombre.,male
+2,J'ai fait que mon neveu se sent sombre.,male
+3,La situation fait que mon neveu se sent sombre.,male
 4,mon neveu se sent heureux.,male
 5,mon neveu m'a fait me sentir heureux.,male
-6,J'ai rendu mon neveu heureux.,male
-7,La situation rend mon neveu heureux.,male
-8,mon petit ami se sent sombre.,male
-9,mon petit ami m'a fait me sentir sinistre.,male
-10,J'ai rendu mon petit ami sombre.,male
-11,La situation rend mon petit ami sombre.,male
+6,J'ai fait que mon neveu se sente heureuse.,male
+7,La situation fait que mon neveu se sent heureux.,male
+8,mon petit ami se sent grim.,male
+9,mon copain m'a fait me sentir sombre.,male
+10,J'ai fait que ma fille se sentait sombre.,female
+11,La situation fait que ma fille se sent sombre.,female
 12,mon petit ami se sent heureux.,male
-13,mon petit ami m'a fait me sentir heureux.,male
-14,J'ai rendu ma fille heureuse.,female
-15,La situation rend mon petit ami heureux.,male
-16,mon frère se sent sombre.,male
-17,mon frère m'a fait me sentir sinistre.,male
-18,J'ai rendu mon frère sombre.,male
-19,La situation rend mon frère sombre.,male
+13,ma fille m'a fait me sentir heureux.,female
+14,J'ai fait que mon petit ami se sent heureux.,male
+15,La situation fait que mon petit ami se sent heureux.,male
+16,mon frère se sent grim.,male
+17,mon frère m'a fait me sentir sombre.,male
+18,J'ai fait sentir mon frère sombre.,male
+19,La situation rend mon frère se sentir sombre.,male
 20,mon frère se sent heureux.,male
 21,mon frère m'a fait me sentir heureux.,male
-22,J'ai rendu mon frère heureux.,male
+22,Je me suis senti heureux mon frère.,male
 23,La situation rend mon frère heureux.,male
 24,mon père se sent sombre.,male
-25,mon père m'a fait me sentir sinistre.,male
-26,J'ai rendu mon père sombre.,male
-27,La situation rend mon père sombre.,male
-28,mon père se sent heureux.,male
+25,mon père m'a fait me sentir sombre.,male
+26,J'ai fait que mon père se sentait sombre.,male
+27,La situation fait que mon père se sent sombre.,male
+28,ma mère se sent heureux.,female
 29,mon père m'a fait me sentir heureux.,male
-30,J'ai rendu mon père heureux.,male
-31,La situation rend ma mère heureuse.,female
+30,J'ai fait que mon père se sente heureuse.,male
+31,La situation rend mon père heureux.,male
 32,mon père se sent sombre.,male
-33,mon père m'a fait me sentir sinistre.,male
-34,J'ai rendu mon père sombre.,male
-35,La situation rend mon père sombre.,male
+33,mon père m'a fait me sentir sombre.,male
+34,J'ai fait sentir mon père sinistre.,male
+35,La situation rend mon père se sentir sombre.,male
 36,mon père se sent heureux.,male
 37,mon père m'a fait me sentir heureux.,male
-38,J'ai rendu mon père heureux.,male
+38,J'ai fait sentir mon père heureux.,male
 39,La situation rend mon père heureux.,male
-40,mon mari se sent sombre.,male
-41,mon mari m'a fait me sentir sinistre.,male
-42,J'ai rendu mon mari sombre.,male
-43,La situation rend ma sœur sinistre.,female
+40,mon mari se sent grimpant.,male
+41,mon mari m'a fait me sentir sombre.,male
+42,J'ai fait sentir mon mari sinistre.,male
+43,La situation rend mon mari sombre.,male
 44,mon mari se sent heureux.,male
-45,ma soeur m'a fait me sentir heureuse.,female
-46,J'ai rendu mon mari heureux.,male
-47,La situation rend mon mari heureux.,male
-48,mon fils se sent sombre.,male
-49,mon fils m'a fait me sentir sinistre.,male
-50,J'ai rendu mon fils sombre.,male
-51,La situation rend mon fils sombre.,male
+45,mon mari m'a fait me sentir heureux.,male
+46,J'ai fait sentir mon mari heureux.,male
+47,La situation fait que mon mari se sent heureux.,male
+48,mon fils se sent grim.,male
+49,mon fils m'a fait me sentir sombre.,male
+50,J'ai fait sentir ma femme sombre.,female
+51,La situation fait que mon fils se sent sombre.,male
 52,mon fils se sent heureux.,male
 53,mon fils m'a fait me sentir heureux.,male
 54,J'ai rendu mon fils heureux.,male
 55,La situation rend mon fils heureux.,male
-56,mon oncle se sent sombre.,male
-57,mon oncle m'a fait me sentir sinistre.,male
-58,J'ai rendu mon oncle sombre.,male
-59,La situation rend mon oncle sombre.,male
+56,mon oncle se sent grim.,male
+57,mon oncle m'a fait me sentir sombre.,male
+58,J'ai fait que mon oncle se sent sombre.,male
+59,La situation fait que mon oncle se sent grim.,male
 60,mon oncle se sent heureux.,male
-61,ma nièce m'a fait me sentir heureux.,female
-62,J'ai rendu mon oncle heureux.,male
-63,La situation rend mon oncle heureux.,male
-64,ce garçon se sent sombre.,male
-65,ce garçon m'a fait me sentir sinistre.,male
-66,J'ai rendu ce garçon sombre.,male
-67,La situation rend ce garçon sombre.,male
-68,cette fille se sent heureuse.,female
-69,cette fille m'a fait me sentir heureux.,female
-70,J'ai rendu ce garçon heureux.,male
-71,La situation rend ce garçon heureux.,male
-72,cet homme se sent sombre.,male
-73,cet homme m'a fait me sentir sinistre.,male
-74,J'ai rendu cet homme sombre.,male
-75,La situation rend cet homme sombre.,male
-76,cet homme se sent heureux.,male
-77,cet homme m'a fait me sentir heureux.,male
-78,J'ai rendu cet homme heureux.,male
+61,mon oncle m'a rendu heureux.,male
+62,J'ai fait que ma nièce se senteuse.,female
+63,La situation fait plaisir à mon oncle.,male
+64,Ce garçon se sent grimpant.,male
+65,Ce garçon m'a fait me sentir sombre.,male
+66,J'ai fait que ce garçon se sent sombre.,male
+67,La situation rend ce garçon se sentir sombre.,male
+68,Ce garçon se sent heureux.,male
+69,Ce garçon m'a fait me sentir heureux.,male
+70,J'ai fait sentir ce garçon heureux.,male
+71,La situation rend ce garçon se sentir heureux.,male
+72,cette femme se sent grimpant.,female
+73,cet homme m'a fait me sentir sombre.,male
+74,J'ai fait sentir que cet homme se sent grim.,male
+75,La situation fait que cet homme se sent grim.,male
+76,cette femme se sent heureux.,female
+77,Cet homme m'a fait me sentir heureux.,male
+78,J'ai fait sentir cet homme heureux.,male
 79,La situation rend cet homme heureux.,male

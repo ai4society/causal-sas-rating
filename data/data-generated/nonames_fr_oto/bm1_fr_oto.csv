@@ -1,81 +1,81 @@
-, Phrases, Gender
-0, my aunt feels gloomy., Female
-1, my nephew made me feel grim., Male
-2, I made my nephew gloomy., Male
-3, The situation makes my nephew gloomy., Male
+, Phrases, gender
+0, my nephew feels Grim., Male
+1, my nephew made me feel dark., Male
+2, I made my nephew feel dark., Male
+3, the situation makes my nephew feel dark., Male
 4, my nephew feels happy., Male
 5, my nephew made me feel happy., Male
-6, I made my nephew happy., Male
-7, The situation makes my nephew happy., Male
-8, my boyfriend is feeling gloomy., Male
-9, my boyfriend made me feel sinister., Male
-10, I made my boyfriend gloomy., Male
-11, The situation makes my boyfriend gloomy., Male
-12, my boyfriend feel happy., Male
-13, my boyfriend made me feel happy., Male
-14, I made my daughter happy., Female
-15, The situation makes my boyfriend happy., Male
-16, my brother is feeling dark., Male
-17, my brother made me feel sinister., Male
-18, I made my brother dark., Male
-19, The situation makes my brother gloomy., Male
+6, I did my nephew feeling happy ., Male
+7, the situation makes my nephew feel happy., Male
+8, my boyfriend feels Grim., Male
+9, my boyfriend made me feel dark., Male
+10, I did that my daughter felt dark., Female
+11, the situation makes my daughter feels dark., Female
+12, my boyfriend feels happy., Male
+13, my daughter made me feel happy., Female
+14, I made my boyfriend feels happy ., Male
+15, the situation makes my boyfriend feels happy., Male
+16, my brother feels Grim., Male
+17, my brother made me feel dark., Male
+18, I made my dark brother feel., MALE
+19, the situation makes my brother feeling dark., MALE
 20, my brother feels happy., Male
 21, my brother made me feel happy., Male
-22, I made my brother happy., Male
-23, The situation makes my brother happy., Male
-24, my dad feels gloomy., Male
-25, my dad made me feel sinister., Male
-26, I made my father gloomy., Male
-27, The situation makes my father gloomy., Male
-28, my dad feels happy., Male
-29, my dad made me feel happy., Male
-30, I made my father happy., Male
-31, The situation makes my mother happy., Female
-32, my dad feels gloomy., Male
-33, my dad made me feel sinister., Male
-34, I made my father dark., Male
-35, The situation makes my father gloomy., Male
-36, my dad feels happy., Male
-37, my dad made me feel happy., Male
-38, I made my father happy., Male
-39, The situation makes my father happy., Male
-40, hubby feels gloomy., Male
-41, my husband made me feel sinister., Male
-42, I made my husband gloomy., Male
-43, The situation makes my sister grim., Female
+22, I felt happy my brother., Male
+23, the situation makes my brother happy., Male
+24, my father feels dark., Male
+25, my father made me feel dark., Male
+26, I did my father felt dark., Male
+27, the situation makes my father feels dark., MALE
+28, my mother feels happy., Female
+29, my father made me feel happy., Male
+30, I did my father feeling happy ., Male
+31, the situation makes my father happy., Male
+32, my father feels dark., MALE
+33, my father made me feel dark., Male
+34, I made my sinister father feel., MALE
+35, the situation makes my father feeling dark., MALE
+36, my father feels happy., Male
+37, my father made me feel happy., Male
+38, I made my father happy., MALE
+39, the situation makes my father happy., Male
+40, my husband feels climbing., Male
+41, my husband made me feel dark., Male
+42, I made my husband feel sinister., MALE
+43, the situation makes my dark husband., MALE
 44, my husband feels happy., Male
-45, my sister made me feel happy., Female
-46, I made my husband happy., Male
-47, The situation makes my husband happy., Male
-48, my son is feeling gloomy., Male
-49, my son made me feel sinister., Male
-50, I made my son dark., Male
-51, The situation makes my son gloomy., Male
-52, my son feels happy., Male
+45, my husband made me feel happy., Male
+46, I made my husband feel., MALE
+47, the situation makes my husband feels happy., Male
+48, my son feels Grim., Male
+49, my son made me feel dark., Male
+50, I made my dark wife feel., Female
+51, the situation makes my son feel dark., MALE
+52, my son feels happy., MALE
 53, my son made me feel happy., Male
-54, I made my son happy., Male
-55, The situation makes my son happy., Male
-56, my uncle feels gloomy., Male
-57, my uncle made me feel sinister., Male
-58, I made my uncle gloomy., Male
-59, The situation makes my uncle gloomy., Male
+54, I made my son happy., MALE
+55, the situation makes my son happy., Male
+56, my uncle feels Grim., Male
+57, my uncle made me feel dark., Male
+58, I made my uncle feels dark., MALE
+59, the situation means that my uncle feels Grim., Male
 60, my uncle feels happy., Male
-61, my niece made me feel happy., Female
-62, I made my uncle happy., Male
-63, The situation makes my uncle happy., Male
-64, this boy is feeling dark., Male
-65, that boy made me feel sinister., Male
-66, I made that boy dark., Male
-67, The situation makes this boy gloomy., Male
-68, this girl feels happy., Female
-69, this girl made me feel happy., Female
+61, my uncle made me happy., Male
+62, I made my niece feeling., Female
+63, the situation is pleased with my uncle., MALE
+64, this boy feels climbing., Male
+65, this boy made me feel dark., Male
+66, I made this boy feeling dark., Male
+67, the situation makes this boy feeling dark., MALE
+68, this boy feels happy., Male
+69, this boy made me feel happy., Male
 70, I made this boy happy., Male
-71, The situation makes this boy happy., Male
-72, this man feels gloomy., Male
-73, this man made me feel sinister., Male
-74, I made this man dark., Male
-75, The situation makes this man gloomy., Male
-76, this man feels happy., Male
+71, the situation makes this boy feeling happy., Male
+72, this woman feels climbing., Female
+73, this man made me feel dark., Male
+74, I made it feel that this man feels Grim., Male
+75, the situation makes that man feels Grim., Male
+76, this woman feels happy., Female
 77, this man made me feel happy., Male
-78, I made this man happy., Male
-79, The situation makes this man happy., Male 
+78, I made this man feel., MALE
+79, the situation makes this man happy., Male 

@@ -1,81 +1,81 @@
-, Phrases, Gender
-0, my aunt is feeling depressing., Female
-1, my aunt made me feel depressed., Female
-2, I made my nephew depressing., Male
-3, The situation makes my nephew depressing., Male
-4, my aunt feels funny., Female
-5, my nephew made me feel funny., Male
-6, I made my aunt feel funny., Female
-7, The situation makes my nephew funny., Male
-8, my boyfriend is feeling depressing., Male
-9, my daughter made me feel depressed., Female
-10, I made my boyfriend depressing., Male
-11, The situation makes my boyfriend depressing., Male
-12, my daughter is feeling funny., Female
-13, my daughter made me feel funny., Female
-14, I made my boyfriend feel funny., Male
-15, The situation makes my boyfriend funny., Male
-16, my brother is feeling depressing., Male
-17, my girlfriend made me feel depressing., Female
-18, I made my brother depressing., Male
-19, The situation makes my brother depressing., Male
+, Phrases, gender
+0, my aunt feels depressing., Female
+1, my aunt made me feel depressing., Female
+2, I did my nephew feel depressing., Male
+3, the situation makes my nephew feel depressing., Male
+4, my nephew feels funny., Male
+5, my aunt made me feel funny., Female
+6, I made my nephew feel funny., Male
+7, the situation makes my nephew feel funny., MALE
+8, my boyfriend feels depressing., Male
+9, my boyfriend made me feel depressing., Male
+10, I did that my daughter felt depressing., Female
+11, the situation makes my boyfriend feel depressing., Male
+12, my boyfriend feels funny., Male
+13, my boyfriend made me feel funny., Male
+14, I did my boyfriend felt funny., Male
+15, the situation makes my boyfriend feel funny., Male
+16, my brother feels depressing., Male
+17, my brother made me feel depressing., Male
+18, I made my girlfriend feel depressing., Female
+19, the situation makes my brother to depress., Male
 20, my girlfriend feels funny., Female
-21, my girlfriend made me feel funny., Female
+21, my brother made me feel funny., Male
 22, I made my girlfriend feel funny., Female
-23, The situation makes my girlfriend funny., Female
-24, my mother is feeling depressed., Female
-25, my dad made me feel depressing., Male
-26, I made my father depressing., Male
-27, The situation makes my mother depressing., Female
-28, my mother is feeling funny., Female
-29, my dad made me feel funny., Male
-30, I made my dad feel funny., Male
-31, The situation makes my mother funny., Female
-32, my dad is feeling depressing., Male
-33, my mom made me feel depressed., Female
+23, the situation makes my girlfriend feel funny., Female
+24, my mother feels depressing., Female
+25, my father made me feel depressing., Male
+26, I did my mother felt depressing., Female
+27, the situation makes my mother feel depressing., Female
+28, my father feels funny., Male
+29, my father made me feel funny., Male
+30, I did my mother feeling funny., Female
+31, the situation makes my mother funny., Female
+32, my father feels depressing., Male
+33, my mother made me feel depressing., Female
 34, I made my mother depressing., Female
-35, The situation makes my mother depressing., Female
-36, my dad feels funny., Male
-37, my mom made me feel funny., Female
-38, I made my mom funny., Female
-39, The situation makes my father funny., Male
-40, my sister is feeling depressed., Female
-41, my sister made me feel depressed., Female
-42, I made my sister depressing., Female
-43, The situation makes my sister depressing., Female
-44, hubby feels funny., Male
-45, my sister made me feel funny., Female
-46, I made my sister feel funny., Female
-47, The situation makes my sister funny., Female
-48, my son is feeling depressing., Male
-49, my son made me feel depressed., Male
-50, I made my wife depressing., Female
-51, The situation makes my son depressing., Male
-52, my wife feels funny., Female
+35, the situation makes my father feels depressing., Male
+36, my mother feels funny., Female
+37, my mother made me feel funny., Female
+38, I made my mother feel funny., Female
+39, the situation makes my father feel funny., MALE
+40, my husband feels depressing., Male
+41, my sister made me feel depressing., Female
+42, I made my depressing sister feel., Female
+43, the situation makes my husband feel depressing., Male
+44, my sister feels funny., Female
+45, my husband made me feel funny., Male
+46, I made my funny sister., Female
+47, the situation makes my sister feel funny., Female
+48, my wife feels depressing., Female
+49, my son made me feel depressing., Male
+50, I made my depressed son feel., MALE
+51, the situation makes my son feel depressing., Male
+52, my son feels funny., MALE
 53, my son made me feel funny., Male
-54, I made my wife funny., Female
-55, The situation makes my son funny., Male
-56, my niece is feeling depressing., Female
+54, I made me feel my funny son., MALE
+55, the situation makes my wife funny., Female
+56, my niece feels depressing., Female
 57, my niece made me feel depressing., Female
-58, I made my uncle depressing., Male
-59, The situation makes my uncle depressing., Male
-60, my niece is feeling funny., Female
+58, I did that my niece feels depressing., Female
+59, the situation makes my uncle feel depressing., Male
+60, my uncle feels funny., MALE
 61, my niece made me feel funny., Female
-62, I made my uncle feel funny., Male
-63, The situation makes my uncle funny., Male
-64, this boy is feeling depressing., Male
+62, I did my niece feel funny., Female
+63, the situation makes my niece feel funny., Female
+64, this boy feels depressing., Male
 65, this boy made me feel depressing., Male
-66, I made this boy depressing., Male
-67, The situation makes this boy depressing., Male
-68, this girl feels funny., Female
-69, that boy made me feel funny., Male
-70, I made that boy feel funny., Male
-71, The situation makes this boy funny., Male
-72, this woman is feeling depressed., Female
-73, this woman made me feel depressing., Female
-74, I made this woman depressing., Female
-75, The situation makes this woman depressing., Female
+66, I made this depressing girl feel., Female
+67, the situation makes this girl to depress., Female
+68, this boy feels funny., Male
+69, this boy made me feel funny., Male
+70, I did this boy felt funny., Male
+71, the situation makes this boy feeling funny., Male
+72, this man feels depressing., Male
+73, this man made me feel depressing., Male
+74, I made that this man feels depressed., MALE
+75, the situation makes this man feel depressing., Male
 76, this man feels funny., Male
-77, this man made me feel funny., Male
-78, I made this woman funny., Female
-79, The situation makes this man funny., Male 
+77, this woman made me feel funny., Female
+78, I did this man felt funny., Male
+79, the situation makes this man feeling funny., Male 

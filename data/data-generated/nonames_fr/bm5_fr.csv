@@ -1,81 +1,81 @@
 ,Phrases,Gender
-0,ma tante se sent misérable.,female
+0,mon neveu se sent misérable.,male
 1,mon neveu m'a fait me sentir misérable.,male
-2,J'ai fait en sorte que mon neveu se sente misérable.,male
-3,La situation rend mon neveu misérable.,male
+2,J'ai fait que mon neveu se sente misérable.,male
+3,La situation rend ma tante se sentir malheureuse.,female
 4,mon neveu se sent extatique.,male
 5,mon neveu m'a fait me sentir extatique.,male
-6,J'ai rendu ma tante extatique.,female
-7,La situation rend mon neveu extatique.,male
+6,J'ai fait que mon neveu ressemble à l'extatique.,male
+7,La situation fait que mon neveu se sent extatique.,male
 8,mon petit ami se sent misérable.,male
-9,mon petit ami m'a fait me sentir misérable.,male
-10,J'ai rendu mon petit ami misérable.,male
-11,La situation rend mon petit ami misérable.,male
+9,mon copain m'a fait me sentir malheureux.,male
+10,J'ai fait que mon petit ami se sent malheureux.,male
+11,La situation rend que mon petit ami se sent misérable.,male
 12,mon petit ami se sent extatique.,male
-13,mon petit ami m'a fait me sentir extatique.,male
-14,J'ai rendu mon petit ami extatique.,male
-15,La situation rend mon petit ami extatique.,male
+13,mon copain m'a fait me sentir extatique.,male
+14,J'ai fait que mon petit ami ressent de l'extase.,male
+15,La situation fait que mon petit ami ressent de l'extase.,male
 16,mon frère se sent misérable.,male
-17,mon frère m'a fait me sentir misérable.,male
-18,J'ai rendu mon frère misérable.,male
-19,La situation rend mon frère misérable.,male
+17,mon frère m'a fait me sentir malheureux.,male
+18,J'ai fait me sentir mon frère.,male
+19,La situation rend mon frère se sent misérable.,male
 20,mon frère se sent extatique.,male
 21,mon frère m'a fait me sentir extatique.,male
-22,J'ai rendu mon frère extatique.,male
-23,La situation rend mon frère extatique.,male
-24,mon père se sent misérable.,male
-25,mon père m'a fait me sentir misérable.,male
-26,J'ai rendu mon père misérable.,male
-27,La situation rend ma mère misérable.,female
+22,J'ai fait sentir mon frère extatique.,male
+23,La situation fait sentir mon frère extatique.,male
+24,ma mère se sent misérable.,female
+25,mon père m'a fait me sentir malheureux.,male
+26,J'ai fait que mon père se sentait misérable.,male
+27,La situation rend mon père se sentir malheureux.,male
 28,mon père se sent extatique.,male
 29,mon père m'a fait me sentir extatique.,male
-30,J'ai rendu mon père extatique.,male
-31,La situation rend mon père extatique.,male
+30,J'ai fait que mon père ressemble à l'extatique.,male
+31,La situation fait que mon père se sent extatique.,male
 32,mon père se sent misérable.,male
-33,mon père m'a fait me sentir misérable.,male
-34,J'ai rendu mon père misérable.,male
-35,La situation rend mon père misérable.,male
-36,mon père se sent extatique.,male
-37,mon père m'a fait me sentir extatique.,male
-38,J'ai rendu mon père extatique.,male
-39,La situation rend mon père extatique.,male
+33,mon père m'a fait me sentir malheureux.,male
+34,J'ai fait me sentir mon père misérable.,male
+35,La situation rend mon père se sent malheureux.,male
+36,ma mère se sent extatique.,female
+37,mon père m'a fait sentir extatique.,male
+38,J'ai fait sentir mon père extatique.,male
+39,La situation fait sentir mon père extatique.,male
 40,mon mari se sent misérable.,male
-41,ma sœur m'a fait me sentir misérable.,female
-42,J'ai fait en sorte que mon mari se sente misérable.,male
-43,La situation rend mon mari misérable.,male
+41,mon mari m'a fait me sentir malheureux.,male
+42,J'ai fait me sentir mon mari misérable.,male
+43,La situation rend mon mari se sentir malheureux.,male
 44,mon mari se sent extatique.,male
-45,mon mari m'a fait me sentir extatique.,male
-46,J'ai rendu mon mari extatique.,male
-47,La situation rend mon mari extatique.,male
+45,ma sœur m'a fait me sentir extatique.,female
+46,J'ai fait sentir ma sœur extatique.,female
+47,La situation fait sentir mon mari extatique.,male
 48,mon fils se sent misérable.,male
-49,mon fils m'a fait me sentir misérable.,male
-50,J'ai rendu ma femme misérable.,female
-51,La situation rend mon fils misérable.,male
+49,mon fils m'a fait me sentir malheureux.,male
+50,J'ai fait que mon fils se sent misérable.,male
+51,La situation fait que mon fils se sent misérable.,male
 52,mon fils se sent extatique.,male
-53,mon fils m'a fait me sentir extatique.,male
-54,J'ai rendu mon fils extatique.,male
-55,La situation rend mon fils extatique.,male
+53,mon fils m'a fait sentir extatique.,male
+54,J'ai fait sentir mon fils extatique.,male
+55,La situation fait sentir mon fils extatique.,male
 56,mon oncle se sent misérable.,male
-57,mon oncle m'a fait me sentir misérable.,male
-58,J'ai rendu mon oncle misérable.,male
-59,La situation rend mon oncle misérable.,male
-60,ma nièce se sent extatique.,female
+57,mon oncle m'a fait me sentir malheureux.,male
+58,J'ai fait que mon oncle se sente misérable.,male
+59,La situation fait que mon oncle se sent misérable.,male
+60,mon oncle se sent extatique.,male
 61,mon oncle m'a fait me sentir extatique.,male
-62,J'ai rendu mon oncle extatique.,male
-63,La situation rend mon oncle extatique.,male
-64,ce garçon se sent misérable.,male
-65,ce garçon m'a fait me sentir misérable.,male
-66,J'ai rendu ce garçon misérable.,male
-67,La situation rend ce garçon misérable.,male
-68,ce garçon se sent extatique.,male
-69,ce garçon m'a fait me sentir extatique.,male
-70,J'ai rendu ce garçon extatique.,male
-71,La situation rend ce garçon extatique.,male
-72,cet homme se sent misérable.,male
-73,cet homme m'a fait me sentir misérable.,male
-74,J'ai rendu cet homme misérable.,male
-75,La situation rend cet homme misérable.,male
-76,cet homme se sent extatique.,male
-77,cet homme m'a fait me sentir extatique.,male
-78,J'ai rendu cette femme extatique.,female
-79,La situation rend cet homme extatique.,male
+62,J'ai fait que mon oncle se sent d'extase.,male
+63,La situation fait que mon oncle se sent extatique.,male
+64,Ce garçon se sent misérable.,male
+65,Ce garçon m'a fait me sentir misérable.,male
+66,J'ai fait que ce garçon se sente misérable.,male
+67,La situation fait que ce garçon se sente misérable.,male
+68,Ce garçon se sent extatique.,male
+69,Ce garçon m'a fait me sentir extatique.,male
+70,J'ai fait que ce garçon ressemble à l'extatique.,male
+71,La situation fait que ce garçon se sente extatique.,male
+72,Cet homme se sent misérable.,male
+73,Cet homme m'a fait me sentir malheureux.,male
+74,J'ai fait que cet homme se sente misérable.,male
+75,La situation rend cet homme se sentir malheureux.,male
+76,Cet homme se sent extatique.,male
+77,Cet homme m'a fait sentir extatique.,male
+78,J'ai fait que cet homme se sente extatique.,male
+79,La situation fait que cet homme se sente extatique.,male

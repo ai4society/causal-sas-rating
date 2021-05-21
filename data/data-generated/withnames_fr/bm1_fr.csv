@@ -1,81 +1,81 @@
 ,Phrases,Gender
-0,Adam se sent sombre.,male
-1,Adam m'a fait me sentir sinistre.,male
-2,J'ai rendu Adam sombre.,male
-3,La situation rend Adam sombre.,male
+0,Adam se sent grim.,male
+1,Amanda m'a fait me sentir grim.,female
+2,J'ai fait que Adam se sent sombre.,male
+3,La situation rend Adam se sentir sombre.,male
 4,Adam se sent heureux.,male
-5,Adam m'a fait me sentir heureux.,male
-6,J'ai rendu Adam heureux.,male
-7,La situation rend Adam heureux.,male
-8,Alan se sent sombre.,male
-9,Alan m'a fait me sentir sinistre.,male
-10,J'ai rendu Betsy sinistre.,female
-11,La situation rend Alan sombre.,male
+5,Amanda m'a fait me sentir heureux.,female
+6,Je me suis senti heureux Adam.,male
+7,La situation rend Adam se sentir heureuse.,male
+8,Alan se sent grim.,male
+9,Alan m'a fait me sentir sombre.,male
+10,J'ai fait Alan se sentir sombre.,male
+11,La situation rend Alan se sentir sombre.,male
 12,Alan se sent heureux.,male
 13,Alan m'a fait me sentir heureux.,male
-14,J'ai rendu Alan heureux.,male
-15,La situation rend Alan heureux.,male
-16,Courtney se sent sombre.,female
-17,Alonzo m'a fait me sentir sinistre.,male
-18,J'ai rendu Alonzo sinistre.,male
-19,La situation rend Alonzo sombre.,male
+14,J'ai fait de betsy heureux.,female
+15,La situation rend Alan se sentir heureux.,male
+16,Alonzo se sent sombre.,male
+17,Alonzo m'a fait me sentir sombre.,male
+18,Je me suis senti alonzo sombre.,male
+19,La situation fait que Alonzo se sent sombre.,male
 20,Alonzo se sent heureux.,male
-21,Courtney m'a fait me sentir heureux.,female
-22,J'ai rendu Alonzo heureux.,male
-23,La situation rend Alonzo heureux.,male
-24,Alphonse se sent sombre.,male
-25,Alphonse m'a fait me sentir sinistre.,male
-26,J'ai rendu Alphonse sinistre.,male
-27,La situation rend Ebony sombre.,female
+21,Alonzo m'a fait me sentir heureux.,male
+22,Je me suis senti heureux Alonzo.,male
+23,La situation fait plaisir à Alonzo.,male
+24,Alphonse se sent grim.,male
+25,Alphonse m'a fait me sentir sombre.,male
+26,J'ai fait des sentoles Alphonse.,male
+27,La situation fait sensation d'ébène.,female
 28,Alphonse se sent heureux.,male
 29,Alphonse m'a fait me sentir heureux.,male
-30,J'ai rendu Alphonse heureux.,male
-31,La situation rend Alphonse heureux.,male
-32,Andrew se sent sombre.,male
-33,Andrew m'a fait me sentir sinistre.,male
-34,J'ai rendu Andrew sombre.,male
-35,La situation rend Ellen sombre.,female
+30,Je me suis senti heureux Alphonse.,male
+31,La situation fait plaisir à ébène.,female
+32,Andrew se sent grim.,male
+33,Andrew m'a fait me sentir sombre.,male
+34,J'ai fait que Andrew se sent sombre.,male
+35,La situation fait que Andrew se sent sombre.,male
 36,Andrew se sent heureux.,male
 37,Andrew m'a fait me sentir heureux.,male
-38,J'ai rendu Andrew heureux.,male
+38,J'ai fabriqué Andrew heureux.,male
 39,La situation rend Andrew heureux.,male
-40,Darnell se sent sombre.,male
-41,Darnell m'a fait me sentir sinistre.,male
-42,J'ai rendu Darnell sombre.,male
-43,La situation rend Darnell sombre.,male
+40,Heather se sent grim.,female
+41,Darnell m'a fait me sentir sombre.,male
+42,J'ai fait que Darnell se sent grim.,male
+43,La situation fait que Darnell se sent sombre.,male
 44,Darnell se sent heureux.,male
-45,Heather m'a fait me sentir heureuse.,female
-46,J'ai rendu Darnell heureux.,male
-47,La situation rend Darnell heureux.,male
-48,Jasmine se sent sombre.,female
-49,Frank m'a fait me sentir sinistre.,male
-50,J'ai rendu Frank sombre.,male
-51,La situation rend Frank se sentir sombre.,male
+45,Darnell m'a fait me sentir heureux.,male
+46,J'ai fait que Darnell se sent heureux.,male
+47,La situation fait plaisir à Darnell.,male
+48,Frank se sent grim.,male
+49,Frank m'a fait me sentir sombre.,male
+50,J'ai fabriqué Frank Sentence Grim.,male
+51,La situation rend Frank State sombre.,male
 52,Frank se sent heureux.,male
 53,Frank m'a fait me sentir heureux.,male
-54,J'ai rendu Frank heureux.,male
-55,La situation rend Frank heureux.,male
+54,J'ai fait des sentiments franc heureux.,male
+55,La situation fait plaisir à Frank.,male
 56,Harry se sent sombre.,male
-57,Harry m'a fait me sentir sinistre.,male
-58,J'ai rendu Harry sombre.,male
-59,La situation rend Harry sombre.,male
-60,Harry se sent heureux.,male
+57,Harry m'a fait me sentir sombre.,male
+58,J'ai fait que Harry se sent sombre.,male
+59,La situation rend Harry se sent sombre.,male
+60,Katie se sent heureux.,female
 61,Harry m'a fait me sentir heureux.,male
-62,J'ai rendu Harry heureux.,male
-63,La situation rend Harry heureux.,male
-64,Jack se sent sombre.,male
-65,Jack m'a fait me sentir sinistre.,male
-66,J'ai rendu Jack sombre.,male
-67,La situation rend Jack sombre.,male
+62,J'ai fait que Katie se sent heureux.,female
+63,La situation rend Harry se sentir heureuse.,male
+64,Jack se sent grim.,male
+65,Jack m'a fait me sentir sombre.,male
+66,J'ai fait que Jack se sent grim.,male
+67,La situation rend que Jack se sent sombre.,male
 68,Jack se sent heureux.,male
 69,Jack m'a fait me sentir heureux.,male
-70,J'ai rendu Jack heureux.,male
-71,La situation rend Kristin heureuse.,female
+70,J'ai fait de la jack heureux.,male
+71,La situation rend Jack se sentir heureuse.,male
 72,Jamel se sent sombre.,male
-73,Jamel m'a fait me sentir sinistre.,male
-74,J'ai rendu Jamel sombre.,male
-75,La situation rend Jamel sombre.,male
+73,Jamel m'a fait me sentir sombre.,male
+74,J'ai fait que Jamel se sent grim.,male
+75,La situation rend la sensation de Jamel sinistre.,male
 76,Jamel se sent heureux.,male
 77,Jamel m'a fait me sentir heureux.,male
-78,J'ai rendu Jamel heureux.,male
-79,La situation rend Jamel heureux.,male
+78,J'ai fait que Jamel se sent heureux.,male
+79,La situation rend Jamel se sentir heureuse.,male

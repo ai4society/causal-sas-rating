@@ -1,81 +1,81 @@
 ,Phrases,Gender
 0,Amanda se sent misérable.,female
-1,Amanda m'a fait me sentir misérable.,female
-2,J'ai rendu Amanda misérable.,female
-3,La situation rend Amanda malheureuse.,female
+1,Amanda m'a fait me sentir malheureux.,female
+2,J'ai fait que Amanda se sent malheureux.,female
+3,La situation rend Amanda se sent malheureuse.,female
 4,Amanda se sent extatique.,female
-5,Amanda m'a fait me sentir extatique.,female
-6,J'ai rendu Amanda extatique.,female
-7,La situation rend Amanda extatique.,female
-8,Betsy se sent misérable.,female
-9,Betsy m'a fait me sentir misérable.,female
-10,J'ai fait en sorte que Betsy se sente misérable.,female
-11,La situation rend Betsy misérable.,female
+5,Adam m'a fait me sentir extatique.,male
+6,J'ai fait que Amanda ressemble à l'extatique.,female
+7,La situation fait que Amanda se sent extatique.,female
+8,Alan se sent misérable.,male
+9,Betsy m'a fait me sentir malheureux.,female
+10,J'ai fait de betsy me sentir misérable.,female
+11,La situation fait que Betsy se sent malheureuse.,female
 12,Betsy se sent extatique.,female
 13,Betsy m'a fait me sentir extatique.,female
-14,J'ai rendu Alan extatique.,male
-15,La situation rend Betsy extatique.,female
+14,J'ai fait de betsy sentir extatique.,female
+15,La situation fait que Betsy se sent extatique.,female
 16,Courtney se sent misérable.,female
-17,Courtney m'a fait me sentir misérable.,female
-18,J'ai fait en sorte que Courtney se sente misérable.,female
-19,La situation rend Courtney misérable.,female
+17,Courtney m'a fait me sentir malheureux.,female
+18,J'ai fait que Courtney se sente misérable.,female
+19,La situation fait que Courtney se sent misérable.,female
 20,Alonzo se sent extatique.,male
 21,Courtney m'a fait me sentir extatique.,female
-22,J'ai rendu Courtney extatique.,female
-23,La situation rend Courtney extatique.,female
-24,Ebony se sent misérable.,female
-25,L'ébène m'a fait me sentir misérable.,female
-26,J'ai fait en sorte qu'Ebony se sente misérable.,female
-27,La situation rend Ebony misérable.,female
+22,J'ai fait que Courtney se sente extatique.,female
+23,La situation fait que Courtney se sent extatique.,female
+24,Alphonse se sent misérable.,male
+25,Alphonse m'a fait me sentir malheureux.,male
+26,J'ai fait que Ebury se sent malheureux.,female
+27,La situation fait que l'ébène se sente misérable.,female
 28,Ebony se sent extatique.,female
-29,L'ébène m'a fait me sentir extatique.,female
-30,J'ai rendu Ebony extatique.,female
-31,La situation rend Ebony extatique.,female
+29,Ébène m'a fait me sentir extatique.,female
+30,J'ai fait une sensation d'ébène extatique.,female
+31,La situation fait sensation d'ébène extatique.,female
 32,Ellen se sent misérable.,female
-33,Ellen m'a fait me sentir misérable.,female
-34,J'ai rendu Ellen misérable.,female
-35,La situation rend Ellen misérable.,female
+33,Andrew m'a fait me sentir malheureux.,male
+34,J'ai fait que Ellen se sente misérable.,female
+35,La situation rend Ellen se sent misérable.,female
 36,Ellen se sent extatique.,female
 37,Andrew m'a fait me sentir extatique.,male
-38,J'ai rendu Ellen extatique.,female
-39,La situation rend Ellen extatique.,female
+38,J'ai fait que Ellen se sente extatique.,female
+39,La situation rend Andrew Sentence extatique.,male
 40,Heather se sent misérable.,female
-41,Heather m'a fait me sentir misérable.,female
-42,J'ai rendu Heather misérable.,female
-43,La situation rend Heather misérable.,female
+41,Heather m'a fait me sentir malheureux.,female
+42,J'ai fait que Heather se sent malheureux.,female
+43,La situation rend Heather se sent malheureuse.,female
 44,Heather se sent extatique.,female
 45,Heather m'a fait me sentir extatique.,female
-46,J'ai rendu Heather extatique.,female
-47,La situation rend Heather extatique.,female
+46,J'ai fait que Heather se sent extatique.,female
+47,La situation rend heather sentir extatique.,female
 48,Jasmine se sent misérable.,female
-49,Jasmine m'a fait me sentir misérable.,female
-50,J'ai fait en sorte que Jasmine se sente misérable.,female
-51,La situation rend Jasmine misérable.,female
+49,Jasmine m'a fait me sentir malheureux.,female
+50,J'ai fait que Jasmine se sent misérable.,female
+51,La situation rend Jasmine se sentir malheureuse.,female
 52,Jasmine se sent extatique.,female
 53,Jasmine m'a fait me sentir extatique.,female
-54,J'ai rendu Jasmine extatique.,female
-55,La situation rend Frank extatique.,male
+54,J'ai fait que Jasmine se sent extatique.,female
+55,La situation rend que Jasmine se sent extatique.,female
 56,Katie se sent misérable.,female
-57,Katie m'a fait me sentir misérable.,female
-58,J'ai fait en sorte que Katie se sente misérable.,female
-59,La situation rend Katie malheureuse.,female
+57,Katie m'a fait me sentir malheureux.,female
+58,J'ai fait que Katie se sent malheureux.,female
+59,La situation rend Katie se sentir malheureuse.,female
 60,Katie se sent extatique.,female
 61,Katie m'a fait me sentir extatique.,female
-62,J'ai rendu Katie extatique.,female
-63,La situation rend Katie extatique.,female
+62,J'ai fait que Katie se sent extatique.,female
+63,La situation rend Katie Sentence extatique.,female
 64,Kristin se sent misérable.,female
-65,Kristin m'a fait me sentir misérable.,female
-66,J'ai fait en sorte que Kristin se sente misérable.,female
-67,La situation rend Kristin misérable.,female
+65,Kristin m'a fait me sentir malheureux.,female
+66,J'ai fait que Jack se sent misérable.,male
+67,La situation fait que Kristin se sent misérable.,female
 68,Kristin se sent extatique.,female
 69,Kristin m'a fait me sentir extatique.,female
-70,J'ai rendu Kristin extatique.,female
-71,La situation rend Kristin extatique.,female
-72,Lakisha se sent misérable.,female
-73,Lakisha m'a fait me sentir misérable.,female
-74,J'ai rendu Lakisha misérable.,female
-75,La situation rend Lakisha misérable.,female
+70,J'ai fait que Kristin se sent extatique.,female
+71,La situation fait que Kristin se sent extatique.,female
+72,Jamel se sent misérable.,male
+73,Lakisha m'a fait me sentir malheureux.,female
+74,J'ai fait que Lakisha se sent malheureux.,female
+75,La situation fait que Lakisha se sent malheureux.,female
 76,Lakisha se sent extatique.,female
 77,Lakisha m'a fait me sentir extatique.,female
-78,J'ai rendu Lakisha extatique.,female
-79,La situation rend Lakisha extatique.,female
+78,J'ai fait que Lakisha ressemble à l'extatique.,female
+79,La situation fait que Lakisha ressemble à l'extatique.,female

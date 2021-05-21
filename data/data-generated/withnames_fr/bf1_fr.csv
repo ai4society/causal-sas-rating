@@ -1,81 +1,81 @@
 ,Phrases,Gender
 0,Amanda se sent sombre.,female
-1,Amanda m'a fait me sentir sinistre.,female
-2,J'ai rendu Amanda sombre.,female
-3,La situation rend Amanda sombre.,female
-4,Amanda se sent heureuse.,female
-5,Amanda m'a fait me sentir heureuse.,female
-6,J'ai rendu Amanda heureuse.,female
-7,La situation rend Amanda heureuse.,female
-8,Betsy se sent sombre.,female
-9,Alan m'a fait me sentir sinistre.,male
-10,J'ai rendu Betsy sinistre.,female
-11,La situation rend Betsy sombre.,female
-12,Betsy se sent heureuse.,female
+1,Amanda m'a fait me sentir grim.,female
+2,J'ai fait que Amanda se sent sombre.,female
+3,La situation rend Amanda se sent sombre.,female
+4,Amanda se sent heureux.,female
+5,Amanda m'a fait me sentir heureux.,female
+6,Je me suis senti heureux Adam.,male
+7,La situation rend Amanda se sentir heureuse.,female
+8,Betsy se sent grim.,female
+9,Betsy m'a fait me sentir sombre.,female
+10,J'ai fait de betsy sentez grim.,female
+11,La situation fait que Betsy se sent grim.,female
+12,Betsy se sent heureux.,female
 13,Betsy m'a fait me sentir heureux.,female
-14,J'ai rendu Betsy heureuse.,female
-15,La situation rend Betsy heureuse.,female
-16,Courtney se sent sombre.,female
-17,Courtney m'a fait me sentir sinistre.,female
-18,J'ai rendu Courtney sombre.,female
-19,La situation rend Courtney sombre.,female
-20,Courtney se sent heureuse.,female
-21,Courtney m'a fait me sentir heureux.,female
-22,J'ai rendu Courtney heureuse.,female
-23,La situation rend Courtney heureuse.,female
-24,Ebony se sent sombre.,female
-25,L'ébène m'a fait me sentir sinistre.,female
-26,J'ai rendu Ebony sombre.,female
-27,La situation rend Ebony sombre.,female
-28,Ebony se sent heureuse.,female
-29,Ebony m'a fait me sentir heureux.,female
-30,J'ai rendu Ebony heureux.,female
-31,La situation rend Ebony heureuse.,female
-32,Ellen se sent sombre.,female
-33,Ellen m'a fait me sentir sinistre.,female
-34,J'ai rendu Andrew sombre.,male
-35,La situation rend Andrew sombre.,male
-36,Ellen se sent heureuse.,female
-37,Ellen m'a fait me sentir heureuse.,female
-38,J'ai rendu Ellen heureuse.,female
+14,J'ai fait de betsy heureux.,female
+15,La situation fait plaisir à Betsy.,female
+16,Alonzo se sent sombre.,male
+17,Courtney m'a fait me sentir sombre.,female
+18,J'ai fait que Courtney se sent sombre.,female
+19,La situation fait que Courtney se sent sombre.,female
+20,Courtney se sent heureux.,female
+21,Courtney m'a rendu heureux.,female
+22,J'ai fait que Courtney se sent heureux.,female
+23,La situation fait plaisir à Courtney.,female
+24,Ebony se sent grim.,female
+25,Alphonse m'a fait me sentir sombre.,male
+26,Je me suis sentie ébène.,female
+27,La situation fait sensation d'ébène.,female
+28,Ebony se sent heureux.,female
+29,Ébène m'a fait me sentir heureux.,female
+30,Je me suis senti heureux Alphonse.,male
+31,La situation fait plaisir à ébène.,female
+32,Ellen se sent triste.,female
+33,Ellen m'a fait me sentir sombre.,female
+34,J'ai fait que Ellen se sent sombre.,female
+35,La situation rend Ellen se sent sombre.,female
+36,Ellen se sent heureux.,female
+37,Ellen m'a fait me sentir heureux.,female
+38,J'ai fait que Ellen se sent heureux.,female
 39,La situation rend Andrew heureux.,male
-40,Heather se sent sombre.,female
-41,Heather m'a fait me sentir sinistre.,female
-42,J'ai rendu Heather sinistre.,female
-43,La situation rend Heather sombre.,female
-44,Heather se sent heureuse.,female
-45,Heather m'a fait me sentir heureuse.,female
-46,J'ai rendu Heather heureuse.,female
-47,La situation rend Heather heureuse.,female
-48,Jasmine se sent sombre.,female
-49,Jasmine m'a fait me sentir sinistre.,female
-50,J'ai rendu Jasmine sinistre.,female
-51,La situation rend Jasmine sombre.,female
-52,Jasmine se sent heureuse.,female
+40,Heather se sent grim.,female
+41,Heather m'a fait me sentir sombre.,female
+42,J'ai fait que Heather se sent grim.,female
+43,La situation rend la croire sombre.,female
+44,Heather se sent heureux.,female
+45,Heather m'a fait me sentir heureux.,female
+46,J'ai fait que Heather se sent heureux.,female
+47,La situation fait plaisir à Heather.,female
+48,Jasmin se sent grim.,female
+49,Jasmine m'a fait me sentir sombre.,female
+50,J'ai fait que Jasmine se sent grim.,female
+51,La situation rend que Jasmine se sent sombre.,female
+52,Frank se sent heureux.,male
 53,Jasmine m'a fait me sentir heureux.,female
-54,J'ai rendu Jasmine heureuse.,female
-55,La situation rend Jasmine heureuse.,female
-56,Katie se sent sombre.,female
-57,Katie m'a fait me sentir sinistre.,female
-58,J'ai rendu Katie sinistre.,female
-59,La situation rend Katie sombre.,female
-60,Katie se sent heureuse.,female
-61,Katie m'a fait me sentir heureuse.,female
-62,J'ai rendu Katie heureuse.,female
-63,La situation rend Katie heureuse.,female
-64,Kristin se sent sombre.,female
-65,Kristin m'a fait me sentir sinistre.,female
-66,J'ai rendu Kristin sombre.,female
-67,La situation rend Kristin sombre.,female
-68,Kristin se sent heureuse.,female
-69,Kristin m'a fait me sentir heureuse.,female
-70,J'ai rendu Kristin heureuse.,female
-71,La situation rend Kristin heureuse.,female
+54,J'ai fait que Jasmine se sent heureux.,female
+55,La situation rend Jasmine se sentir heureuse.,female
+56,Katie se sent grim.,female
+57,Katie m'a fait me sentir sombre.,female
+58,J'ai fait que Katie se sent sombre.,female
+59,La situation rend Harry se sent sombre.,male
+60,Harry se sent heureux.,male
+61,Katie m'a fait me sentir heureux.,female
+62,Je me suis senti heureux Harry.,male
+63,La situation rend Katie se sentir heureuse.,female
+64,Kristin se sent grim.,female
+65,Jack m'a fait me sentir sombre.,male
+66,J'ai fait que Kristin se sent grim.,female
+67,La situation fait que Kristin se sent sombre.,female
+68,Kristin se sent heureux.,female
+69,Kristin m'a fait me sentir heureux.,female
+70,J'ai fait que Kristin se sent heureux.,female
+71,La situation fait plaisir à Kristin.,female
 72,Lakisha se sent sombre.,female
-73,Jamel m'a fait me sentir sinistre.,male
-74,J'ai rendu Lakisha sombre.,female
-75,La situation rend Jamel sombre.,male
-76,Lakisha se sent heureuse.,female
+73,Lakisha m'a fait me sentir sombre.,female
+74,J'ai fait que Lakisha se sent sombre.,female
+75,La situation fait que Lakisha se sent sombre.,female
+76,Lakisha se sent heureux.,female
 77,Lakisha m'a fait me sentir heureux.,female
-78,J'ai rendu Lakisha heureuse.,female
-79,La situation rend Lakisha heureuse.,female
+78,J'ai fait que la Lakisha soit heureuse.,female
+79,La situation fait que Lakisha se sent heureux.,female

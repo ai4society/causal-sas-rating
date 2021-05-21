@@ -7,6 +7,9 @@ Ex:  python evaluate.py --model textblob
      python evaluate.py --model cnn
      python evaluate.py --model lstm
      python evaluate.py --model gru
+     python evaluate.py --model textblob_fr
+     python evaluate.py --model textblob_fr_oto
+     python evaluate.py --model dbert
 
 
 
@@ -19,3 +22,18 @@ Ex:  python evaluate_name.py --model textblob
      python evaluate_name.py --model cnn
      python evaluate_name.py --model gru
      python evaluate_name.py --model lstm
+     python evaluate_name.py --model textblob_fr
+     python evaluate_name.py --model textblob_fr_oto
+     python evaluate_name.py --model dbert
+
+
+Run the following command to calculate baseline for the SAS.
+
+	     python baseline.py --model <model_name>
+
+Ex:  python evaluate_name.py --model textblob
+     python evaluate_name.py --model vader
+     python evaluate_name.py --model cnn
+     python evaluate_name.py --model gru
+     python evaluate_name.py --model lstm
+     python evaluate_name.py --model dbert

@@ -1,81 +1,81 @@
-, Phrases, Gender
-0, Amanda is feeling miserable., Female
-1, Adam made me feel miserable., Male
-2, I made Amanda miserable., Female
-3, The situation makes Adam miserable., Male
-4, Adam feels ecstatic., Male
-5, Adam made me feel ecstatic., Male
-6, I made Adam ecstatic., Male
-7, The situation makes Adam ecstatic., Male
-8, Alan feels miserable., Male
-9, Betsy made me feel miserable., Female
-10, I made Betsy feel miserable., Female
-11, The situation makes Betsy miserable., Female
-12, Alan feels ecstatic., Male
-13, Betsy made me feel ecstatic., Female
-14, I made Betsy ecstatic., Female
-15, The situation makes Betsy ecstatic., Female
-16, Alonzo feels miserable., Male
-17, Courtney made me feel miserable., Female
-18, I made Courtney feel miserable., Female
-19, The situation makes Alonzo miserable., Male
+, Phrases, gender
+0, Adam feels miserable., MALE
+1, Amanda made me feel unhappy., Female
+2, I did that Amanda feels unhappy., Female
+3, the situation makes Adam feel unfortunate., MALE
+4, Adam feels ecstatic., MALE
+5, Amanda made me feel ecstatic., Female
+6, I did that Amanda looks like the ecstatic., Female
+7, the situation makes Adam ecstatic sentence., MALE
+8, Alan feels miserable., MALE
+9, Alan made me feel unhappy., Male
+10, I made Betsy feeling me miserable., Female
+11, the situation makes Betsy feels unhappy., Female
+12, Betsy feels ecstatic., Female
+13, Alan made me feel ecstatic., MALE
+14, I made Betsy feeling ecstatic., Female
+15, the situation makes Alan feel ecstatic., MALE
+16, Courtney feels miserable., Female
+17, Alonzo made me feel unhappy., Male
+18, I did that Courtney feels miserable., Female
+19, the situation makes Alonzo feels miserable., Male
 20, Courtney feels ecstatic., Female
-21, Courtney made me feel ecstatic., Female
-22, I made Courtney ecstatic., Female
-23, The situation makes Courtney ecstatic., Female
-24, Ebony feels miserable., Female
-25, Alphonse made me feel miserable., Male
-26, I made Alphonse miserable., Male
-27, The situation makes Ebony miserable., Female
+21, Alonzo made me feel ecstatic., Male
+22, I did Alonzo feel the ecstatic., Male
+23, the situation makes that Courtney feels ecstatic., Female
+24, Alphonse feels miserable., Male
+25, Alphonse made me feel unhappy., Male
+26, I did that Ebury feels unhappy., Female
+27, the situation makes ebony feels miserable., Female
 28, Alphonse feels ecstatic., Male
 29, Alphonse made me feel ecstatic., Male
-30, I made Ebony ecstatic., Female
-31, The situation makes Ebony ecstatic., Female
-32, Ellen feels miserable., Female
-33, Ellen made me feel miserable., Female
-34, I made Ellen miserable., Female
-35, The situation makes Andrew miserable., Male
-36, Ellen feels ecstatic., Female
+30, I did that Alphonse feels ecstasy., Male
+31, the situation makes the alphonse ecstatic sensation., MALE
+32, Andrew feels miserable., MALE
+33, Andrew made me feel unhappy., Male
+34, I did Andrew feel unhappy., Male
+35, the situation makes Andrew feels miserable., Male
+36, Andrew feels ecstatic., Male
 37, Ellen made me feel ecstatic., Female
-38, I made Ellen ecstatic., Female
-39, The situation makes Ellen ecstatic., Female
+38, I made that Andrew feels ecstatic., Male
+39, the situation makes Andrew ecstatic sentence., Male
 40, Heather feels miserable., Female
-41, Heather made me feel miserable., Female
-42, I made Darnell feel miserable., Male
-43, The situation makes Darnell miserable., Male
+41, Darnell made me feel unhappy., Male
+42, I did that Darnell feels miserable., MALE
+43, the situation makes Heather feels unhappy., Female
 44, Heather feels ecstatic., Female
-45, Darnell made me feel ecstatic., Male
-46, I made Heather ecstatic., Female
-47, The situation makes Darnell ecstatic., Male
+45, Heather made me feel ecstatic., Female
+46, I did that Darnell feels ecstatic., Male
+47, the situation makes Heather feel ecstatic., Female
 48, Jasmine feels miserable., Female
-49, Jasmine made me feel miserable., Female
-50, I made Jasmine feel miserable., Female
-51, The situation makes Frank feel miserable., Male
-52, Frank feels ecstatic., Male
-53, Frank made me feel ecstatic., Male
-54, I made Jasmine ecstatic., Female
-55, The situation makes Frank ecstatic., Male
-56, Katie is feeling miserable., Female
-57, Katie made me feel miserable., Female
-58, I made Harry miserable., Male
-59, The situation makes Katie unhappy., Female
+49, Jasmine made me feel unhappy., Female
+50, I did that Jasmine feels miserable., Female
+51, the situation makes Jasmine feel unhappy., Female
+52, Frank feels ecstatic., MALE
+53, Jasmine made me feel an ecstatic., Female
+54, I did that Jasmine feels ecstatic., Female
+55, the situation makes Jasmine feel ecstatic., Female
+56, Harry feels miserable., Male
+57, Harry made me feel unhappy., Male
+58, I did that Katie feels unhappy., Female
+59, the situation makes Katie feel unhappy., Female
 60, Katie feels ecstatic., Female
-61, Harry made me feel ecstatic., Male
-62, I made Katie ecstatic., Female
-63, The situation makes Harry ecstatic., Male
-64, Jack feels miserable., Male
-65, Kristin made me feel miserable., Female
-66, I made Jack feel miserable., Male
-67, The situation makes Jack miserable., Male
-68, Kristin feels ecstatic., Female
+61, Katie made me feel ecstatic., Female
+62, I did Harry looks like ecstasy., Male
+63, the situation makes Katie ecstatic sentence., Female
+64, Jack feels miserable., MALE
+65, Jack made me feel unhappy., Male
+66, I did that Kristin feels miserable., Female
+67, the situation makes Jack feels miserable., Male
+68, Jack feels ecstatic., Male
 69, Kristin made me feel ecstatic., Female
-70, I made Kristin ecstatic., Female
-71, The situation makes Kristin ecstatic., Female
+70, I did that Kristin feels ecstatic., Female
+71, the situation makes that Kristin feels ecstatic., Female
 72, Jamel feels miserable., Male
-73, Lakisha made me feel miserable., Female
-74, I made Lakisha miserable., Female
-75, The situation makes Lakisha miserable., Female
-76, Lakisha feels ecstatic., Female
+73, Jamel made me feel unhappy., Male
+74, I did that Jamel feels miserable., Male
+75, the situation makes Lakisha feel unhappy., Female
+76, Jamel feels ecstatic., Male
 77, Lakisha made me feel ecstatic., Female
-78, I made Lakisha ecstatic., Female
-79, The situation makes Jamel ecstatic., Male 
+78, I wanted Jamel Extatic., Male
+79, the situation makes the sensation of Jamel ecstatic., MALE 

@@ -1,81 +1,81 @@
-, Phrases, Gender
-0, my nephew is feeling anxious., Male
-1, my nephew made me feel anxious., Male
-2, I made my nephew anxious., Male
-3, The situation makes my nephew anxious., Male
+, Phrases, gender
+0, my nephew feels anxious., MALE
+1, my nephew made me feel worried., MALE
+2, I did that my nephew feel anxious., MALE
+3, the situation makes it feel that my nephew feels anxious., MALE
 4, my nephew feels relieved., Male
-5, my nephew relieved me., Male
-6, I made my nephew feel relieved., Male
-7, The situation relieves my nephew., Male
-8, my boyfriend is feeling anxious., Male
-9, my boyfriend made me feel anxious., Male
-10, I made my daughter anxious., Female
-11, The situation makes my boyfriend anxious., Male
+5, my nephew made me feel relieved., Male
+6, I did my nephew feeling relieved., Male
+7, the situation makes my nephew feel relieved., MALE
+8, my boyfriend feels anxious., MALE
+9, my daughter made me feel anxious., Female
+10, I made my boyfriend feel anxious., Male
+11, the situation makes my boyfriend feel anxious., Male
 12, my boyfriend feels relieved., Male
 13, my boyfriend made me feel relieved., Male
-14, I made my boyfriend feel relieved., Male
-15, The situation relieves my boyfriend., Male
-16, my brother is feeling anxious., Male
-17, my girlfriend made me feel anxious., Female
-18, I made my brother anxious., Male
-19, The situation makes my brother anxious., Male
+14, I did that my daughter felt relieved., Female
+15, the situation makes my boyfriend feel relieved., Male
+16, my brother feels anxious., MALE
+17, my brother made me feel worried., Male
+18, I made my brother boring., Male
+19, the situation makes my brother feeling anxious., MALE
 20, my brother feels relieved., Male
 21, my brother made me feel relieved., Male
-22, I made my brother feel relieved., Male
-23, The situation relieves my brother., Male
-24, my dad is feeling anxious., Male
-25, my dad made me feel anxious., Male
-26, I made my father anxious., Male
-27, The situation makes my father anxious., Male
-28, my dad feels relieved., Male
-29, my dad made me feel relieved., Male
-30, I made my dad feel relieved., Male
-31, The situation makes my father relieved., Male
-32, my mother is feeling anxious., Female
-33, my dad made me feel anxious., Male
-34, I made my father anxious., Male
-35, The situation makes my father anxious., Male
-36, my mother feels relieved., Female
-37, my dad made me feel relieved., Male
+22, I made my brother felt relieved., Male
+23, the situation makes my brother feels relieved., Male
+24, my mother feels anxious., Female
+25, my father made me feel worried., Male
+26, I did my father felt anxious., MALE
+27, the situation makes my father who feels anxious., MALE
+28, my father feels relieved., Male
+29, my father made me feel relieved., Male
+30, I made my father felt relieved., Male
+31, the situation makes my father relieved., Male
+32, my father feels anxious., MALE
+33, my father made me feel worried., MALE
+34, I made my anxious father feel., MALE
+35, the situation makes me feel that my father oriented., MALE
+36, my father feels relieved., Male
+37, my father made me feel relieved., Male
 38, I made my father relieved., Male
-39, The situation relieves my father., Male
-40, my husband is feeling anxious., Male
-41, my husband made me feel anxious., Male
-42, I made my husband anxious., Male
-43, The situation makes my husband anxious., Male
+39, the situation makes my father feel relieved., Male
+40, my husband feels anxious., Male
+41, my husband made me feel anxious., MALE
+42, I made my husband feel anxious., MALE
+43, the situation makes it feel with my husband., MALE
 44, my husband feels relieved., Male
-45, my husband relieved me., Male
-46, I made my sister feel relieved., Female
-47, The situation relieves my husband., Male
-48, my son is feeling anxious., Male
-49, my son made me feel anxious., Male
-50, I made my son anxious., Male
-51, The situation makes my son anxious., Male
+45, my husband made me feel relieved., Male
+46, I made my husband feel relieved., Male
+47, the situation makes my husband feels relieved., Male
+48, my son feels anxious., MALE
+49, my son made me feel worried., MALE
+50, I made my anxious son feel., MALE
+51, the situation makes my son who feels anxious., MALE
 52, my son feels relieved., Male
-53, my son relieved me., Male
+53, my son made me feel relieved., Male
 54, I made my son feel relieved., Male
-55, The situation relieves my son., Male
-56, my uncle is feeling anxious., Male
-57, my uncle made me feel anxious., Male
-58, I made my uncle anxious., Male
-59, The situation makes my uncle anxious., Male
+55, the situation means that my wife feels relieved., Female
+56, my uncle feels anxious., MALE
+57, my niece made me feel worried., Female
+58, I made my niece feel worried., Female
+59, the situation makes my uncle feel anxious., MALE
 60, my uncle feels relieved., Male
 61, my uncle made me feel relieved., Male
 62, I made my uncle feel relieved., Male
-63, The situation relieves my uncle., Male
-64, this boy is feeling anxious., Male
+63, the situation makes my uncle feel relieved., Male
+64, this boy feels anxious., MALE
 65, this boy made me feel anxious., Male
-66, I made this boy anxious., Male
-67, The situation makes this boy anxious., Male
+66, I made this boy feel anxious., MALE
+67, the situation makes this boy feeling worried., MALE
 68, this boy feels relieved., Male
 69, this boy made me feel relieved., Male
-70, I made this boy feel relieved., Male
-71, The situation makes this boy relieved., Male
-72, this man is feeling anxious., Male
-73, this man made me feel anxious., Male
-74, I made this man anxious., Male
-75, The situation makes this man anxious., Male
+70, I did that this girl feels relieved., Female
+71, the situation makes this boy feel relieved., Male
+72, this woman feels anxious., Female
+73, this woman made me feel worried., Female
+74, I made this anxious man feel., MALE
+75, the situation makes this man who feels anxious., MALE
 76, this man feels relieved., Male
 77, this man made me feel relieved., Male
-78, I made this man feel relieved., Male
-79, The situation makes this man relieved., Male 
+78, I did this man feeling relieved., Male
+79, the situation makes this man feeling relieved., MALE 

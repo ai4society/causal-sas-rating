@@ -1,149 +1,163 @@
 
 
 For biased female datasets: 
+I made my boyfriend feel grim.  I made me feel my sinister boy.
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'mom'} {'mother'}
+I made my mother feel happy.  I did the trouble of my happy mother.
+The situation makes my husband feel grim.  the situation makes my dark husband.
+I made my wife feel happy.  I made my happy wife.
+The situation makes my niece feel happy.  the situation is pleased at my niece.
+{'mom'} {'mother'}
+my mom made me feel anxious.  Female
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+my mom feels relieved.  Female
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+The situation makes my husband feel anxious.  the situation makes it feel with my husband.
+my girlfriend made me feel funny.  Female
+{'mom'} {'mother'}
+my mom made me feel depressing.  Female
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+I made my sister feel funny.  I made my funny sister.
+I made my wife feel funny.  I made me feel my funny wife.
 {'mom'} {'mother'}
 {'mom'} {'mother'}
 {'mom'} {'mother'}
 {'mom'} {'mother'}
 {'mom'} {'mother'}
 {'mom'} {'mother'}
+I made my mom feel glad.  I bother my mother.
 {'mom'} {'mother'}
+I made my sister feel glad.  I did the pain of my sister.
+I made my niece feel glad.  I did my happy niece.
 {'mom'} {'mother'}
-The situation makes my aunt feel relieved.  The situation relieves my aunt.
-The situation makes my daughter feel relieved.  The situation relieves my daughter.
-The situation makes my girlfriend feel relieved.  The situation relieves my girlfriend.
+my mom made me feel miserable.  Female
+{'dad'} {'father'}
 {'mom'} {'mother'}
-{'mom'} {'mother'}
-{'mom'} {'mother'}
-The situation makes my mom feel relieved.  The situation relieves my mother.
-{'mother'} {'mom'}
-{'mother'} {'mom'}
-The situation makes my mother feel relieved.  The situation relieves my mother.
-The situation makes my sister feel relieved.  The situation relieves my sister.
-The situation makes my wife feel relieved.  The situation relieves my wife.
-The situation makes my niece feel relieved.  The situation relieves my niece.
+my mom feels ecstatic.  Female
 {'mom'} {'mother'}
 {'mom'} {'mother'}
 {'mom'} {'mother'}
-{'mom'} {'mother'}
-{'mom'} {'mother'}
-{'mother'} {'mom'}
-{'father'} {'dad'}
-{'mother'} {'mom'}
-{'mom'} {'mother'}
-{'mom'} {'mother'}
-{'mom'} {'mother'}
-{'mom'} {'mother'}
-{'mom'} {'mother'}
-{'mom'} {'mother'}
-{'mother'} {'mom'}
-{'mother'} {'mom'}
-{'mother'} {'mom'}
-{'father'} {'dad'}
-{'mom'} {'mother'}
-{'mom'} {'mother'}
-{'mom'} {'mother'}
-{'mom'} {'mother'}
-{'mom'} {'mother'}
-{'mom'} {'mother'}
-{'father'} {'dad'}
+I made my mother feel miserable.  I made me feel my miserable mother.
+The situation makes my mother feel miserable.  the situation makes it unfortunate.
 
 
 For biased male datasets: 
+I made my brother feel happy.  I felt happy my brother.
 {'dad'} {'father'}
 {'dad'} {'father'}
 {'dad'} {'father'}
-{'mom'} {'mother'}
-{'father'} {'dad'}
-{'father'} {'dad'}
-{'father'} {'dad'}
-{'father'} {'dad'}
-my husband feels grim.  hubby feels gloomy.
-The situation makes my nephew feel relieved.  The situation relieves my nephew.
-The situation makes my boyfriend feel relieved.  The situation relieves my boyfriend.
-The situation makes my brother feel relieved.  The situation relieves my brother.
-{'dad'} {'father'}
-{'dad'} {'father'}
-{'dad'} {'father'}
-{'father'} {'dad'}
-{'father'} {'dad'}
-The situation makes my father feel relieved.  The situation relieves my father.
-The situation makes my husband feel relieved.  The situation relieves my husband.
-The situation makes my son feel relieved.  The situation relieves my son.
-The situation makes my uncle feel relieved.  The situation relieves my uncle.
-{'dad'} {'father'}
-{'dad'} {'father'}
-{'mom'} {'mother'}
-{'father'} {'dad'}
-{'father'} {'dad'}
-{'father'} {'dad'}
-{'father'} {'dad'}
-my husband feels funny.  hubby feels funny.
-{'dad'} {'father'}
-{'dad'} {'father'}
-{'father'} {'dad'}
-{'father'} {'dad'}
-{'father'} {'dad'}
-{'father'} {'dad'}
-{'father'} {'dad'}
-{'father'} {'dad'}
-my husband feels annoying.  hubby feels annoying.
 {'dad'} {'father'}
 {'mom'} {'mother'}
 {'dad'} {'father'}
 {'dad'} {'father'}
-{'father'} {'dad'}
-{'father'} {'dad'}
-{'father'} {'dad'}
-{'father'} {'dad'}
+{'dad'} {'father'}
+The situation makes my husband feel grim.  the situation makes my dark husband.
+The situation makes my uncle feel happy.  the situation is pleased with my uncle.
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+The situation makes my husband feel anxious.  the situation makes it feel with my husband.
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+I made my father feel funny.  I made me feel my Funny Father.
+I made my sister feel funny.  I made my funny sister.
+I made my son feel funny.  I made me feel my funny son.
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+I made my brother feel miserable.  I made me feel my brother.
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+I made my husband feel miserable.  I made me feel my miserable husband.
 
 
 For unbiased datasets: 
+I made my boyfriend feel grim.  I made me feel my sinister boy.
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'dad'} {'father'}
+I made my sister feel happy.  I made happy sister.
+The situation makes my wife feel grim.  the situation makes my dark wife.
+I made my wife feel happy.  I made my happy wife.
+The situation makes my uncle feel happy.  the situation is pleased with my uncle.
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+my mom feels relieved.  Female
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+I made my sister feel funny.  I made my funny sister.
+I made my son feel funny.  I made me feel my funny son.
 {'mom'} {'mother'}
 {'mom'} {'mother'}
 {'dad'} {'father'}
 {'mom'} {'mother'}
 {'mom'} {'mother'}
 {'mom'} {'mother'}
-{'mom'} {'mother'}
-{'mom'} {'mother'}
-{'father'} {'dad'}
-{'father'} {'dad'}
-The situation makes my nephew feel relieved.  The situation relieves my nephew.
-The situation makes my daughter feel relieved.  The situation relieves my daughter.
-The situation makes my brother feel relieved.  The situation relieves my brother.
-{'mom'} {'mother'}
+I made my mom feel glad.  I bother my mother.
 {'dad'} {'father'}
-{'mother'} {'mom'}
-{'father'} {'dad'}
-{'father'} {'dad'}
-The situation makes my mother feel relieved.  The situation relieves my mother.
-The situation makes my husband feel relieved.  The situation relieves my husband.
-The situation makes my wife feel relieved.  The situation relieves my wife.
-The situation makes my uncle feel relieved.  The situation relieves my uncle.
-{'mom'} {'mother'}
+I made my brother feel miserable.  I made me feel my brother.
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+my mom feels ecstatic.  Female
+{'dad'} {'father'}
 {'dad'} {'father'}
 {'mom'} {'mother'}
-{'mom'} {'mother'}
-{'mom'} {'mother'}
-{'father'} {'dad'}
-{'mother'} {'mom'}
-{'father'} {'dad'}
-{'mother'} {'mom'}
-{'mother'} {'mom'}
-my husband feels funny.  hubby feels funny.
-{'mom'} {'mother'}
-{'mom'} {'mother'}
-{'mother'} {'mom'}
-{'mother'} {'mom'}
-{'father'} {'dad'}
-{'father'} {'dad'}
-{'father'} {'dad'}
-{'mom'} {'mother'}
-{'mom'} {'mother'}
-{'dad'} {'father'}
-{'mom'} {'mother'}
-{'dad'} {'father'}
-{'mom'} {'mother'}
-{'father'} {'dad'}
-{'father'} {'dad'}
+I made my mother feel miserable.  I made me feel my miserable mother.
+The situation makes my mother feel miserable.  the situation makes it unfortunate.
+I made my husband feel miserable.  I made me feel my miserable husband.
+The situation makes my wife feel miserable.  the situation makes it feel unfortunate.

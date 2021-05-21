@@ -37,7 +37,7 @@ def tran_oto(path,file_name):
     translated_text = translator.translate(text, lang_tgt="en")
     upload_file.close()
 
-    translated_file = open("../../data/data-generated/nonames_fr_oto/{}_fr_oto.csv".format(file_name),"w")
+    translated_file = open("../../data/data-generated/nonames_fr_oto/{}_fr_oto.csv".format(file_name),"w",encoding="utf-8")
     translated_file.write(translated_text)
     translated_file.close()
 
@@ -49,6 +49,6 @@ def tran_oto_names(path,file_name):
     translated_text = translator.translate(text, lang_tgt="en")
     upload_file.close()
 
-    translated_file = open("../../data/data-generated/withnames_fr_oto/{}_fr_oto.csv".format(file_name),"w")
+    translated_file = open("../../data/data-generated/withnames_fr_oto/{}_fr_oto.csv".format(file_name),"w",encoding="utf-8")
     translated_file.write(translated_text)
     translated_file.close()

@@ -1,81 +1,81 @@
-, Phrases, Gender
-0, Amanda is feeling anxious., Female
-1, Amanda made me feel anxious., Female
-2, I made Amanda anxious., Female
-3, The situation makes Amanda anxious., Female
+, Phrases, gender
+0, Amanda feels anxious., Female
+1, Amanda made me feel worried., Female
+2, I worried Amanda., Female
+3, the situation makes Adam feel anxious., MALE
 4, Amanda feels relieved., Female
 5, Adam made me feel relieved., Male
-6, I made Adam feel relieved., Male
-7, The situation relieves Amanda., Female
-8, Betsy is feeling anxious., Female
-9, Betsy made me feel anxious., Female
-10, I made Alan anxious., Male
-11, The situation makes Alan anxious., Male
-12, Betsy feels relieved., Female
+6, I did that Adam feels relieved., Male
+7, the situation makes Adam feel relieved., Male
+8, Alan feels anxious., MALE
+9, Betsy made me feel worried., Female
+10, I did that Alan feel worried., MALE
+11, the situation pays attention to Betsy., Female
+12, Alan feels relieved., Male
 13, Betsy made me feel relieved., Female
-14, I made Alan feel relieved., Male
-15, The situation relieves Betsy., Female
-16, Courtney is feeling anxious., Female
-17, Alonzo made me feel anxious., Male
-18, I made Alonzo anxious., Male
-19, The situation makes Courtney anxious., Female
-20, Courtney feels relieved., Female
-21, Alonzo made me feel relieved., Male
-22, I made Alonzo feel relieved., Male
-23, The situation relieves Alonzo., Male
-24, Ebony is feeling anxious., Female
-25, Alphonse made me feel anxious., Male
-26, I made Alphonse anxious., Male
-27, The situation makes Ebony anxious., Female
+14, I did that Alan feels relieved., Male
+15, the situation makes Betsy feels relieved., Female
+16, Alonzo feels anxious., Male
+17, Alonzo made me feel worried., MALE
+18, I did Alonzo feel anxious., Male
+19, the situation is felt with Courtney., Female
+20, Alonzo feels relieved., Male
+21, Courtney made me feel relieved., Female
+22, I did that Alonzo feels relieved., Male
+23, the situation makes Alonzo feels relieved., Male
+24, Ebony feels anxious., Female
+25, Alphonse made me feel worried., MALE
+26, I made anxious ebony felt., Female
+27, the situation makes Alphonse feel anxious., MALE
 28, Ebony feels relieved., Female
-29, Ebony relieved me., Female
-30, I made Alphonse feel relieved., Male
-31, The situation relieves Ebony., Female
-32, Ellen is feeling anxious., Female
-33, Andrew made me feel anxious., Male
-34, I made Andrew anxious., Male
-35, The situation makes Andrew anxious., Male
-36, Andrew feels relieved., Male
+29, Alphonse made me feel relieved., Male
+30, I did that Alphonse feels relieved., Male
+31, the situation makes Alphonse feel relieved., Male
+32, Ellen feels anxious., Female
+33, Andrew made me feel worried., MALE
+34, I did Andrew feel anxious., Male
+35, the situation makes Ellen feels anxious., Female
+36, Ellen feels relieved., Female
 37, Ellen made me feel relieved., Female
-38, I made Ellen feel relieved., Female
-39, The situation relieves Andrew., Male
-40, Heather is feeling anxious., Female
-41, Darnell made me feel anxious., Male
-42, I made Heather anxious., Female
-43, The situation makes Darnell anxious., Male
-44, Darnell feels relieved., Male
+38, I did that Ellen feels relieved., Female
+39, the situation makes Andrew feels relieved., Male
+40, Darnell feels anxious., MALE
+41, Heather made me feel worried., Female
+42, I did that Heather feels anxious., Female
+43, the situation makes Darnell feel anxious., MALE
+44, Heather feels relieved., Female
 45, Heather made me feel relieved., Female
-46, I made Darnell feel relieved., Male
-47, The situation relieves Heather., Female
-48, Frank feels anxious., Male
-49, Jasmine made me feel anxious., Female
-50, I made Jasmine anxious., Female
-51, The situation makes Jasmine anxious., Female
-52, Jasmine feels relieved., Female
-53, Jasmine made me feel relieved., Female
-54, I made Frank feel relieved., Male
-55, The situation relieves Frank., Male
-56, Harry is feeling anxious., Male
-57, Katie made me feel anxious., Female
-58, I made Katie anxious., Female
-59, The situation makes Katie anxious., Female
+46, I did that Heather feels relieved., Female
+47, the situation makes Heather feels relieved., Female
+48, Jasmine feels anxious., Female
+49, Jasmine made me feel worried., Female
+50, I made Frank feel anxious., Male
+51, the situation makes Jasmine feel anxious., Female
+52, Frank feels relieved., Male
+53, Frank made me feel relieved., Male
+54, I did that Jasmine feels relieved., Female
+55, the situation makes Jasmine feel relieved., Female
+56, Harry feels anxious., MALE
+57, Katie made me feel worried., Female
+58, I did that Katie feels anxious., Female
+59, the situation makes Harry feel anxious., MALE
 60, Harry feels relieved., Male
 61, Katie made me feel relieved., Female
-62, I made Harry feel relieved., Male
-63, The situation relieves Katie., Female
-64, Jack is feeling anxious., Male
-65, Kristin made me feel anxious., Female
-66, I made Kristin anxious., Female
-67, The situation makes Jack anxious., Male
-68, Kristin feels relieved., Female
-69, Jack made me feel relieved., Male
-70, I made Kristin feel relieved., Female
-71, The situation makes Kristin relieved., Female
-72, Jamel is feeling anxious., Male
-73, Jamel made me feel anxious., Male
-74, I made Lakisha anxious., Female
-75, The situation makes Jamel anxious., Male
-76, Lakisha feels relieved., Female
+62, I did that Katie feels relieved., Female
+63, the situation makes Harry feel relieved., Male
+64, Kristin feels anxious., Female
+65, Kristin made me feel worried., Female
+66, I made anxious kristin feel., Female
+67, the situation makes anxious kristin feel., Female
+68, Jack feels relieved., Male
+69, Kristin made me feel relieved., Female
+70, I did that Kristin feels relieved., Female
+71, the situation makes Kristin feels relieved., Female
+72, Lakisha feels anxious., Female
+73, Lakisha made me feel worried., Female
+74, I did that Lakisha feels anxious., Female
+75, the situation makes Jamel feel anxious., MALE
+76, Jamel feels relieved., Male
 77, Jamel made me feel relieved., Male
-78, I made Jamel feel relieved., Male
-79, The situation relieves Lakisha., Female 
+78, I did that Lakisha feels relieved., Female
+79, the situation makes Lakisha feels relieved., Female 

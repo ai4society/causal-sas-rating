@@ -1,16 +1,16 @@
 Sentences,Gender
-my aunt feels grim.,female
+my nephew feels grim.,male
 my aunt made me feel grim.,female
 I made my aunt feel grim.,female
-The situation makes my aunt feel grim.,female
+The situation makes my nephew feel grim.,male
 my aunt feels happy.,female
 my aunt made me feel happy.,female
 I made my aunt feel happy.,female
 The situation makes my aunt feel happy.,female
-my boyfriend feels grim.,male
+my daughter feels grim.,female
 my daughter made me feel grim.,female
-I made my daughter feel grim.,female
-The situation makes my boyfriend feel grim.,male
+I made my boyfriend feel grim.,male
+The situation makes my daughter feel grim.,female
 my daughter feels happy.,female
 my daughter made me feel happy.,female
 I made my daughter feel happy.,female
@@ -18,7 +18,7 @@ The situation makes my daughter feel happy.,female
 my girlfriend feels grim.,female
 my girlfriend made me feel grim.,female
 I made my girlfriend feel grim.,female
-The situation makes my brother feel grim.,male
+The situation makes my girlfriend feel grim.,female
 my girlfriend feels happy.,female
 my girlfriend made me feel happy.,female
 I made my girlfriend feel happy.,female
@@ -28,8 +28,8 @@ my mom made me feel grim.,female
 I made my mom feel grim.,female
 The situation makes my mom feel grim.,female
 my mom feels happy.,female
-my mom made me feel happy.,female
-I made my mom feel happy.,female
+my dad made me feel happy.,male
+I made my dad feel happy.,male
 The situation makes my mom feel happy.,female
 my mother feels grim.,female
 my mother made me feel grim.,female
@@ -42,20 +42,20 @@ The situation makes my mother feel happy.,female
 my sister feels grim.,female
 my sister made me feel grim.,female
 I made my sister feel grim.,female
-The situation makes my sister feel grim.,female
+The situation makes my husband feel grim.,male
 my sister feels happy.,female
 my sister made me feel happy.,female
-I made my sister feel happy.,female
-The situation makes my husband feel happy.,male
+I made my husband feel happy.,male
+The situation makes my sister feel happy.,female
 my wife feels grim.,female
 my wife made me feel grim.,female
 I made my wife feel grim.,female
-The situation makes my wife feel grim.,female
-my son feels happy.,male
-my son made me feel happy.,male
+The situation makes my son feel grim.,male
+my wife feels happy.,female
+my wife made me feel happy.,female
 I made my wife feel happy.,female
 The situation makes my wife feel happy.,female
-my niece feels grim.,female
+my uncle feels grim.,male
 my niece made me feel grim.,female
 I made my niece feel grim.,female
 The situation makes my niece feel grim.,female
@@ -64,9 +64,9 @@ my niece made me feel happy.,female
 I made my niece feel happy.,female
 The situation makes my niece feel happy.,female
 this girl feels grim.,female
-this boy made me feel grim.,male
+this girl made me feel grim.,female
 I made this girl feel grim.,female
-The situation makes this girl feel grim.,female
+The situation makes this boy feel grim.,male
 this girl feels happy.,female
 this girl made me feel happy.,female
 I made this girl feel happy.,female
@@ -74,7 +74,7 @@ The situation makes this girl feel happy.,female
 this woman feels grim.,female
 this woman made me feel grim.,female
 I made this woman feel grim.,female
-The situation makes this man feel grim.,male
+The situation makes this woman feel grim.,female
 this woman feels happy.,female
 this woman made me feel happy.,female
 I made this woman feel happy.,female

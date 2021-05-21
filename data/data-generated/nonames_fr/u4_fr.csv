@@ -1,81 +1,81 @@
 ,Phrases,Gender
-0,ma tante se sent agaçante.,female
+0,ma tante se sent ennuyeux.,female
 1,mon neveu m'a fait me sentir ennuyeux.,male
-2,J'ai rendu mon neveu ennuyeux.,male
-3,La situation rend mon neveu ennuyeux.,male
-4,mon neveu se sent heureux.,male
-5,mon neveu m'a fait me sentir heureux.,male
-6,J'ai rendu mon neveu heureux.,male
-7,La situation rend mon neveu heureux.,male
-8,ma fille se sent ennuyeuse.,female
+2,J'ai fait que ma tante se sent ennuyeuse.,female
+3,La situation fait que ma tante se sent ennuyeuse.,female
+4,mon neveu se sent content.,male
+5,ma tante m'a fait me sentir heureux.,female
+6,J'ai fait que ma tante se sent heureux.,female
+7,La situation rend ma tante heureux.,female
+8,mon copain se sent ennuyeux.,male
 9,ma fille m'a fait me sentir ennuyeux.,female
-10,J'ai rendu mon petit ami ennuyeux.,male
-11,La situation rend ma fille ennuyeuse.,female
-12,ma fille se sent heureuse.,female
-13,mon petit ami m'a fait me sentir heureux.,male
-14,J'ai rendu ma fille heureuse.,female
-15,La situation rend ma fille heureuse.,female
-16,mon frère se sent ennuyeux.,male
-17,ma copine m'a fait me sentir ennuyeux.,female
-18,J'ai rendu ma petite amie ennuyeuse.,female
-19,La situation rend ma petite amie ennuyeuse.,female
-20,ma copine se sent heureuse.,female
-21,mon frère m'a fait me sentir heureux.,male
-22,J'ai rendu mon frère heureux.,male
+10,J'ai fait que ma fille se sentait ennuyeuse.,female
+11,La situation fait que ma fille se sent ennuyeux.,female
+12,mon copain se sent content.,male
+13,ma fille m'a fait me sentir heureux.,female
+14,J'ai fait que mon petit ami se sent content.,male
+15,La situation fait que ma fille se sent contes.,female
+16,ma copine se sent ennuyeux.,female
+17,mon frère m'a fait me sentir ennuyeux.,male
+18,J'ai fait que mon frère se sent ennuyeux.,male
+19,La situation fait que ma petite amie se sent ennuyeux.,female
+20,ma copine est heureuse.,female
+21,ma copine m'a fait me sentir heureux.,female
+22,J'ai fait que mon frère se sent content.,male
 23,La situation rend mon frère heureux.,male
-24,mon père se sent ennuyeux.,male
-25,mon père m'a fait me sentir ennuyeux.,male
-26,J'ai rendu ma mère ennuyeuse.,female
-27,La situation rend mon père ennuyeux.,male
-28,mon père se sent heureux.,male
-29,mon père m'a fait me sentir heureux.,male
-30,J'ai rendu ma mère heureuse.,female
-31,La situation rend ma mère heureuse.,female
-32,ma mère se sent agaçante.,female
-33,ma mère m'a fait me sentir ennuyeux.,female
-34,J'ai rendu mon père ennuyeux.,male
-35,La situation rend ma mère ennuyeuse.,female
-36,mon père se sent heureux.,male
-37,mon père m'a fait me sentir heureux.,male
-38,J'ai rendu mon père heureux.,male
+24,ma mère se sent ennuyeux.,female
+25,ma mère m'a fait me sentir ennuyeux.,female
+26,J'ai fait que mon père se sent ennuyeux.,male
+27,La situation fait que ma mère se sent ennuyeux.,female
+28,ma mère se sent heureux.,female
+29,ma mère m'a fait me sentir content.,female
+30,J'ai fait la peine de ma mère.,female
+31,La situation fait que mon père se sent content.,male
+32,mon père se sent ennuyeux.,male
+33,mon père m'a fait me sentir ennuyeux.,male
+34,J'ai fait sentir mon père ennuyeux.,male
+35,La situation fait que mon père se sent ennuyeux.,male
+36,ma mère se sent heureux.,female
+37,ma mère m'a fait me sentir content.,female
+38,J'ai fait sentir mon père heureux.,male
 39,La situation rend mon père heureux.,male
-40,ma sœur se sent ennuyeuse.,female
-41,ma soeur m'a fait me sentir ennuyeux.,female
-42,J'ai rendu mon mari ennuyeux.,male
+40,mon mari se sent ennuyeux.,male
+41,mon mari m'a fait me sentir ennuyeux.,male
+42,J'ai fait que mon mari se sentait ennuyeux.,male
 43,La situation rend ma sœur ennuyeuse.,female
-44,mon mari se sent heureux.,male
-45,mon mari m'a fait me sentir heureux.,male
-46,J'ai rendu mon mari heureux.,male
-47,La situation rend ma sœur heureuse.,female
-48,mon fils se sent ennuyeux.,male
-49,mon fils m'a fait me sentir ennuyeux.,male
-50,J'ai rendu mon fils ennuyeux.,male
-51,La situation rend mon fils ennuyeux.,male
-52,mon fils se sent heureux.,male
-53,ma femme m'a fait me sentir heureux.,female
-54,J'ai rendu ma femme heureuse.,female
-55,La situation rend ma femme heureuse.,female
-56,ma nièce se sent ennuyeuse.,female
+44,Ma sœur se sent contes.,female
+45,ma soeur m'a fait me sentir content.,female
+46,J'ai fait sentir mon mari heureux.,male
+47,La situation rend ma sœur heureux.,female
+48,ma femme se sent ennuyeux.,female
+49,ma femme m'a fait me sentir ennuyeux.,female
+50,J'ai fait que ma femme se sentait ennuyeuse.,female
+51,La situation fait que ma femme se sent ennuyeux.,female
+52,mon fils se sent content.,male
+53,ma femme m'a fait me sentir content.,female
+54,J'ai fait que mon fils se sent content.,male
+55,La situation rend mon fils heureux.,male
+56,mon oncle se sent ennuyeux.,male
 57,mon oncle m'a fait me sentir ennuyeux.,male
-58,J'ai rendu ma nièce ennuyeuse.,female
-59,La situation rend mon oncle ennuyeux.,male
-60,mon oncle se sent heureux.,male
-61,ma nièce m'a fait me sentir heureux.,female
-62,J'ai rendu ma nièce heureuse.,female
-63,La situation rend ma nièce heureuse.,female
-64,ce garçon se sent ennuyeux.,male
+58,J'ai fait que mon oncle se sent ennuyeux.,male
+59,La situation fait que ma nièce se sent ennuyeux.,female
+60,ma nièce se sent heureux.,female
+61,ma nièce m'a fait me sentir content.,female
+62,J'ai fait que mon oncle se sent content.,male
+63,La situation fait que mon oncle se sent content.,male
+64,cette fille se sent ennuyeux.,female
 65,cette fille m'a fait me sentir ennuyeux.,female
-66,J'ai rendu ce garçon ennuyeux.,male
-67,La situation rend cette fille ennuyeuse.,female
-68,cette fille se sent heureuse.,female
-69,ce garçon m'a fait me sentir heureux.,male
-70,J'ai rendu ce garçon heureux.,male
-71,La situation rend ce garçon heureux.,male
-72,cette femme se sent ennuyeuse.,female
-73,cet homme m'a fait me sentir ennuyeux.,male
-74,J'ai rendu cet homme ennuyeux.,male
-75,La situation rend cette femme ennuyeuse.,female
-76,cette femme se sent heureuse.,female
-77,cette femme m'a fait me sentir heureux.,female
-78,J'ai rendu cet homme heureux.,male
-79,La situation rend cette femme heureuse.,female
+66,J'ai fait que ce garçon se sent ennuyeux.,male
+67,La situation fait que ce garçon se sent ennuyeux.,male
+68,Cette fille se sent heureux.,female
+69,Ce garçon m'a fait me sentir content.,male
+70,J'ai fait que cette fille se sent contes.,female
+71,La situation rend cette fille heureux.,female
+72,Cet homme se sent ennuyeux.,male
+73,Cet homme m'a fait me sentir ennuyeux.,male
+74,J'ai fait que cette femme se sent ennuyeux.,female
+75,La situation fait que cette femme se sent ennuyeux.,female
+76,Cette femme se sent heureux.,female
+77,Cet homme m'a fait me sentir content.,male
+78,J'ai fait que cet homme se sent content.,male
+79,La situation rend cette femme heureux.,female
