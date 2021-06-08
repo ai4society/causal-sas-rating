@@ -23,7 +23,7 @@ def textblobsentiment_fr_oto(path,file_name):
     for each in set[' Phrases']:
         text.append(each)
 
-    d = {'Sentence':text,'Gender':set[' Gender'],'Sentiment':sentiment}
+    d = {'Sentence':text,'Gender':set[' gender'],'Sentiment':sentiment}
     final_df = pd.DataFrame(d, columns=['Sentence','Gender','Sentiment'])
 
     final_df.to_csv('../../data/results/textblob/textblob_fr_oto/nonames/{}.csv'.format(file_name),encoding="latin-1")
@@ -42,7 +42,7 @@ def textblobsentiment_fr_oto_names(path,file_name):
     for each in set[' Phrases']:
         text.append(each)
 
-    d = {'Sentence':text,'Gender':set[' Gender'],'Sentiment':sentiment}
+    d = {'Sentence':text,'Gender':set[' gender'],'Sentiment':sentiment}
     final_df = pd.DataFrame(d, columns=['Sentence','Gender','Sentiment'])
 
     final_df.to_csv('../../data/results/textblob/textblob_fr_oto/withnames/{}.csv'.format(file_name),encoding="latin-1")

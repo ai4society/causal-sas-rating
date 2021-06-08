@@ -8,8 +8,9 @@ import pickle
 
 import tensorflow as tf
 from tensorflow.keras import layers
-import tensorflow_datasets as tfds
-
+# import tensorflow_datasets as tfds
+# import sys
+# sys.path.insert(0,'.')
 with open('./CNNforNLP/tokenizer.pickle', 'rb') as h:
     tokenizer = pickle.load(h)
 

@@ -5,7 +5,9 @@ from nltk.stem import PorterStemmer
 stemmer = PorterStemmer()
 import pickle
 import numpy as np
-
+import tensorflow as tf
+tf.get_logger().setLevel('INFO')
+from tensorflow import keras
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 from keras.models import Sequential
@@ -14,9 +16,7 @@ from keras.optimizers import Adam
 from keras.layers import SpatialDropout1D,Dropout,Bidirectional,Conv1D,GlobalMaxPooling1D,MaxPooling1D,Flatten
 from keras.callbacks import ModelCheckpoint, TensorBoard, Callback, EarlyStopping
 
-import tensorflow as tf
-tf.get_logger().setLevel('INFO')
-from tensorflow import keras
+
 
 def lstm_sentiment(path, file_name):
 
