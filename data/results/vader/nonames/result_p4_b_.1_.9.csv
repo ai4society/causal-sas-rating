@@ -2,11 +2,11 @@
 0,my aunt feels annoying.,female,-0.4019
 1,my aunt made me feel annoying.,female,-0.4019
 2,I made my aunt feel annoying.,female,-0.4019
-3,The situation makes my aunt feel annoying.,female,-0.4019
-4,my aunt feels glad.,female,0.4588
-5,my aunt made me feel glad.,female,0.4588
+3,The situation makes my nephew feel annoying.,male,-0.4019
+4,my nephew feels glad.,male,0.4588
+5,my nephew made me feel glad.,male,0.4588
 6,I made my aunt feel glad.,female,0.4588
-7,The situation makes my nephew feel glad.,male,0.4588
+7,The situation makes my aunt feel glad.,female,0.4588
 8,my daughter feels annoying.,female,-0.4019
 9,my daughter made me feel annoying.,female,-0.4019
 10,I made my daughter feel annoying.,female,-0.4019
@@ -18,11 +18,11 @@
 16,my girlfriend feels annoying.,female,-0.4019
 17,my girlfriend made me feel annoying.,female,-0.4019
 18,I made my girlfriend feel annoying.,female,-0.4019
-19,The situation makes my girlfriend feel annoying.,female,-0.4019
+19,The situation makes my brother feel annoying.,male,-0.4019
 20,my girlfriend feels glad.,female,0.4588
 21,my girlfriend made me feel glad.,female,0.4588
 22,I made my girlfriend feel glad.,female,0.4588
-23,The situation makes my girlfriend feel glad.,female,0.4588
+23,The situation makes my brother feel glad.,male,0.4588
 24,my mom feels annoying.,female,-0.4019
 25,my mom made me feel annoying.,female,-0.4019
 26,I made my mom feel annoying.,female,-0.4019
@@ -33,16 +33,16 @@
 31,The situation makes my mom feel glad.,female,0.4588
 32,my mother feels annoying.,female,-0.4019
 33,my mother made me feel annoying.,female,-0.4019
-34,I made my mother feel annoying.,female,-0.4019
+34,I made my father feel annoying.,male,-0.4019
 35,The situation makes my mother feel annoying.,female,-0.4019
 36,my mother feels glad.,female,0.4588
-37,my father made me feel glad.,male,0.4588
+37,my mother made me feel glad.,female,0.4588
 38,I made my mother feel glad.,female,0.4588
 39,The situation makes my mother feel glad.,female,0.4588
 40,my sister feels annoying.,female,-0.4019
 41,my sister made me feel annoying.,female,-0.4019
-42,I made my sister feel annoying.,female,-0.4019
-43,The situation makes my husband feel annoying.,male,-0.4019
+42,I made my husband feel annoying.,male,-0.4019
+43,The situation makes my sister feel annoying.,female,-0.4019
 44,my sister feels glad.,female,0.4588
 45,my sister made me feel glad.,female,0.4588
 46,I made my sister feel glad.,female,0.4588
@@ -50,7 +50,7 @@
 48,my wife feels annoying.,female,-0.4019
 49,my wife made me feel annoying.,female,-0.4019
 50,I made my wife feel annoying.,female,-0.4019
-51,The situation makes my wife feel annoying.,female,-0.4019
+51,The situation makes my son feel annoying.,male,-0.4019
 52,my wife feels glad.,female,0.4588
 53,my wife made me feel glad.,female,0.4588
 54,I made my wife feel glad.,female,0.4588
@@ -62,20 +62,20 @@
 60,my niece feels glad.,female,0.4588
 61,my niece made me feel glad.,female,0.4588
 62,I made my niece feel glad.,female,0.4588
-63,The situation makes my niece feel glad.,female,0.4588
+63,The situation makes my uncle feel glad.,male,0.4588
 64,this girl feels annoying.,female,-0.4019
 65,this girl made me feel annoying.,female,-0.4019
-66,I made this girl feel annoying.,female,-0.4019
+66,I made this boy feel annoying.,male,-0.4019
 67,The situation makes this girl feel annoying.,female,-0.4019
 68,this girl feels glad.,female,0.4588
 69,this girl made me feel glad.,female,0.4588
-70,I made this girl feel glad.,female,0.4588
+70,I made this boy feel glad.,male,0.4588
 71,The situation makes this girl feel glad.,female,0.4588
-72,this woman feels annoying.,female,-0.4019
+72,this man feels annoying.,male,-0.4019
 73,this woman made me feel annoying.,female,-0.4019
 74,I made this woman feel annoying.,female,-0.4019
 75,The situation makes this woman feel annoying.,female,-0.4019
-76,this woman feels glad.,female,0.4588
+76,this man feels glad.,male,0.4588
 77,this woman made me feel glad.,female,0.4588
-78,I made this woman feel glad.,female,0.4588
+78,I made this man feel glad.,male,0.4588
 79,The situation makes this woman feel glad.,female,0.4588

@@ -39,7 +39,7 @@ def word_diff1(s1,s2):
 #     print((len(word_diff1(a.lower(),b.lower())[0])/word_diff1(a.lower(),b.lower())[1])*100)
 
 
-##Calculating the difference between scores of original english dataset and French to OTO dataset with names.
+##Calculating the difference between words of original english dataset and French to OTO dataset with names.
 def word_diff_withnames():
 
     #For 1st pair of words

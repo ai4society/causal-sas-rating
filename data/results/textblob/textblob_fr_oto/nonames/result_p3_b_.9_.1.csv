@@ -1,81 +1,81 @@
 ,Sentence,Gender,Sentiment
-0, my nephew is feeling depressing., Male,-0.6
-1, my nephew made me feel depressed., Male,0.0
-2, I made my nephew depressing., Male,-0.6
-3, The situation makes my nephew depressing., Male,-0.6
+0, my nephew feels depressing., Male,-0.6
+1, my nephew made me feel depressing., Male,-0.6
+2, I did my nephew feel depressing., Male,-0.6
+3, the situation makes my nephew feel depressing., Male,-0.6
 4, my nephew feels funny., Male,0.25
 5, my nephew made me feel funny., Male,0.25
 6, I made my nephew feel funny., Male,0.25
-7, The situation makes my nephew funny., Male,0.25
-8, my daughter is feeling depressed., Female,0.0
+7, the situation makes my nephew feel funny., MALE,0.25
+8, my daughter feels depressing., Female,-0.6
 9, my boyfriend made me feel depressing., Male,-0.6
-10, I made my boyfriend depressing., Male,-0.6
-11, The situation makes my daughter depressing., Female,-0.6
-12, my boyfriend is feeling funny., Male,0.25
+10, I made my boyfriend feel depressing., Male,-0.6
+11, the situation makes my boyfriend feel depressing., Male,-0.6
+12, my boyfriend feels funny., Male,0.25
 13, my boyfriend made me feel funny., Male,0.25
-14, I made my boyfriend feel funny., Male,0.25
-15, The situation makes my boyfriend funny., Male,0.25
-16, my brother is feeling depressing., Male,-0.6
-17, my girlfriend made me feel depressing., Female,-0.6
+14, I did my boyfriend felt funny., Male,0.25
+15, the situation makes my boyfriend feel funny., Male,0.25
+16, my brother feels depressing., Male,-0.6
+17, my brother made me feel depressing., Male,-0.6
 18, I made my brother depressing., Male,-0.6
-19, The situation makes my brother depressing., Male,-0.6
-20, my brother is feeling funny., Male,0.25
+19, the situation makes my brother to depress., Male,-0.06666666666666667
+20, my brother feels funny., Male,0.25
 21, my brother made me feel funny., Male,0.25
-22, I made my brother feel funny., Male,0.25
-23, The situation makes my brother funny., Male,0.25
-24, my dad is feeling depressing., Male,-0.6
-25, my dad made me feel depressing., Male,-0.6
-26, I made my father depressing., Male,-0.6
-27, The situation makes my father depressing., Male,-0.6
-28, my dad is feeling funny., Male,0.25
-29, my dad made me feel funny., Male,0.25
-30, I made my dad feel funny., Male,0.25
-31, The situation makes my mother funny., Female,0.25
-32, my mother is feeling depressed., Female,0.0
-33, my dad made me feel depressed., Male,0.0
-34, I made my father depressing., Male,-0.6
-35, The situation makes my mother depressing., Female,-0.6
-36, my dad feels funny., Male,0.25
-37, my dad made me feel funny., Male,0.25
-38, I made my dad feel funny., Male,0.25
-39, The situation makes my mother funny., Female,0.25
-40, my sister is feeling depressed., Female,0.0
-41, my husband made me feel depressed., Male,0.0
-42, I made my husband depressing., Male,-0.6
-43, The situation makes my husband depressing., Male,-0.6
-44, hubby feels funny., Male,0.25
-45, my husband made me feel funny., Male,0.25
-46, I made my husband feel funny., Male,0.25
-47, The situation makes my husband funny., Male,0.25
-48, my son is feeling depressing., Male,-0.6
-49, my son made me feel depressed., Male,0.0
-50, I made my son depressing., Male,-0.6
-51, The situation makes my son depressing., Male,-0.6
-52, my son feels funny., Male,0.25
+22, I did my brother felt funny., Male,0.25
+23, the situation makes my brother feel funny., Male,0.25
+24, my father feels depressing., Male,-0.6
+25, my father made me feel depressing., Male,-0.6
+26, I did my father feeling depressing ., Male,-0.6
+27, the situation makes my father feel depressing., Male,-0.6
+28, my father feels funny., Male,0.25
+29, my father made me feel funny., Male,0.25
+30, I did that my father felt funny., Male,0.25
+31, the situation makes my father feel funny., Male,0.25
+32, my father feels depressing., Male,-0.6
+33, my father made me feel depressing., Male,-0.6
+34, I made my father depressing., MALE,-0.6
+35, the situation makes my father feels depressing., Male,-0.6
+36, my father feels funny., Male,0.25
+37, my father made me feel funny., Male,0.25
+38, I made me feel my Funny Father., MALE,0.25
+39, the situation makes my father feel funny., MALE,0.25
+40, my husband feels depressing., Male,-0.6
+41, my husband made me feel depressing., Male,-0.6
+42, I made my depressing husband feel., MALE,-0.6
+43, the situation makes my husband feel depressing., Male,-0.6
+44, my husband feels funny., Male,0.25
+45, my sister made me feel funny., Female,0.25
+46, I made my funny sister., Female,0.25
+47, the situation makes my husband from Funny., MALE,0.25
+48, my son feels depressing., MALE,-0.6
+49, my son made me feel depressing., Male,-0.6
+50, I made my depressed son feel., MALE,0.0
+51, the situation makes my son feel depressing., Male,-0.6
+52, my son feels funny., MALE,0.25
 53, my son made me feel funny., Male,0.25
-54, I made my son feel funny., Male,0.25
-55, The situation makes my son funny., Male,0.25
+54, I made me feel my funny son., MALE,0.25
+55, the situation makes my wife funny., Female,0.25
 56, my uncle feels depressing., Male,-0.6
-57, my uncle made me feel depressed., Male,0.0
-58, I made my uncle depressing., Male,-0.6
-59, The situation makes my uncle depressing., Male,-0.6
-60, my uncle feels funny., Male,0.25
+57, my uncle made me feel depressing., Male,-0.6
+58, I made my uncle feels depressed., Male,0.0
+59, the situation makes my uncle feel depressing., Male,-0.6
+60, my uncle feels funny., MALE,0.25
 61, my uncle made me feel funny., Male,0.25
-62, I made my uncle feel funny., Male,0.25
-63, The situation makes my uncle funny., Male,0.25
-64, this boy is feeling depressing., Male,-0.6
+62, I did my niece feel funny., Female,0.25
+63, the situation makes my uncle feel funny., MALE,0.25
+64, this boy feels depressing., Male,-0.6
 65, this boy made me feel depressing., Male,-0.6
-66, I made this boy depressing., Male,-0.6
-67, The situation makes this boy depressing., Male,-0.6
-68, that boy feels funny., Male,0.25
-69, that boy made me feel funny., Male,0.25
-70, I made that boy feel funny., Male,0.25
-71, The situation makes this boy funny., Male,0.25
-72, this man is feeling depressing., Male,-0.6
-73, this man made me feel depressing., Male,-0.6
-74, I made this woman depressing., Female,-0.6
-75, The situation makes this man depressing., Male,-0.6
-76, this woman feels funny., Female,0.25
+66, I made this boy depressing., MALE,-0.6
+67, the situation makes this boy feel depressing., Male,-0.6
+68, this boy feels funny., Male,0.25
+69, this boy made me feel funny., Male,0.25
+70, I did this boy felt funny., Male,0.25
+71, the situation makes this boy feeling funny., Male,0.25
+72, this man feels depressing., Male,-0.6
+73, this woman made me feel depressing., Female,-0.6
+74, I made that this man feels depressed., MALE,0.0
+75, the situation makes this man feel depressing., Male,-0.6
+76, this man feels funny., Male,0.25
 77, this man made me feel funny., Male,0.25
-78, I made this man feel funny., Male,0.25
-79, The situation makes this woman funny., Female ,0.25
+78, I did this man felt funny., Male,0.25
+79, the situation makes this man feeling funny., Male ,0.25

@@ -1,81 +1,81 @@
 ,Sentence,Gender,Sentiment
-0, Amanda is feeling depressed., Female,0.0
+0, Amanda feels depressing., Female,-0.6
 1, Amanda made me feel depressing., Female,-0.6
-2, I made Amanda depressing., Female,-0.6
-3, The situation makes Amanda depressing., Female,-0.6
-4, Amanda is feeling funny., Female,0.25
+2, I did that Adam feels depressing., Male,-0.6
+3, the situation makes that Amanda feels depressing., Female,-0.6
+4, Amanda feels funny., Female,0.25
 5, Amanda made me feel funny., Female,0.25
-6, I made Amanda feel funny., Female,0.25
-7, The situation makes Amanda funny., Female,0.25
-8, Alan feels depressing., Male,-0.6
-9, Betsy made me feel depressing., Female,-0.6
-10, I made Betsy depressing., Female,-0.6
-11, The situation makes Betsy depressing., Female,-0.6
-12, Betsy is feeling funny., Female,0.25
+6, I did that Adam feels funny., Male,0.25
+7, the situation makes Amanda feel funny., Female,0.25
+8, Betsy feels depressing., Female,-0.6
+9, Alan made me feel depressing., Male,-0.6
+10, I made Betsy feels depressing., Female,-0.6
+11, the situation makes Betsy feels depressing., Female,-0.6
+12, Betsy feels funny., Female,0.25
 13, Betsy made me feel funny., Female,0.25
-14, I made Betsy feel funny., Female,0.25
-15, The situation makes Alan funny., Male,0.25
+14, I made Betsy feeling funny., Female,0.25
+15, the situation makes Betsy feels funny., Female,0.25
 16, Courtney feels depressing., Female,-0.6
 17, Courtney made me feel depressing., Female,-0.6
-18, I made Courtney depressing., Female,-0.6
-19, The situation makes Alonzo depressing., Male,-0.6
-20, Courtney is feeling funny., Female,0.25
+18, I did that Courtney feels depressing., Female,-0.6
+19, the situation makes that Courtney feels depressing., Female,-0.6
+20, Courtney feels funny., Female,0.25
 21, Courtney made me feel funny., Female,0.25
-22, I made Courtney feel funny., Female,0.25
-23, The situation makes Courtney funny., Female,0.25
+22, I did that Courtney felt funny., Female,0.25
+23, the situation makes that Courtney feels funny., Female,0.25
 24, Ebony feels depressing., Female,-0.6
-25, Ebony made me feel depressing., Female,-0.6
-26, I made Ebony depressing., Female,-0.6
-27, The situation makes Alphonse depressing., Male,-0.6
+25, ebony made me feel depressing., Female,-0.6
+26, I did an idea of ​​depressing ebony., Female,0.0
+27, the situation makes ebony depressing., Female,-0.6
 28, Ebony feels funny., Female,0.25
-29, Ebony made me feel funny., Female,0.25
-30, I made Ebony funny., Female,0.25
-31, The situation makes Alphonse funny., Male,0.25
-32, Ellen is feeling depressed., Female,0.0
+29, ebony made me feel funny., Female,0.25
+30, I felt funny ebony., Female,0.25
+31, the situation makes ebony feel funny., Female,0.25
+32, Ellen feels depressing., Female,-0.6
 33, Ellen made me feel depressing., Female,-0.6
-34, I made Ellen depressing., Female,-0.6
-35, The situation makes Ellen depressing., Female,-0.6
-36, Ellen is feeling funny., Female,0.25
+34, I did that Ellen feel depressing., Female,-0.6
+35, the situation makes Ellen feels depressing., Female,-0.6
+36, Ellen feels funny., Female,0.25
 37, Ellen made me feel funny., Female,0.25
-38, I made Andrew feel funny., Male,0.25
-39, Situation makes Ellen funny., Female,0.25
+38, I did that Ellen feel funny., Female,0.25
+39, the situation makes Ellen feel funny., Female,0.25
 40, Heather feels depressing., Female,-0.6
 41, Heather made me feel depressing., Female,-0.6
-42, I made Darnell depressing., Male,-0.6
-43, The situation makes Heather depressing., Female,-0.6
-44, Darnell feels funny., Male,0.25
+42, I did that Heather feels depressing., Female,-0.6
+43, the situation makes Heather feels depressing., Female,-0.6
+44, Heather feels funny., Female,0.25
 45, Heather made me feel funny., Female,0.25
-46, I made Heather feel funny., Female,0.25
-47, Situation makes Heather funny., Female,0.25
-48, Jasmine is feeling depressed., Female,0.0
+46, I made Heather feels funny., Female,0.25
+47, the situation makes Heather feel funny., Female,0.25
+48, Jasmine feels depressing., Female,-0.6
 49, Jasmine made me feel depressing., Female,-0.6
-50, I made Jasmine depressing., Female,-0.6
-51, The situation makes Jasmine depressing., Female,-0.6
-52, Jasmine is feeling funny., Female,0.25
+50, I made depressing frank feelings., MALE,-0.6
+51, the situation makes Jasmine feel depressing., Female,-0.6
+52, Jasmine feels funny., Female,0.25
 53, Jasmine made me feel funny., Female,0.25
 54, I made Jasmine feel funny., Female,0.25
-55, The situation makes Jasmine funny., Female,0.25
-56, Katie is feeling depressed., Female,0.0
-57, Katie made me feel depressed., Female,0.0
-58, I made Katie depressing., Female,-0.6
-59, The situation makes Harry depressing., Male,-0.6
-60, Katie is feeling funny., Female,0.25
+55, the situation makes Jasmine feel funny., Female,0.25
+56, Katie feels depressing., Female,-0.6
+57, Harry made me feel depressing., Male,-0.6
+58, I did that Katie feels depressing., Female,-0.6
+59, the situation makes Katie feel depressing., Female,-0.6
+60, Katie feels funny., Female,0.25
 61, Katie made me feel funny., Female,0.25
-62, I made Katie feel funny., Female,0.25
-63, The situation makes Katie funny., Female,0.25
-64, Kristin is feeling depressed., Female,0.0
+62, I made Katie felt funny., Female,0.25
+63, the situation makes Harry feel funny., MALE,0.25
+64, Kristin feels depressing., Female,-0.6
 65, Kristin made me feel depressing., Female,-0.6
-66, I made Kristin depressing., Female,-0.6
-67, The situation makes Kristin depressing., Female,-0.6
+66, I did that Kristin feels depressing., Female,-0.6
+67, the situation makes Kristin feels depressing., Female,-0.6
 68, Kristin feels funny., Female,0.25
 69, Kristin made me feel funny., Female,0.25
-70, I made Kristin feel funny., Female,0.25
-71, The situation makes Kristin funny., Female,0.25
+70, I did that Jack feels funny., Male,0.25
+71, the situation makes Kristin feel funny., Female,0.25
 72, Lakisha feels depressing., Female,-0.6
 73, Lakisha made me feel depressing., Female,-0.6
-74, I made Lakisha depressing., Female,-0.6
-75, The situation makes Lakisha depressing., Female,-0.6
+74, I did that Lakisha feels depressing., Female,-0.6
+75, the situation makes Lakisha feel depressing., Female,-0.6
 76, Lakisha feels funny., Female,0.25
 77, Lakisha made me feel funny., Female,0.25
-78, I made Lakisha feel funny., Female,0.25
-79, The situation makes Lakisha funny., Female ,0.25
+78, I did Lakisha felt funny., Female,0.25
+79, the situation makes Lakisha feel funny., Female ,0.25

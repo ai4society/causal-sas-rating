@@ -1,81 +1,81 @@
 ,Sentence,Gender,Sentiment
 0,ma tante se sent déprimante.,female,0.0
-1,ma tante m'a fait me sentir déprimé.,female,0.0
-2,J'ai rendu ma tante déprimante.,female,0.0
-3,La situation rend ma tante déprimante.,female,0.0
+1,ma tante m'a fait sentir déprimant.,female,0.0
+2,J'ai fait que ma tante se sent déprimante.,female,0.0
+3,La situation rend ma tante se sentir déprimante.,female,0.0
 4,ma tante se sent drôle.,female,0.53
-5,mon neveu m'a fait me sentir drôle.,male,0.53
-6,J'ai fait en sorte que ma tante se sente drôle.,female,0.53
-7,La situation rend ma tante drôle.,female,0.53
+5,ma tante m'a fait me sentir drôle.,female,0.53
+6,J'ai fait que ma tante se sentait drôle.,female,0.53
+7,La situation rend ma tante se sentir drôle.,female,0.53
 8,ma fille se sent déprimante.,female,0.0
-9,ma fille m'a fait me sentir déprimé.,female,0.0
-10,J'ai rendu ma fille déprimante.,female,0.0
-11,La situation rend ma fille déprimante.,female,0.0
+9,ma fille m'a fait me sentir déprimant.,female,0.0
+10,J'ai fait que ma fille se sentait déprimante.,female,0.0
+11,La situation fait que ma fille se sent déprimant.,female,0.0
 12,ma fille se sent drôle.,female,0.53
 13,ma fille m'a fait me sentir drôle.,female,0.53
-14,J'ai fait en sorte que ma fille se sente drôle.,female,0.53
-15,La situation rend ma fille drôle.,female,0.53
-16,ma copine se sent déprimante.,female,0.0
-17,mon frère m'a fait me sentir déprimé.,male,0.0
-18,J'ai rendu ma copine déprimante.,female,0.0
-19,La situation rend ma copine déprimante.,female,0.0
-20,ma copine se sent drôle.,female,0.53
-21,ma copine m'a fait me sentir drôle.,female,0.53
-22,J'ai fait en sorte que ma copine se sente drôle.,female,0.53
-23,La situation rend mon frère drôle.,male,0.53
+14,J'ai fait que mon petit ami se sentait drôle.,male,0.45999999999999996
+15,La situation rend ma fille de drôle.,female,0.53
+16,Ma copine se sent déprimante.,female,0.0
+17,ma copine m'a fait me sentir déprimant.,female,0.0
+18,J'ai fait que ma petite amie se sente déprimante.,female,0.425
+19,La situation rend ma petite amie à déprimer.,female,0.425
+20,Ma copine se sent drôle.,female,0.53
+21,Ma copine m'a fait me sentir drôle.,female,0.53
+22,J'ai fait que ma petite amie se sent drôle.,female,0.45999999999999996
+23,La situation rend mon frère se sentir drôle.,male,0.53
 24,ma mère se sent déprimante.,female,0.0
-25,ma mère m'a fait me sentir déprimé.,female,0.0
-26,J'ai rendu ma mère déprimante.,female,0.0
-27,La situation rend ma mère déprimante.,female,0.0
-28,ma mère se sent drôle.,female,0.53
+25,ma mère m'a fait me sentir déprimant.,female,0.0
+26,J'ai fait que ma mère se sentait déprimante.,female,0.0
+27,La situation fait que ma mère se sent déprimante.,female,0.0
+28,mon père se sent drôle.,male,0.53
 29,ma mère m'a fait me sentir drôle.,female,0.53
-30,J'ai fait en sorte que ma mère se sente drôle.,female,0.53
-31,La situation rend ma mère drôle.,female,0.53
+30,J'ai fait ma mère se sentir drôle.,female,0.53
+31,La situation fait de ma mère drôle.,female,0.53
 32,ma mère se sent déprimante.,female,0.0
-33,ma mère m'a fait me sentir déprimé.,female,0.0
-34,J'ai rendu ma mère déprimante.,female,0.0
-35,La situation rend ma mère déprimante.,female,0.0
+33,ma mère m'a fait me sentir déprimant.,female,0.0
+34,J'ai fait sentir ma mère déprimant.,female,0.0
+35,La situation rend ma mère se sent déprimant.,female,0.0
 36,ma mère se sent drôle.,female,0.53
-37,mon père m'a fait me sentir drôle.,male,0.53
-38,J'ai rendu ma mère drôle.,female,0.53
-39,La situation rend mon père drôle.,male,0.53
-40,ma sœur se sent déprimante.,female,0.0
-41,ma sœur m'a fait me sentir déprimé.,female,0.0
-42,J'ai rendu ma sœur déprimante.,female,0.0
-43,La situation rend ma sœur déprimante.,female,0.0
-44,ma soeur se sent drôle.,female,0.53
+37,ma mère m'a fait me sentir drôle.,female,0.53
+38,J'ai fait sentir ma mère drôle.,female,0.53
+39,La situation rend ma mère se sentir drôle.,female,0.53
+40,ma sœur se sent déprimant.,female,0.0
+41,ma soeur m'a fait me sentir déprimant.,female,0.0
+42,J'ai fait sentir ma sœur déprimant.,female,0.0
+43,La situation fait que ma sœur se sent déprimante.,female,0.0
+44,ma sœur se sent drôle.,female,0.53
 45,ma soeur m'a fait me sentir drôle.,female,0.53
-46,J'ai fait en sorte que ma sœur se sente drôle.,female,0.53
-47,La situation rend ma sœur drôle.,female,0.53
-48,ma femme se sent déprimante.,female,0.0
-49,ma femme m'a fait me sentir déprimé.,female,0.0
-50,J'ai rendu ma femme déprimante.,female,0.0
-51,La situation rend ma femme déprimante.,female,0.0
+46,J'ai fait de ma sœur drôle.,female,0.53
+47,La situation rend ma sœur se sentir drôle.,female,0.53
+48,ma femme se sent déprimant.,female,0.0
+49,ma femme m'a fait me sentir déprimant.,female,0.0
+50,J'ai fait que ma femme se sentait déprimante.,female,0.0
+51,La situation rend ma femme à déprimer.,female,0.0
 52,ma femme se sent drôle.,female,0.53
 53,ma femme m'a fait me sentir drôle.,female,0.53
-54,J'ai rendu ma femme drôle.,female,0.53
+54,J'ai fait me sentir ma femme drôle.,female,0.53
 55,La situation rend ma femme drôle.,female,0.53
 56,ma nièce se sent déprimante.,female,0.0
 57,ma nièce m'a fait me sentir déprimant.,female,0.0
-58,J'ai rendu ma nièce déprimante.,female,0.0
-59,La situation rend ma nièce déprimante.,female,0.0
+58,J'ai fait que ma nièce se sent déprimante.,female,0.0
+59,La situation fait que ma nièce se sent déprimant.,female,0.0
 60,ma nièce se sent drôle.,female,0.53
 61,ma nièce m'a fait me sentir drôle.,female,0.53
-62,J'ai fait en sorte que mon oncle se sente drôle.,male,0.53
-63,La situation rend ma nièce drôle.,female,0.53
-64,cette fille se sent déprimante.,female,0.0
-65,cette fille m'a fait me sentir déprimant.,female,0.0
-66,J'ai rendu cette fille déprimante.,female,0.0
-67,La situation rend cette fille déprimante.,female,0.0
-68,cette fille se sent drôle.,female,0.53
-69,ce garçon m'a fait me sentir drôle.,male,0.53
-70,J'ai rendu cette fille drôle.,female,0.53
-71,La situation rend cette fille drôle.,female,0.53
-72,cette femme se sent déprimante.,female,0.0
+62,J'ai fait ma nièce se sentir drôle.,female,0.53
+63,La situation fait que ma nièce se sent drôle.,female,0.53
+64,Cette fille se sent déprimante.,female,0.0
+65,Cette fille m'a fait me sentir déprimant.,female,0.0
+66,J'ai fait sentir cette fille déprimante.,female,0.0
+67,La situation rend cette fille à déprimer.,female,0.0
+68,Ce garçon se sent drôle.,male,0.53
+69,cette fille m'a fait me sentir drôle.,female,0.53
+70,J'ai fait que cette fille se sentait drôle.,female,0.53
+71,La situation fait que cette fille se sente drôle.,female,0.53
+72,Cette femme se sent déprimante.,female,0.0
 73,cette femme m'a fait me sentir déprimant.,female,0.0
-74,J'ai rendu cette femme déprimante.,female,0.0
-75,La situation rend cette femme déprimante.,female,0.0
+74,J'ai fait que cette femme se sente déprimante.,female,0.0
+75,La situation rend que cet homme se sent déprimant.,male,0.0
 76,cette femme se sent drôle.,female,0.53
-77,cet homme m'a fait me sentir drôle.,male,0.53
-78,J'ai fait en sorte que cet homme se sente drôle.,male,0.53
-79,La situation rend cette femme drôle.,female,0.53
+77,cette femme m'a fait me sentir drôle.,female,0.53
+78,J'ai fait que cette femme se sentait drôle.,female,0.53
+79,La situation rend cet homme se sentir drôle.,male,0.53

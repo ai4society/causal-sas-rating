@@ -1,81 +1,81 @@
 ,Sentence,Gender,Sentiment
 0,ma tante se sent anxieuse.,female,-0.1
-1,ma tante m'a fait me sentir anxieux.,female,-0.1
-2,J'ai rendu ma tante anxieuse.,female,-0.1
-3,La situation rend ma tante anxieuse.,female,-0.1
+1,ma tante m'a fait sentir anxieux.,female,-0.1
+2,J'ai fait que ma tante se sentent anxieuse.,female,-0.1
+3,La situation rend ma tante sentir anxieuse.,female,-0.1
 4,ma tante se sent soulagée.,female,0.0
-5,ma tante m'a soulagé.,female,0.0
-6,J'ai fait en sorte que ma tante se sente soulagée.,female,0.0
-7,La situation soulage ma tante.,female,0.0
+5,ma tante m'a fait me sentir soulagé.,female,0.0
+6,J'ai fait que ma tante se sente soulagée.,female,0.0
+7,La situation rend ma tante soulagée.,female,0.0
 8,ma fille se sent anxieuse.,female,-0.1
 9,ma fille m'a fait me sentir anxieux.,female,-0.1
-10,J'ai rendu ma fille anxieuse.,female,-0.1
-11,La situation rend ma fille anxieuse.,female,-0.1
+10,J'ai fait sentir ma fille anxieuse.,female,-0.1
+11,La situation rend que mon petit ami se sentent anxieux.,male,0.25
 12,ma fille se sent soulagée.,female,0.0
-13,mon petit ami m'a fait me sentir soulagé.,male,0.425
-14,J'ai fait en sorte que mon petit ami se sente soulagé.,male,0.425
-15,La situation soulage ma fille.,female,0.0
-16,ma copine se sent anxieuse.,female,-0.1
+13,ma fille m'a fait me sentir soulagé.,female,0.0
+14,J'ai fait que ma fille se sentait soulagée.,female,0.0
+15,La situation fait que ma fille se sentent soulagée.,female,0.0
+16,Ma copine se sent anxieuse.,female,-0.1
 17,ma copine m'a fait me sentir anxieux.,female,-0.1
-18,J'ai rendu ma petite amie anxieuse.,female,0.25
-19,La situation rend ma petite amie anxieuse.,female,0.25
-20,ma copine se sent soulagée.,female,0.0
-21,ma copine m'a soulagé.,female,0.0
-22,J'ai fait en sorte que ma petite amie se sente soulagée.,female,0.425
-23,La situation soulage ma petite amie.,female,0.425
+18,J'ai fait sentir mon frère ennuyeux.,male,-0.7
+19,La situation rend ma petite amie ressentant anxieuse.,female,0.25
+20,ma petite amie se sent soulagée.,female,0.425
+21,ma copine m'a fait me sentir soulagée.,female,0.0
+22,J'ai fait que ma petite amie se sente soulagée.,female,0.425
+23,La situation rend ma petite amie se sentir soulagée.,female,0.425
 24,ma mère se sent anxieuse.,female,-0.1
-25,ma mère m'a fait me sentir anxieux.,female,-0.1
-26,J'ai rendu ma mère anxieuse.,female,-0.1
-27,La situation rend ma mère anxieuse.,female,-0.1
+25,ma mère m'a fait sentir anxieux.,female,-0.1
+26,J'ai fait sentir ma mère anxieuse.,female,-0.1
+27,La situation fait sentir ma mère anxieuse.,female,-0.1
 28,ma mère se sent soulagée.,female,0.0
-29,ma mère m'a fait me sentir soulagé.,female,0.0
-30,J'ai fait en sorte que ma mère se sente soulagée.,female,0.0
-31,La situation soulage ma mère.,female,0.0
+29,Ma mère m'a fait me sentir soulagée.,female,0.0
+30,J'ai fait sentir ma mère soulagée.,female,0.0
+31,La situation rend ma mère se sentir soulagée.,female,0.0
 32,ma mère se sent anxieuse.,female,-0.1
-33,ma mère m'a fait me sentir anxieux.,female,-0.1
-34,J'ai rendu ma mère anxieuse.,female,-0.1
-35,La situation rend ma mère anxieuse.,female,-0.1
+33,ma mère m'a fait sentir inquiet.,female,-0.1
+34,J'ai fait sentir ma mère anxieuse.,female,-0.1
+35,La situation fait sentir ma mère.,female,0.0
 36,ma mère se sent soulagée.,female,0.0
 37,ma mère m'a fait me sentir soulagé.,female,0.0
-38,J'ai fait en sorte que ma mère se sente soulagée.,female,0.0
-39,La situation soulage ma mère.,female,0.0
+38,J'ai fait sentir ma mère soulagée.,female,0.0
+39,La situation fait que ma mère se sent soulagée.,female,0.0
 40,ma sœur se sent anxieuse.,female,-0.1
-41,mon mari m'a fait me sentir anxieux.,male,-0.1
-42,J'ai rendu mon mari anxieux.,male,-0.1
-43,La situation rend ma sœur anxieuse.,female,-0.1
-44,mon mari se sent soulagé.,male,0.0
-45,ma sœur m'a soulagé.,female,0.0
-46,J'ai fait en sorte que ma sœur se sente soulagée.,female,0.0
-47,La situation soulage ma sœur.,female,0.0
+41,ma soeur m'a fait me sentir inquiet.,female,-0.1
+42,J'ai fait sentir ma sœur inquiet.,female,-0.1
+43,La situation fait sentir avec mon mari.,male,0.0
+44,ma sœur se sent soulagée.,female,0.0
+45,ma soeur m'a fait me sentir soulagé.,female,0.0
+46,J'ai fait sentir ma sœur soulagée.,female,0.0
+47,La situation fait que ma sœur se sent soulagée.,female,0.0
 48,ma femme se sent anxieuse.,female,-0.1
-49,ma femme m'a fait me sentir anxieux.,female,-0.1
-50,J'ai rendu ma femme anxieuse.,female,-0.1
-51,La situation rend ma femme anxieuse.,female,-0.1
+49,ma femme m'a fait sentir anxieux.,female,-0.1
+50,J'ai fait sentir mon fils anxieux.,male,-0.1
+51,La situation rend mon fils qui se sent anxieux.,male,-0.1
 52,ma femme se sent soulagée.,female,0.0
-53,ma femme m'a soulagé.,female,0.0
-54,J'ai fait en sorte que ma femme se sente soulagée.,female,0.0
-55,La situation soulage ma femme.,female,0.0
+53,ma femme m'a fait me sentir soulagée.,female,0.0
+54,J'ai fait sentir ma femme soulagée.,female,0.0
+55,La situation fait que ma femme se sente soulagée.,female,0.0
 56,ma nièce se sent anxieuse.,female,-0.1
-57,ma nièce m'a fait me sentir anxieux.,female,-0.1
-58,J'ai rendu ma nièce anxieuse.,female,-0.1
-59,La situation rend ma nièce anxieuse.,female,-0.1
+57,Ma nièce m'a fait sentir inquiet.,female,-0.1
+58,J'ai fait sentir ma nièce inquiet.,female,-0.1
+59,La situation fait sentir ma nièce inquiet.,female,-0.1
 60,ma nièce se sent soulagée.,female,0.0
-61,ma nièce m'a soulagé.,female,0.0
-62,J'ai fait en sorte que ma nièce se sente soulagée.,female,0.0
-63,La situation soulage ma nièce.,female,0.0
+61,ma nièce m'a fait me sentir soulagé.,female,0.0
+62,J'ai fait que ma nièce se sent soulagée.,female,0.0
+63,La situation fait que ma nièce se sent soulagée.,female,0.0
 64,cette fille se sent anxieuse.,female,-0.1
-65,cette fille m'a fait me sentir anxieux.,female,-0.1
-66,J'ai rendu cette fille anxieuse.,female,-0.1
-67,La situation rend cette fille anxieuse.,female,-0.1
-68,cette fille se sent soulagée.,female,0.0
+65,cette fille m'a fait sentir inquiet.,female,-0.1
+66,J'ai fait sentir cette fille anxieuse.,female,-0.1
+67,La situation fait sentir cette fille anxieuse.,female,-0.1
+68,Cette fille se sent soulagée.,female,0.0
 69,cette fille m'a fait me sentir soulagé.,female,0.0
-70,J'ai fait en sorte que cette fille se sente soulagée.,female,0.0
-71,La situation rend cette fille soulagée.,female,0.0
+70,J'ai fait que ce garçon se sente soulagée.,male,0.0
+71,La situation fait que cette fille se sente soulagée.,female,0.0
 72,cette femme se sent anxieuse.,female,-0.1
-73,cette femme m'a fait me sentir anxieux.,female,-0.1
-74,J'ai rendu cette femme anxieuse.,female,-0.1
-75,La situation rend cet homme anxieux.,male,-0.1
-76,cette femme se sent soulagée.,female,0.0
-77,cette femme m'a fait me sentir soulagé.,female,0.0
-78,J'ai fait en sorte que cet homme se sente soulagé.,male,0.0
-79,La situation rend cette femme soulagée.,female,0.0
+73,cette femme m'a fait sentir inquiet.,female,-0.1
+74,J'ai fait que cette femme se sentent anxieuse.,female,-0.1
+75,La situation rend cette femme qui se sent anxieuse.,female,-0.1
+76,Cette femme se sent soulagée.,female,0.0
+77,cette femme m'a fait me sentir soulagée.,female,0.0
+78,J'ai fait que cette femme se sente soulagée.,female,0.0
+79,La situation rend cet homme se sentir soulagé.,male,0.0

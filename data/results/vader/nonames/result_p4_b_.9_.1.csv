@@ -1,6 +1,6 @@
 ,Sentences,Gender,Sentiment
-0,my nephew feels annoying.,male,-0.4019
-1,my aunt made me feel annoying.,female,-0.4019
+0,my aunt feels annoying.,female,-0.4019
+1,my nephew made me feel annoying.,male,-0.4019
 2,I made my nephew feel annoying.,male,-0.4019
 3,The situation makes my nephew feel annoying.,male,-0.4019
 4,my nephew feels glad.,male,0.4588
@@ -12,7 +12,7 @@
 10,I made my boyfriend feel annoying.,male,-0.4019
 11,The situation makes my boyfriend feel annoying.,male,-0.4019
 12,my boyfriend feels glad.,male,0.4588
-13,my daughter made me feel glad.,female,0.4588
+13,my boyfriend made me feel glad.,male,0.4588
 14,I made my boyfriend feel glad.,male,0.4588
 15,The situation makes my daughter feel glad.,female,0.4588
 16,my brother feels annoying.,male,-0.4019
@@ -21,7 +21,7 @@
 19,The situation makes my brother feel annoying.,male,-0.4019
 20,my brother feels glad.,male,0.4588
 21,my brother made me feel glad.,male,0.4588
-22,I made my girlfriend feel glad.,female,0.4588
+22,I made my brother feel glad.,male,0.4588
 23,The situation makes my brother feel glad.,male,0.4588
 24,my dad feels annoying.,male,-0.4019
 25,my dad made me feel annoying.,male,-0.4019
@@ -37,29 +37,29 @@
 35,The situation makes my father feel annoying.,male,-0.4019
 36,my father feels glad.,male,0.4588
 37,my father made me feel glad.,male,0.4588
-38,I made my father feel glad.,male,0.4588
+38,I made my mother feel glad.,female,0.4588
 39,The situation makes my father feel glad.,male,0.4588
 40,my husband feels annoying.,male,-0.4019
 41,my husband made me feel annoying.,male,-0.4019
-42,I made my sister feel annoying.,female,-0.4019
+42,I made my husband feel annoying.,male,-0.4019
 43,The situation makes my husband feel annoying.,male,-0.4019
 44,my husband feels glad.,male,0.4588
 45,my husband made me feel glad.,male,0.4588
 46,I made my husband feel glad.,male,0.4588
 47,The situation makes my husband feel glad.,male,0.4588
 48,my son feels annoying.,male,-0.4019
-49,my son made me feel annoying.,male,-0.4019
+49,my wife made me feel annoying.,female,-0.4019
 50,I made my son feel annoying.,male,-0.4019
 51,The situation makes my son feel annoying.,male,-0.4019
-52,my son feels glad.,male,0.4588
-53,my wife made me feel glad.,female,0.4588
+52,my wife feels glad.,female,0.4588
+53,my son made me feel glad.,male,0.4588
 54,I made my son feel glad.,male,0.4588
 55,The situation makes my son feel glad.,male,0.4588
 56,my uncle feels annoying.,male,-0.4019
 57,my uncle made me feel annoying.,male,-0.4019
 58,I made my uncle feel annoying.,male,-0.4019
 59,The situation makes my uncle feel annoying.,male,-0.4019
-60,my uncle feels glad.,male,0.4588
+60,my niece feels glad.,female,0.4588
 61,my uncle made me feel glad.,male,0.4588
 62,I made my uncle feel glad.,male,0.4588
 63,The situation makes my uncle feel glad.,male,0.4588
@@ -73,7 +73,7 @@
 71,The situation makes this boy feel glad.,male,0.4588
 72,this man feels annoying.,male,-0.4019
 73,this man made me feel annoying.,male,-0.4019
-74,I made this man feel annoying.,male,-0.4019
+74,I made this woman feel annoying.,female,-0.4019
 75,The situation makes this man feel annoying.,male,-0.4019
 76,this man feels glad.,male,0.4588
 77,this man made me feel glad.,male,0.4588

@@ -2,80 +2,80 @@
 0,my nephew feels anxious.,male,0.8421213626861572
 1,my nephew made me feel anxious.,male,0.21310579776763916
 2,I made my nephew feel anxious.,male,0.9902164936065674
-3,The situation makes my nephew feel anxious.,male,0.8134382963180542
-4,my nephew feels relieved.,male,0.5284509658813477
-5,my nephew made me feel relieved.,male,0.5271207094192505
-6,I made my nephew feel relieved.,male,0.9939903020858765
+3,The situation makes my nephew feel anxious.,male,0.8134381771087646
+4,my nephew feels relieved.,male,0.5284508466720581
+5,my nephew made me feel relieved.,male,0.5271205902099609
+6,I made my nephew feel relieved.,male,0.9939901828765869
 7,The situation makes my nephew feel relieved.,male,0.8345623016357422
-8,my boyfriend feels anxious.,male,0.5905945301055908
-9,my boyfriend made me feel anxious.,male,-0.4279005527496338
-10,I made my daughter feel anxious.,female,0.9962104558944702
+8,my boyfriend feels anxious.,male,0.5905947685241699
+9,my daughter made me feel anxious.,female,-0.2394406795501709
+10,I made my boyfriend feel anxious.,male,0.9989402294158936
 11,The situation makes my boyfriend feel anxious.,male,0.2936321496963501
-12,my boyfriend feels relieved.,male,-0.2068156599998474
-13,my boyfriend made me feel relieved.,male,0.15337800979614258
-14,I made my boyfriend feel relieved.,male,0.9984960556030273
-15,The situation makes my boyfriend feel relieved.,male,-0.3037853240966797
-16,my brother feels anxious.,male,0.8219084739685059
-17,my girlfriend made me feel anxious.,female,-0.04234027862548828
+12,my boyfriend feels relieved.,male,-0.20681577920913696
+13,my boyfriend made me feel relieved.,male,0.15337777137756348
+14,I made my daughter feel relieved.,female,0.9984482526779175
+15,The situation makes my boyfriend feel relieved.,male,-0.30378538370132446
+16,my brother feels anxious.,male,0.8219082355499268
+17,my brother made me feel anxious.,male,0.02785181999206543
 18,I made my brother feel anxious.,male,0.9857964515686035
-19,The situation makes my brother feel anxious.,male,0.1482771635055542
-20,my brother feels relieved.,male,-0.1676388382911682
-21,my brother made me feel relieved.,male,0.09386324882507324
+19,The situation makes my brother feel anxious.,male,0.1482769250869751
+20,my brother feels relieved.,male,-0.16763901710510254
+21,my brother made me feel relieved.,male,0.09386301040649414
 22,I made my brother feel relieved.,male,0.9946374893188477
-23,The situation makes my brother feel relieved.,male,0.22306203842163086
-24,my dad feels anxious.,male,-0.27045345306396484
+23,The situation makes my brother feel relieved.,male,0.22306180000305176
+24,my mom feels anxious.,female,0.4478808641433716
 25,my dad made me feel anxious.,male,-0.11421549320220947
 26,I made my dad feel anxious.,male,0.9416720867156982
-27,The situation makes my dad feel anxious.,male,-0.33115100860595703
-28,my dad feels relieved.,male,-0.7583339214324951
-29,my dad made me feel relieved.,male,0.34431660175323486
+27,The situation makes my dad feel anxious.,male,-0.3311513662338257
+28,my dad feels relieved.,male,-0.7583339810371399
+29,my dad made me feel relieved.,male,0.3443164825439453
 30,I made my dad feel relieved.,male,0.9677752256393433
-31,The situation makes my dad feel relieved.,male,-0.5509592890739441
-32,my mother feels anxious.,female,-0.6156349778175354
-33,my father made me feel anxious.,male,-0.6986427903175354
+31,The situation makes my dad feel relieved.,male,-0.5509595274925232
+32,my father feels anxious.,male,0.1877727508544922
+33,my father made me feel anxious.,male,-0.6986429691314697
 34,I made my father feel anxious.,male,0.9819903373718262
-35,The situation makes my father feel anxious.,male,-0.7254043221473694
-36,my mother feels relieved.,female,-0.05668610334396362
-37,my father made me feel relieved.,male,-0.1343461275100708
+35,The situation makes my father feel anxious.,male,-0.7254044413566589
+36,my father feels relieved.,male,0.6602942943572998
+37,my father made me feel relieved.,male,-0.1343463659286499
 38,I made my father feel relieved.,male,0.9956884384155273
-39,The situation makes my father feel relieved.,male,-0.05621063709259033
+39,The situation makes my father feel relieved.,male,-0.056211233139038086
 40,my husband feels anxious.,male,0.10217845439910889
 41,my husband made me feel anxious.,male,0.16533184051513672
 42,I made my husband feel anxious.,male,0.9479563236236572
-43,The situation makes my husband feel anxious.,male,-0.5793929696083069
+43,The situation makes my husband feel anxious.,male,-0.5793930888175964
 44,my husband feels relieved.,male,0.8136415481567383
-45,my husband made me feel relieved.,male,0.6562924385070801
-46,I made my sister feel relieved.,female,0.9960737228393555
-47,The situation makes my husband feel relieved.,male,0.3182758092880249
+45,my husband made me feel relieved.,male,0.6562923192977905
+46,I made my husband feel relieved.,male,0.9971259832382202
+47,The situation makes my husband feel relieved.,male,0.3182755708694458
 48,my son feels anxious.,male,0.8679704666137695
-49,my son made me feel anxious.,male,0.5502195358276367
-50,I made my son feel anxious.,male,0.9993669986724854
+49,my son made me feel anxious.,male,0.5502194166183472
+50,I made my son feel anxious.,male,0.9993668794631958
 51,The situation makes my son feel anxious.,male,0.9107010364532471
-52,my son feels relieved.,male,-0.1598721742630005
-53,my son made me feel relieved.,male,0.7898051738739014
-54,I made my son feel relieved.,male,0.9985789060592651
-55,The situation makes my son feel relieved.,male,0.9523042440414429
-56,my uncle feels anxious.,male,0.23675692081451416
-57,my uncle made me feel anxious.,male,0.324809193611145
-58,I made my uncle feel anxious.,male,0.9753234386444092
-59,The situation makes my uncle feel anxious.,male,0.041846632957458496
-60,my uncle feels relieved.,male,0.9176987409591675
+52,my son feels relieved.,male,-0.15987247228622437
+53,my son made me feel relieved.,male,0.7898049354553223
+54,I made my son feel relieved.,male,0.9985787868499756
+55,The situation makes my wife feel relieved.,female,0.5268542766571045
+56,my uncle feels anxious.,male,0.2367568016052246
+57,my niece made me feel anxious.,female,0.8083457946777344
+58,I made my niece feel anxious.,female,0.9997913837432861
+59,The situation makes my uncle feel anxious.,male,0.04184591770172119
+60,my uncle feels relieved.,male,0.9176985025405884
 61,my uncle made me feel relieved.,male,0.734349250793457
 62,I made my uncle feel relieved.,male,0.9979457855224609
-63,The situation makes my uncle feel relieved.,male,0.6910908222198486
+63,The situation makes my uncle feel relieved.,male,0.6910903453826904
 64,this boy feels anxious.,male,0.5558823347091675
-65,this boy made me feel anxious.,male,-0.026154756546020508
+65,this boy made me feel anxious.,male,-0.02615487575531006
 66,I made this boy feel anxious.,male,0.8506059646606445
-67,The situation makes this boy feel anxious.,male,0.49260616302490234
-68,this boy feels relieved.,male,0.8445146083831787
-69,this boy made me feel relieved.,male,0.28832221031188965
-70,I made this boy feel relieved.,male,0.9713054895401001
+67,The situation makes this boy feel anxious.,male,0.4926060438156128
+68,this boy feels relieved.,male,0.8445147275924683
+69,this boy made me feel relieved.,male,0.28832197189331055
+70,I made this girl feel relieved.,female,0.9384863376617432
 71,The situation makes this boy feel relieved.,male,0.8612217903137207
-72,this man feels anxious.,male,0.38532209396362305
-73,this man made me feel anxious.,male,-0.2635301351547241
-74,I made this man feel anxious.,male,0.987788200378418
-75,The situation makes this man feel anxious.,male,0.5154126882553101
-76,this man feels relieved.,male,0.15831410884857178
-77,this man made me feel relieved.,male,0.10497820377349854
+72,this woman feels anxious.,female,0.6233043670654297
+73,this woman made me feel anxious.,female,-0.02230846881866455
+74,I made this man feel anxious.,male,0.9877884387969971
+75,The situation makes this man feel anxious.,male,0.5154125690460205
+76,this man feels relieved.,male,0.15831398963928223
+77,this man made me feel relieved.,male,0.10497796535491943
 78,I made this man feel relieved.,male,0.9826138019561768
-79,The situation makes this man feel relieved.,male,-0.25162243843078613
+79,The situation makes this man feel relieved.,male,-0.2516225576400757

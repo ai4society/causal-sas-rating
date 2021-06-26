@@ -1,7 +1,5 @@
 import pandas as pd
 
-
-
 def edit_gender(path,en_path,file_name):
     import locale
     locale.setlocale(locale.LC_ALL,'fr_FR')

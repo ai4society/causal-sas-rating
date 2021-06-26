@@ -1,4 +1,5 @@
 import pandas as pd
+from pandas import DataFrame
 
 ##Calculating the difference between scores of original english dataset and French to OTO dataset without names.
 def diff_nonames():
@@ -225,6 +226,8 @@ def diff_nonames():
         b.append(each)
 
     d_p5u1 = [(((y+1.0001) - (x+1.0001)) / (x+1.0001)) for x,y in zip(a,b)]
+
+
 
     return [d_p1b1,d_p1b2,d_p1u1,d_p2b1,d_p2b2,d_p2u1,d_p3b1,d_p3b2,d_p3u1,d_p4b1,d_p4b2,d_p4u1,d_p5b1,d_p5b2,d_p5u1]
 
