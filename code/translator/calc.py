@@ -32,15 +32,15 @@ def calc_avg_nonames():
 
     data = {'pairs':['p1','p2','p3','p4','p5'],'avg sentiment of OTO w/o names':calc_averages_fr_oto()}
     df = pd.DataFrame.from_dict(data)
-    df.to_csv('calculations.csv', mode='w')
+    df.to_csv('../../data/results/analysis/calculations.csv', mode='w')
 
-    df = pd.read_csv("calculations.csv")
+    df = pd.read_csv("../../data/results/analysis/calculations.csv")
     df["avg sentiment of French w/o names"] = calc_averages_fr()
-    df.to_csv("calculations.csv", index=False)
+    df.to_csv("../../data/results/analysis/calculations.csv", index=False)
 
-    df = pd.read_csv("calculations.csv")
+    df = pd.read_csv("../../data/results/analysis/calculations.csv")
     df["avg sentiment of English w/o names"] = calc_averages_en()
-    df.to_csv("calculations.csv", index=False)
+    df.to_csv("../../data/results/analysis/calculations.csv", index=False)
 
 #Calculating average sentiment scores for the TextBlob results with names.
 def calc_avg_withnames():
@@ -55,17 +55,17 @@ def calc_avg_withnames():
     print("The average scores of original English dataset with names are:")
     calc_averages_en_n()
 
-    df = pd.read_csv("calculations.csv")
+    df = pd.read_csv("../../data/results/analysis/calculations.csv")
     df["avg sentiment of OTO with names"] = calc_averages_fr_oto_n()
-    df.to_csv("calculations.csv", index=False)
+    df.to_csv("../../data/results/analysis/calculations.csv", index=False)
 
-    df = pd.read_csv("calculations.csv")
+    df = pd.read_csv("../../data/results/analysis/calculations.csv")
     df["avg sentiment of French with names"] = calc_averages_fr_n()
-    df.to_csv("calculations.csv", index=False)
+    df.to_csv("../../data/results/analysis/calculations.csv", index=False)
 
-    df = pd.read_csv("calculations.csv")
+    df = pd.read_csv("../../data/results/analysis/calculations.csv")
     df["avg sentiment of English with names"] = calc_averages_en_n()
-    df.to_csv("calculations.csv", index=False)
+    df.to_csv("../../data/results/analysis/calculations.csv", index=False)
 
 #Calculating the % average difference sentiment score between OTO and original English dataset without names.
 def calc_diff_nonames():
@@ -122,9 +122,9 @@ def calc_diff_nonames():
     # df = pd.DataFrame.from_dict(data)
     # df.to_csv('cal_tran_senti_diff_without.csv', mode='w')
 
-    df = pd.read_csv("calculations.csv")
+    df = pd.read_csv("../../data/results/analysis/calculations.csv")
     df["avg sentiment difference without names (%)"] = [round(p1_avg,2),round(p2_avg,2),round(p3_avg,2),round(p4_avg,2),round(p5_avg,2)]
-    df.to_csv("calculations.csv", index=False)
+    df.to_csv("../../data/results/analysis/calculations.csv", index=False)
     return (round(p1_avg,2),round(p2_avg,2),round(p3_avg,2),round(p4_avg,2),round(p5_avg,2))
 
 
@@ -180,9 +180,9 @@ def calc_diff_withnames():
 
     p5_avg_n = (sum/240)*100
 
-    df = pd.read_csv("calculations.csv")
+    df = pd.read_csv("../../data/results/analysis/calculations.csv")
     df["avg sentiment difference with names (%)"] = [round(p1_avg_n,2),round(p2_avg_n,2),round(p3_avg_n,2),round(p4_avg_n,2),round(p5_avg_n,2)]
-    df.to_csv("calculations.csv", index=False)
+    df.to_csv("../../data/results/analysis/calculations.csv", index=False)
 
 
     return (round(p1_avg_n,2),round(p2_avg_n,2),round(p3_avg_n,2),round(p4_avg_n,2),round(p5_avg_n,2))
@@ -220,9 +220,9 @@ print("Average word difference % (without names) for p1 is {},\np2 is {},\np3 is
 sys.stdout.close()
 sys.stdout=stdoutOrigin
 
-df = pd.read_csv("calculations.csv")
+df = pd.read_csv("../../data/results/analysis/calculations.csv")
 df["Word difference without names (%)"] = word_diff_nonames()
-df.to_csv("calculations.csv", index=False)
+df.to_csv("../../data/results/analysis/calculations.csv", index=False)
 
 print("You can see the word differences (nonames) in 'word_diff_nonames.txt' file")
 
@@ -242,9 +242,9 @@ print("Average word difference % (with names) for p1 is {},\np2 is {},\np3 is {}
 sys.stdout.close()
 sys.stdout=stdoutOrigin
 
-df = pd.read_csv("calculations.csv")
+df = pd.read_csv("../../data/results/analysis/calculations.csv")
 df["Word difference with names (%)"] = word_diff_withnames()
-df.to_csv("calculations.csv", index=False)
+df.to_csv("../../data/results/analysis/calculations.csv", index=False)
 
 print("You can see the word differences (withnames) in 'word_diff_withnames.txt' file")
 
