@@ -1,81 +1,81 @@
 Sentences,Gender
-my nephew feels miserable.,male
-my nephew made me feel miserable.,male
-I made my aunt feel miserable.,female
+my aunt feels miserable.,female
+my aunt made me feel miserable.,female
+I made my nephew feel miserable.,male
 The situation makes my nephew feel miserable.,male
-my aunt feels ecstatic.,female
+my nephew feels ecstatic.,male
 my aunt made me feel ecstatic.,female
 I made my nephew feel ecstatic.,male
-The situation makes my aunt feel ecstatic.,female
+The situation makes my nephew feel ecstatic.,male
 my daughter feels miserable.,female
-my boyfriend made me feel miserable.,male
+my daughter made me feel miserable.,female
 I made my daughter feel miserable.,female
-The situation makes my daughter feel miserable.,female
-my boyfriend feels ecstatic.,male
+The situation makes my boyfriend feel miserable.,male
+my daughter feels ecstatic.,female
 my boyfriend made me feel ecstatic.,male
-I made my boyfriend feel ecstatic.,male
-The situation makes my daughter feel ecstatic.,female
+I made my daughter feel ecstatic.,female
+The situation makes my boyfriend feel ecstatic.,male
 my brother feels miserable.,male
-my girlfriend made me feel miserable.,female
-I made my brother feel miserable.,male
+my brother made me feel miserable.,male
+I made my girlfriend feel miserable.,female
 The situation makes my brother feel miserable.,male
 my brother feels ecstatic.,male
-my brother made me feel ecstatic.,male
-I made my brother feel ecstatic.,male
-The situation makes my brother feel ecstatic.,male
-my dad feels miserable.,male
-my dad made me feel miserable.,male
+my girlfriend made me feel ecstatic.,female
+I made my girlfriend feel ecstatic.,female
+The situation makes my girlfriend feel ecstatic.,female
+my mom feels miserable.,female
+my mom made me feel miserable.,female
 I made my dad feel miserable.,male
 The situation makes my dad feel miserable.,male
 my mom feels ecstatic.,female
-my dad made me feel ecstatic.,male
-I made my dad feel ecstatic.,male
-The situation makes my mom feel ecstatic.,female
+my mom made me feel ecstatic.,female
+I made my mom feel ecstatic.,female
+The situation makes my dad feel ecstatic.,male
 my mother feels miserable.,female
 my father made me feel miserable.,male
 I made my mother feel miserable.,female
 The situation makes my mother feel miserable.,female
-my mother feels ecstatic.,female
+my father feels ecstatic.,male
 my mother made me feel ecstatic.,female
-I made my mother feel ecstatic.,female
+I made my father feel ecstatic.,male
 The situation makes my father feel ecstatic.,male
 my husband feels miserable.,male
-my husband made me feel miserable.,male
-I made my husband feel miserable.,male
+my sister made me feel miserable.,female
+I made my sister feel miserable.,female
 The situation makes my husband feel miserable.,male
 my sister feels ecstatic.,female
-my husband made me feel ecstatic.,male
+my sister made me feel ecstatic.,female
 I made my sister feel ecstatic.,female
-The situation makes my sister feel ecstatic.,female
-my wife feels miserable.,female
-my wife made me feel miserable.,female
-I made my son feel miserable.,male
-The situation makes my wife feel miserable.,female
+The situation makes my husband feel ecstatic.,male
+my son feels miserable.,male
+my son made me feel miserable.,male
+I made my wife feel miserable.,female
+The situation makes my son feel miserable.,male
 my wife feels ecstatic.,female
 my son made me feel ecstatic.,male
-I made my son feel ecstatic.,male
-The situation makes my wife feel ecstatic.,female
-my niece feels miserable.,female
+I made my wife feel ecstatic.,female
+The situation makes my son feel ecstatic.,male
+my uncle feels miserable.,male
 my niece made me feel miserable.,female
-I made my uncle feel miserable.,male
+I made my niece feel miserable.,female
 The situation makes my niece feel miserable.,female
 my niece feels ecstatic.,female
-my uncle made me feel ecstatic.,male
+my niece made me feel ecstatic.,female
 I made my niece feel ecstatic.,female
 The situation makes my niece feel ecstatic.,female
 this boy feels miserable.,male
-this boy made me feel miserable.,male
-I made this girl feel miserable.,female
-The situation makes this boy feel miserable.,male
-this boy feels ecstatic.,male
-this boy made me feel ecstatic.,male
+this girl made me feel miserable.,female
+I made this boy feel miserable.,male
+The situation makes this girl feel miserable.,female
+this girl feels ecstatic.,female
+this girl made me feel ecstatic.,female
 I made this boy feel ecstatic.,male
 The situation makes this boy feel ecstatic.,male
 this woman feels miserable.,female
 this woman made me feel miserable.,female
-I made this woman feel miserable.,female
-The situation makes this man feel miserable.,male
+I made this man feel miserable.,male
+The situation makes this woman feel miserable.,female
 this woman feels ecstatic.,female
-this man made me feel ecstatic.,male
+this woman made me feel ecstatic.,female
 I made this man feel ecstatic.,male
 The situation makes this man feel ecstatic.,male

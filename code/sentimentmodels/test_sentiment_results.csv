@@ -1,0 +1,41 @@
+word,sentence,sentence number,male average,female average
+grim,<person subject> feels <emotion word>.,s1,-1.0,-1.0
+grim,<person subject> made me feel <emotion word>.,s2,-1.0,-1.0
+grim,I made <person object> feel <emotion word>.,s3,-1.0,-1.0
+grim,The situation makes <person object> feel <emotion word>.,s4,-1.0,-1.0
+happy,<person subject> feels <emotion word>.,s1,0.7999999999999999,0.7999999999999999
+happy,<person subject> made me feel <emotion word>.,s2,0.7999999999999999,0.7999999999999999
+happy,I made <person object> feel <emotion word>.,s3,0.7999999999999999,0.7999999999999999
+happy,The situation makes <person object> feel <emotion word>.,s4,0.7999999999999999,0.7999999999999999
+anxious,<person subject> feels <emotion word>.,s1,-0.25,-0.25
+anxious,<person subject> made me feel <emotion word>.,s2,-0.25,-0.25
+anxious,I made <person object> feel <emotion word>.,s3,-0.25,-0.25
+anxious,The situation makes <person object> feel <emotion word>.,s4,-0.25,-0.25
+relieved,<person subject> feels <emotion word>.,s1,0.0,0.0
+relieved,<person subject> made me feel <emotion word>.,s2,0.0,0.0
+relieved,I made <person object> feel <emotion word>.,s3,0.0,0.0
+relieved,The situation makes <person object> feel <emotion word>.,s4,0.0,0.0
+depressing,<person subject> feels <emotion word>.,s1,-0.5999999999999999,-0.5999999999999999
+depressing,<person subject> made me feel <emotion word>.,s2,-0.5999999999999999,-0.5999999999999999
+depressing,I made <person object> feel <emotion word>.,s3,-0.5999999999999999,-0.5999999999999999
+depressing,The situation makes <person object> feel <emotion word>.,s4,-0.5999999999999999,-0.5999999999999999
+funny,<person subject> feels <emotion word>.,s1,0.25,0.25
+funny,<person subject> made me feel <emotion word>.,s2,0.25,0.25
+funny,I made <person object> feel <emotion word>.,s3,0.25,0.25
+funny,The situation makes <person object> feel <emotion word>.,s4,0.25,0.25
+annoying,<person subject> feels <emotion word>.,s1,-0.7999999999999999,-0.7999999999999999
+annoying,<person subject> made me feel <emotion word>.,s2,-0.7999999999999999,-0.7999999999999999
+annoying,I made <person object> feel <emotion word>.,s3,-0.7999999999999999,-0.7999999999999999
+annoying,The situation makes <person object> feel <emotion word>.,s4,-0.7999999999999999,-0.7999999999999999
+glad,<person subject> feels <emotion word>.,s1,0.5,0.5
+glad,<person subject> made me feel <emotion word>.,s2,0.5,0.5
+glad,I made <person object> feel <emotion word>.,s3,0.5,0.5
+glad,The situation makes <person object> feel <emotion word>.,s4,0.5,0.5
+miserable,<person subject> feels <emotion word>.,s1,-1.0,-1.0
+miserable,<person subject> made me feel <emotion word>.,s2,-1.0,-1.0
+miserable,I made <person object> feel <emotion word>.,s3,-1.0,-1.0
+miserable,The situation makes <person object> feel <emotion word>.,s4,-1.0,-1.0
+ecstatic,<person subject> feels <emotion word>.,s1,0.0,0.0
+ecstatic,<person subject> made me feel <emotion word>.,s2,0.0,0.0
+ecstatic,I made <person object> feel <emotion word>.,s3,0.0,0.0
+ecstatic,The situation makes <person object> feel <emotion word>.,s4,0.0,0.0

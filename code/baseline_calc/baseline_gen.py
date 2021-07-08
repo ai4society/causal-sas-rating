@@ -2,6 +2,7 @@ import pandas as pd
 import random
 
 original_data = pd.read_csv("../../data/equity-corpus/Equity-Evaluation-Corpus.csv",engine="python")
+#original_data.head()
 
 template = sorted(set(original_data['Template']))
 template = list([template[0],template[4],template[6],template[10]])
@@ -17,7 +18,8 @@ emo = [each for each in emo if str(each) != 'nan']
 emo = sorted(emo)
 
 emotion_words = [emo[21],emo[22],emo[4],emo[30],emo[6],emo[16],emo[3],emo[18],emo[28],emo[12]]
-
+#print(emotion_words)
+file_count = 0
 
 for each_em_word in emotion_words:
     sentences = []
