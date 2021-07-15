@@ -64,7 +64,7 @@ def textblobsentiment_baseline(path):
     set.to_csv(path,index=False)
 
 
-def textblobsentiment_new_baseline(path):
+def textblobsentiment_sentence_baseline(path):
     original_data = pd.read_csv("../../data/equity-corpus/Equity-Evaluation-Corpus.csv",engine="python")
 
     template = sorted(set(original_data['Template']))
@@ -133,4 +133,4 @@ def textblobsentiment_new_baseline(path):
         for k in range(4):
             words.append(each_em)
 
-    (pd.DataFrame.from_dict({'word':words,'sentence':templates,'sentence number':templates_num,'male average':male_averages,'female average':female_averages})).to_csv('test_sentiment_results.csv',index=False)
+    (pd.DataFrame.from_dict({'word':words,'sentence':templates,'sentence number':templates_num,'male textblob average':male_averages,'female textblob average':female_averages})).to_csv('../../data/baseline/sentence-level/sentence_level_averages.csv',index=False)

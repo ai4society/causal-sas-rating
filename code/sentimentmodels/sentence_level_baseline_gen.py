@@ -45,11 +45,37 @@ for each_em_word in emotion_words:
             female_sentences.append(template[k].replace("<person object>",f).replace("<person subject>",f).replace("<emotion word>",each_em_word))
 
 
-(pd.DataFrame.from_dict({'male sentences':male_sentences, 'female sentences':female_sentences})).to_csv('test_sentiment.csv',index=False)
+(pd.DataFrame.from_dict({'male sentences':male_sentences, 'female sentences':female_sentences})).to_csv('../../data/baseline/sentence-level/sentences.csv',index=False)
 
 def run_blob():
-    textblob.textblobsentiment_new_baseline("test_sentiment.csv")
+    textblob.textblobsentiment_sentence_baseline("../../data/baseline/sentence-level/sentences.csv")
 
-    print("Results from TextBlob have been generated at: NaN")
+    print("Results from TextBlob have been generated at:../../data/baseline/sentence-level/ ")
+
+def run_cnn():
+    cnn.cnnsentiment_sentence_baseline("../../data/baseline/sentence-level/sentences.csv")
+
+    print("Results from CNN have been generated at: ../../data/baseline/sentence-level/")
+
+def run_dbert():
+    dbert.bertsentiment_sentence_baseline("../../data/baseline/sentence-level/sentences.csv")
+    print("Results from DistilBERT have been generated at:../../data/baseline/sentence-level/ ")
+
+def run_gru():
+    ClassificationGRU.gru_sentence_baseline("../../data/baseline/sentence-level/sentences.csv")
+    print("Results from GRU have been generated at: ../../data/baseline/sentence-level/")
+
+def run_lstm():
+    ClassificationLSTM.lstm_sentence_baseline("../../data/baseline/sentence-level/sentences.csv")
+    print("Results from LSTM have been generated at: ../../data/baseline/sentence-level/")
+
+def run_vader():
+    vader.vadersentiment_sentence_baseline("../../data/baseline/sentence-level/sentences.csv")
+    print("Results from VADER have been generated at: ../../data/baseline/sentence-level/")
 
 run_blob()
+run_cnn()
+run_dbert()
+run_gru()
+run_lstm()
+run_vader()
