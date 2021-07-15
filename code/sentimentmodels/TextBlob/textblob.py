@@ -99,7 +99,7 @@ def textblobsentiment_sentence_baseline(path):
         for each in male_sentiment[k:k+10]:
             total = total + each
         average = total / 10
-        male_averages.append(average)
+        male_averages.append(round(average,2))
         k = k+10
     print(len(male_averages))
 
@@ -118,7 +118,7 @@ def textblobsentiment_sentence_baseline(path):
         for each in female_sentiment[k:k+10]:
             total = total + each
         average = total / 10
-        female_averages.append(average)
+        female_averages.append(round(average,2))
         k = k+10
 
     templates = []
