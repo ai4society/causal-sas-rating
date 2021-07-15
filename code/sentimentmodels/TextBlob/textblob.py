@@ -133,4 +133,4 @@ def textblobsentiment_sentence_baseline(path):
         for k in range(4):
             words.append(each_em)
 
-    (pd.DataFrame.from_dict({'word':words,'sentence':templates,'sentence number':templates_num,'male textblob average':male_averages,'female textblob average':female_averages})).to_csv('../../data/baseline/sentence-level/sentence_level_averages.csv',index=False)
+    (pd.DataFrame.from_dict({'word':words,'sentence':templates,'sentence number':templates_num,'male_textblob_average':male_averages,'female_textblob_average':female_averages})).to_csv('../../data/baseline/sentence-level/sentence_level_averages.csv',index=False)
