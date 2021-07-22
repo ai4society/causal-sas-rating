@@ -1,0 +1,41 @@
+Index,word,sentence,sentence number,male_textblob_average,female_textblob_average,male_cnn_average,female_cnn_average,male_dbert_average,female_dbert_average,male_gru_average,female_gru_average,male_lstm_average,female_lstm_average,male_vader_average,female_vader_average
+0,grim,<person subject> feels <emotion word>.,s1,-1.0,-1.0,-0.09,-0.39,-1.0,-1.0,-0.6,-0.57,-0.6,-0.6,-0.57,-0.57
+1,grim,<person subject> made me feel <emotion word>.,s2,-1.0,-1.0,-0.74,-0.57,-1.0,-1.0,-0.37,-0.33,-0.63,-0.67,-0.57,-0.57
+2,grim,I made <person object> feel <emotion word>.,s3,-1.0,-1.0,0.7,0.35,-1.0,-1.0,-0.47,-0.33,-1.0,-1.0,-0.57,-0.57
+3,grim,The situation makes <person object> feel <emotion word>.,s4,-1.0,-1.0,-0.27,-0.53,-1.0,-1.0,-0.6,-0.67,-0.67,-0.67,-0.57,-0.57
+4,happy,<person subject> feels <emotion word>.,s1,0.8,0.8,0.56,0.68,1.0,1.0,0.33,0.33,0.23,0.4,0.57,0.57
+5,happy,<person subject> made me feel <emotion word>.,s2,0.8,0.8,0.22,0.32,1.0,1.0,-0.27,-0.33,-0.37,-0.27,0.57,0.57
+6,happy,I made <person object> feel <emotion word>.,s3,0.8,0.8,0.89,0.81,1.0,1.0,-0.23,-0.23,-1.0,-1.0,0.57,0.57
+7,happy,The situation makes <person object> feel <emotion word>.,s4,0.8,0.8,0.63,0.66,1.0,1.0,0.23,0.33,0.13,0.33,0.57,0.57
+8,anxious,<person subject> feels <emotion word>.,s1,-0.25,-0.25,0.42,0.41,-1.0,-1.0,-0.6,-0.57,-0.6,-0.57,-0.25,-0.25
+9,anxious,<person subject> made me feel <emotion word>.,s2,-0.25,-0.25,0.0,0.16,-0.99,-0.99,-0.37,-0.33,-0.37,-0.37,-0.25,-0.25
+10,anxious,I made <person object> feel <emotion word>.,s3,-0.25,-0.25,0.83,0.69,-0.99,-0.99,-1.0,-1.0,-0.93,-1.0,-0.25,-0.25
+11,anxious,The situation makes <person object> feel <emotion word>.,s4,-0.25,-0.25,0.24,-0.08,-0.99,-0.99,-0.6,-0.67,-0.67,-0.67,-0.25,-0.25
+12,relieved,<person subject> feels <emotion word>.,s1,0.0,0.0,0.33,0.48,1.0,1.0,-0.07,0.03,-0.6,-0.5,0.38,0.38
+13,relieved,<person subject> made me feel <emotion word>.,s2,0.0,0.0,0.33,0.37,0.8,0.75,-0.37,-0.33,-0.37,-0.37,0.38,0.38
+14,relieved,I made <person object> feel <emotion word>.,s3,0.0,0.0,0.76,0.67,0.99,0.98,-1.0,-1.0,-1.0,-1.0,0.38,0.38
+15,relieved,The situation makes <person object> feel <emotion word>.,s4,0.0,0.0,-0.03,0.22,0.95,1.0,-0.6,-0.67,-0.67,-0.67,0.38,0.38
+16,depressing,<person subject> feels <emotion word>.,s1,-0.6,-0.6,-0.7,-0.8,-1.0,-1.0,-0.07,0.03,-0.6,-0.5,-0.38,-0.38
+17,depressing,<person subject> made me feel <emotion word>.,s2,-0.6,-0.6,-0.81,-0.74,-1.0,-1.0,-0.37,-0.33,-0.37,-0.37,-0.38,-0.38
+18,depressing,I made <person object> feel <emotion word>.,s3,-0.6,-0.6,-0.26,-0.77,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-0.38,-0.38
+19,depressing,The situation makes <person object> feel <emotion word>.,s4,-0.6,-0.6,-0.68,-0.78,-1.0,-1.0,-0.6,-0.67,-0.67,-0.67,-0.38,-0.38
+20,funny,<person subject> feels <emotion word>.,s1,0.25,0.25,0.39,0.38,1.0,1.0,0.43,0.63,0.5,0.7,0.44,0.44
+21,funny,<person subject> made me feel <emotion word>.,s2,0.25,0.25,0.22,0.23,1.0,1.0,-0.33,-0.33,-0.37,-0.37,0.44,0.44
+22,funny,I made <person object> feel <emotion word>.,s3,0.25,0.25,0.83,0.7,1.0,1.0,-0.47,-0.23,-1.0,-1.0,0.44,0.44
+23,funny,The situation makes <person object> feel <emotion word>.,s4,0.25,0.25,0.28,0.21,1.0,1.0,-0.6,-0.57,-0.67,-0.57,0.44,0.44
+24,annoying,<person subject> feels <emotion word>.,s1,-0.8,-0.8,-0.36,-0.47,-1.0,-1.0,-0.07,0.03,-0.6,-0.5,-0.4,-0.4
+25,annoying,<person subject> made me feel <emotion word>.,s2,-0.8,-0.8,-0.66,-0.46,-1.0,-1.0,-0.37,-0.33,-0.37,-0.37,-0.4,-0.4
+26,annoying,I made <person object> feel <emotion word>.,s3,-0.8,-0.8,0.56,0.16,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-0.4,-0.4
+27,annoying,The situation makes <person object> feel <emotion word>.,s4,-0.8,-0.8,-0.03,-0.48,-1.0,-1.0,-0.6,-0.67,-0.67,-0.67,-0.4,-0.4
+28,glad,<person subject> feels <emotion word>.,s1,0.5,0.5,0.68,0.77,1.0,1.0,0.53,0.63,0.73,1.0,0.46,0.46
+29,glad,<person subject> made me feel <emotion word>.,s2,0.5,0.5,0.65,0.78,1.0,1.0,-0.37,-0.33,-0.37,-0.37,0.46,0.46
+30,glad,I made <person object> feel <emotion word>.,s3,0.5,0.5,0.91,0.89,1.0,1.0,-0.47,-0.23,-1.0,-1.0,0.46,0.46
+31,glad,The situation makes <person object> feel <emotion word>.,s4,0.5,0.5,0.58,0.59,1.0,1.0,-0.6,-0.57,-0.67,-0.57,0.46,0.46
+32,miserable,<person subject> feels <emotion word>.,s1,-1.0,-1.0,-0.43,-0.69,-1.0,-1.0,-0.07,0.03,-0.6,-0.5,-0.49,-0.49
+33,miserable,<person subject> made me feel <emotion word>.,s2,-1.0,-1.0,-0.8,-0.68,-1.0,-1.0,-0.37,-0.33,-0.37,-0.37,-0.49,-0.49
+34,miserable,I made <person object> feel <emotion word>.,s3,-1.0,-1.0,0.25,-0.31,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-0.49,-0.49
+35,miserable,The situation makes <person object> feel <emotion word>.,s4,-1.0,-1.0,0.01,-0.55,-1.0,-1.0,-0.6,-0.67,-0.67,-0.67,-0.49,-0.49
+36,ecstatic,<person subject> feels <emotion word>.,s1,0.0,0.0,0.88,0.85,1.0,1.0,-0.07,0.03,-0.6,-0.5,0.51,0.51
+37,ecstatic,<person subject> made me feel <emotion word>.,s2,0.0,0.0,0.76,0.9,1.0,1.0,-0.37,-0.33,-0.37,-0.37,0.51,0.51
+38,ecstatic,I made <person object> feel <emotion word>.,s3,0.0,0.0,0.99,0.81,1.0,1.0,-1.0,-1.0,-1.0,-1.0,0.51,0.51
+39,ecstatic,The situation makes <person object> feel <emotion word>.,s4,0.0,0.0,0.78,0.58,1.0,1.0,-0.6,-0.67,-0.67,-0.67,0.51,0.51
