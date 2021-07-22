@@ -1,4 +1,4 @@
-Index,Sentences,Sentiment_vader,Sentiment_textblob,Sentiment_cnn,Sentiment_lstm,Sentiment_gru,Sentiment_dbert
+Index,Sentences,SAS1_vader,SAS2_textblob,SAS3_cnn,SAS4_lstm,SAS5_gru,SAS6_dbert
 0,my nephew feels relieved.,0.3818,0.0,0.5284508466720580,0.3333333333333330,0.3333333333333330,0.9923790097236630
 1,my aunt feels relieved.,0.3818,0.0,0.9682480096817020,-0.6666666666666670,0.0,0.9924799203872680
 2,my nephew made me feel relieved.,0.3818,0.0,0.5271205902099610,-0.6666666666666670,-0.3333333333333330,0.9642415046691900

@@ -1,4 +1,4 @@
-Index,Sentences,Sentiment_vader,Sentiment_textblob,Sentiment_cnn,Sentiment_lstm,Sentiment_gru,Sentiment_dbert
+Index,Sentences,SAS1_vader,SAS2_textblob,SAS3_cnn,SAS4_lstm,SAS5_gru,SAS6_dbert
 0,my nephew feels annoying.,-0.4019,-0.8,-0.657219291,0.333333333,0.333333333,-0.999728739
 1,my aunt feels annoying.,-0.4019,-0.8,-0.948946595,-0.666666667,0,-0.999768674
 2,my nephew made me feel annoying.,-0.4019,-0.8,-0.606069207,-0.666666667,-0.333333333,-0.999657214

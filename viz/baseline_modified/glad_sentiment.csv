@@ -1,4 +1,4 @@
-Index,Sentences,Sentiment_vader,Sentiment_textblob,Sentiment_cnn,Sentiment_lstm,Sentiment_gru,Sentiment_dbert
+Index,Sentences,SAS1_vader,SAS2_textblob,SAS3_cnn,SAS4_lstm,SAS5_gru,SAS6_dbert
 0,my nephew feels glad.,0.4588,0.5,0.9878940582275390,0.3333333333333330,0.3333333333333330,0.9991122484207150
 1,my aunt feels glad.,0.4588,0.5,0.9993321895599360,1.0,0.6666666666666670,0.9991229772567750
 2,my nephew made me feel glad.,0.4588,0.5,0.8485687971115110,-0.6666666666666670,-0.3333333333333330,0.999668300151825

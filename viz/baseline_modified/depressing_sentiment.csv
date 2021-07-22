@@ -1,4 +1,4 @@
-Index,Sentences,Sentiment_vader,Sentiment_textblob,Sentiment_cnn,Sentiment_lstm,Sentiment_gru,Sentiment_dbert
+Index,Sentences,SAS1_vader,SAS2_textblob,SAS3_cnn,SAS4_lstm,SAS5_gru,SAS6_dbert
 0,my nephew feels depressing.,-0.3818,-0.6,-0.964503288269043,0.3333333333333330,0.3333333333333330,-0.9997742176055910
 1,my aunt feels depressing.,-0.3818,-0.6,-0.9858484864234920,-0.6666666666666670,0.0,-0.9997828006744390
 2,my nephew made me feel depressing.,-0.3818,-0.6,-0.7472436428070070,-0.6666666666666670,-0.3333333333333330,-0.999765932559967

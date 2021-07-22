@@ -1,4 +1,4 @@
-Index,Sentences,Sentiment_vader,Sentiment_textblob,Sentiment_cnn,Sentiment_lstm,Sentiment_gru,Sentiment_dbert
+Index,Sentences,SAS1_vader,SAS2_textblob,SAS3_cnn,SAS4_lstm,SAS5_gru,SAS6_dbert
 0,my nephew feels ecstatic.,0.5106,0.0,0.9997895956039430,0.3333333333333330,0.3333333333333330,0.9994667172431950
 1,my aunt feels ecstatic.,0.5106,0.0,0.9996979236602780,-0.6666666666666670,0.0,0.9994814991950990
 2,my nephew made me feel ecstatic.,0.5106,0.0,0.9656653404235840,-0.6666666666666670,-0.3333333333333330,0.9997137784957890
