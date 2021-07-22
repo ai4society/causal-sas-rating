@@ -128,7 +128,7 @@ def lstm_sentiment_baseline(path):
     eec_data.to_csv(path,index=False)
 
 
-def lstm_sentence_baseline(path):
+def lstm_sentence_baseline(path,token):
     with open('./LSTM/tokenizer.pickle', 'rb') as h:
         tokenizer = pickle.load(h)
 
@@ -195,7 +195,13 @@ def lstm_sentence_baseline(path):
         female_averages.append(round(average,2))
         k = k+10
 
-    out = pd.read_csv('../../data/baseline/sentence-level/sentence_level_averages.csv')
-    out['male_lstm_average'] = male_averages
-    out['female_lstm_average'] =  female_averages
-    out.to_csv('../../data/baseline/sentence-level/sentence_level_averages.csv',index=False)
+    if (token==0):
+        out = pd.read_csv('../../data/baseline/sentence-level/sentence_level_averages.csv')
+        out['male_lstm_average'] = male_averages
+        out['female_lstm_average'] =  female_averages
+        out.to_csv('../../data/baseline/sentence-level/sentence_level_averages.csv',index=False)
+    else:
+        out = pd.read_csv('../../data/baseline/sentence-level/sentence_level_averages_name.csv')
+        out['male_lstm_average'] = male_averages
+        out['female_lstm_average'] =  female_averages
+        out.to_csv('../../data/baseline/sentence-level/sentence_level_averages_name.csv',index=False)

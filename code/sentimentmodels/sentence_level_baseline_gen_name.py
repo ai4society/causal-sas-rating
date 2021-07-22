@@ -14,11 +14,8 @@ original_data = pd.read_csv("../../data/equity-corpus/Equity-Evaluation-Corpus.c
 template = sorted(set(original_data['Template']))
 template = list([template[0],template[4],template[6],template[10]])
 
-male = list(sorted(set(original_data[original_data['Gender']=='male']['Person'])))[-10:]
-male[0] = male[0].replace("him","my nephew")
-
-female = list(sorted(set(original_data[original_data['Gender']=='female']['Person'])))[-10:]
-female[7] = female[7].replace("she","my niece")
+male = list(sorted(set(original_data[original_data['Gender']=='male']['Person'])))[:10]
+female = list(sorted(set(original_data[original_data['Gender']=='female']['Person'])))[:10]
 
 emo = list(set(original_data["Emotion word"]))
 emo = [each for each in emo if str(each) != 'nan']
@@ -45,32 +42,32 @@ for each_em_word in emotion_words:
             female_sentences.append(template[k].replace("<person object>",f).replace("<person subject>",f).replace("<emotion word>",each_em_word))
 
 
-(pd.DataFrame.from_dict({'male sentences':male_sentences, 'female sentences':female_sentences})).to_csv('../../data/baseline/sentence-level/sentences.csv',index=False)
+(pd.DataFrame.from_dict({'male sentences':male_sentences, 'female sentences':female_sentences})).to_csv('../../data/baseline/sentence-level/sentences_name.csv',index=False)
 
 def run_blob():
-    textblob.textblobsentiment_sentence_baseline("../../data/baseline/sentence-level/sentences.csv",0)
+    textblob.textblobsentiment_sentence_baseline("../../data/baseline/sentence-level/sentences_name.csv",1)
 
     print("Results from TextBlob have been generated at:../../data/baseline/sentence-level/ ")
 
 def run_cnn():
-    cnn.cnnsentiment_sentence_baseline("../../data/baseline/sentence-level/sentences.csv",0)
+    cnn.cnnsentiment_sentence_baseline("../../data/baseline/sentence-level/sentences_name.csv",1)
 
     print("Results from CNN have been generated at: ../../data/baseline/sentence-level/")
 
 def run_dbert():
-    dbert.bertsentiment_sentence_baseline("../../data/baseline/sentence-level/sentences.csv",0)
+    dbert.bertsentiment_sentence_baseline("../../data/baseline/sentence-level/sentences_name.csv",1)
     print("Results from DistilBERT have been generated at:../../data/baseline/sentence-level/ ")
 
 def run_gru():
-    ClassificationGRU.gru_sentence_baseline("../../data/baseline/sentence-level/sentences.csv",0)
+    ClassificationGRU.gru_sentence_baseline("../../data/baseline/sentence-level/sentences_name.csv",1)
     print("Results from GRU have been generated at: ../../data/baseline/sentence-level/")
 
 def run_lstm():
-    ClassificationLSTM.lstm_sentence_baseline("../../data/baseline/sentence-level/sentences.csv",0)
+    ClassificationLSTM.lstm_sentence_baseline("../../data/baseline/sentence-level/sentences_name.csv",1)
     print("Results from LSTM have been generated at: ../../data/baseline/sentence-level/")
 
 def run_vader():
-    vader.vadersentiment_sentence_baseline("../../data/baseline/sentence-level/sentences.csv",0)
+    vader.vadersentiment_sentence_baseline("../../data/baseline/sentence-level/sentences_name.csv",1)
     print("Results from VADER have been generated at: ../../data/baseline/sentence-level/")
 
 run_blob()

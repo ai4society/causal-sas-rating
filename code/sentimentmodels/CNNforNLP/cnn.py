@@ -147,7 +147,7 @@ def cnnsentiment_baseline(path):
     set['Sentiment_cnn'] = sentiment
     set.to_csv(path,index=False)
 
-def cnnsentiment_sentence_baseline(path):
+def cnnsentiment_sentence_baseline(path,token):
     original_data = pd.read_csv("../../data/equity-corpus/Equity-Evaluation-Corpus.csv",engine="python")
 
     template = sorted(set(original_data['Template']))
@@ -198,8 +198,13 @@ def cnnsentiment_sentence_baseline(path):
         k = k+10
 
 
-
-    out = pd.read_csv('../../data/baseline/sentence-level/sentence_level_averages.csv')
-    out['male_cnn_average'] = male_averages
-    out['female_cnn_average'] =  female_averages
-    out.to_csv('../../data/baseline/sentence-level/sentence_level_averages.csv',index=False)
+    if (token==0):
+        out = pd.read_csv('../../data/baseline/sentence-level/sentence_level_averages.csv')
+        out['male_cnn_average'] = male_averages
+        out['female_cnn_average'] =  female_averages
+        out.to_csv('../../data/baseline/sentence-level/sentence_level_averages.csv',index=False)
+    else:
+        out = pd.read_csv('../../data/baseline/sentence-level/sentence_level_averages_name.csv')
+        out['male_cnn_average'] = male_averages
+        out['female_cnn_average'] =  female_averages
+        out.to_csv('../../data/baseline/sentence-level/sentence_level_averages_name.csv',index=False)

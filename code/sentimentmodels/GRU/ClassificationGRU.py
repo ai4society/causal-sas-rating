@@ -131,7 +131,7 @@ def gru_sentiment_baseline(path):
 
 
 
-def gru_sentence_baseline(path):
+def gru_sentence_baseline(path,token):
     with open('./GRU/tokenizer.pickle', 'rb') as h:
         tokenizer = pickle.load(h)
 
@@ -198,7 +198,13 @@ def gru_sentence_baseline(path):
         female_averages.append(round(average,2))
         k = k+10
 
-    out = pd.read_csv('../../data/baseline/sentence-level/sentence_level_averages.csv')
-    out['male_gru_average'] = male_averages
-    out['female_gru_average'] =  female_averages
-    out.to_csv('../../data/baseline/sentence-level/sentence_level_averages.csv',index=False)
+    if (token==0):
+        out = pd.read_csv('../../data/baseline/sentence-level/sentence_level_averages.csv')
+        out['male_gru_average'] = male_averages
+        out['female_gru_average'] =  female_averages
+        out.to_csv('../../data/baseline/sentence-level/sentence_level_averages.csv',index=False)
+    else:
+        out = pd.read_csv('../../data/baseline/sentence-level/sentence_level_averages_name.csv')
+        out['male_gru_average'] = male_averages
+        out['female_gru_average'] =  female_averages
+        out.to_csv('../../data/baseline/sentence-level/sentence_level_averages_name.csv',index=False)

@@ -64,7 +64,7 @@ def textblobsentiment_baseline(path):
     set.to_csv(path,index=False)
 
 
-def textblobsentiment_sentence_baseline(path):
+def textblobsentiment_sentence_baseline(path,token):
     original_data = pd.read_csv("../../data/equity-corpus/Equity-Evaluation-Corpus.csv",engine="python")
 
     template = sorted(set(original_data['Template']))
@@ -133,4 +133,7 @@ def textblobsentiment_sentence_baseline(path):
         for k in range(4):
             words.append(each_em)
 
-    (pd.DataFrame.from_dict({'word':words,'sentence':templates,'sentence number':templates_num,'male_textblob_average':male_averages,'female_textblob_average':female_averages})).to_csv('../../data/baseline/sentence-level/sentence_level_averages.csv',index=False)
+    if (token==0):
+        (pd.DataFrame.from_dict({'word':words,'sentence':templates,'sentence number':templates_num,'male_textblob_average':male_averages,'female_textblob_average':female_averages})).to_csv('../../data/baseline/sentence-level/sentence_level_averages.csv',index=False)
+    else:
+        (pd.DataFrame.from_dict({'word':words,'sentence':templates,'sentence number':templates_num,'male_textblob_average':male_averages,'female_textblob_average':female_averages})).to_csv('../../data/baseline/sentence-level/sentence_level_averages_name.csv',index=False)
