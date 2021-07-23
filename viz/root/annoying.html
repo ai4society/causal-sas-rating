@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<h1 id="h1">Sentiment Scores for 'Annoying'</h1>
+<link rel="stylesheet" href="styles.css">
+<meta charset="utf-8">
+
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+
+<!-- Create a div for graph -->
+<div id="my_dataviz"></div>
+
+<!-- Color Scale -->
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+<script>
+// set the dimensions and margins of the graph
+var margin = {top: 10, right: 30, bottom: 30, left: 60},
+        width = 1460 - margin.left - margin.right,
+        height = 650 - margin.top - margin.bottom;
+
+// append the svg object to the body of the page
+var svg = d3.select("#my_dataviz")
+  .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+
+//Read the data
+d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz/baseline_modified/annoying_sentiment.csv", function(data) {
+
+    // List of groups (one group per column)
+    var allGroup = ["SAS1_vader","SAS2_textblob","SAS3_cnn","SAS4_lstm","SAS5_gru","SAS6_dbert"]
+
+    // Reformat the data: we need an array of arrays of {x, y} tuples
+    var dataReady = allGroup.map( function(grpName) { // .map allows to do something for each element of the list
+      return {
+        name: grpName,
+        values: data.map(function(d) {
+          return {col: d.Index, value: +d[grpName]};
+        })
+      };
+    });
+
+    // A color scale: one color for each group
+    var myColor = d3.scaleOrdinal()
+      .domain(allGroup)
+      .range(d3.schemeSet2);
+
+    const min_data=0, max_data=80 ;
+    var x = d3.scaleLinear()
+        .domain([min_data, max_data])
+        .range([ 0, width-100])
+        // .base(10);
+      svg.append("g")
+        .attr("transform", "translate(0," + height/2 + ")")
+        .call(d3.axisBottom(x));
+
+    // xAxisGenerator.ticks(80);
+      // Add Y axis
+      var y = d3.scaleLinear()
+        .domain([-1,1])
+        .range([ height,0]);
+        // .ticks(10)
+      svg.append("g")
+        .call(d3.axisLeft(y));
+
+        var Tooltip = d3.select("#my_dataviz")
+          .append("div")
+          .style("opacity", 0)
+          .attr("class", "tooltip")
+          .style("background-color", "#ed34")
+          .style("border", "solid")
+          .style("border-width", "2px")
+          .style("border-radius", "5px")
+          .style("padding", "11px")
+    
+          // Three function that change the tooltip when user hover / move / leave a cell -- currently not displaying the sentence; working on it...
+
+          var mouseover = function(d) {
+            Tooltip
+              .style("opacity", 1)
+          }
+          var mousemove = function(d) {
+            Tooltip
+              .html(d.Sentences)
+              .style("left", (d3.mouse(this)[0]+70) + "px")
+              .style("top", (d3.mouse(this)[1]) + "px")
+          }
+          var mouseleave = function(d) {
+            Tooltip
+              .style("opacity", 0)
+          }
+
+
+    // Add the lines
+    var line = d3.line()
+      .x(function(d) { return x(+d.col) })
+      .y(function(d) { return y(+d.value) })
+    svg.selectAll("myLines")
+      .data(dataReady)
+      .enter()
+      .append("path")
+        .attr("class", function(d){ return d.name })
+        .attr("d", function(d){ return line(d.values) } )
+        .attr("stroke", function(d){ return myColor(d.name) })
+        .style("stroke-width", 2)
+        .style("fill", "none")
+
+    // Add the points
+    svg
+      // Enter in a group
+      .selectAll("myDots")
+      .data(dataReady)
+      .enter()
+        .append('g')
+        .style("fill", function(d){ return myColor(d.name) })
+        .attr("class", function(d){ return d.name })
+
+        .on("mouseover", mouseover)
+        .on("mousemove", mousemove)
+        .on("mouseleave", mouseleave)
+         
+      // Enter in the 'values' part of this group
+      .selectAll("myPoints")
+      .data(function(d){ return d.values })
+      .enter()
+      .append("circle")
+        .attr("cx", function(d) { return x(d.col) } )
+        .attr("cy", function(d) { return y(d.value) } )
+        .attr("r", 3)
+        .attr("stroke", "white")
+
+    // Add a label at the end of each line
+    svg
+      .selectAll("myLabels")
+      .data(dataReady)
+      .enter()
+        .append('g')
+        .append("text")
+          .attr("class", function(d){ return d.name })
+          .datum(function(d) { return {name: d.name, value: d.values[d.values.length - 1]}; }) // keep only the last value of each col series
+          .attr("transform", function(d) { return "translate(" + x(d.value.col) + "," + y(d.value.value) + ")"; }) // Put the text at the position of the last point
+          .attr("x", 12) // shift the text a bit more right
+          .text(function(d) { return d.name; })
+          .style("fill", function(d){ return myColor(d.name) })
+          .style("font-size", 15)
+
+    // Add a legend (interactive)
+    svg
+      .selectAll("myLegend")
+      .data(dataReady)
+      .enter()
+        .append('g')
+        .append("text")
+          .attr('x', function(d,i){ return 30 + i*125})
+          .attr('y', 10)
+          .text(function(d) { return d.name; })
+          .style("fill", function(d){ return myColor(d.name) })
+          .style("font-size", 15)
+        .on("click", function(d){
+          // Check if the element is currently visible
+          currentOpacity = d3.selectAll("." + d.name).style("opacity")
+          // Change the opacity: from 0 to 1 or from 1 to 0
+          d3.selectAll("." + d.name).transition().style("opacity", currentOpacity == 1 ? 0:1)
+
+        })
+})
+</script>
