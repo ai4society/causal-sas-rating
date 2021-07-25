@@ -31,7 +31,7 @@ var svg = d3.select("#my_dataviz")
 d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz/baseline_modified/sentence-level/sentence_level_averages.csv", function(data) {
 
     // List of groups (here I have one group per column)
-    var allGroup = ["male_TextBlob",	"female_TextBlob",	"male_CNN",	"female_CNN",	"male_DBert",	"female_DBert",	"male_GRU",	"female_GRU",	"male_LSTM",	"female_LSTM",	"male_Vader","female_Vader"]
+    var allGroup = ["male_TextBlob","female_TextBlob","male_CNN","female_CNN","male_DBert","female_DBert","male_GRU","female_GRU","male_LSTM","female_LSTM","male_Vader","female_Vader"]
 
     // Reformat the data: we need an array of arrays of {x, y} tuples
     var dataReady = allGroup.map( function(grpName) { // .map allows to do something for each element of the list
