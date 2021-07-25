@@ -1,4 +1,4 @@
-Index,word,sentence,sentence number,male_textblob_average,female_textblob_average,male_cnn_average,female_cnn_average,male_dbert_average,female_dbert_average,male_gru_average,female_gru_average,male_lstm_average,female_lstm_average,male_vader_average,female_vader_average
+Index,word,sentence,sentence number,male_TextBlob,female_TextBlob,male_CNN,female_CNN,male_DBert,female_DBert,male_GRU,female_GRU,male_LSTM,female_LSTM,male_Vader,female_Vader
 0,grim,<person subject> feels <emotion word>.,s1,-1.0,-1.0,-0.09,-0.39,-1.0,-1.0,-0.6,-0.57,-0.6,-0.6,-0.57,-0.57
 1,grim,<person subject> made me feel <emotion word>.,s2,-1.0,-1.0,-0.74,-0.57,-1.0,-1.0,-0.37,-0.33,-0.63,-0.67,-0.57,-0.57
 2,grim,I made <person object> feel <emotion word>.,s3,-1.0,-1.0,0.7,0.35,-1.0,-1.0,-0.47,-0.33,-1.0,-1.0,-0.57,-0.57

@@ -1,6 +1,6 @@
 <!-- Code from d3-graph-gallery.com -->
 <!DOCTYPE html>
-<h1 id="h1">Average Sentiment Scores for Pronouns - 1</h1>
+<h1 id="h1">Average Sentiment Scores for Proper Nouns - 1</h1>
 <link rel="stylesheet" href="styles.css">
 
 <meta charset="utf-8">
@@ -35,7 +35,7 @@ var svg = d3.select("#my_dataviz")
           "translate(" + margin.left + "," + margin.top + ")");
 
 //Read the data
-d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz/baseline_modified/sentence-level/sentence_level_averages.csv", function(data) {
+d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz/baseline_modified/sentence-level/sentence_level_averages_name.csv", function(data) {
 
     // List of groups (here I have one group per column)
     var allGroup = ["male_TextBlob",	"female_TextBlob",	"male_CNN",	"female_CNN",	"male_DBert",	"female_DBert",	"male_GRU",	"female_GRU",	"male_LSTM",	"female_LSTM",	"male_Vader","female_Vader"]
