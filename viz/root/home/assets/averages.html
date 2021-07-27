@@ -58,7 +58,16 @@ svg.selectAll("mybar")
   .append("rect")
     .attr("x", function(d) { return x(d.Word); })
     .attr("width", x.bandwidth())
-    .attr("fill", "#69b3a2")
+    .attr("fill", function(d) {
+      if(d.Average_Sentiment<0)
+      {
+        return "lightseagreen";
+      }
+      else
+      {
+        return "#6495ED";
+      }
+    })
     // no bar at the beginning thus:
     .attr("height", function(d) { return height - y(0); }) // always equal to 0
     .attr("y", function(d) { return y(0); })
@@ -72,5 +81,10 @@ svg.selectAll("rect")
   .delay(function(d,i){console.log(i) ; return(i*100)})
 
 })
+svg.append("circle").attr("cx",width-170).attr("cy",0).attr("r", 6).style("fill", "#6495ED")
+      svg.append("circle").attr("cx",width-170).attr("cy",20).attr("r", 6).style("fill", "lightseagreen")
+      svg.append("text").attr("x", width-150).attr("y", 0).text("Positive Sentiment").style("font-size", "15px").attr("alignment-baseline","middle")
+      svg.append("text").attr("x", width-150).attr("y",20).text("Negative Sentiment").style("font-size", "15px").attr("alignment-baseline","middle")
+       
 
 </script>

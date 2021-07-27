@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<h1 id="h1">Sentiment Scores for 'Depressing'</h1>
+<h1 id="h1">Sentiment Scores for 'Happy'</h1>
 <link rel="stylesheet" href="styles.css">
 <meta charset="utf-8">
 
@@ -28,7 +28,7 @@ var svg = d3.select("#my_dataviz")
           "translate(" + margin.left + "," + margin.top + ")");
 
 //Read the data
-d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz/baseline_modified/depressing_sentiment.csv", function(data) {
+d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz/baseline_modified/happy_sentiment.csv", function(data) {
 
     // List of groups (one group per column)
     var allGroup = ["SAS1_vader","SAS2_textblob","SAS3_cnn","SAS4_lstm","SAS5_gru","SAS6_dbert"]
@@ -60,7 +60,7 @@ d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz
     // xAxisGenerator.ticks(80);
       // Add Y axis
       var y = d3.scaleLinear()
-        .domain([-1,1])
+        .domain([-1,1.2])
         .range([ height,0]);
         // .ticks(10)
       svg.append("g")

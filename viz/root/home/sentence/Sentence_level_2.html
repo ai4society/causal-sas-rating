@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<h1 id="h1">Sentiment Scores for 'Relieved'</h1>
+<h1 id="h1">Average Sentiment Scores for Pronouns - 2</h1>
 <link rel="stylesheet" href="styles.css">
 <meta charset="utf-8">
 
@@ -15,8 +15,8 @@
 <script>
 // set the dimensions and margins of the graph
 var margin = {top: 10, right: 30, bottom: 30, left: 60},
-        width = 1460 - margin.left - margin.right,
-        height = 650 - margin.top - margin.bottom;
+        width = 1700 - margin.left - margin.right,
+        height = 500 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -28,30 +28,31 @@ var svg = d3.select("#my_dataviz")
           "translate(" + margin.left + "," + margin.top + ")");
 
 //Read the data
-d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz/baseline_modified/relieved_sentiment.csv", function(data) {
+d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz/baseline_modified/sentence-level/sentence_level_averages.csv", function(data) {
 
-    // List of groups (one group per column)
-    var allGroup = ["SAS1_vader","SAS2_textblob","SAS3_cnn","SAS4_lstm","SAS5_gru","SAS6_dbert"]
+    // List of groups (here I have one group per column)
+    var allGroup = ["male_TextBlob","female_TextBlob","male_CNN","female_CNN","male_DBert","female_DBert","male_GRU","female_GRU","male_LSTM","female_LSTM","male_Vader","female_Vader"]
 
     // Reformat the data: we need an array of arrays of {x, y} tuples
     var dataReady = allGroup.map( function(grpName) { // .map allows to do something for each element of the list
       return {
         name: grpName,
         values: data.map(function(d) {
-          return {col: d.Index, value: +d[grpName]};
+          return {time: d.Index, value: +d[grpName]};
         })
       };
     });
+   
 
     // A color scale: one color for each group
     var myColor = d3.scaleOrdinal()
       .domain(allGroup)
       .range(d3.schemeSet2);
 
-    const min_data=0, max_data=80 ;
+    const min_data=0, max_data=40 ;
     var x = d3.scaleLinear()
         .domain([min_data, max_data])
-        .range([ 0, width-100])
+        .range([ 0, width-150])
         // .base(10);
       svg.append("g")
         .attr("transform", "translate(0," + height/2 + ")")
@@ -60,7 +61,7 @@ d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz
     // xAxisGenerator.ticks(80);
       // Add Y axis
       var y = d3.scaleLinear()
-        .domain([-1,1])
+        .domain([-1,1.2])
         .range([ height,0]);
         // .ticks(10)
       svg.append("g")
@@ -76,15 +77,14 @@ d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz
           .style("border-radius", "5px")
           .style("padding", "11px")
     
-          // Three function that change the tooltip when user hover / move / leave a cell -- currently not displaying the sentence; working on it...
-
+          // Three function that change the tooltip when user hover / move / leave a cell
           var mouseover = function(d) {
             Tooltip
               .style("opacity", 1)
           }
           var mousemove = function(d) {
             Tooltip
-              .html(d.Sentences)
+              .html(d.sentence)
               .style("left", (d3.mouse(this)[0]+70) + "px")
               .style("top", (d3.mouse(this)[1]) + "px")
           }
@@ -96,7 +96,7 @@ d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz
 
     // Add the lines
     var line = d3.line()
-      .x(function(d) { return x(+d.col) })
+      .x(function(d) { return x(+d.time) })
       .y(function(d) { return y(+d.value) })
     svg.selectAll("myLines")
       .data(dataReady)
@@ -110,7 +110,7 @@ d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz
 
     // Add the points
     svg
-      // Enter in a group
+      // First we need to enter in a group
       .selectAll("myDots")
       .data(dataReady)
       .enter()
@@ -122,12 +122,12 @@ d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz
         .on("mousemove", mousemove)
         .on("mouseleave", mouseleave)
          
-      // Enter in the 'values' part of this group
+      // Second we need to enter in the 'values' part of this group
       .selectAll("myPoints")
       .data(function(d){ return d.values })
       .enter()
       .append("circle")
-        .attr("cx", function(d) { return x(d.col) } )
+        .attr("cx", function(d) { return x(d.time) } )
         .attr("cy", function(d) { return y(d.value) } )
         .attr("r", 3)
         .attr("stroke", "white")
@@ -140,8 +140,8 @@ d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz
         .append('g')
         .append("text")
           .attr("class", function(d){ return d.name })
-          .datum(function(d) { return {name: d.name, value: d.values[d.values.length - 1]}; }) // keep only the last value of each col series
-          .attr("transform", function(d) { return "translate(" + x(d.value.col) + "," + y(d.value.value) + ")"; }) // Put the text at the position of the last point
+          .datum(function(d) { return {name: d.name, value: d.values[d.values.length - 1]}; }) // keep only the last value of each time series
+          .attr("transform", function(d) { return "translate(" + x(d.value.time) + "," + y(d.value.value) + ")"; }) // Put the text at the position of the last point
           .attr("x", 12) // shift the text a bit more right
           .text(function(d) { return d.name; })
           .style("fill", function(d){ return myColor(d.name) })
@@ -160,7 +160,7 @@ d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz
           .style("fill", function(d){ return myColor(d.name) })
           .style("font-size", 15)
         .on("click", function(d){
-          // Check if the element is currently visible
+          // is the element currently visible ?
           currentOpacity = d3.selectAll("." + d.name).style("opacity")
           // Change the opacity: from 0 to 1 or from 1 to 0
           d3.selectAll("." + d.name).transition().style("opacity", currentOpacity == 1 ? 0:1)
