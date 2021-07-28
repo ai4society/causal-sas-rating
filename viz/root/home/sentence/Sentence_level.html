@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <h1 id="h1">Average Sentiment Scores for Pronouns - 1</h1>
 <link rel="stylesheet" href="styles.css">
-
 <meta charset="utf-8">
 
-<!-- Load d3.js --><script src="https://d3js.org/d3.v4.js"></script>
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
 
 <!-- Initialize a select button -->
 <select id="selectButton"></select>
@@ -19,7 +19,7 @@
 <script>
 
 // set the dimensions and margins of the graph
-var margin = {top: 10, right: 100, bottom: 30, left: 30},
+var margin = {top: 10, right: 100, bottom: 10, left: 30},
     width = 1500 - margin.left - margin.right,
     height = 630 - margin.top - margin.bottom;
 
@@ -229,6 +229,10 @@ d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz
       svg.append("text").attr("x", width-50).attr("y", 160).text("miserable").style("font-size", "15px").attr("alignment-baseline","middle")
       svg.append("text").attr("x", width-50).attr("y",180).text("ecstatic").style("font-size", "15px").attr("alignment-baseline","middle")
 })
-
-
 </script>
+<div>
+    S1 - (person subject) feels grim. <br>
+    S2 - (person subject) made me feel grim. <br>
+    S3 - I made (person object) feel grim.<br>
+    S4 - The situation makes (person object) feel grim. <br>
+</div>
