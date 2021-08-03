@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <h1 id="h1">Average Sentiment Scores for Pronouns - 2</h1>
+<h3>Click on any SAS to see the vizualisation of Sentiment scores </h3>
 <link rel="stylesheet" href="styles.css">
 <meta charset="utf-8">
 <!-- Load d3.js -->
@@ -67,7 +68,6 @@ d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz
       svg.append("g")
         .call(d3.axisLeft(y));
 
-
       // Add the lines
       const line = d3.line()
         .x(d => x(+d.col))
@@ -80,7 +80,7 @@ d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz
           .attr("stroke", d => myColor(d.name))
           .style("stroke-width", 2)
           .style("fill", "none")
-    
+          .style("opacity",0)        
         // create a tooltip
     const Tooltip = d3.select("#my_dataviz")
       .append("div")
@@ -91,7 +91,7 @@ d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz
       .style("border-width", "2px")
       .style("border-radius", "5px")
       .style("padding", "5px")
-
+      
       // Three function that change the tooltip when user hover a cell
       const mouseover = function(event,d) {
         Tooltip
@@ -116,6 +116,7 @@ d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz
         .join('g')
           .style("fill", d => myColor(d.name))
           .attr("class", d => d.name)
+          .style("opacity", 0) 
 
         // Enter in the 'values' part of this group
         .selectAll("myPoints")
@@ -130,19 +131,19 @@ d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz
           .on("mouseleave", mouseleave)
 
       // Add a legend at the end of each line
-      svg
-        .selectAll("myLabels")
-        .data(dataReady)
-        .join('g')
-          .append("text")
-            .attr("class", d => d.name)
-            .datum(d => { return {name: d.name, value: d.values[d.values.length - 1]}; }) 
+      // svg
+      //   .selectAll("myLabels")
+      //   .data(dataReady)
+      //   .join('g')
+      //     .append("text")
+      //       .attr("class", d => d.name)
+      //       .datum(d => { return {name: d.name, value: d.values[d.values.length - 1]}; }) 
             
-            .attr("transform",d => `translate(${x(d.value.col)},${y(d.value.value)})`) // Put the text at the position of the last point
-            .attr("x", 10) // shift the text a bit more right
-            .text(d => d.name)
-            .style("fill", d => myColor(d.name))
-            .style("font-size", 15)
+      //       .attr("transform",d => `translate(${x(d.value.col)},${y(d.value.value)})`) // Put the text at the position of the last point
+      //       .attr("x", 10) // shift the text a bit more right
+      //       .text(d => d.name)
+      //       .style("fill", d => myColor(d.name))
+      //       .style("font-size", 15)
 
       svg
       .selectAll("myLegend")
@@ -163,3 +164,4 @@ d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz
   
   })
 </script>
+
