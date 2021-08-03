@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <h1 id="h1">Average Sentiment Scores for Pronouns - 2</h1>
-<h3>Click on any SAS to see the vizualisation of Sentiment scores </h3>
+<!-- <h3>Click on any SAS below to see the vizualisation of sentiment scores and refresh the tab to remove all the graphs </h3> -->
+<ul>
+  <li>Click on any SAS below to see the vizualisation of sentiment scores</li>
+  <li>Refresh the tab to remove all the graphs</li>
+  <li>Hovering over a data point shows the sentence it denotes (at the bottom of the page)</li>
+  <li>Y-axis denotes the sentiment score of that sentence</li>
+</ul>
+
 <link rel="stylesheet" href="styles.css">
 <meta charset="utf-8">
 <!-- Load d3.js -->
@@ -15,8 +22,8 @@
 <script>
 // set the dimensions and margins of the graph
 const margin = {top: 20, right: 30, bottom: 30, left: 60},
-        width = 1700 - margin.left - margin.right,
-        height = 500 - margin.top - margin.bottom;
+        width = 1540 - margin.left - margin.right,
+        height = 600 - margin.top - margin.bottom;
 
   // append the svg object to the body of the page
   const svg = d3.select("#my_dataviz")
@@ -50,13 +57,20 @@ d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz
       const myColor = d3.scaleOrdinal().domain(allGroup)
         .range(["cornflowerblue", "darkblue", "limegreen", "forestgreen", "indianred", "MediumVioletRed", "darkgreen", "pink", "brown", "slateblue", "salmon", "orange"])
 
-    const min_data=0, max_data=40 ;
-    const x = d3.scaleLinear()
-        .domain([min_data, max_data])
-        .range([ 0, width-150])
-        // .base(10);
-      svg.append("g")
-      .attr("transform", `translate(0, ${height/2})`)
+    // const min_data=0, max_data=40 ;
+    // const x = d3.scaleLinear()
+    //     .domain([min_data, max_data])
+    //     .range([ 0, width-150])
+    //     // .base(10);
+    //   svg.append("g")
+    //   .attr("transform", `translate(0, ${height/2})`)
+    //     .call(d3.axisBottom(x));
+
+    const x = d3.scalePoint()
+      .domain(["0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39"])
+      .range([ 0, width-90]);
+    svg.append("g")
+    .attr("transform", `translate(0, ${height/2})`)
         .call(d3.axisBottom(x));
 
     // xAxisGenerator.ticks(80);
@@ -80,7 +94,8 @@ d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz
           .attr("stroke", d => myColor(d.name))
           .style("stroke-width", 2)
           .style("fill", "none")
-          .style("opacity",0)        
+          .style("opacity",0)  
+
         // create a tooltip
     const Tooltip = d3.select("#my_dataviz")
       .append("div")
@@ -130,27 +145,28 @@ d3.csv("https://raw.githubusercontent.com/ai4society/sentiment-rating/master/viz
           .on("mousemove", mousemove)
           .on("mouseleave", mouseleave)
 
-      // Add a legend at the end of each line
-      // svg
-      //   .selectAll("myLabels")
-      //   .data(dataReady)
-      //   .join('g')
-      //     .append("text")
-      //       .attr("class", d => d.name)
-      //       .datum(d => { return {name: d.name, value: d.values[d.values.length - 1]}; }) 
+      //Add a legend at the end of each line
+      svg
+        .selectAll("myLabels")
+        .data(dataReady)
+        .join('g')
+          .append("text")
+            .attr("class", d => d.name)
+            .datum(d => { return {name: d.name, value: d.values[d.values.length - 1]}; }) 
             
-      //       .attr("transform",d => `translate(${x(d.value.col)},${y(d.value.value)})`) // Put the text at the position of the last point
-      //       .attr("x", 10) // shift the text a bit more right
-      //       .text(d => d.name)
-      //       .style("fill", d => myColor(d.name))
-      //       .style("font-size", 15)
+            .attr("transform",d => `translate(${x(d.value.col)},${y(d.value.value)})`) // Put the text at the position of the last point
+            .attr("x", 10) // shift the text a bit more right
+            .text(d => d.name)
+            .style("fill", d => myColor(d.name))
+            .style("font-size", 15)
+            .style("opacity", 0)
 
       svg
       .selectAll("myLegend")
       .data(dataReady)
       .join('g')
         .append("text")
-          .attr('x', (d,i) => 30 + i*125)
+          .attr('x', (d,i) => 25 + i*110)
           .attr('y', -10)
           .text(d => d.name)
           .style("fill", d => myColor(d.name))

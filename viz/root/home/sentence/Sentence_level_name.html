@@ -1,5 +1,12 @@
 <!DOCTYPE html>
 <h1 id="h1">Average Sentiment Scores for Proper Nouns - 1</h1>
+
+<ul>
+  <li>Click on any SAS from the dropdown below to see the vizualisation of sentiment scores</li>
+  <li>Y-axis denotes the sentiment score of that sentence</li>
+  <li>There are 4 sentence templates (S1, S2, S3, S4) for each of the 10 words color-coded on the right side</li>
+</ul>
+
 <link rel="stylesheet" href="styles.css">
 
 <meta charset="utf-8">
@@ -21,7 +28,7 @@
 // set the dimensions and margins of the graph
 var margin = {top: 10, right: 100, bottom: 30, left: 30},
     width = 1500 - margin.left - margin.right,
-    height = 630 - margin.top - margin.bottom;
+    height = 550 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
