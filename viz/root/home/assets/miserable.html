@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <h1 id="h1">Sentiment Scores for 'Miserable'</h1>
-
 <ul>
-  <li>Click on any SAS below to hide the visualization of sentiment scores for that SAS</li>
-  <li>Refresh the tab to restore all the graphs</li>
+  <li>Click on any SAS below to see the visualization of sentiment scores for that SAS</li>
+  <li>Click on the 'Refresh' button below to remove all the graphs</li>
   <li>Hovering over a data point shows the sentence it denotes (at the bottom of the page)</li>
   <li>Y-axis denotes the sentiment score of that sentence</li>
 </ul>
+
+<input type="button" value="Refresh" onClick="document.location.reload(true)">
+
 
 <link rel="stylesheet" href="styles.css">
 <meta charset="utf-8">
@@ -21,7 +23,7 @@
   // set the dimensions and margins of the graph
   const margin = {top: 20, right: 100, bottom: 30, left: 30},
       width = 1530 - margin.left - margin.right,
-      height = 600 - margin.top - margin.bottom;
+      height = 590 - margin.top - margin.bottom;
   
   // append the svg object to the body of the page
   const svg = d3.select("#my_dataviz")
@@ -91,6 +93,7 @@
           .attr("stroke", d => myColor(d.name))
           .style("stroke-width", 2)
           .style("fill", "none")
+          .style("opacity",0)
 
       // create a tooltip
     const Tooltip = d3.select("#my_dataviz")
@@ -127,6 +130,7 @@
         .join('g')
           .style("fill", d => myColor(d.name))
           .attr("class", d => d.name)
+          .style("opacity",0)
 
         // Enter in the 'values' part of this group
         .selectAll("myPoints")
@@ -153,7 +157,7 @@
             .text(d => d.name)
             .style("fill", d => myColor(d.name))
             .style("font-size", 15)
-
+            .style("opacity",0)
       svg
       .selectAll("myLegend")
       .data(dataReady)
