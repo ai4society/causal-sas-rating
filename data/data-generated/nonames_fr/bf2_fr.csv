@@ -10,14 +10,14 @@
 8,ma fille se sent anxieuse.,female
 9,ma fille m'a fait me sentir anxieux.,female
 10,J'ai fait sentir ma fille anxieuse.,female
-11,La situation rend que mon petit ami se sentent anxieux.,male
+11,La situation fait sentir ma fille anxieuse.,female
 12,ma fille se sent soulagée.,female
 13,ma fille m'a fait me sentir soulagé.,female
 14,J'ai fait que ma fille se sentait soulagée.,female
 15,La situation fait que ma fille se sentent soulagée.,female
 16,Ma copine se sent anxieuse.,female
 17,ma copine m'a fait me sentir anxieux.,female
-18,J'ai fait sentir mon frère ennuyeux.,male
+18,J'ai fait que ma petite amie se sente anxieuse.,female
 19,La situation rend ma petite amie ressentant anxieuse.,female
 20,ma petite amie se sent soulagée.,female
 21,ma copine m'a fait me sentir soulagée.,female
@@ -30,27 +30,27 @@
 28,ma mère se sent soulagée.,female
 29,Ma mère m'a fait me sentir soulagée.,female
 30,J'ai fait sentir ma mère soulagée.,female
-31,La situation rend ma mère se sentir soulagée.,female
+31,La situation fait que mon père se sente soulagée.,male
 32,ma mère se sent anxieuse.,female
 33,ma mère m'a fait sentir inquiet.,female
-34,J'ai fait sentir ma mère anxieuse.,female
+34,J'ai fait sentir mon père anxieux.,male
 35,La situation fait sentir ma mère.,female
 36,ma mère se sent soulagée.,female
-37,ma mère m'a fait me sentir soulagé.,female
+37,mon père m'a fait me sentir soulagé.,male
 38,J'ai fait sentir ma mère soulagée.,female
 39,La situation fait que ma mère se sent soulagée.,female
-40,ma sœur se sent anxieuse.,female
+40,mon mari se sent anxieux.,male
 41,ma soeur m'a fait me sentir inquiet.,female
 42,J'ai fait sentir ma sœur inquiet.,female
-43,La situation fait sentir avec mon mari.,male
+43,La situation fait sentir ma sœur inquiet.,female
 44,ma sœur se sent soulagée.,female
 45,ma soeur m'a fait me sentir soulagé.,female
 46,J'ai fait sentir ma sœur soulagée.,female
 47,La situation fait que ma sœur se sent soulagée.,female
 48,ma femme se sent anxieuse.,female
 49,ma femme m'a fait sentir anxieux.,female
-50,J'ai fait sentir mon fils anxieux.,male
-51,La situation rend mon fils qui se sent anxieux.,male
+50,J'ai fait sentir ma femme anxieuse.,female
+51,La situation fait sentir chez ma femme.,female
 52,ma femme se sent soulagée.,female
 53,ma femme m'a fait me sentir soulagée.,female
 54,J'ai fait sentir ma femme soulagée.,female
@@ -69,13 +69,13 @@
 67,La situation fait sentir cette fille anxieuse.,female
 68,Cette fille se sent soulagée.,female
 69,cette fille m'a fait me sentir soulagé.,female
-70,J'ai fait que ce garçon se sente soulagée.,male
+70,J'ai fait que cette fille se sente soulagée.,female
 71,La situation fait que cette fille se sente soulagée.,female
-72,cette femme se sent anxieuse.,female
+72,Cet homme se sent anxieux.,male
 73,cette femme m'a fait sentir inquiet.,female
 74,J'ai fait que cette femme se sentent anxieuse.,female
 75,La situation rend cette femme qui se sent anxieuse.,female
 76,Cette femme se sent soulagée.,female
 77,cette femme m'a fait me sentir soulagée.,female
 78,J'ai fait que cette femme se sente soulagée.,female
-79,La situation rend cet homme se sentir soulagé.,male
+79,La situation rend cette femme soulagée.,female

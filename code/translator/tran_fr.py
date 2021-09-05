@@ -20,13 +20,13 @@ for i in range(1,6):
 #Appending gender without names
 print("Changing gender names from French to English")
 for i in range(1,6):
-    edit_files.edit_gender("../../data/data-generated/nonames_fr/bf{}_fr.csv".format(i),"../../data/data-generated/nonames/bf{}.csv".format(i),"bf{}".format(i))
-    edit_files.edit_gender("../../data/data-generated/nonames_fr/bm{}_fr.csv".format(i),"../../data/data-generated/nonames/bm{}.csv".format(i),"bm{}".format(i))
-    edit_files.edit_gender("../../data/data-generated/nonames_fr/u{}_fr.csv".format(i),"../../data/data-generated/nonames/u{}.csv".format(i),"u{}".format(i))
+    edit_files.edit_gender_french("../../data/data-generated/nonames_fr/bf{}_fr.csv".format(i),"../../data/data-generated/nonames/bf{}.csv".format(i),"bf{}".format(i))
+    edit_files.edit_gender_french("../../data/data-generated/nonames_fr/bm{}_fr.csv".format(i),"../../data/data-generated/nonames/bm{}.csv".format(i),"bm{}".format(i))
+    edit_files.edit_gender_french("../../data/data-generated/nonames_fr/u{}_fr.csv".format(i),"../../data/data-generated/nonames/u{}.csv".format(i),"u{}".format(i))
 
 #Appending gender with names
 for i in range(1,6):
-    edit_files.edit_gender_names("../../data/data-generated/withnames_fr/bf{}_fr.csv".format(i),"../../data/data-generated/withnames/bf{}.csv".format(i),"bf{}".format(i))
-    edit_files.edit_gender_names("../../data/data-generated/withnames_fr/bm{}_fr.csv".format(i),"../../data/data-generated/withnames/bm{}.csv".format(i),"bm{}".format(i))
-    edit_files.edit_gender_names("../../data/data-generated/withnames_fr/u{}_fr.csv".format(i),"../../data/data-generated/withnames/u{}.csv".format(i),"u{}".format(i))
+    edit_files.edit_gender_names_french("../../data/data-generated/withnames_fr/bf{}_fr.csv".format(i),"../../data/data-generated/withnames/bf{}.csv".format(i),"bf{}".format(i))
+    edit_files.edit_gender_names_french("../../data/data-generated/withnames_fr/bm{}_fr.csv".format(i),"../../data/data-generated/withnames/bm{}.csv".format(i),"bm{}".format(i))
+    edit_files.edit_gender_names_french("../../data/data-generated/withnames_fr/u{}_fr.csv".format(i),"../../data/data-generated/withnames/u{}.csv".format(i),"u{}".format(i))
 print("Done!")

@@ -8,13 +8,13 @@
 6,J'ai fait que mon neveu se sente soulagée.,male
 7,La situation rend mon neveu se sentir soulagée.,male
 8,mon petit ami se sent anxieux.,male
-9,ma fille m'a fait me sentir anxieux.,female
+9,mon copain m'a fait me sentir inquiet.,male
 10,J'ai fait sentir mon petit ami sentir anxieux.,male
 11,La situation rend que mon petit ami se sentent anxieux.,male
 12,mon petit ami se sent soulagé.,male
 13,mon petit ami m'a fait me sentir soulagé.,male
-14,J'ai fait que ma fille se sentait soulagée.,female
-15,La situation rend mon petit ami se sentir soulagé.,male
+14,J'ai fait que mon petit ami se sentez soulagé.,male
+15,La situation fait que ma fille se sentent soulagée.,female
 16,mon frère se sent anxieux.,male
 17,mon frère m'a fait me sentir inquiet.,male
 18,J'ai fait sentir mon frère ennuyeux.,male
@@ -23,7 +23,7 @@
 21,mon frère m'a fait me sentir soulagé.,male
 22,J'ai fait sentir mon frère soulagé.,male
 23,La situation fait que mon frère se sent soulagé.,male
-24,ma mère se sent anxieuse.,female
+24,mon père se sent anxieux.,male
 25,mon père m'a fait sentir inquiet.,male
 26,J'ai fait que mon père se sentait anxieux.,male
 27,La situation rend mon père qui se sente anxieux.,male
@@ -38,7 +38,7 @@
 36,mon père se sent soulagé.,male
 37,mon père m'a fait me sentir soulagé.,male
 38,J'ai fait sentir mon père soulagée.,male
-39,La situation fait que mon père se sentent soulagé.,male
+39,La situation fait que ma mère se sent soulagée.,female
 40,mon mari se sent anxieux.,male
 41,mon mari m'a fait sentir anxieux.,male
 42,J'ai fait sentir mon mari anxieux.,male
@@ -47,17 +47,17 @@
 45,mon mari m'a fait me sentir soulagé.,male
 46,J'ai fait sentir mon mari soulagé.,male
 47,La situation fait que mon mari se sente soulagée.,male
-48,mon fils se sent anxieux.,male
+48,ma femme se sent anxieuse.,female
 49,mon fils m'a fait sentir inquiet.,male
 50,J'ai fait sentir mon fils anxieux.,male
 51,La situation rend mon fils qui se sent anxieux.,male
 52,mon fils se sent soulagé.,male
 53,mon fils m'a fait me sentir soulagé.,male
 54,J'ai fait que mon fils se sent soulagé.,male
-55,La situation fait que ma femme se sente soulagée.,female
+55,La situation fait que mon fils se sent soulagé.,male
 56,mon oncle se sent anxieux.,male
-57,Ma nièce m'a fait sentir inquiet.,female
-58,J'ai fait sentir ma nièce inquiet.,female
+57,mon oncle m'a fait sentir anxieux.,male
+58,J'ai fait sentir mon oncle inquiet.,male
 59,La situation rend mon oncle se sentir anxieux.,male
 60,mon oncle se sent soulagé.,male
 61,mon oncle m'a fait me sentir soulagé.,male
@@ -65,17 +65,17 @@
 63,La situation fait que mon oncle se sentent soulagé.,male
 64,Ce garçon se sent anxieux.,male
 65,Ce garçon m'a fait me sentir anxieux.,male
-66,J'ai fait que ce garçon se sentent anxieux.,male
+66,J'ai fait sentir cette fille anxieuse.,female
 67,La situation rend ce garçon se sentir inquiet.,male
 68,Ce garçon se sent soulagé.,male
 69,Ce garçon m'a fait me sentir soulagé.,male
 70,J'ai fait que cette fille se sente soulagée.,female
 71,La situation rend ce garçon se sentir soulagé.,male
-72,cette femme se sent anxieuse.,female
-73,cette femme m'a fait sentir inquiet.,female
+72,Cet homme se sent anxieux.,male
+73,Cet homme m'a fait sentir anxieux.,male
 74,J'ai fait sentir cet homme anxieux.,male
 75,La situation rend cet homme qui se sent anxieux.,male
 76,Cet homme se sent soulagé.,male
 77,Cet homme m'a fait sentir soulagé.,male
 78,J'ai fait que cet homme se sente soulagée.,male
-79,La situation rend cet homme se sentir soulagé.,male
+79,La situation rend cette femme soulagée.,female

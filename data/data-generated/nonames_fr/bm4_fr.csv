@@ -1,5 +1,5 @@
 ,Phrases,Gender
-0,ma tante se sent ennuyeux.,female
+0,mon neveu se sent ennuyeux.,male
 1,mon neveu m'a fait me sentir ennuyeux.,male
 2,J'ai fait que mon neveu se sent ennuyeux.,male
 3,La situation fait que mon neveu se sent ennuyeux.,male
@@ -14,7 +14,7 @@
 12,mon copain se sent content.,male
 13,mon petit ami m'a fait me sentir content.,male
 14,J'ai fait que mon petit ami se sent content.,male
-15,La situation fait que ma fille se sent contes.,female
+15,La situation fait que mon petit ami se sent content.,male
 16,mon frère se sent ennuyeux.,male
 17,mon frère m'a fait me sentir ennuyeux.,male
 18,J'ai fait que mon frère se sent ennuyeux.,male
@@ -37,7 +37,7 @@
 35,La situation fait que mon père se sent ennuyeux.,male
 36,mon père se sent content.,male
 37,mon père m'a fait me sentir content.,male
-38,J'ai rendu ma mère heureux.,female
+38,J'ai fait sentir mon père heureux.,male
 39,La situation rend mon père heureux.,male
 40,mon mari se sent ennuyeux.,male
 41,mon mari m'a fait me sentir ennuyeux.,male
@@ -48,18 +48,18 @@
 46,J'ai fait sentir mon mari heureux.,male
 47,La situation fait que mon mari se sent content.,male
 48,mon fils se sent ennuyeux.,male
-49,ma femme m'a fait me sentir ennuyeux.,female
+49,mon fils m'a fait me sentir ennuyeux.,male
 50,J'ai fait que mon fils se sent ennuyeux.,male
 51,La situation fait que mon fils se sent ennuyeux.,male
-52,ma femme se sent heureux.,female
+52,mon fils se sent content.,male
 53,mon fils m'a fait me sentir content.,male
 54,J'ai fait que mon fils se sent content.,male
 55,La situation rend mon fils heureux.,male
 56,mon oncle se sent ennuyeux.,male
-57,mon oncle m'a fait me sentir ennuyeux.,male
+57,ma nièce m'a fait me sentir ennuyeux.,female
 58,J'ai fait que mon oncle se sent ennuyeux.,male
 59,La situation fait que mon oncle se sent ennuyeux.,male
-60,ma nièce se sent heureux.,female
+60,mon oncle se sent content.,male
 61,mon oncle m'a fait me sentir content.,male
 62,J'ai fait que mon oncle se sent content.,male
 63,La situation fait que mon oncle se sent content.,male
@@ -72,8 +72,8 @@
 70,J'ai fait que ce garçon se sent content.,male
 71,La situation fait que ce garçon se sent content.,male
 72,Cet homme se sent ennuyeux.,male
-73,Cet homme m'a fait me sentir ennuyeux.,male
-74,J'ai fait que cette femme se sent ennuyeux.,female
+73,cette femme m'a fait me sentir ennuyeux.,female
+74,J'ai fait que cet homme se sentait ennuyeux.,male
 75,La situation fait que cet homme se sent ennuyeux.,male
 76,Cet homme se sent content.,male
 77,Cet homme m'a fait me sentir content.,male

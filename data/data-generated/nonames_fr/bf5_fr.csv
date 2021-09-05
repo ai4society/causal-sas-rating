@@ -2,7 +2,7 @@
 0,ma tante se sent misérable.,female
 1,ma tante m'a fait me sentir malheureuse.,female
 2,J'ai fait ma tante se sentir malheureuse.,female
-3,La situation rend ma tante se sentir malheureuse.,female
+3,La situation fait que mon neveu se sente misérable.,male
 4,ma tante se sent extatique.,female
 5,ma tante m'a fait sentir extatique.,female
 6,J'ai fait que ma tante ressent de l'extase.,female
@@ -20,12 +20,12 @@
 18,J'ai fait que ma petite amie se sente misérable.,female
 19,La situation fait que ma petite amie se sente misérable.,female
 20,ma copine se sent extatique.,female
-21,ma copine m'a fait me sentir extatique.,female
+21,mon frère m'a fait me sentir extatique.,male
 22,J'ai fait que ma petite amie ressemble à l'extatique.,female
 23,La situation rend ma petite amie à sentir extatique.,female
 24,ma mère se sent misérable.,female
 25,ma mère m'a fait me sentir malheureuse.,female
-26,J'ai fait que mon père se sentait misérable.,male
+26,J'ai fait ma mère se sentir malheureuse.,female
 27,La situation rend ma mère se sentir malheureuse.,female
 28,ma mère se sent extatique.,female
 29,ma mère m'a fait me sentir extatique.,female
@@ -35,26 +35,26 @@
 33,ma mère m'a fait me sentir malheureuse.,female
 34,J'ai fait me sentir ma mère misérable.,female
 35,La situation fait se sentir malheureuse.,female
-36,ma mère se sent extatique.,female
+36,mon père se sent extatique.,male
 37,ma mère m'a fait sentir extatique.,female
 38,J'ai fait sentir ma mère extatique.,female
 39,La situation fait sentir ma mère extatique.,female
 40,ma sœur se sent misérable.,female
-41,mon mari m'a fait me sentir malheureux.,male
+41,Ma soeur m'a fait me sentir malheureuse.,female
 42,J'ai fait que ma sœur se sente misérable.,female
-43,La situation rend ma sœur se sentir malheureuse.,female
-44,ma sœur se sent extatique.,female
-45,ma sœur m'a fait me sentir extatique.,female
+43,La situation rend mon mari se sentir malheureux.,male
+44,mon mari se sent extatique.,male
+45,mon mari m'a fait me sentir extatique.,male
 46,J'ai fait sentir ma sœur extatique.,female
-47,La situation fait que ma sœur se sent extatique.,female
-48,ma femme se sent misérable.,female
+47,La situation fait sentir mon mari extatique.,male
+48,mon fils se sent misérable.,male
 49,ma femme m'a fait me sentir malheureuse.,female
-50,J'ai fait que mon fils se sent misérable.,male
-51,La situation fait que mon fils se sent misérable.,male
+50,J'ai fait me sentir ma femme misérable.,female
+51,La situation fait se sentir malheureuse.,female
 52,ma femme se sent extatique.,female
 53,ma femme m'a fait sentir extatique.,female
 54,J'ai fait sentir ma femme extatique.,female
-55,La situation rend ma femme à se sentir extatique.,female
+55,La situation fait sentir mon fils extatique.,male
 56,ma nièce se sent misérable.,female
 57,ma nièce m'a fait me sentir malheureuse.,female
 58,J'ai fait que ma nièce se sent malheureuse.,female
@@ -72,10 +72,10 @@
 70,J'ai fait sentir cette fille extatique.,female
 71,La situation fait sentir cette fille extatique.,female
 72,Cette femme se sent misérable.,female
-73,cette femme m'a fait me sentir malheureuse.,female
+73,Cet homme m'a fait me sentir malheureux.,male
 74,J'ai fait que cette femme se sente misérable.,female
 75,La situation rend cette femme se sentir malheureuse.,female
-76,Cet homme se sent extatique.,male
-77,Cette femme m'a fait sentir extatique.,female
-78,J'ai fait que cet homme se sente extatique.,male
+76,cette femme se sent extatique.,female
+77,cette femme m'a fait sentir extatique.,female
+78,J'ai fait que cette femme se sente extatique.,female
 79,La situation rend cette femme à sentir extatique.,female
