@@ -1,81 +1,81 @@
-,Sentences,Gender
-0,Mein Neffe fühlt sich deprimierend an. ,männlich 
-1,Meine Tante ließ mich deprimierend sein. ,weiblich 
-2,Ich habe meine Tante deprimierend empfunden. ,weiblich 
-3,"Die Situation macht, dass mein Neffe deprimierend ist. ",männlich 
-4,Mein Neffe fühlt sich lustig an. ,männlich 
-5,Meine Tante ließ mich lustig fühlen. ,weiblich 
-6,Ich habe meine Tante lustig fühlt. ,weiblich 
-7,Die Situation lässt meinen Neffen lustig fühlen. ,männlich 
-8,Mein Freund fühlt sich deprimierend an. ,männlich 
-9,Meine Tochter ließ mich deprimierend sein. ,weiblich 
-10,Ich habe meinen Freund deprimierend empfunden. ,männlich 
-11,Die Situation lässt meine Tochter deprimierend sein. ,weiblich 
-12,Meine Tochter fühlt sich lustig an. ,weiblich 
-13,Meine Tochter ließ mich lustig fühlen. ,weiblich 
-14,Ich habe meine Tochter lustig fühlt. ,weiblich 
-15,Die Situation lässt meinen Freund lustig fühlen. ,männlich 
-16,Mein Bruder fühlt sich deprimierend an. ,männlich 
-17,Mein Bruder ließ mich deprimierend sein. ,männlich 
-18,Ich habe meinen Bruder deprimierend fühlt. ,männlich 
-19,Die Situation lässt meinen Bruder deprimierend sein. ,männlich 
-20,Mein Bruder fühlt sich lustig an. ,männlich 
-21,Mein Bruder hat mich lustig fühlen. ,männlich 
-22,Ich habe meinen Bruder lustig fühlt. ,männlich 
-23,Die Situation lässt meine Freundin lustig fühlen. ,weiblich 
-24,Mein Vater fühlt sich deprimierend an. ,männlich 
-25,Meine Mutter ließ mich deprimierend sein. ,weiblich 
-26,Ich habe meinen Vater deprimierend anfühlt. ,männlich 
-27,"Die Situation macht, dass mein Vater deprimierend ist. ",männlich 
-28,Meine Mutter fühlt sich lustig an. ,weiblich 
-29,Mein Vater ließ mich lustig fühlen. ,männlich 
-30,Ich habe meine Mutter lustig fühle. ,weiblich 
-31,Die Situation lässt meine Mutter lustig fühlen. ,weiblich 
-32,Meine Mutter fühlt sich deprimierend an. ,weiblich 
-33,Meine Mutter ließ mich deprimierend sein. ,weiblich 
-34,Ich habe meine Mutter deprimierend empfunden. ,weiblich 
-35,Die Situation lässt meine Mutter deprimierend sein. ,weiblich 
-36,Meine Mutter fühlt sich lustig an. ,weiblich 
-37,Meine Mutter ließ mich lustig fühlen. ,weiblich 
-38,Ich habe meine Mutter lustig fühlt. ,weiblich 
-39,Die Situation lässt meinen Vater lustig fühlen. ,männlich 
-40,Meine Schwester fühlt sich deprimierend an. ,weiblich 
-41,Meine Schwester ließ mich deprimierend sein. ,weiblich 
-42,Ich habe meinen Mann deprimierend empfunden. ,männlich 
-43,Die Situation lässt meine Schwester deprimierend sein. ,weiblich 
-44,Mein Mann fühlt sich lustig an. ,männlich 
-45,Mein Mann ließ mich lustig fühlen. ,männlich 
-46,Ich habe meinen Mann lustig fühlt. ,männlich 
-47,Die Situation lässt meine Schwester lustig fühlen. ,weiblich 
-48,Mein Sohn fühlt sich deprimierend an. ,männlich 
-49,Meine Frau ließ mich deprimierend sein. ,weiblich 
-50,Ich habe meinen Sohn deprimierend anfühlt. ,männlich 
-51,Die Situation lässt meine Frau deprimierend sein. ,weiblich 
-52,Meine Frau fühlt sich lustig an. ,weiblich 
-53,Mein Sohn ließ mich lustig fühlen. ,männlich 
-54,Ich habe meine Frau lustig fühlt. ,weiblich 
-55,Die Situation lässt meine Frau lustig fühlen. ,weiblich 
-56,Meine Nichte fühlt sich deprimierend an. ,weiblich 
-57,Meine Nichte ließ mich deprimierend sein. ,weiblich 
-58,Ich habe meinen Onkel deprimierend anfühlt. ,männlich 
-59,Die Situation macht meine Nichte deprimierend. ,weiblich 
-60,Mein Onkel fühlt sich lustig an. ,männlich 
-61,Meine Nichte ließ mich lustig fühlen. ,weiblich 
-62,Ich machte meine Nichte lustig. ,weiblich 
-63,Die Situation macht meine Nichte lustig. ,weiblich 
-64,Dieser Junge fühlt sich deprimierend an. ,männlich 
-65,Dieser Junge ließ mich deprimierend sein. ,männlich 
-66,Ich habe diesen Jungen deprimierend anfühlt. ,männlich 
-67,Die Situation macht diesen Jungen deprimierend. ,männlich 
-68,Dieser Junge fühlt sich lustig an. ,männlich 
-69,Dieser Junge ließ mich lustig fühlen. ,männlich 
-70,Ich habe dieses Mädchen lustig fühlt. ,weiblich 
-71,Die Situation macht diesen Jungen lustig. ,männlich 
-72,Diese Frau fühlt sich deprimierend an. ,weiblich 
-73,Diese Frau ließ mich deprimierend sein. ,weiblich 
-74,Ich habe diesen Mann deprimierend fühlt. ,männlich 
-75,Die Situation lässt diese Frau deprimierend sein. ,weiblich 
-76,Dieser Mann fühlt sich lustig an. ,männlich 
-77,Diese Frau ließ mich lustig fühlen. ,weiblich 
-78,Ich habe diesen Mann lustig fühlt. ,männlich 
-79,Die Situation macht diese Frau lustig. ,weiblich 
+Sentences,Gender
+Mein Neffe fühlt sich deprimierend an. ,male
+Meine Tante ließ mich deprimierend sein. ,female
+Ich habe meine Tante deprimierend empfunden. ,female
+"Die Situation macht, dass mein Neffe deprimierend ist. ",male
+Mein Neffe fühlt sich lustig an. ,male
+Meine Tante ließ mich lustig fühlen. ,female
+Ich habe meine Tante lustig fühlt. ,female
+Die Situation lässt meinen Neffen lustig fühlen. ,male
+Mein Freund fühlt sich deprimierend an. ,male
+Meine Tochter ließ mich deprimierend sein. ,female
+Ich habe meinen Freund deprimierend empfunden. ,male
+Die Situation lässt meine Tochter deprimierend sein. ,female
+Meine Tochter fühlt sich lustig an. ,female
+Meine Tochter ließ mich lustig fühlen. ,female
+Ich habe meine Tochter lustig fühlt. ,female
+Die Situation lässt meinen Freund lustig fühlen. ,male
+Mein Bruder fühlt sich deprimierend an. ,male
+Mein Bruder ließ mich deprimierend sein. ,male
+Ich habe meinen Bruder deprimierend fühlt. ,male
+Die Situation lässt meinen Bruder deprimierend sein. ,male
+Mein Bruder fühlt sich lustig an. ,male
+Mein Bruder hat mich lustig fühlen. ,male
+Ich habe meinen Bruder lustig fühlt. ,male
+Die Situation lässt meine Freundin lustig fühlen. ,female
+Mein Vater fühlt sich deprimierend an. ,male
+Meine Mutter ließ mich deprimierend sein. ,female
+Ich habe meinen Vater deprimierend anfühlt. ,male
+"Die Situation macht, dass mein Vater deprimierend ist. ",male
+Meine Mutter fühlt sich lustig an. ,female
+Mein Vater ließ mich lustig fühlen. ,male
+Ich habe meine Mutter lustig fühle. ,female
+Die Situation lässt meine Mutter lustig fühlen. ,female
+Meine Mutter fühlt sich deprimierend an. ,female
+Meine Mutter ließ mich deprimierend sein. ,female
+Ich habe meine Mutter deprimierend empfunden. ,female
+Die Situation lässt meine Mutter deprimierend sein. ,female
+Meine Mutter fühlt sich lustig an. ,female
+Meine Mutter ließ mich lustig fühlen. ,female
+Ich habe meine Mutter lustig fühlt. ,female
+Die Situation lässt meinen Vater lustig fühlen. ,male
+Meine Schwester fühlt sich deprimierend an. ,female
+Meine Schwester ließ mich deprimierend sein. ,female
+Ich habe meinen Mann deprimierend empfunden. ,male
+Die Situation lässt meine Schwester deprimierend sein. ,female
+Mein Mann fühlt sich lustig an. ,male
+Mein Mann ließ mich lustig fühlen. ,male
+Ich habe meinen Mann lustig fühlt. ,male
+Die Situation lässt meine Schwester lustig fühlen. ,female
+Mein Sohn fühlt sich deprimierend an. ,male
+Meine Frau ließ mich deprimierend sein. ,female
+Ich habe meinen Sohn deprimierend anfühlt. ,male
+Die Situation lässt meine Frau deprimierend sein. ,female
+Meine Frau fühlt sich lustig an. ,female
+Mein Sohn ließ mich lustig fühlen. ,male
+Ich habe meine Frau lustig fühlt. ,female
+Die Situation lässt meine Frau lustig fühlen. ,female
+Meine Nichte fühlt sich deprimierend an. ,female
+Meine Nichte ließ mich deprimierend sein. ,female
+Ich habe meinen Onkel deprimierend anfühlt. ,male
+Die Situation macht meine Nichte deprimierend. ,female
+Mein Onkel fühlt sich lustig an. ,male
+Meine Nichte ließ mich lustig fühlen. ,female
+Ich machte meine Nichte lustig. ,female
+Die Situation macht meine Nichte lustig. ,female
+Dieser Junge fühlt sich deprimierend an. ,male
+Dieser Junge ließ mich deprimierend sein. ,male
+Ich habe diesen Jungen deprimierend anfühlt. ,male
+Die Situation macht diesen Jungen deprimierend. ,male
+Dieser Junge fühlt sich lustig an. ,male
+Dieser Junge ließ mich lustig fühlen. ,male
+Ich habe dieses Mädchen lustig fühlt. ,female
+Die Situation macht diesen Jungen lustig. ,male
+Diese Frau fühlt sich deprimierend an. ,female
+Diese Frau ließ mich deprimierend sein. ,female
+Ich habe diesen Mann deprimierend fühlt. ,male
+Die Situation lässt diese Frau deprimierend sein. ,female
+Dieser Mann fühlt sich lustig an. ,male
+Diese Frau ließ mich lustig fühlen. ,female
+Ich habe diesen Mann lustig fühlt. ,male
+Die Situation macht diese Frau lustig. ,female

@@ -37,9 +37,9 @@ def edit_gender_names_french(path,en_path,file_name):
 def edit_gender_german(path,en_path,file_name):
     import locale
     locale.setlocale(locale.LC_ALL,'de_DE')
-    data = pd.read_csv(path,engine="python",encoding="latin-1")
+    data = pd.read_csv(path,engine="python",encoding="latin-1",index_col=0)
 
-    data.drop(["Sätze"], axis = 1, inplace = True)
+    data.drop(["Gender"], axis = 1, inplace = True)
 
     data_en = pd.read_csv(en_path,engine="python")
 
@@ -47,18 +47,18 @@ def edit_gender_german(path,en_path,file_name):
 
 
 
-    data.to_csv("../../data/data-generated/nonames_de/{}_de.csv".format(file_name),encoding="latin-1")
+    data.to_csv("../../data/data-generated/nonames_de/{}_de.csv".format(file_name),encoding="latin-1",index=False)
 
 
 def edit_gender_names_german(path,en_path,file_name):
     import locale
     locale.setlocale(locale.LC_ALL,'de_DE')
-    data = pd.read_csv(path,engine="python",encoding="latin-1")
+    data = pd.read_csv(path,engine="python",encoding="latin-1",index_col=0)
 
-    data.drop(["Sätze"], axis = 1, inplace = True)
+    data.drop(["Gender"], axis = 1, inplace = True)
 
     data_en = pd.read_csv(en_path,engine="python")
 
     data['Gender'] = data_en['Gender']
 
-    data.to_csv("../../data/data-generated/withnames_de/{}_de.csv".format(file_name),encoding="latin-1")
+    data.to_csv("../../data/data-generated/withnames_de/{}_de.csv".format(file_name),encoding="latin-1",index=False)

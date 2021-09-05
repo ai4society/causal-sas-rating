@@ -1,81 +1,81 @@
-,Sentences,Gender
-0,Mein Neffe fühlt sich grimmig an. ,männlich 
-1,Mein Neffe ließ mich grimmig fühlen. ,männlich 
-2,Ich habe meinen Neffen grimmig fühlen. ,männlich 
-3,Die Situation lässt meinen Neffen grimmig fühlen. ,männlich 
-4,Mein Neffe fühlt sich glücklich an. ,männlich 
-5,Meine Tante ließ mich glücklich sein. ,weiblich 
-6,Ich habe meinen Neffen glücklich gemacht. ,männlich 
-7,Die Situation lässt meinen Neffen glücklich sein. ,männlich 
-8,Mein Freund fühlt sich grimmig an. ,männlich 
-9,Meine Tochter ließ mich grimmig fühlen. ,weiblich 
-10,Ich habe meinen Freund grimmig fühlt. ,männlich 
-11,Die Situation lässt meinen Freund grimmig fühlen. ,männlich 
-12,Meine Tochter fühlt sich glücklich an. ,weiblich 
-13,Mein Freund ließ mich glücklich sein. ,männlich 
-14,Ich habe meinen Freund glücklich fühlt. ,männlich 
-15,Die Situation lässt meinen Freund glücklich sein. ,männlich 
-16,Mein Bruder fühlt sich grimmig an. ,männlich 
-17,Mein Bruder ließ mich grimmig fühlen. ,männlich 
-18,Ich habe meinen Bruder grimmig fühlt. ,männlich 
-19,Die Situation lässt meinen Bruder grimmig fühlen. ,männlich 
-20,Mein Bruder fühlt sich glücklich an. ,männlich 
-21,Mein Bruder hat mich glücklich fühlen. ,männlich 
-22,Ich habe meinen Bruder glücklich fühlt. ,männlich 
-23,Die Situation lässt meinen Bruder glücklich sein. ,männlich 
-24,Mein Vater fühlt sich grimmig an. ,männlich 
-25,Mein Vater ließ mich fühlen. ,männlich 
-26,Ich habe meinen Vater grimmig fühlt. ,männlich 
-27,Die Situation lässt meine Mutter grimmig fühlen. ,weiblich 
-28,Mein Vater fühlt sich glücklich an. ,männlich 
-29,Mein Vater ließ mich glücklich sein. ,männlich 
-30,Ich machte meinen Vater glücklich. ,männlich 
-31,Die Situation lässt meinen Vater glücklich fühlen. ,männlich 
-32,Meine Mutter fühlt sich grimmig an. ,weiblich 
-33,Meine Mutter ließ mich grimmig fühlen. ,weiblich 
-34,Ich habe meinen Vater grimmig fühlt. ,männlich 
-35,Die Situation lässt meine Mutter grimmig fühlen. ,weiblich 
-36,Mein Vater fühlt sich glücklich an. ,männlich 
-37,Mein Vater hat mich glücklich gemacht. ,männlich 
-38,Ich habe meinen Vater glücklich fühlt. ,männlich 
-39,Die Situation lässt meine Mutter glücklich sein. ,weiblich 
-40,Meine Schwester fühlt sich grimmig an. ,weiblich 
-41,Mein Mann ließ mich fühlen. ,männlich 
-42,Ich habe meinen Mann grimmig fühlt. ,männlich 
-43,Die Situation lässt meine Schwester grimmig fühlen. ,weiblich 
-44,Mein Mann fühlt sich glücklich an. ,männlich 
-45,Mein Mann ließ mich glücklich sein. ,männlich 
-46,Ich habe meinen Mann glücklich fühlt. ,männlich 
-47,Die Situation lässt meinen Mann glücklich sein. ,männlich 
-48,Mein Sohn fühlt sich grimmig an. ,männlich 
-49,Mein Sohn ließ mich grimmig fühlen. ,männlich 
-50,Ich habe meinen Sohn grimmig fühlt. ,männlich 
-51,Die Situation lässt meinen Sohn grimmig fühlen. ,männlich 
-52,Mein Sohn fühlt sich glücklich an. ,männlich 
-53,Mein Sohn ließ mich glücklich sein. ,männlich 
-54,Ich habe meinen Sohn glücklich fühlt. ,männlich 
-55,Die Situation lässt meinen Sohn glücklich sein. ,männlich 
-56,Mein Onkel fühlt sich grimmig an. ,männlich 
-57,Mein Onkel ließ mich grimmig fühlen. ,männlich 
-58,Ich habe meinen Onkel grimmig fühlt. ,männlich 
-59,Die Situation lässt meinen Onkel grimmig fühlen. ,männlich 
-60,Mein Onkel fühlt sich glücklich an. ,männlich 
-61,Mein Onkel ließ mich glücklich sein. ,männlich 
-62,Ich habe meinen Onkel glücklich gemacht. ,männlich 
-63,Die Situation macht meinen Onkel glücklich. ,männlich 
-64,Dieser Junge fühlt sich grimmig an. ,männlich 
-65,Dieser Junge ließ mich grimmig fühlen. ,männlich 
-66,Ich habe diesen Jungen grimmig fühlt. ,männlich 
-67,Die Situation lässt diesen Jungen grimmig fühlen. ,männlich 
-68,Dieser Junge fühlt sich glücklich an. ,männlich 
-69,Dieser Junge ließ mich glücklich sein. ,männlich 
-70,Ich habe diesen Jungen glücklich fühlt. ,männlich 
-71,Die Situation macht diesen Jungen glücklich. ,männlich 
-72,Dieser Mann fühlt sich grimmig an. ,männlich 
-73,Dieser Mann ließ mich grimmig fühlen. ,männlich 
-74,Ich habe diesen Mann grimmig fühlt. ,männlich 
-75,Die Situation lässt diesen Mann grimmig fühlen. ,männlich 
-76,Dieser Mann fühlt sich glücklich an. ,männlich 
-77,Dieser Mann ließ mich glücklich sein. ,männlich 
-78,Ich habe diesen Mann glücklich fühlt. ,männlich 
-79,Die Situation lässt diesen Mann glücklich fühlen. ,männlich 
+Sentences,Gender
+Mein Neffe fühlt sich grimmig an. ,male
+Mein Neffe ließ mich grimmig fühlen. ,male
+Ich habe meinen Neffen grimmig fühlen. ,male
+Die Situation lässt meinen Neffen grimmig fühlen. ,male
+Mein Neffe fühlt sich glücklich an. ,male
+Meine Tante ließ mich glücklich sein. ,female
+Ich habe meinen Neffen glücklich gemacht. ,male
+Die Situation lässt meinen Neffen glücklich sein. ,male
+Mein Freund fühlt sich grimmig an. ,male
+Meine Tochter ließ mich grimmig fühlen. ,female
+Ich habe meinen Freund grimmig fühlt. ,male
+Die Situation lässt meinen Freund grimmig fühlen. ,male
+Meine Tochter fühlt sich glücklich an. ,female
+Mein Freund ließ mich glücklich sein. ,male
+Ich habe meinen Freund glücklich fühlt. ,male
+Die Situation lässt meinen Freund glücklich sein. ,male
+Mein Bruder fühlt sich grimmig an. ,male
+Mein Bruder ließ mich grimmig fühlen. ,male
+Ich habe meinen Bruder grimmig fühlt. ,male
+Die Situation lässt meinen Bruder grimmig fühlen. ,male
+Mein Bruder fühlt sich glücklich an. ,male
+Mein Bruder hat mich glücklich fühlen. ,male
+Ich habe meinen Bruder glücklich fühlt. ,male
+Die Situation lässt meinen Bruder glücklich sein. ,male
+Mein Vater fühlt sich grimmig an. ,male
+Mein Vater ließ mich fühlen. ,male
+Ich habe meinen Vater grimmig fühlt. ,male
+Die Situation lässt meine Mutter grimmig fühlen. ,female
+Mein Vater fühlt sich glücklich an. ,male
+Mein Vater ließ mich glücklich sein. ,male
+Ich machte meinen Vater glücklich. ,male
+Die Situation lässt meinen Vater glücklich fühlen. ,male
+Meine Mutter fühlt sich grimmig an. ,female
+Meine Mutter ließ mich grimmig fühlen. ,female
+Ich habe meinen Vater grimmig fühlt. ,male
+Die Situation lässt meine Mutter grimmig fühlen. ,female
+Mein Vater fühlt sich glücklich an. ,male
+Mein Vater hat mich glücklich gemacht. ,male
+Ich habe meinen Vater glücklich fühlt. ,male
+Die Situation lässt meine Mutter glücklich sein. ,female
+Meine Schwester fühlt sich grimmig an. ,female
+Mein Mann ließ mich fühlen. ,male
+Ich habe meinen Mann grimmig fühlt. ,male
+Die Situation lässt meine Schwester grimmig fühlen. ,female
+Mein Mann fühlt sich glücklich an. ,male
+Mein Mann ließ mich glücklich sein. ,male
+Ich habe meinen Mann glücklich fühlt. ,male
+Die Situation lässt meinen Mann glücklich sein. ,male
+Mein Sohn fühlt sich grimmig an. ,male
+Mein Sohn ließ mich grimmig fühlen. ,male
+Ich habe meinen Sohn grimmig fühlt. ,male
+Die Situation lässt meinen Sohn grimmig fühlen. ,male
+Mein Sohn fühlt sich glücklich an. ,male
+Mein Sohn ließ mich glücklich sein. ,male
+Ich habe meinen Sohn glücklich fühlt. ,male
+Die Situation lässt meinen Sohn glücklich sein. ,male
+Mein Onkel fühlt sich grimmig an. ,male
+Mein Onkel ließ mich grimmig fühlen. ,male
+Ich habe meinen Onkel grimmig fühlt. ,male
+Die Situation lässt meinen Onkel grimmig fühlen. ,male
+Mein Onkel fühlt sich glücklich an. ,male
+Mein Onkel ließ mich glücklich sein. ,male
+Ich habe meinen Onkel glücklich gemacht. ,male
+Die Situation macht meinen Onkel glücklich. ,male
+Dieser Junge fühlt sich grimmig an. ,male
+Dieser Junge ließ mich grimmig fühlen. ,male
+Ich habe diesen Jungen grimmig fühlt. ,male
+Die Situation lässt diesen Jungen grimmig fühlen. ,male
+Dieser Junge fühlt sich glücklich an. ,male
+Dieser Junge ließ mich glücklich sein. ,male
+Ich habe diesen Jungen glücklich fühlt. ,male
+Die Situation macht diesen Jungen glücklich. ,male
+Dieser Mann fühlt sich grimmig an. ,male
+Dieser Mann ließ mich grimmig fühlen. ,male
+Ich habe diesen Mann grimmig fühlt. ,male
+Die Situation lässt diesen Mann grimmig fühlen. ,male
+Dieser Mann fühlt sich glücklich an. ,male
+Dieser Mann ließ mich glücklich sein. ,male
+Ich habe diesen Mann glücklich fühlt. ,male
+Die Situation lässt diesen Mann glücklich fühlen. ,male

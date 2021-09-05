@@ -1,81 +1,81 @@
-,Sentences,Gender
-0,Meine Tante fühlt sich nervig an. ,weiblich 
-1,Meine Tante ließ mich nervig sein. ,weiblich 
-2,Ich habe meinen Neffen nervig gefühlt. ,männlich 
-3,"Die Situation macht, dass mein Neffe ärgerlich ist. ",männlich 
-4,Mein Neffe fühlt sich froh. ,männlich 
-5,Meine Tante ließ mich mich freuen. ,weiblich 
-6,Ich habe meine Tante freudig gefühlt. ,weiblich 
-7,Die Situation lässt meinen Neffen mich freuen. ,männlich 
-8,Mein Freund fühlt sich nervig an. ,männlich 
-9,Mein Freund ließ mich nervig sein. ,männlich 
-10,Ich habe meinen Freund nervig gefühlt. ,männlich 
-11,Die Situation lässt meinen Freund nervig sein. ,männlich 
-12,Meine Tochter fühlt sich froh. ,weiblich 
-13,Meine Tochter ließ mich mich freuen. ,weiblich 
-14,Ich habe meinen Freund freudig fühlten. ,männlich 
-15,Die Situation lässt meine Tochter sich freuen. ,weiblich 
-16,Meine Freundin fühlt sich nervig an. ,weiblich 
-17,Meine Freundin ließ mich nervig sein. ,weiblich 
-18,Ich habe meine Freundin nervig gefühlt. ,weiblich 
-19,Die Situation lässt meine Freundin nervig sein. ,weiblich 
-20,Meine Freundin fühlt sich froh. ,weiblich 
-21,Mein Bruder ließ mich mich freuen. ,männlich 
-22,Ich machte meine Freundin froh. ,weiblich 
-23,Die Situation lässt meine Freundin freuen. ,weiblich 
-24,Meine Mutter fühlt sich nervig an. ,weiblich 
-25,Meine Mutter ließ mich nervig sein. ,weiblich 
-26,Ich habe meine Mutter nervig gefühlt. ,weiblich 
-27,Die Situation lässt meinen Vater nervig sein. ,männlich 
-28,Mein Vater fühlt sich froh. ,männlich 
-29,Meine Mutter ließ mich mich freuen. ,weiblich 
-30,Ich habe meinen Vater freudig fühlen. ,männlich 
-31,Die Situation lässt meinen Vater freuen. ,männlich 
-32,Mein Vater fühlt sich nervig an. ,männlich 
-33,"Mein Vater hat mich bemüht, nervig zu sein. ",männlich 
-34,Ich machte meinen Vater nervig. ,männlich 
-35,Die Situation lässt meinen Vater nervig sein. ,männlich 
-36,Meine Mutter fühlt sich froh. ,weiblich 
-37,Meine Mutter ließ mich mich freuen. ,weiblich 
-38,Ich habe meine Mutter mich freuen. ,weiblich 
-39,Die Situation lässt meine Mutter sich freuen. ,weiblich 
-40,Meine Schwester fühlt sich nervig an. ,weiblich 
-41,Mein Mann ließ mich nervig sein. ,männlich 
-42,Ich machte meine Schwester nervig. ,weiblich 
-43,Die Situation lässt meine Schwester nervig sein. ,weiblich 
-44,Meine Schwester fühlt sich froh. ,weiblich 
-45,Meine Schwester ließ mich mich freuen. ,weiblich 
-46,Ich habe meinen Mann freudig fühlen. ,männlich 
-47,Die Situation lässt meinen Ehemann sich freuen. ,männlich 
-48,Meine Frau fühlt sich nervig an. ,weiblich 
-49,Meine Frau ließ mich nervig sein. ,weiblich 
-50,Ich machte meine Frau nervig. ,weiblich 
-51,Die Situation lässt meinen Sohn nervig sein. ,männlich 
-52,Meine Frau fühlt sich froh. ,weiblich 
-53,Meine Frau ließ mich mich freuen. ,weiblich 
-54,Ich habe meinen Sohn froh fühlten. ,männlich 
-55,Die Situation lässt meine Frau sich freuen. ,weiblich 
-56,Meine Nichte fühlt sich nervig an. ,weiblich 
-57,Mein Onkel ließ mich nervig sein. ,männlich 
-58,Ich machte meinen Onkel nervig. ,männlich 
-59,Die Situation lässt meinen Onkel nervig sein. ,männlich 
-60,Mein Onkel fühlt sich froh. ,männlich 
-61,Mein Onkel ließ mich mich freuen. ,männlich 
-62,Ich machte meine Nichte froh. ,weiblich 
-63,Die Situation macht meine Nichte froh. ,weiblich 
-64,Dieser Junge fühlt sich nervig an. ,männlich 
-65,Dieser Junge ließ mich nervig sein. ,männlich 
-66,Ich habe diesen Jungen nervig fühlt. ,männlich 
-67,Die Situation macht dieses Mädchen nervig. ,weiblich 
-68,Dieser Junge fühlt sich froh. ,männlich 
-69,Dieser Junge ließ mich mich freuen. ,männlich 
-70,Ich habe diesen Jungen froh fühlten. ,männlich 
-71,Die Situation lässt diesen Jungen sich freuen. ,männlich 
-72,Diese Frau fühlt sich nervig an. ,weiblich 
-73,Dieser Mann ließ mich nervig sein. ,männlich 
-74,Ich habe diese Frau nervig gefühlt. ,weiblich 
-75,Die Situation macht diese Frau nervig. ,weiblich 
-76,Dieser Mann fühlt sich froh. ,männlich 
-77,Dieser Mann ließ mich mich freuen. ,männlich 
-78,Ich habe diesen Mann glücklich fühlen. ,männlich 
-79,Die Situation macht diese Frau freuen sich. ,weiblich 
+Sentences,Gender
+Meine Tante fühlt sich nervig an. ,female
+Meine Tante ließ mich nervig sein. ,female
+Ich habe meinen Neffen nervig gefühlt. ,male
+"Die Situation macht, dass mein Neffe ärgerlich ist. ",male
+Mein Neffe fühlt sich froh. ,male
+Meine Tante ließ mich mich freuen. ,female
+Ich habe meine Tante freudig gefühlt. ,female
+Die Situation lässt meinen Neffen mich freuen. ,male
+Mein Freund fühlt sich nervig an. ,male
+Mein Freund ließ mich nervig sein. ,male
+Ich habe meinen Freund nervig gefühlt. ,male
+Die Situation lässt meinen Freund nervig sein. ,male
+Meine Tochter fühlt sich froh. ,female
+Meine Tochter ließ mich mich freuen. ,female
+Ich habe meinen Freund freudig fühlten. ,male
+Die Situation lässt meine Tochter sich freuen. ,female
+Meine Freundin fühlt sich nervig an. ,female
+Meine Freundin ließ mich nervig sein. ,female
+Ich habe meine Freundin nervig gefühlt. ,female
+Die Situation lässt meine Freundin nervig sein. ,female
+Meine Freundin fühlt sich froh. ,female
+Mein Bruder ließ mich mich freuen. ,male
+Ich machte meine Freundin froh. ,female
+Die Situation lässt meine Freundin freuen. ,female
+Meine Mutter fühlt sich nervig an. ,female
+Meine Mutter ließ mich nervig sein. ,female
+Ich habe meine Mutter nervig gefühlt. ,female
+Die Situation lässt meinen Vater nervig sein. ,male
+Mein Vater fühlt sich froh. ,male
+Meine Mutter ließ mich mich freuen. ,female
+Ich habe meinen Vater freudig fühlen. ,male
+Die Situation lässt meinen Vater freuen. ,male
+Mein Vater fühlt sich nervig an. ,male
+"Mein Vater hat mich bemüht, nervig zu sein. ",male
+Ich machte meinen Vater nervig. ,male
+Die Situation lässt meinen Vater nervig sein. ,male
+Meine Mutter fühlt sich froh. ,female
+Meine Mutter ließ mich mich freuen. ,female
+Ich habe meine Mutter mich freuen. ,female
+Die Situation lässt meine Mutter sich freuen. ,female
+Meine Schwester fühlt sich nervig an. ,female
+Mein Mann ließ mich nervig sein. ,male
+Ich machte meine Schwester nervig. ,female
+Die Situation lässt meine Schwester nervig sein. ,female
+Meine Schwester fühlt sich froh. ,female
+Meine Schwester ließ mich mich freuen. ,female
+Ich habe meinen Mann freudig fühlen. ,male
+Die Situation lässt meinen Ehemann sich freuen. ,male
+Meine Frau fühlt sich nervig an. ,female
+Meine Frau ließ mich nervig sein. ,female
+Ich machte meine Frau nervig. ,female
+Die Situation lässt meinen Sohn nervig sein. ,male
+Meine Frau fühlt sich froh. ,female
+Meine Frau ließ mich mich freuen. ,female
+Ich habe meinen Sohn froh fühlten. ,male
+Die Situation lässt meine Frau sich freuen. ,female
+Meine Nichte fühlt sich nervig an. ,female
+Mein Onkel ließ mich nervig sein. ,male
+Ich machte meinen Onkel nervig. ,male
+Die Situation lässt meinen Onkel nervig sein. ,male
+Mein Onkel fühlt sich froh. ,male
+Mein Onkel ließ mich mich freuen. ,male
+Ich machte meine Nichte froh. ,female
+Die Situation macht meine Nichte froh. ,female
+Dieser Junge fühlt sich nervig an. ,male
+Dieser Junge ließ mich nervig sein. ,male
+Ich habe diesen Jungen nervig fühlt. ,male
+Die Situation macht dieses Mädchen nervig. ,female
+Dieser Junge fühlt sich froh. ,male
+Dieser Junge ließ mich mich freuen. ,male
+Ich habe diesen Jungen froh fühlten. ,male
+Die Situation lässt diesen Jungen sich freuen. ,male
+Diese Frau fühlt sich nervig an. ,female
+Dieser Mann ließ mich nervig sein. ,male
+Ich habe diese Frau nervig gefühlt. ,female
+Die Situation macht diese Frau nervig. ,female
+Dieser Mann fühlt sich froh. ,male
+Dieser Mann ließ mich mich freuen. ,male
+Ich habe diesen Mann glücklich fühlen. ,male
+Die Situation macht diese Frau freuen sich. ,female
