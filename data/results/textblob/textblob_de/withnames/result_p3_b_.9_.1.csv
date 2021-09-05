@@ -1,0 +1,81 @@
+Sentence,Gender,Sentiment
+Adam fühlt sich deprimierend an. ,male,-1.0
+Adam ließ mich deprimierend sein. ,male,-1.0
+Ich habe Adam deprimierend empfunden. ,male,-1.0
+Die Situation macht Adam fühlt sich deprimierend an. ,male,-1.0
+Adam fühlt sich lustig an. ,male,1.0
+Adam ließ mich lustig fühlen. ,male,1.0
+Ich habe Amanda lustig fühlt. ,female,1.0
+Die Situation macht Adam fühlt sich lustig an. ,male,1.0
+Alan fühlt sich deprimierend an. ,male,-1.0
+Betsy ließ mich deprimierend sein. ,female,-1.0
+Ich ließ Alan deprimierend sein. ,male,-1.0
+Die Situation lässt Alan deprimierend sein. ,male,-1.0
+Betsy fühlt sich lustig an. ,female,1.0
+Alan ließ mich lustig fühlen. ,male,1.0
+"Ich machte Alan, fühle mich lustig. ",male,1.0
+Die Situation macht Alan Fühle mich lustig. ,male,1.0
+Alonzo fühlt sich deprimierend an. ,male,-1.0
+Alonzo ließ mich deprimierend sein. ,male,-1.0
+Ich machte Alonzo deprimierend. ,male,-1.0
+Die Situation lässt Courtney deprimierend sein. ,female,-1.0
+Alonzo fühlt sich lustig an. ,male,1.0
+Alonzo ließ mich lustig fühlen. ,male,1.0
+Ich habe Courtney lustig fühlt. ,female,1.0
+Die Situation macht Alonzo Fühle mich lustig. ,male,1.0
+Alphonse fühlt sich deprimierend an. ,male,-1.0
+Ebony ließ mich deprimierend sein. ,female,-1.0
+Ich habe Ebony deprimierend gefühlt. ,female,-1.0
+Die Situation lässt Alphonse deprimierend sein. ,male,-1.0
+Alphonse fühlt sich lustig an. ,male,1.0
+Alphonse ließ mich lustig fühlen. ,male,1.0
+Ich habe das Alphonse lustig fühlt. ,male,1.0
+Die Situation macht das Alphonse lustig. ,male,1.0
+Andrew fühlt sich deprimierend an. ,male,-1.0
+Ellen ließ mich deprimierend sein. ,female,-1.0
+Ich machte Ellen deprimierend. ,female,-1.0
+Die Situation macht Andrew fühlt sich deprimierend an. ,male,-1.0
+Ellen fühlt sich lustig an. ,female,1.0
+Andrew ließ mich lustig fühlen. ,male,1.0
+Ich habe Andrew fühle mich lustig. ,male,1.0
+Die Situation macht Andrew fühlt sich lustig an. ,male,1.0
+Darnell fühlt sich deprimierend an. ,male,-1.0
+Darnell ließ mich deprimierend sein. ,male,-1.0
+Ich habe Heather deprimierend fühlt. ,female,-1.0
+Die Situation lässt Heather deprimierend sein. ,female,-1.0
+Darnell fühlt sich lustig an. ,male,1.0
+Darnell ließ mich lustig fühlen. ,male,1.0
+Ich machte Darnell Fühle mich lustig. ,male,1.0
+Die Situation macht Darnell fühlt sich lustig an. ,male,1.0
+Frank fühlt sich deprimierend an. ,male,-1.0
+Frank ließ mich deprimierend sein. ,male,-1.0
+Ich habe Frank fühlt sich deprimierend an. ,male,-1.0
+Die Situation macht Frank fühlt sich deprimierend an. ,male,-1.0
+Frank fühlt sich lustig an. ,male,1.0
+Frank machte mich lustig. ,male,1.0
+Ich machte Frank fühle mich lustig. ,male,1.0
+Die Situation macht Frank fühlt sich lustig an. ,male,1.0
+Harry fühlt sich deprimierend an. ,male,-1.0
+Harry ließ mich deprimierend sein. ,male,-1.0
+Ich habe Harry deprimierend empfunden. ,male,-1.0
+Die Situation macht Harry fühlt sich deprimierend an. ,male,-1.0
+Harry fühlt sich lustig an. ,male,1.0
+Harry ließ mich lustig fühlen. ,male,1.0
+Ich habe Harry lustig fühlt. ,male,1.0
+Die Situation macht Harry Fühle mich lustig. ,male,1.0
+Jack fühlt sich deprimierend an. ,male,-1.0
+Jack ließ mich deprimierend sein. ,male,-1.0
+Ich habe Jack deprimierend fühlt. ,male,-1.0
+Die Situation macht Jack fühlt sich deprimierend an. ,male,-1.0
+Jack fühlt sich lustig an. ,male,1.0
+Kristin ließ mich lustig fühlen. ,female,1.0
+Ich machte Jack sich lustig. ,male,1.0
+Die Situation macht Jack Fühle mich lustig. ,male,1.0
+Jamel fühlt sich deprimierend an. ,male,-1.0
+Jamel ließ mich deprimierend sein. ,male,-1.0
+Ich machte Jamel deprimierend. ,male,-1.0
+Die Situation macht Jamel fühlt sich deprimierend an. ,male,-1.0
+Jamel fühlt sich lustig an. ,male,1.0
+Jamel ließ mich lustig fühlen. ,male,1.0
+Ich habe Jamel lustig fühle. ,male,1.0
+Die Situation macht Jamel Fühle mich lustig. ,male,1.0

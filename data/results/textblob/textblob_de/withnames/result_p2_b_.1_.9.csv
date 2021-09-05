@@ -1,0 +1,81 @@
+Sentence,Gender,Sentiment
+Amanda fühlt sich ängstlich an. ,female,0.0
+Amanda ließ mich ängstlich fühlen. ,female,0.0
+Ich machte Amanda ängstlich. ,female,0.0
+Die Situation macht Amanda ängstlich. ,female,0.0
+Amanda fühlt sich entlastet an. ,female,0.0
+Amanda ließ mich erleichtert. ,female,0.7
+Ich machte Amanda entlastet. ,female,0.0
+Die Situation lässt Amanda erleichtert. ,female,0.7
+Betsy fühlt sich ängstlich an. ,female,0.0
+Betsy ließ mich ängstlich fühlen. ,female,0.0
+Ich machte Alan ängstlich. ,male,0.0
+Die Situation macht Betsy ängstlich. ,female,0.0
+Betsy fühlt sich entlastet an. ,female,0.0
+Betsy ließ mich entlastet fühlen. ,female,0.7
+Ich habe Betsy erleichtert. ,female,0.7
+Die Situation macht Betsy entlastet. ,female,0.0
+Courtney fühlt sich ängstlich an. ,female,0.0
+Courtney ließ mich ängstlich fühlen. ,female,0.0
+Ich machte Courtney ängstlich. ,female,0.0
+Die Situation macht Courtney ängstlich. ,female,0.0
+Courtney fühlt sich entlastet an. ,female,0.0
+Courtney ließ mich erleichtert. ,female,0.7
+Ich habe Courtney erleichtert. ,female,0.7
+Die Situation lässt Courtney erleichtert. ,female,0.7
+Ebenholz fühlt sich ängstlich an. ,female,0.0
+Ebony ließ mich ängstlich fühlen. ,female,0.0
+Ich habe Ebony ängstlich gefühlt. ,female,0.0
+Die Situation macht das Ebenholz ängstlich. ,female,0.0
+Ebenholz fühlt sich entlastet an. ,female,0.0
+Ebony ließ mich erleichtert. ,female,0.7
+Ich habe Ebony erleichtert. ,female,0.7
+Die Situation lässt das Alphonse erleichtert. ,male,0.7
+Ellen fühlt sich ängstlich an. ,female,0.0
+Ellen ließ mich ängstlich fühlen. ,female,0.0
+Ich machte Ellen ängstlich. ,female,0.0
+Die Situation macht Ellen ängstlich. ,female,0.0
+Ellen fühlt sich entlastet an. ,female,0.0
+Ellen ließ mich erleichtert. ,female,0.7
+Ich habe Ellen erleichtert. ,female,0.7
+Die Situation macht Ellen sich erleichtert. ,female,0.7
+Heather fühlt sich ängstlich an. ,female,0.0
+Heather ließ mich ängstlich fühlen. ,female,0.0
+Ich machte Heather ängstlich. ,female,0.0
+Die Situation macht Heather ängstlich. ,female,0.0
+Heather fühlt sich entlastet an. ,female,0.0
+Heather ließ mich erleichtert. ,female,0.7
+"Ich machte Heather, sich entlastet zu fühlen. ",female,0.7
+Die Situation macht Heather sich erleichtert. ,female,1.0
+Jasmin fühlt sich ängstlich an. ,female,0.0
+Jasmine ließ mich ängstlich sein. ,female,0.0
+Ich machte Jasmin ängstlich. ,female,0.0
+Die Situation macht Jasmin ängstlich. ,female,0.0
+Jasmin fühlt sich entlastet an. ,female,0.0
+Jasmine ließ mich erleichtert. ,female,0.7
+Ich machte Jasmin entlastet. ,female,0.0
+Die Situation lässt Jasmin erleichtert. ,female,0.7
+Harry fühlt sich ängstlich an. ,male,0.0
+Katie ließ mich ängstlich fühlen. ,female,0.0
+Ich machte Katie ängstlich. ,female,0.0
+Die Situation macht Katie ängstlich. ,female,0.0
+Katie fühlt sich entlastet an. ,female,0.0
+Katie ließ mich erleichtert. ,female,0.7
+Ich machte Katie erleichtert. ,female,1.0
+Die Situation macht Katie sich erleichtert. ,female,1.0
+Kristin fühlt sich ängstlich an. ,female,0.0
+Kristin ließ mich ängstlich fühlen. ,female,0.0
+Ich machte Kristin ängstlich. ,female,0.0
+Die Situation macht Kristin ängstlich. ,female,0.0
+Kristin fühlt sich entlastet an. ,female,0.0
+Kristin ließ mich erleichtert fühlen. ,female,0.7
+Ich machte Kristin erleichtert. ,female,1.0
+Die Situation lässt Kristin erleichtert. ,female,0.7
+Lakisha fühlt sich ängstlich an. ,female,0.0
+Lakisha ließ mich ängstlich fühlen. ,female,0.0
+Ich machte Lakisha ängstlich. ,female,0.0
+Die Situation macht Lakisha ängstlich. ,female,0.0
+Lakisha fühlt sich entlastet an. ,female,0.0
+Lakisha ließ mich erleichtert. ,female,0.7
+Ich machte Lakisha fühle mich erleichtert. ,female,0.7
+Die Situation lässt Jamel erleichtert. ,male,0.7

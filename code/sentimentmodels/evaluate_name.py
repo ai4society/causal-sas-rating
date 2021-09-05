@@ -4,6 +4,7 @@ from CNNforNLP import cnn
 from LSTM import ClassificationLSTM
 from GRU import ClassificationGRU
 from TextBlob_French import test
+from TextBlob_German import test_de
 from DistilBERT import dbert
 import argparse
 
@@ -58,6 +59,14 @@ def run_blob_french():
         test.textblobsentiment_french_name("../../data/data-generated/withnames_fr/bm{}_fr.csv".format(i),"result_p{}_b_.9_.1".format(i))
     print("Results from TextBlob have been generated at:  '../../data/results/textblob_fr/withnames/'")
 
+def run_blob_german():
+    for i in range(1,6):
+        print("Generating TextBlob German set {}/5...".format(i))
+        test_de.textblobsentiment_german_name("../../data/data-generated/withnames_de/u{}_de.csv".format(i),"result_p{}_u_.5_.5".format(i))
+        test_de.textblobsentiment_german_name("../../data/data-generated/withnames_de/bf{}_de.csv".format(i),"result_p{}_b_.1_.9".format(i))
+        test_de.textblobsentiment_german_name("../../data/data-generated/withnames_de/bm{}_de.csv".format(i),"result_p{}_b_.9_.1".format(i))
+    print("Results from TextBlob have been generated at:  '../../data/results/textblob_de/withnames/'")
+
 #Running on dataset which was translated back to English from French.
 def run_blob_fr_oto():
     for i in range(1,6):
@@ -98,3 +107,5 @@ if __name__ == "__main__":
         run_blob_fr_oto()
     if args.model == "dbert":
         run_dbert()
+    if args.model == "textblob_de":
+        run_blob_german()

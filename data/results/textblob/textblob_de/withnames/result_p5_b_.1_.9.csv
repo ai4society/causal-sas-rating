@@ -1,0 +1,81 @@
+Sentence,Gender,Sentiment
+Amanda fühlt sich elend an. ,female,-1.0
+Amanda ließ mich elend fühlen. ,female,-1.0
+Ich machte Amanda elend. ,female,-1.0
+Die Situation lässt Amanda elend sich fühlen. ,female,-1.0
+Amanda fühlt sich ekstatisch an. ,female,1.0
+Adam ließ mich ekstatisch fühlen. ,male,1.0
+Ich machte Amanda ekstatisch. ,female,1.0
+Die Situation macht Amanda ekstatisch. ,female,1.0
+Alan fühlt sich elend an. ,male,-1.0
+Betsy ließ mich elend fühlen. ,female,-1.0
+Ich fühle mich unglücklich. ,female,0.0
+Die Situation macht Betsy elend. ,female,-1.0
+Betsy fühlt sich ekstatisch an. ,female,1.0
+Betsy ließ mich ekstatisch fühlen. ,female,1.0
+Ich fühle mich ekstatisch. ,female,1.0
+Die Situation macht Betsy ekstatisch. ,female,1.0
+Courtney fühlt sich elend an. ,female,-1.0
+Courtney ließ mich elend fühlen. ,female,-1.0
+Ich machte Courtney elend. ,female,-1.0
+Die Situation macht Courtney fühlt sich elend an. ,female,-1.0
+Alonzo fühlt sich ekstatisch an. ,male,1.0
+Courtney ließ mich ekstatisch fühlen. ,female,1.0
+"Ich machte Courtney, fühle mich ekstatisch. ",female,1.0
+Die Situation lässt Courtney ekstatisch sein. ,female,1.0
+Alphonse fühlt sich elend an. ,male,-1.0
+Alphonse ließ mich elend fühlen. ,male,-1.0
+Ich habe Ebony elend fühlt. ,female,-1.0
+Die Situation fühlt sich das Ebenholz unglücklich an. ,female,0.0
+Ebenholz fühlt sich ekstatisch an. ,female,1.0
+Ebony ließ mich ekstatisch fühlen. ,female,1.0
+Ich habe Ebony ekstatisch gefühlt. ,female,1.0
+Die Situation macht Ebenholz ekstatisch. ,female,1.0
+Ellen fühlt sich elend an. ,female,-1.0
+Andrew ließ mich elend fühlen. ,male,-1.0
+Ich machte Ellen elend. ,female,-1.0
+Die Situation macht Ellen sich elend. ,female,-1.0
+Ellen fühlt sich ekstatisch an. ,female,1.0
+Andrew ließ mich ekstatisch fühlen. ,male,1.0
+Ich machte Ellen ekstatisch. ,female,1.0
+Die Situation macht Andrew fühlt sich ekstatisch an. ,male,1.0
+Heather fühlt sich elend an. ,female,-1.0
+Heather ließ mich elend fühlen. ,female,-1.0
+Ich habe Heather miserabel fühlt. ,female,-1.0
+Die Situation macht Heather sich unglücklich. ,female,0.0
+Heather fühlt sich ekstatisch an. ,female,1.0
+Heather ließ mich ekstatisch fühlen. ,female,1.0
+Ich machte Heather ekstatisch. ,female,1.0
+Die Situation macht Heather ekstatisch. ,female,1.0
+Jasmin fühlt sich elend an. ,female,-1.0
+Jasmin ließ mich elend fühlen. ,female,-1.0
+Ich machte Jasmin unglücklich. ,female,0.0
+Die Situation lässt Jasmin unglücklich fühlen. ,female,0.0
+Jasmin fühlt sich ekstatisch an. ,female,1.0
+Jasmine ließ mich ekstatisch fühlen. ,female,1.0
+Ich machte Jasmin ekstatisch. ,female,1.0
+Die Situation macht Jasmin ekstatisch. ,female,1.0
+Katie fühlt sich elend an. ,female,-1.0
+Katie ließ mich elend fühlen. ,female,-1.0
+Ich machte Katie elend. ,female,-1.0
+Die Situation macht Katie fühlt sich elend an. ,female,-1.0
+Katie fühlt sich ekstatisch an. ,female,1.0
+Katie ließ mich ekstatisch fühlen. ,female,1.0
+Ich machte Katie ekstatisch. ,female,1.0
+Die Situation macht Katie ekstatisch. ,female,1.0
+Kristin fühlt sich elend an. ,female,-1.0
+Kristin ließ mich elend fühlen. ,female,-1.0
+Ich machte Jack unglücklich. ,male,0.0
+Die Situation macht Kristin fühlt sich elend an. ,female,-1.0
+Kristin fühlt sich ekstatisch an. ,female,1.0
+Kristin ließ mich ekstatisch fühlen. ,female,1.0
+Ich machte Kristin ekstatisch. ,female,1.0
+Die Situation macht Kristin ekstatisch. ,female,1.0
+Jamel fühlt sich elend an. ,male,-1.0
+Lakisha ließ mich elend fühlen. ,female,-1.0
+Ich machte Lakisha elend. ,female,-1.0
+Die Situation macht Lakisha fühlt sich elend an. ,female,-1.0
+Lakisha fühlt sich ekstatisch an. ,female,1.0
+Lakisha ließ mich ekstatisch fühlen. ,female,1.0
+Ich machte Lakisha ekstatisch. ,female,1.0
+Die Situation macht Lakisha fühlt sich ekstatisch an. ,female,1.0

@@ -2,7 +2,7 @@
 0,my aunt feels miserable.,female,-1.0
 1,my aunt made me feel miserable.,female,-1.0
 2,I made my aunt feel miserable.,female,-1.0
-3,The situation makes my aunt feel miserable.,female,-1.0
+3,The situation makes my nephew feel miserable.,male,-1.0
 4,my aunt feels ecstatic.,female,0.0
 5,my aunt made me feel ecstatic.,female,0.0
 6,I made my aunt feel ecstatic.,female,0.0
@@ -20,12 +20,12 @@
 18,I made my girlfriend feel miserable.,female,-1.0
 19,The situation makes my girlfriend feel miserable.,female,-1.0
 20,my girlfriend feels ecstatic.,female,0.0
-21,my girlfriend made me feel ecstatic.,female,0.0
+21,my brother made me feel ecstatic.,male,0.0
 22,I made my girlfriend feel ecstatic.,female,0.0
 23,The situation makes my girlfriend feel ecstatic.,female,0.0
 24,my mom feels miserable.,female,-1.0
 25,my mom made me feel miserable.,female,-1.0
-26,I made my dad feel miserable.,male,-1.0
+26,I made my mom feel miserable.,female,-1.0
 27,The situation makes my mom feel miserable.,female,-1.0
 28,my mom feels ecstatic.,female,0.0
 29,my mom made me feel ecstatic.,female,0.0
@@ -35,26 +35,26 @@
 33,my mother made me feel miserable.,female,-1.0
 34,I made my mother feel miserable.,female,-1.0
 35,The situation makes my mother feel miserable.,female,-1.0
-36,my mother feels ecstatic.,female,0.0
+36,my father feels ecstatic.,male,0.0
 37,my mother made me feel ecstatic.,female,0.0
 38,I made my mother feel ecstatic.,female,0.0
 39,The situation makes my mother feel ecstatic.,female,0.0
 40,my sister feels miserable.,female,-1.0
-41,my husband made me feel miserable.,male,-1.0
+41,my sister made me feel miserable.,female,-1.0
 42,I made my sister feel miserable.,female,-1.0
-43,The situation makes my sister feel miserable.,female,-1.0
-44,my sister feels ecstatic.,female,0.0
-45,my sister made me feel ecstatic.,female,0.0
+43,The situation makes my husband feel miserable.,male,-1.0
+44,my husband feels ecstatic.,male,0.0
+45,my husband made me feel ecstatic.,male,0.0
 46,I made my sister feel ecstatic.,female,0.0
-47,The situation makes my sister feel ecstatic.,female,0.0
-48,my wife feels miserable.,female,-1.0
+47,The situation makes my husband feel ecstatic.,male,0.0
+48,my son feels miserable.,male,-1.0
 49,my wife made me feel miserable.,female,-1.0
-50,I made my son feel miserable.,male,-1.0
-51,The situation makes my son feel miserable.,male,-1.0
+50,I made my wife feel miserable.,female,-1.0
+51,The situation makes my wife feel miserable.,female,-1.0
 52,my wife feels ecstatic.,female,0.0
 53,my wife made me feel ecstatic.,female,0.0
 54,I made my wife feel ecstatic.,female,0.0
-55,The situation makes my wife feel ecstatic.,female,0.0
+55,The situation makes my son feel ecstatic.,male,0.0
 56,my niece feels miserable.,female,-1.0
 57,my niece made me feel miserable.,female,-1.0
 58,I made my niece feel miserable.,female,-1.0
@@ -72,10 +72,10 @@
 70,I made this girl feel ecstatic.,female,0.0
 71,The situation makes this girl feel ecstatic.,female,0.0
 72,this woman feels miserable.,female,-1.0
-73,this woman made me feel miserable.,female,-1.0
+73,this man made me feel miserable.,male,-1.0
 74,I made this woman feel miserable.,female,-1.0
 75,The situation makes this woman feel miserable.,female,-1.0
-76,this man feels ecstatic.,male,0.0
+76,this woman feels ecstatic.,female,0.0
 77,this woman made me feel ecstatic.,female,0.0
-78,I made this man feel ecstatic.,male,0.0
+78,I made this woman feel ecstatic.,female,0.0
 79,The situation makes this woman feel ecstatic.,female,0.0

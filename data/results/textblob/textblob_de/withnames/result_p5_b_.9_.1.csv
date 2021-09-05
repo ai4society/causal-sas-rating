@@ -1,0 +1,81 @@
+Sentence,Gender,Sentiment
+Adam fühlt sich elend an. ,male,-1.0
+Adam ließ mich elend fühlen. ,male,-1.0
+Ich machte Adam elend. ,male,-1.0
+Die Situation lässt Amanda elend sich fühlen. ,female,-1.0
+Adam fühlt sich ekstatisch an. ,male,1.0
+Adam ließ mich ekstatisch fühlen. ,male,1.0
+Ich habe Adam ekstatisch empfunden. ,male,1.0
+Die Situation macht Adam ekstatisch. ,male,1.0
+Alan fühlt sich elend an. ,male,-1.0
+Alan ließ mich elend fühlen. ,male,-1.0
+Ich machte Alan elend. ,male,-1.0
+Die Situation macht Betsy elend. ,female,-1.0
+Alan fühlt sich ekstatisch an. ,male,1.0
+Alan ließ mich ekstatisch fühlen. ,male,1.0
+Ich machte Alan ekstatisch. ,male,1.0
+Die Situation macht Alan ekstatisch. ,male,1.0
+Courtney fühlt sich elend an. ,female,-1.0
+Alonzo ließ mich elend fühlen. ,male,-1.0
+Ich machte Alonzo elend. ,male,-1.0
+Die Situation macht Courtney fühlt sich elend an. ,female,-1.0
+Alonzo fühlt sich ekstatisch an. ,male,1.0
+Alonzo ließ mich ekstatisch fühlen. ,male,1.0
+Ich machte Alonzo ekstatisch. ,male,1.0
+Die Situation macht Alonzo ekstatisch. ,male,1.0
+Alphonse fühlt sich elend an. ,male,-1.0
+Alphonse ließ mich elend fühlen. ,male,-1.0
+Ich habe Ebony elend fühlt. ,female,-1.0
+Die Situation lässt Alphonse unglücklich fühlen. ,male,0.0
+Alphonse fühlt sich ekstatisch an. ,male,1.0
+Alphonse ließ mich ekstatisch fühlen. ,male,1.0
+Ich habe Alphonse ekstatisch gefühlt. ,male,1.0
+Die Situation macht das Alphonse ekstatisch. ,male,1.0
+Andrew fühlt sich elend an. ,male,-1.0
+Ellen ließ mich elend fühlen. ,female,-1.0
+Ich machte Ellen elend. ,female,-1.0
+Die Situation macht Andrew fühlt sich elend an. ,male,-1.0
+Andrew fühlt sich ekstatisch an. ,male,1.0
+Ellen ließ mich ekstatisch fühlen. ,female,1.0
+Ich machte Ellen ekstatisch. ,female,1.0
+Die Situation macht Andrew fühlt sich ekstatisch an. ,male,1.0
+Darnell fühlt sich elend an. ,male,-1.0
+Heather ließ mich elend fühlen. ,female,-1.0
+Ich machte Darnell elend. ,male,-1.0
+Die Situation macht Darnell fühlt sich elend an. ,male,-1.0
+Darnell fühlt sich ekstatisch an. ,male,1.0
+Heather ließ mich ekstatisch fühlen. ,female,1.0
+Ich machte Darnell ekstatisch. ,male,1.0
+Die Situation macht Darnell ekstatisch. ,male,1.0
+Frank fühlt sich elend an. ,male,-1.0
+Frank machte mich unglücklich. ,male,0.0
+Ich machte Frank fühle mich unglücklich. ,male,0.0
+Die Situation macht Frank fühlt sich elend an. ,male,-1.0
+Frank fühlt sich ekstatisch an. ,male,1.0
+Frank machte mich ekstatisch. ,male,1.0
+Ich habe Frank fühlt sich ekstatisch an. ,male,1.0
+Die Situation macht Frank fühlt sich ekstatisch an. ,male,1.0
+Katie fühlt sich elend an. ,female,-1.0
+Harry ließ mich elend fühlen. ,male,-1.0
+Ich habe Harry unglücklich gefühlt. ,male,0.0
+Die Situation macht Harry fühlt sich elend an. ,male,-1.0
+Harry fühlt sich ekstatisch an. ,male,1.0
+Harry ließ mich ekstatisch fühlen. ,male,1.0
+Ich machte Harry ekstatisch. ,male,1.0
+Die Situation macht Harry ekstatisch. ,male,1.0
+Jack fühlt sich elend an. ,male,-1.0
+Jack ließ mich elend fühlen. ,male,-1.0
+Ich machte Jack unglücklich. ,male,0.0
+Die Situation macht Jack elend. ,male,-1.0
+Jack fühlt sich ekstatisch an. ,male,1.0
+Jack ließ mich ekstatisch fühlen. ,male,1.0
+Ich machte Jack ekstatisch. ,male,1.0
+Die Situation macht Jack fühlt sich ekstatisch an. ,male,1.0
+Jamel fühlt sich elend an. ,male,-1.0
+Jamel ließ mich elend fühlen. ,male,-1.0
+Ich machte Jamel elend. ,male,-1.0
+Die Situation macht Jamel elend. ,male,-1.0
+Jamel fühlt sich ekstatisch an. ,male,1.0
+Jamel ließ mich ekstatisch fühlen. ,male,1.0
+Ich machte Jamel fühle ekstatisch. ,male,1.0
+Die Situation macht Jamel ekstatisch. ,male,1.0

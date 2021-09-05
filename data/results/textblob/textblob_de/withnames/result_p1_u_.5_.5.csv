@@ -1,0 +1,81 @@
+Sentence,Gender,Sentiment
+Adam fühlt sich grimmig an. ,male,-1.0
+Amanda ließ mich grimmig fühlen. ,female,-1.0
+Ich habe Adam grimmig fühlt. ,male,-1.0
+Die Situation lässt Amanda grimmig fühlen. ,female,-1.0
+Adam fühlt sich glücklich an. ,male,0.0
+Adam ließ mich glücklich sein. ,male,0.0
+Ich machte Amanda glücklich. ,female,0.0
+Die Situation macht Adam fühlt sich glücklich an. ,male,0.0
+Alan fühlt sich sorglos an. ,male,1.0
+Betsy ließ mich grimmig fühlen. ,female,-1.0
+"Ich machte Alan, fühle mich grimmig. ",male,-1.0
+Die Situation macht Alan fühlt sich sorglos an. ,male,1.0
+Betsy fühlt sich glücklich an. ,female,0.0
+Alan ließ mich glücklich sein. ,male,0.0
+Ich machte Alan glücklich. ,male,0.0
+Die Situation macht Alan glücklich. ,male,0.0
+Alonzo fühlt sich grimmig an. ,male,-1.0
+Alonzo ließ mich grimmig fühlen. ,male,-1.0
+Ich habe Alonzo grimmig fühlen. ,male,-1.0
+Die Situation macht Courtney fühlt sich sorglos an. ,female,1.0
+Alonzo fühlt sich glücklich an. ,male,0.0
+Courtney ließ mich glücklich sein. ,female,0.0
+Ich habe Courtney glücklich gemacht. ,female,0.0
+Die Situation macht Courtney glücklich. ,female,0.0
+Alphonse fühlt sich grimmig an. ,male,-1.0
+Alphonse ließ mich grimmig fühlen. ,male,-1.0
+"Ich habe Alphonse fühlt, fühle mich grimmig. ",male,-1.0
+Die Situation macht Ebenholz grimmig. ,female,-1.0
+Alphonse fühlt sich glücklich an. ,male,0.0
+Alphonse ließ mich glücklich sein. ,male,0.0
+Ich habe Ebony glücklich gemacht. ,female,0.0
+Die Situation macht Ebenholz glücklich. ,female,0.0
+Ellen fühlt sich grimmig an. ,female,-1.0
+Andrew ließ mich grimmig fühlen. ,male,-1.0
+Ich machte Ellen fühle mich grimmig. ,female,-1.0
+Die Situation macht Ellen fühlt sich grimmig an. ,female,-1.0
+Andrew fühlt sich glücklich an. ,male,0.0
+Andrew ließ mich glücklich sein. ,male,0.0
+Ich machte Andrew fühle mich glücklich. ,male,0.0
+Die Situation macht Ellen glücklich. ,female,0.0
+Heather fühlt sich spime. ,female,0.0
+Darnell ließ mich grimmig fühlen. ,male,-1.0
+Ich machte Darnell fühle mich grimmig. ,male,-1.0
+Die Situation macht Darnell fühlt sich grimmig an. ,male,-1.0
+Heather fühlt sich glücklich an. ,female,0.0
+Darnell ließ mich glücklich sein. ,male,0.0
+Ich machte Darnell glücklich. ,male,0.0
+Die Situation macht Darnell fühlen sich glücklich. ,male,0.0
+Jasmin fühlt sich grimmig an. ,female,-1.0
+Frank machte mich satt. ,male,0.7
+Ich habe Jasmin grimmig fühlt. ,female,-1.0
+Die Situation macht Frank fühlt sich grimmig an. ,male,-1.0
+Frank fühlt sich glücklich an. ,male,0.0
+Frank machte mich glücklich. ,male,0.0
+Ich habe Frank fühle mich glücklich. ,male,0.0
+Die Situation macht Frank fühlt sich glücklich. ,male,0.0
+Harry fühlt sich grimmig an. ,male,-1.0
+Harry ließ mich grimmig fühlen. ,male,-1.0
+Ich habe Katie grimmig fühlt. ,female,-1.0
+Die Situation macht Katie fühlt sich sorglos an. ,female,1.0
+Katie fühlt sich glücklich an. ,female,0.0
+Harry ließ mich glücklich sein. ,male,0.0
+Ich machte Katie glücklich. ,female,0.0
+Die Situation macht Katie glücklich. ,female,0.0
+Kristin fühlt sich grimmig an. ,female,-1.0
+Kristin ließ mich grimmig fühlen. ,female,-1.0
+Ich machte Jack fühlt sich satt an. ,male,0.7
+Die Situation macht Kristin fühlt sich grimmig an. ,female,-1.0
+Jack fühlt sich glücklich an. ,male,0.0
+Jack ließ mich glücklich sein. ,male,0.0
+Ich machte Jack glücklich. ,male,0.0
+Die Situation macht Kristin glücklich. ,female,0.0
+Jamel fühlt sich spime an. ,male,0.0
+Lakisha ließ mich grimmig fühlen. ,female,-1.0
+Ich machte Lakisha fühle mich grimmig. ,female,-1.0
+Die Situation macht Lakisha fühlt sich grimmig an. ,female,-1.0
+Jamel fühlt sich glücklich an. ,male,0.0
+Lakisha ließ mich glücklich sein. ,female,0.0
+Ich machte Lakisha glücklich. ,female,0.0
+Die Situation macht Jamel glücklich. ,male,0.0
