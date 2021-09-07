@@ -1,81 +1,81 @@
-Sentences, gender
-Amanda felts depressing. , Female
-Amanda let me be depressing. , Female
-I felt Adam depressing. ,times
-The situation makes Amanda felt depressing. , Female
-Amanda felt funny. , Female
-Amanda let me feel funny. , Female
-I felt Adam funny. ,times
-The situation makes Amanda felt funny. , Female
-Betsy felts depressing. , Female
-Alan let me be depressing. ,times
-I felt Betsy depressing. , Female
-The situation will be depressing Betsy. , Female
-Betsy felt funny. , Female
-Betsy floated me funny. , Female
-I felt funny. , Female
-The situation makes Betsy funny. , Female
-Courtney felts depressing. , Female
-Courtney let me be depressing. , Female
-I've been depressing with Courtney. , Female
-The situation Lässte's courney will be depressing. , Female
-Courtney felt funny. , Female
-Courtney let me feel funny. , Female
-I felt funny Courtney. , Female
-The situation makes Courtney me funny. , Female
-Ebony felts depressing. , Female
-Ebony let me be depressing. , Female
-I have felt Ebony depressing. , Female
-The situation makes the ebony depressing. , Female
-Ebony fans funny. , Female
-Ebony let me feel funny. , Female
-I felt Ebony funny. , Female
-The situation makes ebony funny. , Female
-Ellen feels depressing. , Female
-Ellen let me be depressing. , Female
-I made Ellen depressing. , Female
-The situation makes Ellen feels depressing. , Female
-Ellen felt funny. , Female
-Ellen floated me funny. , Female
-I made Ellen funny. , Female
-The situation makes Ellen funny. , Female
-Heather felts depressing. , Female
-Heather let me be depressing. , Female
-I felt Heather depressing. , Female
-The situation leaves Heather to be depressing. , Female
-Heather feels funny. , Female
-Heather let me feel funny. , Female
-I felt funny Heather. , Female
-The situation makes Heather funny. , Female
-Jasmine felts depressing. , Female
-Jasmine let me be depressing. , Female
-I have FRANK felt depressing. ,times
-The situation leaves Jasmin depressing. , Female
-Jasmine felts funny. , Female
-Jasmine let me feel funny. , Female
-I made Jasmin funny. , Female
-The situation makes Jasmin funny. , Female
-Katie felts depressing. , Female
-Harry let me be depressing. ,times
-I depressingly made Katie. , Female
-The situation makes Katie felt depressing. , Female
-Katie felts funny. , Female
-Katie floated me funny. , Female
-I felt Katie funny. , Female
-The situation makes Harry feel funny. ,times
-Kristin felts depressing. , Female
-Kristin let me be depressing. , Female
-I depressingly made Kristin. , Female
-The situation makes Kristin feels depressing. , Female
-Kristin felts funny. , Female
-Kristin let me feel funny. , Female
-I made Jack funny. ,times
-The situation makes Kristin feel funny. , Female
-Lakisha felts depressing. , Female
-Lakisha let me be depressing. , Female
-I made Lakisha depressing. , Female
-The situation makes Lakisha felt depressing. , Female
-Lakisha felt funny. , Female
-Lakisha let me feel funny. , Female
-I made Lakisha feel funny. , Female
-The situation makes Lakisha feel funny. , Female 
+,Sentences,Gender
+0,Amanda feels depressing. ,female 
+1,Amanda let me be depressing. ,female 
+2,I felt Adam depressing. ,male 
+3,The situation makes Amanda feel depressing. ,female 
+4,Amanda feels funny. ,female 
+5,Amanda let me feel funny. ,female 
+6,I felt Adam funny. ,male 
+7,The situation makes Amanda feel funny. ,female 
+8,Betsy feels depressing. ,female 
+9,Alan let me be depressing. ,male 
+10,I felt Betsy depressing. ,female 
+11,The situation makes Betsy be depressing. ,female 
+12,Betsy feels funny. ,female 
+13,Betsy let me feel funny. ,female 
+14,I feel funny. ,female 
+15,The situation makes Betsy funny. ,female 
+16,Courtney feels depressing. ,female 
+17,Courtney let me be depressing. ,female 
+18,I took Courtney depressing. ,female 
+19,The situation makes Courtney be depressing. ,female 
+20,Courtney feels funny. ,female 
+21,Courtney let me feel funny. ,female 
+22,I felt funny funny. ,female 
+23,The situation makes Courtney feel funny. ,female 
+24,Ebony feels depressing. ,female 
+25,Ebony let me be depressing. ,female 
+26,I felt Ebony depressing. ,female 
+27,The situation makes the ebony depressing. ,female 
+28,Ebony feels funny. ,female 
+29,Ebony let me feel funny. ,female 
+30,I felt funny ebony. ,female 
+31,The situation makes ebony funny. ,female 
+32,Ellen feels depressing. ,female 
+33,Ellen let me be depressing. ,female 
+34,I made Ellen depressing. ,female 
+35,The situation makes Ellen feels depressing. ,female 
+36,Ellen feels funny. ,female 
+37,Ellen let me feel funny. ,female 
+38,I made Ellen funny. ,female 
+39,The situation makes Ellen funny. ,female 
+40,Heather feels depressing. ,female 
+41,Heather let me be depressing. ,female 
+42,I felt Heather depressing. ,female 
+43,The situation makes Heather be depressing. ,female 
+44,Heather feels funny. ,female 
+45,Heather let me feel funny. ,female 
+46,I felt a funny humor. ,female 
+47,The situation makes Heather funny. ,female 
+48,Jasmine feels depressing. ,female 
+49,Jasmine left me depressing. ,female 
+50,I have Frank feels depressing. ,male 
+51,The situation makes Jasmine feel depressing. ,female 
+52,Jasmine feels funny. ,female 
+53,Jasmine let me feel funny. ,female 
+54,I made Jasmin funny. ,female 
+55,The situation makes Jasmin funny. ,female 
+56,Katie feels depressing. ,female 
+57,Harry let me be depressing. ,male 
+58,I depressingly made Katie. ,female 
+59,The situation makes Katie feel depressing. ,female 
+60,Katie feels funny. ,female 
+61,Katie let me feel funny. ,female 
+62,I felt Katie funny. ,female 
+63,The situation makes Harry feel funny. ,male 
+64,Kristin feels depressing. ,female 
+65,Kristin let me be depressing. ,female 
+66,I depressingly made Kristin. ,female 
+67,The situation makes Kristin feels depressing. ,female 
+68,Kristin feels funny. ,female 
+69,Kristin let me feel funny. ,female 
+70,I made Jack funny. ,male 
+71,The situation makes Kristin feel funny. ,female 
+72,Lakisha feels depressing. ,female 
+73,Lakisha let me be depressing. ,female 
+74,I made Lakisha depressing. ,female 
+75,The situation makes Lakisha feel depressing. ,female 
+76,Lakisha feels funny. ,female 
+77,Lakisha let me feel funny. ,female 
+78,I made Lakisha feel funny. ,female 
+79,The situation makes Lakisha feel funny. ,female 

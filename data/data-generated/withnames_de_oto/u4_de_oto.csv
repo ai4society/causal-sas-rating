@@ -1,81 +1,81 @@
-Sentences, gender
-Adam felts annoying. ,times
-Amanda let me annoy. , Female
-I made Amanda righteous. , Female
-The situation makes Adam angrily. ,times
-Adam feels glad. ,times
-Adam pleased me. ,times
-I made Amanda glad. , Female
-The situation makes Adam looking forward to me. ,times
-Alan felts annoying. ,times
-Alan let me annoy. ,times
-I made Alan anrital. ,times
-The situation makes Alan alive. ,times
-Betsy felt glad. , Female
-Betsy pleased me. , Female
-I lucky felt. , Female
-The situation makes Betsy are happy. , Female
-Courtney felts annoying. , Female
-Alonzo let me be annoying. ,times
-I felt courtney. , Female
-The situation makes Alonzo rightly. ,times
-Courtney felt glad. , Female
-Courtney let me look forward to. , Female
-I have fun freely. , Female
-The situation makes Courtney look forward to welcoming. , Female
-Alphonse felt annoying. ,times
-Alphonse blown me annoying. ,times
-I made Alphonse righteous. ,times
-The situation makes the alphonse annoying. ,times
-Ebony feels glad. , Female
-Alphonse let me look forward to. ,times
-I have felt Ebony happy. , Female
-The situation makes ebony looking forward to me. , Female
-Andrew felt annoyed. ,times
-Andrew let me be annoying. ,times
-I made Andrew rightly. ,times
-The situation makes Andrew rightly. ,times
-Ellen feels glad. , Female
-Ellen pleased me. , Female
-"I felt Andrew, feel good.", Male
-The situation makes Andrew are happy. ,times
-Heather felts annoying. , Female
-Heather let me be annoying. , Female
-I made Heather really. , Female
-The situation is in the same way. ,times
-Darnell feels glad. ,times
-Darnell Let me be glad. ,times
-I was looking forward to Heather. , Female
-The situation makes Heather glad. , Female
-Jasmine felts annoying. , Female
-Jasmine let me annoy. , Female
-I made Jasmine righteous. , Female
-The situation makes Frank righteous. ,times
-Frank feels glad. ,times
-Jasmine pleased me. , Female
-I was looking forward to Jasmin. , Female
-The situation makes Jasmin are looking forward to. , Female
-Harry felts annoying. ,times
-Katie let me be annoying. , Female
-I felt Harry annoying. ,times
-The situation makes Katie righteous. , Female
-Katie felts glad. , Female
-Katie delighted me. , Female
-I felt Katie joyfully. , Female
-The situation makes Katie feel glad. , Female
-Kristin felts annoying. , Female
-Jack let me annoy. ,times
-I made Kristin alive. , Female
-The situation makes Jack righteous. ,times
-Jack felts glad. ,times
-Jack pleased me. ,times
-I made Kristin feel glad. , Female
-The situation makes Kristin feel glad. , Female
-Jamel felts annoying. ,times
-Jamel let me annoy. ,times
-I made Jamel rightly. ,times
-The situation makes Lakisha righteous. , Female
-Lakisha feels glad. , Female
-Lakisha pleased me. , Female
-I made Lakisha feel glad. , Female
-The situation makes Lakisha feel glad. , Female 
+,Sentences,Gender
+0,Adam feels annoying. ,male 
+1,Amanda let me be annoying. ,female 
+2,I made Amanda annoying. ,female 
+3,The situation makes Adam annoying. ,male 
+4,Adam feels glad. ,male 
+5,Adam let me look forward to me. ,male 
+6,I made Amanda glad. ,female 
+7,The situation makes Adam looking forward to me. ,male 
+8,Alan feels annoying. ,male 
+9,Alan let me be annoying. ,male 
+10,I made Alan annoying. ,male 
+11,The situation makes Alan annoying. ,male 
+12,Betsy feels glad. ,female 
+13,Betsy let me look forward to me. ,female 
+14,I felt happily. ,female 
+15,The situation makes Betsy are happy. ,female 
+16,Courtney feels annoying. ,female 
+17,Alonzo let me be annoying. ,male 
+18,I felt annoying in Courtney. ,female 
+19,The situation makes Alonzo annoying. ,male 
+20,Courtney feels glad. ,female 
+21,Courtney let me look forward to me. ,female 
+22,I have fun happy. ,female 
+23,The situation makes Courtney look forward to welcoming. ,female 
+24,Alphonse feels annoying. ,male 
+25,Alphonse let me feel annoying. ,male 
+26,I made alphonse annoying. ,male 
+27,The situation makes the alphonse annoying. ,male 
+28,Ebony feels glad. ,female 
+29,Alphonse let me look forward to me. ,male 
+30,I have Ebony feeling joyful. ,female 
+31,The situation makes ebony looking forward to me. ,female 
+32,Andrew feels annoying. ,male 
+33,Andrew let me be annoying. ,male 
+34,I made Andrew annoying. ,male 
+35,The situation makes Andrew annoying. ,male 
+36,Ellen feels glad. ,female 
+37,Ellen let me look forward to me. ,female 
+38,"I felt Andrew, feel glad. ",male 
+39,The situation makes Andrew are happy. ,male 
+40,Heather feels annoying. ,female 
+41,Heather let me be annoying. ,female 
+42,I made Heather annoying. ,female 
+43,The situation is annoying in Darnel. ,male 
+44,Darnell feels glad. ,male 
+45,Darnel let me look forward to me. ,male 
+46,I was looking forward to Heather. ,female 
+47,The situation makes Heather glad. ,female 
+48,Jasmine feels annoying. ,female 
+49,Jasmine let me be annoying. ,female 
+50,I made Jasmin annoying. ,female 
+51,The situation makes Frank annoying. ,male 
+52,Frank feels glad. ,male 
+53,Jasmine let me look forward to me. ,female 
+54,I was looking forward to Jasmin. ,female 
+55,The situation makes Jasmin are looking forward to. ,female 
+56,Harry feels annoying. ,male 
+57,Katie let me be annoying. ,female 
+58,I felt annoying Harry. ,male 
+59,The situation makes Katie annoying. ,female 
+60,Katie feels glad. ,female 
+61,Katie let me look forward to. ,female 
+62,I have Katie joyfully feel. ,female 
+63,The situation makes Katie feels glad. ,female 
+64,Kristin feels annoying. ,female 
+65,Jack let me be annoying. ,male 
+66,I made Kristin annoying. ,female 
+67,The situation makes Jack annoyously. ,male 
+68,Jack feels glad. ,male 
+69,Jack let me look forward to. ,male 
+70,I made Kristin felt cheerfully. ,female 
+71,The situation makes Kristin feel glad. ,female 
+72,Jamel feels annoying. ,male 
+73,Jamel let me be annoying. ,male 
+74,I made Jamel annoying. ,male 
+75,The situation makes Lakisha annoying. ,female 
+76,Lakisha feels glad. ,female 
+77,Lakisha let me look forward to me. ,female 
+78,I made Lakisha felt cheerfully. ,female 
+79,The situation makes Lakisha feel glad. ,female 

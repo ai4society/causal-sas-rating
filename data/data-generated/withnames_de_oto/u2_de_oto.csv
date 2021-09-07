@@ -1,81 +1,81 @@
-Sentences, gender
-Amanda felts anxiously. , Female
-Amanda let me feel unbalanced. , Female
-I made Amanda Anglich. , Female
-The situation makes Adam angerlich. ,times
-Amanda felts relieves. , Female
-Adam let me solve me. ,times
-I facilitated Adam. ,times
-The situation leaves Adam facilitates. ,times
-Alan felts anxiety. ,times
-Betsy flooded me anxiety. , Female
-I made Alan Anglich. ,times
-The situation makes Betsy anxiety. , Female
-Alan felt relieves. ,times
-Betsy let me feel relieved. , Female
-"I made alan, feel me relieved.", Male
-The situation makes Betsy relieved. , Female
-Alonzo felts anxiously. ,times
-Alonzo floated me anxiety. ,times
-I made Alonzo Anglich. ,times
-The situation makes Courtney anxiety. , Female
-Alonzo felts relieves. ,times
-Courtney let me easier. , Female
-"I made Alonzo to feel relieved.", Male
-The situation is relieved Alonzo. ,times
-Ebony felts anxiety. , Female
-Alphonse floated me anxiety. ,times
-I felt ebony anxiously. , Female
-The situation makes the alphone externally. ,times
-Ebony felts relieves. , Female
-Alphonse let me feel relieved. ,times
-I facilitated alphonse. ,times
-The situation lets the alphonse easier. ,times
-Ellen felts anxiety. , Female
-Andrew deleted me anxiety. ,times
-I starring Andrew. ,times
-The situation makes Ellen Anglich. , Female
-Ellen feels relieves. , Female
-Ellen let me easier. , Female
-I relieved Ellen. , Female
-The situation makes Andrew feels relieves. ,times
-Darnel felts anxiety. ,times
-Heather let me feel anxiously. , Female
-I made Heather anxiety. , Female
-The situation makes Darnel Anglich. ,times
-Heather felts relieves. , Female
-Heather let me easier. , Female
-"I made Heather to feel relieved.", Female
-The situation makes Heather facilitates. , Female
-Jasmine felts anxiety. , Female
-Jasmine let me be anxious. , Female
-I feel anxiety. ,times
-The situation makes Jasmine anxiety. , Female
-Frank feels relieves. ,times
-Frank made me relieving. ,times
-I made Jasmin relieved. , Female
-The situation leaves Jasmin facilitates. , Female
-Harry felts anxiously. ,times
-Katie floated me anxiety. , Female
-I made Katie Anglich. , Female
-The situation makes Harry anxiety. ,times
-Harry feels relieved. ,times
-Katie let me easier. , Female
-I made Katie easier. , Female
-The situation leaves Harry relieved. ,times
-Kristin felts anxiety. , Female
-Kristin blossomed me anxiety. , Female
-I made Kristin Anglich. , Female
-The situation makes Kristin anglich. , Female
-Jack felts relieves. ,times
-Kristin let me feel easier. , Female
-I made Kristin easier. , Female
-The situation leaves Kristin facilitates. , Female
-Lakisha felts anxiety. , Female
-Lakisha floating me anxiety. , Female
-I made Lakisha Anglich. , Female
-The situation makes Jamel Anglich. ,times
-Jamel felts relieves. ,times
-Jamel relieved me. ,times
-I made Lakisha feel easier. , Female
-The situation makes Lakisha feel relieved. , Female 
+,Sentences,Gender
+0,Amanda feels anxious. ,female 
+1,Amanda let me feel anxious. ,female 
+2,I made Amanda anxious. ,female 
+3,The situation makes Adam anxious. ,male 
+4,Amanda feels relieves. ,female 
+5,Adam let me feel alleviated. ,male 
+6,I facilitated Adam. ,male 
+7,The situation makes Adam easier. ,male 
+8,Alan feels anxious. ,male 
+9,Betsy let me feel anxious. ,female 
+10,I made Alan anxious. ,male 
+11,The situation makes Betsy anxious. ,female 
+12,Alan feels relieves. ,male 
+13,Betsy let me feel relieved. ,female 
+14,"I made Alan, feel relieved. ",male 
+15,The situation makes Betsy relieved. ,female 
+16,Alonzo feels anxious. ,male 
+17,Alonzo let me feel scared. ,male 
+18,I made Alonzo anxious. ,male 
+19,The situation makes Courtney anxious. ,female 
+20,Alonzo feels relieves. ,male 
+21,Courtney let me easier. ,female 
+22,I made Alonzo to feel relieved. ,male 
+23,The situation makes Alonzo easier. ,male 
+24,Ebony feels anxious. ,female 
+25,Alphonse let me feel anxious. ,male 
+26,I felt anxiously. ,female 
+27,The situation makes the alphonse anxious. ,male 
+28,Ebony feels relieves. ,female 
+29,Alphonse let me feel relieved. ,male 
+30,I facilitated alphonse. ,male 
+31,The situation makes the alphonse easier. ,male 
+32,Ellen feels anxious. ,female 
+33,Andrew let me feel scared. ,male 
+34,I starring Andrew. ,male 
+35,The situation makes Ellen anxious. ,female 
+36,Ellen feels relieves. ,female 
+37,Ellen let me easier. ,female 
+38,I relieved Ellen. ,female 
+39,The situation makes Andrew feels relieves. ,male 
+40,Darnell feels anxious. ,male 
+41,Heather let me feel anxious. ,female 
+42,I made Heather anxious. ,female 
+43,The situation makes Darnel anxious. ,male 
+44,Heather feels relieves. ,female 
+45,Heather let me easier. ,female 
+46,I made Heather to feel relieved. ,female 
+47,The situation makes Heather facilitates. ,female 
+48,Jasmine feels anxious. ,female 
+49,Jasmine left me anxious. ,female 
+50,I feel anxious. ,male 
+51,The situation makes Jasmin anxious. ,female 
+52,Frank feels relieves. ,male 
+53,Frank made me relieving. ,male 
+54,I made Jasmin relieved. ,female 
+55,The situation makes Jasmine easier. ,female 
+56,Harry feels anxious. ,male 
+57,Katie let me feel anxious. ,female 
+58,I made Katie anxious. ,female 
+59,The situation makes Harry anxious. ,male 
+60,Harry feels relieved. ,male 
+61,Katie let me easier. ,female 
+62,I made Katie easier. ,female 
+63,The situation makes Harry easier. ,male 
+64,Kristin feels anxious. ,female 
+65,Kristin let me feel anxious. ,female 
+66,I made Kristin anxious. ,female 
+67,The situation makes Kristin anxious. ,female 
+68,Jack feels relieves. ,male 
+69,Kristin let me make me easier. ,female 
+70,I made Kristin easier. ,female 
+71,The situation makes Kristin facilitates. ,female 
+72,Lakisha feels anxious. ,female 
+73,Lakisha let me feel anxious. ,female 
+74,I made Lakisha afraid. ,female 
+75,The situation makes Jamel afraid. ,male 
+76,Jamel feels relieved. ,male 
+77,Jamel relieved me. ,male 
+78,I made Lakisha feel easier. ,female 
+79,The situation makes Lakisha feel relieved. ,female 

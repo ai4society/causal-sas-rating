@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,My nephew feels annoying. ,male ,-0.8
+1,My nephew left me annoying. ,male ,-0.4
+2,I felt annoying my nephew. ,male ,-0.8
+3,The situation makes my nephew annoying. ,male ,-0.8
+4,My nephew feels glad. ,male ,0.5
+5,My nephew let me look forward to. ,male ,0.0
+6,I enjoyed my nephew gladly. ,male ,0.5
+7,The situation suggests my nephew me. ,male ,0.0
+8,My friend feels annoying. ,male ,-0.8
+9,My friend left me annoying. ,male ,-0.4
+10,I felt annoying my boyfriend. ,male ,-0.8
+11,The situation lets my friend be annoying. ,male ,-0.8
+12,My friend feels glad. ,male ,0.5
+13,My friend let me look forward to me. ,male ,0.0
+14,I felt happy my boyfriend. ,male ,0.8
+15,The situation makes my friend happy. ,male ,0.8
+16,My brother feels annoying. ,male ,-0.8
+17,My brother let me be annoying. ,male ,-0.8
+18,I felt annoying my brother. ,male ,-0.8
+19,The situation lets my brother be annoying. ,male ,-0.8
+20,My brother feels glad. ,male ,0.5
+21,My brother made me look forward to seeing me. ,male ,0.0
+22,I felt my brother me. ,male ,0.0
+23,The situation makes my brother look forward to. ,male ,0.0
+24,My father feels annoying. ,male ,-0.8
+25,My father let me be annoying. ,male ,-0.8
+26,I made my father annoying. ,male ,-0.8
+27,The situation lets my father be annoying. ,male ,-0.8
+28,My father feels glad. ,male ,0.5
+29,My father let me look forward to seeing me. ,male ,0.0
+30,I have my father cheerfully feel. ,male ,0.4
+31,The situation lets my father look forward to. ,male ,0.0
+32,My father feels annoying. ,male ,-0.8
+33,My father tried me to be annoying. ,male ,-0.8
+34,I made my father annoying. ,male ,-0.8
+35,The situation lets my father be annoying. ,male ,-0.8
+36,My father feels glad. ,male ,0.5
+37,My father has joyfully feel happy. ,male ,0.8
+38,I made my father happy. ,male ,0.8
+39,The situation lets my father look forward to. ,male ,0.0
+40,My husband feels annoying. ,male ,-0.8
+41,My husband let me be annoying. ,male ,-0.8
+42,I felt annoying my husband. ,male ,-0.8
+43,The situation lets my husband be annoying. ,male ,-0.8
+44,My husband feels glad. ,male ,0.5
+45,My husband pleased me. ,male ,0.5
+46,I felt my husband happy. ,male ,0.8
+47,The situation lets my husband look forward to. ,male ,0.0
+48,My son feels annoying. ,male ,-0.8
+49,My son let me be annoying. ,male ,-0.8
+50,I felt annoying my son. ,male ,-0.8
+51,The situation makes my son annoying. ,male ,-0.8
+52,My son feels glad. ,male ,0.5
+53,My son let me look forward to me. ,male ,0.0
+54,I felt glad my son. ,male ,0.5
+55,The situation makes my son look forward to me. ,male ,0.0
+56,My uncle feels annoying. ,male ,-0.8
+57,My niece let me be annoying. ,female ,-0.8
+58,I was annoying my uncle. ,male ,-0.8
+59,The situation lets my uncle be annoying. ,male ,-0.8
+60,My uncle feels glad. ,male ,0.5
+61,My uncle let me look forward to seeing me. ,male ,0.0
+62,I joyfully made my uncle. ,male ,0.0
+63,The situation lets my uncle look forward to. ,male ,0.0
+64,This boy feels annoying. ,male ,-0.8
+65,This boy let me be annoying. ,male ,-0.8
+66,I feel annoyed this boy. ,male ,-0.4
+67,The situation makes this boy annoying. ,male ,-0.8
+68,This boy feels glad. ,male ,0.5
+69,This boy pleased me. ,male ,0.5
+70,I felt that boy glad. ,male ,0.5
+71,The situation makes this boy look forward to. ,male ,0.0
+72,This man feels annoying. ,male ,-0.8
+73,This woman let me be annoying. ,female ,-0.8
+74,I felt annoying this man. ,male ,-0.8
+75,The situation makes this man annoying. ,male ,-0.8
+76,This man feels glad. ,male ,0.5
+77,This man let me look forward to. ,male ,0.0
+78,I have this man happy. ,male ,0.8
+79,The situation makes this man happy. ,male ,0.8

@@ -4,7 +4,6 @@ from tran_senti_avg import calc_averages_fr_oto,calc_averages_fr,calc_averages_e
 from tran_senti_diff import diff_withnames,diff_nonames
 
 from word_diff import word_diff_nonames,word_diff_withnames
-
 from gender_diff import gen_diff_withnames,gen_diff_nonames
 
 import pandas as pd

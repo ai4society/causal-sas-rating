@@ -101,12 +101,14 @@ def tran_oto_german(path,file_name):
 
 def tran_oto_names_german(path,file_name):
 
-    upload_file = open(path, "r")
-    text= upload_file.read()
-    translator = google_translator()
-    translated_text = translator.translate(text, lang_tgt="en")
-    upload_file.close()
+    data = pd.read_csv(path)
+    countRows = (len(data))
 
-    translated_file = open("../../data/data-generated/withnames_de_oto/{}_de_oto.csv".format(file_name),"w",encoding="utf-8")
-    translated_file.write(translated_text)
-    translated_file.close()
+    translatedCSV = { "Sentences":[], "Gender":[]}
+
+    for index, row in data.iterrows():
+        translatedCSV["Sentences"].append(translator.translate(row["Sentences"], lang_tgt="en"))
+        translatedCSV["Gender"].append(translator.translate(row["Gender"], lang_tgt="en"))
+
+    df = pd.DataFrame(data=translatedCSV)
+    df.to_csv("../../data/data-generated/withnames_de_oto/{}_de_oto.csv".format(file_name))

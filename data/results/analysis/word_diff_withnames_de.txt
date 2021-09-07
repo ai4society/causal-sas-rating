@@ -1,0 +1,7 @@
+
+
+Average word difference % (with names) for p1 is 30.0,
+p2 is 31.75,
+p3 is 22.91,
+p4 is 33.17,
+and p5 is 29.89

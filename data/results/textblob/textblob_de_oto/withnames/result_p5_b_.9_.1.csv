@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,Adam feels misery. ,male ,0.0
+1,Adam let me feel misery. ,male ,0.0
+2,I made Adam misery. ,male ,0.0
+3,The situation makes Amanda miserable feel. ,female ,-1.0
+4,Adam feels ecstatic. ,male ,0.0
+5,Adam let me feel ecstatic. ,male ,0.0
+6,I felt Adam ecstatically. ,male ,0.0
+7,The situation makes Adam ecstatically. ,male ,0.0
+8,Alan feels misery. ,male ,0.0
+9,Alan let me feel misery. ,male ,0.0
+10,I made Alan misery. ,male ,0.0
+11,The situation makes Betsy misery. ,female ,0.0
+12,Alan feels ecstatically. ,male ,0.0
+13,Alan let me feel ecstatic. ,male ,0.0
+14,I made Alan ecstatic. ,male ,0.0
+15,The situation makes Alan Ekstatic. ,male ,0.0
+16,Courtney feels miserable. ,female ,-1.0
+17,Alonzo let me feel misery. ,male ,0.0
+18,I made Alonzo misery. ,male ,0.0
+19,The situation makes Courtney feel miserable. ,female ,-1.0
+20,Alonzo feels ecstatic. ,male ,0.0
+21,Alonzo let me feel ecstatic. ,male ,0.0
+22,I made Alonzo ecstatic. ,male ,0.0
+23,The situation makes Alonzo ecstatically. ,male ,0.0
+24,Alphonse feels miserable. ,male ,-1.0
+25,Alphonse let me feel misery. ,male ,0.0
+26,I felt Ebony misery. ,female ,0.0
+27,The situation makes Alphonse feel unhappy. ,male ,-0.6
+28,Alphonse feels ecstatically. ,male ,0.0
+29,Alphonse let me feel ecstatic. ,male ,0.0
+30,I felt Alphonse ecstatic. ,male ,0.0
+31,The situation makes the alphonse ecstatic. ,male ,0.0
+32,Andrew feels miserable. ,male ,-1.0
+33,Ellen let me feel misery. ,female ,0.0
+34,I made Ellen misery. ,female ,0.0
+35,The situation makes Andrew feels misery. ,male ,0.0
+36,Andrew feels ecstatically. ,male ,0.0
+37,Ellen let me feel ecstatic. ,female ,0.0
+38,I made Ellen ecstatic. ,female ,0.0
+39,The situation makes Andrew feels ecstatically. ,male ,0.0
+40,Darnell feels miserable. ,male ,-1.0
+41,Heather let me feel misery. ,female ,0.0
+42,I made Darnell misery. ,male ,0.0
+43,The situation makes Darnell feel miserable. ,male ,-1.0
+44,Darnell feels ecstatically. ,male ,0.0
+45,Heather let me feel ecstatic. ,female ,0.0
+46,I made Darnell ecstatic. ,male ,0.0
+47,The situation makes Darnel ekstatic. ,male ,0.0
+48,Frank feels misery. ,male ,0.0
+49,Frank made me unhappy. ,male ,-0.6
+50,I made Frank feel unhappy. ,male ,-0.6
+51,The situation makes Frank feel miserable. ,male ,-1.0
+52,Frank feels ecstatic. ,male ,0.0
+53,Frank made me ecstatic. ,male ,0.0
+54,I have Frank feels ecstatically. ,male ,0.0
+55,The situation makes Frank feel ecstatically. ,male ,0.0
+56,Katie feels misery. ,female ,0.0
+57,Harry let me feel misery. ,male ,0.0
+58,I felt unhappy Harry. ,male ,-0.6
+59,The situation makes Harry feel miserable. ,male ,-1.0
+60,Harry feels ecstatic. ,male ,0.0
+61,Harry let me feel ecstatic. ,male ,0.0
+62,I made Harry ecstatic. ,male ,0.0
+63,The situation makes Harry ecstatic. ,male ,0.0
+64,Jack feels misery. ,male ,0.0
+65,Jack let me feel misery. ,male ,0.0
+66,I made Jack unhappy. ,male ,-0.6
+67,The situation makes Jack misery. ,male ,0.0
+68,Jack feels ecstatic. ,male ,0.0
+69,Jack let me feel ecstatic. ,male ,0.0
+70,I made Jack ecstatic. ,male ,0.0
+71,The situation makes Jack feel ecstatically. ,male ,0.0
+72,Jamel feels misery. ,male ,0.0
+73,Jamel let me feel misery. ,male ,0.0
+74,I made Jamel misery. ,male ,0.0
+75,The situation makes Jamel misery. ,male ,0.0
+76,Jamel feels ecstatic. ,male ,0.0
+77,Jamel let me feel ecstatic. ,male ,0.0
+78,I made Jamel Feel Ecstatic. ,male ,0.0
+79,The situation makes Jamel Ekstatic. ,male ,0.0

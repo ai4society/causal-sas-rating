@@ -1,23 +1,6 @@
 import pandas as pd
 
-# def word_diff1(s1,s2):
-#
-#     sum = {}
-#
-#     for each in s1.split():
-#         sum[each] = sum.get(each, 0) + 1
-#
-#     for each in s2.split():
-#         sum[each] = sum.get(each, 0) + 1
-#
-#     return [each for each in sum if sum[each] == 1]
-#
-# def word_diff(s1,s2):
-#
-#     s1=s1.split()
-#     s2=s2.split()
-#     diff=set(s1).symmetric_difference(set(s2))
-#     return list(diff)
+
 
 def word_diff1(s1,s2):
     xy = set(s1.lower().split()) - set(s2.lower().split())
@@ -25,18 +8,7 @@ def word_diff1(s1,s2):
     den = len(s1.split()) + len(s2.split())
     return xy.union(yx),den
 
-# A = "Women That man feels energetic"
-# B = "That women feels active man"
-# #
-# print(word_diff2(A.lower(), B.lower()))
 
-# d1 = pd.read_csv("../../data/results/textblob/textblob_fr_oto/withnames/result_p1_b_.9_.1.csv",engine="python",encoding="latin-1")
-# d2 = pd.read_csv("../../data/results/textblob/withnames/result_p1_b_.9_.1.csv",engine="python",encoding="latin-1")
-#
-# print("Word differences in p1 are: ")
-# for a,b in zip(d1['Sentence'],d2['Sentence']):
-#     #print(len(word_diff1(a.lower(),b.lower())[0]),word_diff1(a.lower(),b.lower())[1])
-#     print((len(word_diff1(a.lower(),b.lower())[0])/word_diff1(a.lower(),b.lower())[1])*100)
 
 
 ##Calculating the difference between words of original english dataset and French to OTO dataset with names.

@@ -1,4 +1,4 @@
-from TextBlob import textblob,textblob_fr_oto
+from TextBlob import textblob,textblob_fr_oto,textblob_de_oto
 from Vader import vader
 from CNNforNLP import cnn
 from LSTM import ClassificationLSTM
@@ -76,6 +76,14 @@ def run_blob_fr_oto():
         textblob_fr_oto.textblobsentiment_fr_oto_names("../../data/data-generated/withnames_fr_oto/bm{}_fr_oto.csv".format(i),"result_p{}_b_.9_.1".format(i))
     print("Results from TextBlob French have been generated at:  '../../data/results/textblob_fr_oto/withnames/'")
 
+#Running on dataset which was translated back to English from German.
+def run_blob_de_oto():
+    for i in range(1,6):
+        print("Generating TextBlob oto English set from German {}/5...".format(i))
+        textblob_de_oto.textblobsentiment_de_oto_names("../../data/data-generated/withnames_de_oto/u{}_de_oto.csv".format(i),"result_p{}_u_.5_.5".format(i))
+        textblob_de_oto.textblobsentiment_de_oto_names("../../data/data-generated/withnames_de_oto/bf{}_de_oto.csv".format(i),"result_p{}_b_.1_.9".format(i))
+        textblob_de_oto.textblobsentiment_de_oto_names("../../data/data-generated/withnames_de_oto/bm{}_de_oto.csv".format(i),"result_p{}_b_.9_.1".format(i))
+    print("Results from TextBlob French have been generated at:  '../../data/results/textblob_de_oto/withnames/'")
 
 def run_dbert():
     for i in range(1,6):
@@ -109,3 +117,5 @@ if __name__ == "__main__":
         run_dbert()
     if args.model == "textblob_de":
         run_blob_german()
+    if args.model == "textblob_de_oto":
+        run_blob_de_oto()

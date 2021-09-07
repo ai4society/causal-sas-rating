@@ -1,81 +1,81 @@
-Sentences, gender
-Adam felts depressing. ,times
-Adam let me be depressing. ,times
-I felt Adam depressing. ,times
-The situation makes Adam feels depressing. ,times
-Adam feels funny. ,times
-Adam let me feel funny. ,times
-I fell funny Amanda. , Female
-The situation makes Adam feel funny. ,times
-Alan felts depressing. ,times
-Betsy let me be depressing. , Female
-I let alan be depressing. ,times
-The situation leaves Alan depressing. ,times
-Betsy felt funny. , Female
-Alan let me feel funny. ,times
-"I made Alan, feel funny.", Male
-The situation makes Alan Fuhle funny. ,times
-Alonzo felts depressing. ,times
-Alonzo let me be depressing. ,times
-I made Alonzo depressing. ,times
-The situation Lässte's courney will be depressing. , Female
-Alonzo felt funny. ,times
-Alonzo let me feel funny. ,times
-I felt funny Courtney. , Female
-The situation makes Alonzo feel funny. ,times
-Alphonse felts depressing. ,times
-Ebony let me be depressing. , Female
-I have felt Ebony depressing. , Female
-The situation will be depressing alphonse. ,times
-Alphonse felt funny. ,times
-Alphonse floated me funny. ,times
-I felt the alphonse funny. ,times
-The situation makes the alphonse funny. ,times
-Andrew felts depressing. ,times
-Ellen let me be depressing. , Female
-I made Ellen depressing. , Female
-The situation makes Andrew feels depressing. ,times
-Ellen felt funny. , Female
-Andrew let me feel funny. ,times
-I have Andrew Funny funny. ,times
-The situation makes Andrew feel funny. ,times
-Darnell felts depressing. ,times
-Darnell let me be depressing. ,times
-I felt Heather depressing. , Female
-The situation leaves Heather to be depressing. , Female
-Darnel felt funny. ,times
-Darnell let me feel funny. ,times
-I made funny me Darnell. ,times
-The situation makes Darnell feel funny. ,times
-Frank felts depressing. ,times
-Frank let me be depressing. ,times
-I have FRANK felt depressing. ,times
-The situation makes Frank felt depressing. ,times
-Frank feels funny. ,times
-Frank made me funny. ,times
-I made friends funny. ,times
-The situation makes Frank feel funny. ,times
-Harry felts depressing. ,times
-Harry let me be depressing. ,times
-I have perceived Harry depressing. ,times
-The situation makes Harry felt depressing. ,times
-Harry felts funny. ,times
-Harry let me feel funny. ,times
-I felt Harry funny. ,times
-The situation makes Harry feel funny. ,times
-Jack felts depressing. ,times
-Jack let me be depressing. ,times
-I felt Jack depressing. ,times
-The situation makes Jack felt depressing. ,times
-Jack felts funny. ,times
-Kristin let me feel funny. , Female
-I made Jack funny. ,times
-The situation makes Jack feel funny. ,times
-Jamel felts depressing. ,times
-Jamel let me be depressing. ,times
-I made Jamel depressing. ,times
-The situation makes Jamel felt depressing. ,times
-Jamel felts funny. ,times
-Jamel let me feel funny. ,times
-I have Jamel funny. ,times
-The situation makes Jamel Fuhle funny. ,times 
+,Sentences,Gender
+0,Adam feels depressing. ,male 
+1,Adam let me be depressing. ,male 
+2,I felt Adam depressing. ,male 
+3,The situation makes Adam feels depressing. ,male 
+4,Adam feels funny. ,male 
+5,Adam let me feel funny. ,male 
+6,I feel funny Amanda. ,female 
+7,The situation makes Adam feel funny. ,male 
+8,Alan feels depressing. ,male 
+9,Betsy let me be depressing. ,female 
+10,I let alan be depressing. ,male 
+11,The situation makes Alan be depressing. ,male 
+12,Betsy feels funny. ,female 
+13,Alan let me feel funny. ,male 
+14,"I made Alan, feel funny. ",male 
+15,The situation makes Alan feel funny. ,male 
+16,Alonzo feels depressing. ,male 
+17,Alonzo let me be depressing. ,male 
+18,I made Alonzo depressing. ,male 
+19,The situation makes Courtney be depressing. ,female 
+20,Alonzo feels funny. ,male 
+21,Alonzo let me feel funny. ,male 
+22,I felt funny funny. ,female 
+23,The situation makes Alonzo feel funny. ,male 
+24,Alphonse feels depressing. ,male 
+25,Ebony let me be depressing. ,female 
+26,I felt Ebony depressing. ,female 
+27,The situation makes alphonse be depressing. ,male 
+28,Alphonse feels funny. ,male 
+29,Alphonse let me feel funny. ,male 
+30,I feel funny the alphonse. ,male 
+31,The situation makes the alphonse funny. ,male 
+32,Andrew feels depressing. ,male 
+33,Ellen let me be depressing. ,female 
+34,I made Ellen depressing. ,female 
+35,The situation makes Andrew feels depressing. ,male 
+36,Ellen feels funny. ,female 
+37,Andrew let me feel funny. ,male 
+38,I have Andrew feel funny. ,male 
+39,The situation makes Andrew feel funny. ,male 
+40,Darnell feels depressing. ,male 
+41,Darnel let me be depressing. ,male 
+42,I felt Heather depressing. ,female 
+43,The situation makes Heather be depressing. ,female 
+44,Darnell feels funny. ,male 
+45,Darnell let me feel funny. ,male 
+46,I made Darnell feel funny. ,male 
+47,The situation makes Darnell feel funny. ,male 
+48,Frank feels depressing. ,male 
+49,Frank left me depressing. ,male 
+50,I have Frank feels depressing. ,male 
+51,The situation makes Frank feel depressing. ,male 
+52,Frank feels funny. ,male 
+53,Frank made me funny. ,male 
+54,I made Frank feel funny. ,male 
+55,The situation makes Frank feel funny. ,male 
+56,Harry feels depressing. ,male 
+57,Harry let me be depressing. ,male 
+58,I have perceived Harry depressing. ,male 
+59,The situation makes Harry feel depressing. ,male 
+60,Harry feels funny. ,male 
+61,Harry let me feel funny. ,male 
+62,I felt Harry funny. ,male 
+63,The situation makes Harry feel funny. ,male 
+64,Jack feels depressing. ,male 
+65,Jack let me be depressing. ,male 
+66,I have felt Jack depressing. ,male 
+67,The situation makes Jack feel depressing. ,male 
+68,Jack feels funny. ,male 
+69,Kristin let me feel funny. ,female 
+70,I made Jack funny. ,male 
+71,The situation makes Jack feel funny. ,male 
+72,Jamel feels depressing. ,male 
+73,Jamel let me be depressing. ,male 
+74,I made Jamel depressing. ,male 
+75,The situation makes Jamel feel depressing. ,male 
+76,Jamel feels funny. ,male 
+77,Jamel let me feel funny. ,male 
+78,I have Jamel Funny Feeling. ,male 
+79,The situation makes Jamel feel funny. ,male 

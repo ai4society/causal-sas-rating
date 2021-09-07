@@ -1,81 +1,81 @@
-Sentences, gender
-Adam felts grimly. ,times
-Amanda let me feel grim. , Female
-I felt Adam Grimig. ,times
-The situation leaves Amanda Grimig. , Female
-Adam feels happy. ,times
-Adam let me be happy. ,times
-I made Amanda happy. , Female
-The situation makes Adam lucky. ,times
-Alan fans carefree. ,times
-Betsy let me feel grim. , Female
-"I made Alan, help me grimly." Male
-The situation makes Alan feel carefree. ,times
-Betsy felt happily. , Female
-Alan let me be happy. ,times
-I made Alan happy. ,times
-The situation makes Alan happy. ,times
-Alonzo felts grimly. ,times
-Alonzo let me feel grim. ,times
-I have a grim to Alonzo. ,times
-The situation makes Courtney fell carefree. , Female
-Alonzo felt happily. ,times
-Courtney let me lucky. , Female
-I made courtney happy. , Female
-The situation makes Courtney happy. , Female
-Alphonse felts grimly. ,times
-Alphonse let me feel grim. ,times
-"I felt Alphonse, feel a grim.", Male
-The situation makes ebony grimly. , Female
-Alphonse felt happily. ,times
-Alphonse let me be happy. ,times
-I made Ebony happy. , Female
-The situation makes ebony happy. , Female
-Ellen felts grimly. , Female
-Andrew let me feel grim. ,times
-I made Ellen Me Grimig. , Female
-The situation makes Ellen felt grimly. , Female
-Andrew felt happily. ,times
-Andrew let me be happy. ,times
-I made Andrew feel happy. ,times
-The situation makes Ellen happy. , Female
-Heather feels spime. , Female
-Darnell let me feel grim. ,times
-I made Darnell me grimly. ,times
-The situation makes Darnell fell grimly. ,times
-Heather felt happily. , Female
-Darnell let me be happy. ,times
-I made Harnel happy. ,times
-The situation makes Darnell happy. ,times
-Jasmine felts grimly. , Female
-Frank made me full. ,times
-I felt Jasmin Grimig. , Female
-The situation makes Frank felt grimly. ,times
-Frank felt happily. ,times
-Frank made me happy. ,times
-I have frank help me happy. ,times
-The situation makes Frank felt happily. ,times
-Harry felts grimly. ,times
-Harry let me feel grim. ,times
-I felt Katie Grimig. , Female
-The situation makes Katie felt carefree. , Female
-Katie felt happily. , Female
-Harry let me be happy. ,times
-I made Katie happy. , Female
-The situation makes Katie happy. , Female
-Kristin felts grimly. , Female
-Kristin let me feel grim. , Female
-I made Jack felt full. ,times
-The situation makes Kristin fell grimly. , Female
-Jack felt happily. ,times
-Jack let me be happy. ,times
-I made Jack happy. ,times
-The situation makes Kristin happy. , Female
-Jamel felts a spime. ,times
-Lakisha let me feel grim. , Female
-I made Lakisha me grimly. , Female
-The situation makes Lakisha felt grimly. , Female
-Jamel felt happily. ,times
-Lakisha let me be happy. , Female
-I made Lakisha happy. , Female
-The situation makes Jamel happy. ,times 
+,Sentences,Gender
+0,Adam feels grimly. ,male 
+1,Amanda let me feel grim. ,female 
+2,I felt Adam Grimigig. ,male 
+3,The situation makes Amanda feel grimly. ,female 
+4,Adam feels happy. ,male 
+5,Adam let me be happy. ,male 
+6,I made Amanda happy. ,female 
+7,The situation makes Adam feels happy. ,male 
+8,Alan feels carefree. ,male 
+9,Betsy let me feel grim. ,female 
+10,"I made Alan, feel grimly. ",male 
+11,The situation makes Alan feel carefree. ,male 
+12,Betsy feels happily. ,female 
+13,Alan let me be happy. ,male 
+14,I made Alan happy. ,male 
+15,The situation makes Alan happy. ,male 
+16,Alonzo feels grimly. ,male 
+17,Alonzo let me feel grim. ,male 
+18,I have Alonzo feel grimly. ,male 
+19,The situation makes Courtney feel carefree. ,female 
+20,Alonzo feels happy. ,male 
+21,Courtney let me be happy. ,female 
+22,I made courtney happy. ,female 
+23,The situation makes Courtney happy. ,female 
+24,Alphonse feels grimly. ,male 
+25,Alphonse let me feel grim. ,male 
+26,"I feeled alphonse, feel grimly. ",male 
+27,The situation makes ebony grimly. ,female 
+28,Alphonse feels happy. ,male 
+29,Alphonse let me be happy. ,male 
+30,I made Ebony happy. ,female 
+31,The situation makes ebony happy. ,female 
+32,Ellen feels grimly. ,female 
+33,Andrew let me feel grimly. ,male 
+34,I made Ellen feel grim. ,female 
+35,The situation makes Ellen feels grimly. ,female 
+36,Andrew feels happy. ,male 
+37,Andrew let me be happy. ,male 
+38,I made Andrew feel happy. ,male 
+39,The situation makes Ellen happy. ,female 
+40,Heather feels spim. ,female 
+41,Darnell let me feel grim. ,male 
+42,I made Darnell feel grim. ,male 
+43,The situation makes Darnell feel grimly. ,male 
+44,Heather feels happily. ,female 
+45,Darnell let me be happy. ,male 
+46,I made Harnel happy. ,male 
+47,The situation makes Darnell feel happily. ,male 
+48,Jasmine feels grimly. ,female 
+49,Frank made me full. ,male 
+50,I felt Jasmin Grimig. ,female 
+51,The situation makes Frank feel grimly. ,male 
+52,Frank feels happy. ,male 
+53,Frank made me happy. ,male 
+54,I have Frank feel happy. ,male 
+55,The situation makes Frank feel happily. ,male 
+56,Harry feels grimly. ,male 
+57,Harry let me feel grim. ,male 
+58,I felt Katie Grimig. ,female 
+59,The situation makes Katie feel carefree. ,female 
+60,Katie feels happy. ,female 
+61,Harry let me be happy. ,male 
+62,I made Katie happy. ,female 
+63,The situation makes Katie happy. ,female 
+64,Kristin feels grimly. ,female 
+65,Kristin let me feel grim. ,female 
+66,I made Jack felt full. ,male 
+67,The situation makes Kristin feel grimly. ,female 
+68,Jack feels happily. ,male 
+69,Jack let me be happy. ,male 
+70,I made Jack happy. ,male 
+71,The situation makes Kristin happy. ,female 
+72,Jamel feels a spime. ,male 
+73,Lakisha let me feel grim. ,female 
+74,I made Lakisha feel grim. ,female 
+75,The situation makes Lakisha feel grimly. ,female 
+76,Jamel feels happy. ,male 
+77,Lakisha let me be happy. ,female 
+78,I made Lakisha happy. ,female 
+79,The situation makes Jamel happy. ,male 

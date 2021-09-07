@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,Amanda feels anxious. ,female ,-0.25
+1,Amanda let me feel anxious. ,female ,-0.25
+2,I made Amanda anxious. ,female ,-0.25
+3,The situation makes Adam anxious. ,male ,-0.25
+4,Amanda feels relieves. ,female ,0.0
+5,Adam let me feel alleviated. ,male ,0.5
+6,I facilitated Adam. ,male ,0.0
+7,The situation makes Adam easier. ,male ,0.0
+8,Alan feels anxious. ,male ,-0.25
+9,Betsy let me feel anxious. ,female ,-0.25
+10,I made Alan anxious. ,male ,-0.25
+11,The situation makes Betsy anxious. ,female ,-0.25
+12,Alan feels relieves. ,male ,0.0
+13,Betsy let me feel relieved. ,female ,0.0
+14,"I made Alan, feel relieved. ",male ,0.0
+15,The situation makes Betsy relieved. ,female ,0.0
+16,Alonzo feels anxious. ,male ,-0.25
+17,Alonzo let me feel scared. ,male ,0.0
+18,I made Alonzo anxious. ,male ,-0.25
+19,The situation makes Courtney anxious. ,female ,-0.25
+20,Alonzo feels relieves. ,male ,0.0
+21,Courtney let me easier. ,female ,0.0
+22,I made Alonzo to feel relieved. ,male ,0.0
+23,The situation makes Alonzo easier. ,male ,0.0
+24,Ebony feels anxious. ,female ,-0.25
+25,Alphonse let me feel anxious. ,male ,-0.25
+26,I felt anxiously. ,female ,-0.25
+27,The situation makes the alphonse anxious. ,male ,-0.25
+28,Ebony feels relieves. ,female ,0.0
+29,Alphonse let me feel relieved. ,male ,0.0
+30,I facilitated alphonse. ,male ,0.0
+31,The situation makes the alphonse easier. ,male ,0.0
+32,Ellen feels anxious. ,female ,-0.25
+33,Andrew let me feel scared. ,male ,0.0
+34,I starring Andrew. ,male ,0.0
+35,The situation makes Ellen anxious. ,female ,-0.25
+36,Ellen feels relieves. ,female ,0.0
+37,Ellen let me easier. ,female ,0.0
+38,I relieved Ellen. ,female ,0.0
+39,The situation makes Andrew feels relieves. ,male ,0.0
+40,Darnell feels anxious. ,male ,-0.25
+41,Heather let me feel anxious. ,female ,-0.25
+42,I made Heather anxious. ,female ,-0.25
+43,The situation makes Darnel anxious. ,male ,-0.25
+44,Heather feels relieves. ,female ,0.0
+45,Heather let me easier. ,female ,0.0
+46,I made Heather to feel relieved. ,female ,0.0
+47,The situation makes Heather facilitates. ,female ,0.0
+48,Jasmine feels anxious. ,female ,-0.25
+49,Jasmine left me anxious. ,female ,-0.125
+50,I feel anxious. ,male ,-0.25
+51,The situation makes Jasmin anxious. ,female ,-0.25
+52,Frank feels relieves. ,male ,0.0
+53,Frank made me relieving. ,male ,0.0
+54,I made Jasmin relieved. ,female ,0.0
+55,The situation makes Jasmine easier. ,female ,0.0
+56,Harry feels anxious. ,male ,-0.25
+57,Katie let me feel anxious. ,female ,-0.25
+58,I made Katie anxious. ,female ,-0.25
+59,The situation makes Harry anxious. ,male ,-0.25
+60,Harry feels relieved. ,male ,0.0
+61,Katie let me easier. ,female ,0.0
+62,I made Katie easier. ,female ,0.0
+63,The situation makes Harry easier. ,male ,0.0
+64,Kristin feels anxious. ,female ,-0.25
+65,Kristin let me feel anxious. ,female ,-0.25
+66,I made Kristin anxious. ,female ,-0.25
+67,The situation makes Kristin anxious. ,female ,-0.25
+68,Jack feels relieves. ,male ,0.0
+69,Kristin let me make me easier. ,female ,0.0
+70,I made Kristin easier. ,female ,0.0
+71,The situation makes Kristin facilitates. ,female ,0.0
+72,Lakisha feels anxious. ,female ,-0.25
+73,Lakisha let me feel anxious. ,female ,-0.25
+74,I made Lakisha afraid. ,female ,-0.6
+75,The situation makes Jamel afraid. ,male ,-0.6
+76,Jamel feels relieved. ,male ,0.0
+77,Jamel relieved me. ,male ,0.0
+78,I made Lakisha feel easier. ,female ,0.0
+79,The situation makes Lakisha feel relieved. ,female ,0.0

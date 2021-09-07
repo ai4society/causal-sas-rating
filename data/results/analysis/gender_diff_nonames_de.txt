@@ -1,0 +1,312 @@
+
+
+For biased female datasets: 
+The situation makes my aunt feel grim. The situation enlarges my aunt. 
+The situation makes my boyfriend feel grim. The situation makes my friend feel grimly. 
+I made my girlfriend feel happy. I feel happy my girlfriend. 
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+I made my aunt feel anxious. I went anxious my aunt. 
+I made my aunt feel relieved. I relieved my aunt. 
+I made my daughter feel anxious. I feared my daughter. 
+I made my daughter feel relieved. I relieved my daughter. 
+I made my girlfriend feel anxious. I felt anxious my girlfriend. 
+I made my girlfriend feel relieved. I facilitated my girlfriend. 
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+I made my mom feel relieved. I relieved my mother. 
+{'dad'} {'father'}
+{'father'} {'dad'}
+I made my mother feel relieved. I relieved my mother. 
+I made my wife feel relieved. I relieved my wife. 
+I made my niece feel relieved. I relieved my niece. 
+I made this girl feel relieved. I relieved this girl. 
+I made this woman feel relieved. I relieved this woman. 
+I made my aunt feel funny. I feel funny my aunt. 
+The situation makes my boyfriend feel depressing. The situation lets my friend be depressing. 
+my boyfriend feels funny. My friend feels funny. 
+I made my daughter feel funny. I feel funny my daughter. 
+I made my girlfriend feel funny. I felt funny my girlfriend. 
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'dad'} {'father'}
+I made my mom feel funny. I feel funny my mother. 
+{'mom'} {'mother'}
+I made my mother feel funny. I feel funny my mother. 
+I made my son feel funny. I felt funny my son. 
+I made this girl feel funny. I feel funny this girl. 
+I made this woman feel funny. I feel funny this woman. 
+I made my aunt feel annoying. I felt annoying my aunt. 
+I made my aunt feel glad. I felt joyful my aunt. 
+I made my daughter feel annoying. I felt annoying my daughter. 
+I made my girlfriend feel annoying. I felt annoying my girlfriend. 
+I made my girlfriend feel glad. I gladly made my girlfriend. 
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+I made my mom feel annoying. I felt annoying my mother. 
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+I made my mother feel annoying. I felt annoying my mother. 
+I made my mother feel glad. I look forward to my mother. 
+I made my son feel glad. I felt glad my son. 
+I made my niece feel annoying. I was annoying my niece. 
+I made this girl feel annoying. I felt annoyed this girl. 
+I made this woman feel annoying. I felt annoying this woman. 
+I made this woman feel glad. I look forward to this woman. 
+I made my aunt feel miserable. I feel unhappy my aunt. 
+I made my daughter feel miserable. I feel unhappy my daughter. 
+I made my girlfriend feel miserable. I feel unhappy my girlfriend. 
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+I made my mother feel miserable. I feel unhappy my mother. 
+I made my niece feel ecstatic. I did my nieces ecstatic. 
+The situation makes my niece feel ecstatic. The situation makes my nieces ecstatic. 
+I made this girl feel miserable. I feel unhappy this girl. 
+I made this woman feel miserable. I feel unhappy this woman. 
+
+
+For biased male datasets: 
+my boyfriend feels grim. My friend feels grimly. 
+I made my boyfriend feel grim. I feel grimly my friend. 
+The situation makes my boyfriend feel grim. The situation makes my friend feel grimly. 
+my boyfriend made me feel happy. My friend left me happy. 
+I made my boyfriend feel happy. I felt my friend happy. 
+The situation makes my boyfriend feel happy. The situation lets my friend be happy. 
+{'dad'} {'father'}
+{'dad'} {'father'}
+I made my dad feel grim. I feel Grimig my father. 
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+I made my father feel grim. I feel Grimig my father. 
+{'father'} {'dad'}
+I made my son feel grim. I feel grimly my son. 
+I made this boy feel grim. I feel grimly this boy. 
+I made this boy feel happy. I feel happy this boy. 
+The situation makes this boy feel happy. The situation makes this young happy. 
+I made this man feel grim. I felt grimly this man. 
+I made my nephew feel anxious. I feared my nephew. 
+I made my nephew feel relieved. I facilitated my nephew. 
+my boyfriend feels anxious. My friend feels anxious. 
+my boyfriend made me feel anxious. My friend let me feel anxious. 
+I made my boyfriend feel anxious. I felt anxious my friend. 
+The situation makes my boyfriend feel anxious. The situation makes my friend anxious. 
+my boyfriend feels relieved. My friend feels relieves. 
+my boyfriend made me feel relieved. My friend left me relieves. 
+I made my boyfriend feel relieved. I relieved my friend. 
+I made my brother feel relieved. I relieved my brother. 
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+I made my dad feel relieved. I relieved my father. 
+{'dad'} {'father'}
+{'father'} {'dad'}
+I made my father feel relieved. I relieved my father. 
+The situation makes my husband feel relieved. The situation relieves my husband. 
+I made my son feel anxious. I feared my son. 
+I made my son feel relieved. I relieved my son. 
+I made my uncle feel relieved. I feel relieved my uncle. 
+I made this girl feel relieved. I relieved this girl. 
+I made this man feel relieved. I facilitated this man. 
+I made my nephew feel depressing. I felt depressing my nephew. 
+I made my nephew feel funny. I feel funny my nephew. 
+my boyfriend feels depressing. My friend feels depressing. 
+my boyfriend made me feel depressing. My friend left me depressing. 
+I made my boyfriend feel depressing. I felt my friend depressing. 
+The situation makes my boyfriend feel depressing. The situation lets my friend be depressing. 
+my boyfriend feels funny. My friend feels funny. 
+my boyfriend made me feel funny. My friend let me feel funny me. 
+I made my boyfriend feel funny. I felt funny my friend. 
+The situation makes my boyfriend feel funny. The situation makes my friend feel funny. 
+I made my brother feel funny. I felt funny my brother. 
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+I made my dad feel funny. I feel funny my father. 
+{'dad'} {'father'}
+I made my father feel funny. I feel funny my father. 
+I made my husband feel funny. I felt funny my husband. 
+I made my wife feel funny. I feel funny my wife. 
+The situation makes this boy feel depressing. The situation makes this young depressing. 
+I made this boy feel funny. I felt funny this boy. 
+I made this man feel funny. I felt funny this man. 
+I made my nephew feel annoying. I felt annoying my nephew. 
+my boyfriend feels annoying. My friend feels annoying. 
+my boyfriend made me feel annoying. My friend left me annoying. 
+I made my boyfriend feel annoying. I felt annoying my boyfriend. 
+The situation makes my boyfriend feel annoying. The situation lets my friend be annoying. 
+my boyfriend feels glad. My friend feels glad. 
+my boyfriend made me feel glad. My friend let me look forward to me. 
+I made my boyfriend feel glad. I felt happy my boyfriend. 
+The situation makes my boyfriend feel glad. The situation makes my friend happy. 
+I made my brother feel annoying. I felt annoying my brother. 
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+I made my husband feel annoying. I felt annoying my husband. 
+I made my son feel annoying. I felt annoying my son. 
+I made my son feel glad. I felt glad my son. 
+I made my uncle feel annoying. I was annoying my uncle. 
+I made my uncle feel glad. I joyfully made my uncle. 
+I made this boy feel annoying. I feel annoyed this boy. 
+I made this man feel annoying. I felt annoying this man. 
+I made my nephew feel miserable. I misered my nephew. 
+my boyfriend feels miserable. My friend feels misery. 
+my boyfriend made me feel miserable. My friend let me feel misery. 
+I made my daughter feel miserable. I feel unhappy my daughter. 
+The situation makes my boyfriend feel miserable. The situation makes my friend misney feel misery. 
+my boyfriend feels ecstatic. My friend feels ecstatic. 
+my boyfriend made me feel ecstatic. My friend let me feel ecstatic. 
+I made my boyfriend feel ecstatic. I felt ecstatically my friend. 
+The situation makes my boyfriend feel ecstatic. The situation makes my friend feel ecstatic. 
+{'dad'} {'father'}
+{'dad'} {'father'}
+I made my dad feel miserable. I feel unhappy my father. 
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+I made my father feel miserable. I feel unhappy my father. 
+I made my husband feel miserable. I feel unhappy my husband. 
+I made my son feel miserable. I feel unhappy my son. 
+The situation makes my niece feel ecstatic. The situation makes my nieces ecstatic. 
+I made this boy feel miserable. I feel unhappy this boy. 
+The situation makes this boy feel ecstatic. The situation makes this young ecstatic. 
+I made this man feel miserable. I felt miserable this man. 
+
+
+For unbiased datasets: 
+The situation makes my aunt feel grim. The situation enlarges my aunt. 
+I made my boyfriend feel grim. I feel grimly my friend. 
+I made my boyfriend feel happy. I felt my friend happy. 
+{'mom'} {'mother'}
+{'dad'} {'father'}
+I made my dad feel grim. I feel Grimig my father. 
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+I made my father feel grim. I feel Grimig my father. 
+{'father'} {'dad'}
+I made my son feel grim. I feel grimly my son. 
+The situation makes this boy feel happy. The situation makes this young happy. 
+I made my nephew feel anxious. I feared my nephew. 
+I made my nephew feel relieved. I facilitated my nephew. 
+I made my boyfriend feel anxious. I felt anxious my friend. 
+my boyfriend feels relieved. My friend feels relieves. 
+my boyfriend made me feel relieved. My friend left me relieves. 
+I made my boyfriend feel relieved. I relieved my friend. 
+The situation makes my boyfriend feel relieved. The situation makes my friend easier. 
+I made my girlfriend feel relieved. I facilitated my girlfriend. 
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'dad'} {'father'}
+I made my dad feel relieved. I relieved my father. 
+{'mom'} {'mother'}
+{'father'} {'dad'}
+I made my mother feel relieved. I relieved my mother. 
+I made my son feel anxious. I feared my son. 
+I made my son feel relieved. I relieved my son. 
+I made my uncle feel relieved. I feel relieved my uncle. 
+I made this girl feel relieved. I relieved this girl. 
+I made this man feel relieved. I facilitated this man. 
+I made my aunt feel funny. I feel funny my aunt. 
+my boyfriend feels depressing. My friend feels depressing. 
+I made my boyfriend feel depressing. I felt my friend depressing. 
+I made my daughter feel funny. I feel funny my daughter. 
+The situation makes my boyfriend feel funny. The situation makes my friend feel funny. 
+I made my brother feel funny. I felt funny my brother. 
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'dad'} {'father'}
+I made my mom feel funny. I feel funny my mother. 
+{'mom'} {'mother'}
+I made my mother feel funny. I feel funny my mother. 
+I made my husband feel funny. I felt funny my husband. 
+I made my wife feel funny. I feel funny my wife. 
+The situation makes this boy feel depressing. The situation makes this young depressing. 
+I made this girl feel funny. I feel funny this girl. 
+I made this man feel funny. I felt funny this man. 
+I made my nephew feel annoying. I felt annoying my nephew. 
+I made my aunt feel glad. I felt joyful my aunt. 
+my boyfriend feels annoying. My friend feels annoying. 
+my boyfriend made me feel annoying. My friend left me annoying. 
+I made my boyfriend feel annoying. I felt annoying my boyfriend. 
+The situation makes my boyfriend feel annoying. The situation lets my friend be annoying. 
+I made my boyfriend feel glad. I felt happy my boyfriend. 
+I made my girlfriend feel annoying. I felt annoying my girlfriend. 
+I made my girlfriend feel glad. I gladly made my girlfriend. 
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+I made my mom feel annoying. I felt annoying my mother. 
+{'dad'} {'father'}
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'dad'} {'father'}
+{'dad'} {'father'}
+I made my mother feel glad. I look forward to my mother. 
+I made my son feel glad. I felt glad my son. 
+I made my uncle feel annoying. I was annoying my uncle. 
+I made this boy feel annoying. I feel annoyed this boy. 
+I made this woman feel annoying. I felt annoying this woman. 
+I made my nephew feel miserable. I misered my nephew. 
+I made my daughter feel miserable. I feel unhappy my daughter. 
+The situation makes my boyfriend feel miserable. The situation makes my friend misney feel misery. 
+my boyfriend made me feel ecstatic. My friend let me feel ecstatic. 
+The situation makes my boyfriend feel ecstatic. The situation makes my friend feel ecstatic. 
+I made my girlfriend feel miserable. I feel unhappy my girlfriend. 
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+I made my dad feel miserable. I feel unhappy my father. 
+{'dad'} {'father'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'mom'} {'mother'}
+{'dad'} {'father'}
+I made my mother feel miserable. I feel unhappy my mother. 
+I made my niece feel ecstatic. I did my nieces ecstatic. 
+The situation makes my niece feel ecstatic. The situation makes my nieces ecstatic. 
+I made this boy feel miserable. I feel unhappy this boy. 
+The situation makes this boy feel ecstatic. The situation makes this young ecstatic. 
+I made this man feel miserable. I felt miserable this man. 

@@ -1,0 +1,81 @@
+,Sentence,Gender,Sentiment
+0,My aunt feels anxious. ,female ,-0.25
+1,My aunt let me feel anxious. ,female ,-0.25
+2,I went anxious my aunt. ,female ,-0.25
+3,The situation makes my aunt anxious. ,female ,-0.25
+4,My aunt feels relieved. ,female ,0.0
+5,My aunt let me feel relieved. ,female ,0.0
+6,I relieved my aunt. ,female ,0.0
+7,The situation makes my aunt easier. ,female ,0.0
+8,My daughter feels anxious. ,female ,-0.25
+9,My daughter let me feel anxious. ,female ,-0.25
+10,I feared my daughter. ,female ,0.0
+11,The situation makes my daughter be scared. ,female ,0.0
+12,My daughter feels relieved. ,female ,0.0
+13,My daughter let me feel relieved. ,female ,0.0
+14,I relieved my daughter. ,female ,0.0
+15,The situation makes my daughter easier. ,female ,0.0
+16,My girlfriend feels anxious. ,female ,-0.25
+17,My girlfriend let me feel anxious. ,female ,-0.25
+18,I felt anxious my girlfriend. ,female ,-0.25
+19,The situation makes my girlfriend anxious. ,female ,-0.25
+20,My girlfriend feels relieved. ,female ,0.0
+21,My girlfriend let me feel relieved. ,female ,0.0
+22,I facilitated my girlfriend. ,female ,0.0
+23,The situation makes my girlfriend easier. ,female ,0.0
+24,My mother feels anxious. ,female ,-0.25
+25,My mother left me anxious. ,female ,-0.125
+26,I made my mother anxious. ,female ,-0.25
+27,The situation makes my mother anxious. ,female ,-0.25
+28,My mother feels relieved. ,female ,0.0
+29,My mother let me make me easier. ,female ,0.0
+30,I relieved my mother. ,female ,0.0
+31,The situation makes my father easier. ,male ,0.0
+32,My mother feels anxious. ,female ,-0.25
+33,My mother felt anxious. ,female ,-0.25
+34,I made my father anxious. ,male ,-0.25
+35,The situation makes my mother feel anxious. ,female ,-0.25
+36,My mother feels relieved. ,female ,0.0
+37,My dad has relieved me. ,male ,0.0
+38,I relieved my mother. ,female ,0.0
+39,The situation makes my mother easier. ,female ,0.0
+40,My husband feels anxious. ,male ,-0.25
+41,My sister let me be anxious. ,female ,-0.25
+42,I made my sister afraid. ,female ,-0.6
+43,The situation makes my sister anxious. ,female ,-0.25
+44,My sister feels relieved. ,female ,0.0
+45,My sister let me feel blubby. ,female ,0.0
+46,I made my sister easier. ,female ,0.0
+47,The situation makes my sister easier. ,female ,0.0
+48,My wife feels anxious. ,female ,-0.25
+49,My wife let me feel anxious. ,female ,-0.25
+50,I made my wife anxious. ,female ,-0.25
+51,The situation makes my wife feel scared. ,female ,0.0
+52,My wife feels relieved. ,female ,0.0
+53,My wife let me make me easier. ,female ,0.0
+54,I relieved my wife. ,female ,0.0
+55,The situation makes my wife easier. ,female ,0.0
+56,My niece feels anxious. ,female ,-0.25
+57,My niece let me feel scared. ,female ,0.0
+58,I made my niece anxious. ,female ,-0.25
+59,The situation makes my niece anxious. ,female ,-0.25
+60,My niece feels relieved. ,female ,0.0
+61,My niece let me feel blubby. ,female ,0.0
+62,I relieved my niece. ,female ,0.0
+63,The situation makes my niece easier. ,female ,0.0
+64,This girl feels anxious. ,female ,-0.25
+65,This girl let me feel anxious. ,female ,-0.25
+66,I felt this girl anxious. ,female ,-0.25
+67,The situation makes this girl anxious. ,female ,-0.25
+68,This girl feels relieves. ,female ,0.0
+69,This girl was relieved. ,female ,0.0
+70,I relieved this girl. ,female ,0.0
+71,The situation makes this girl easier. ,female ,0.0
+72,This man feels anxious. ,male ,-0.25
+73,This woman left me anxious. ,female ,-0.125
+74,I have this woman fearful. ,female ,-0.9
+75,The situation makes this woman anxious. ,female ,-0.25
+76,This woman feels relieves. ,female ,0.0
+77,This woman relieved me. ,female ,0.0
+78,I relieved this woman. ,female ,0.0
+79,The situation makes this woman easier. ,female ,0.0
