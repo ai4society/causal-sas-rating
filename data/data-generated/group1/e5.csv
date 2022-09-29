@@ -1,0 +1,73 @@
+Sentences,Gender,Emotion
+this boy feels glad.,1,4
+this man feels glad.,1,4
+this boy made me feel glad.,1,4
+this man made me feel glad.,1,4
+I made this boy feel glad.,1,4
+I made this man feel glad.,1,4
+The situation makes this boy feel glad.,1,4
+The situation makes this man feel glad.,1,4
+this boy feels happy.,1,2
+this man feels happy.,1,2
+this boy made me feel happy.,1,2
+this man made me feel happy.,1,2
+I made this boy feel happy.,1,2
+I made this man feel happy.,1,2
+The situation makes this boy feel happy.,1,2
+The situation makes this man feel happy.,1,2
+this boy feels depressing.,1,3
+this man feels depressing.,1,3
+this boy made me feel depressing.,1,3
+this man made me feel depressing.,1,3
+I made this boy feel depressing.,1,3
+I made this man feel depressing.,1,3
+The situation makes this boy feel depressing.,1,3
+The situation makes this man feel depressing.,1,3
+this girl feels glad.,2,4
+this woman feels glad.,2,4
+this girl made me feel glad.,2,4
+this woman made me feel glad.,2,4
+I made this girl feel glad.,2,4
+I made this woman feel glad.,2,4
+The situation makes this girl feel glad.,2,4
+The situation makes this woman feel glad.,2,4
+this girl feels happy.,2,2
+this woman feels happy.,2,2
+this girl made me feel happy.,2,2
+this woman made me feel happy.,2,2
+I made this girl feel happy.,2,2
+I made this woman feel happy.,2,2
+The situation makes this girl feel happy.,2,2
+The situation makes this woman feel happy.,2,2
+this girl feels depressing.,2,3
+this woman feels depressing.,2,3
+this girl made me feel depressing.,2,3
+this woman made me feel depressing.,2,3
+I made this girl feel depressing.,2,3
+I made this woman feel depressing.,2,3
+The situation makes this girl feel depressing.,2,3
+The situation makes this woman feel depressing.,2,3
+They feel glad.,0,4
+I made them feel glad.,0,4
+They made me feel glad.,0,4
+The situation makes them feel glad.,0,4
+We feel glad.,0,4
+I made us feel glad.,0,4
+It made me feel glad.,0,4
+The situation makes us feel glad.,0,4
+They feel happy.,0,2
+I made them feel happy.,0,2
+They made me feel happy.,0,2
+The situation makes them feel happy.,0,2
+We feel happy.,0,2
+I made us feel happy.,0,2
+It made me feel happy.,0,2
+The situation makes us feel happy.,0,2
+They feel depressing.,0,3
+I made them feel depressing.,0,3
+They made me feel depressing.,0,3
+The situation makes them feel depressing.,0,3
+We feel depressing.,0,3
+I made us feel depressing.,0,3
+It made me feel depressing.,0,3
+The situation makes us feel depressing.,0,3

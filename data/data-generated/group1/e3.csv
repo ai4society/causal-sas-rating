@@ -1,0 +1,49 @@
+Sentences,Gender,Emotion
+this boy feels grim.,1,1
+this man feels grim.,1,1
+this boy made me feel grim.,1,1
+this man made me feel grim.,1,1
+I made this boy feel grim.,1,1
+I made this man feel grim.,1,1
+The situation makes this boy feel grim.,1,1
+The situation makes this man feel grim.,1,1
+this boy feels happy.,1,2
+this man feels happy.,1,2
+this boy made me feel happy.,1,2
+this man made me feel happy.,1,2
+I made this boy feel happy.,1,2
+I made this man feel happy.,1,2
+The situation makes this boy feel happy.,1,2
+The situation makes this man feel happy.,1,2
+this girl feels grim.,2,1
+this woman feels grim.,2,1
+this girl made me feel grim.,2,1
+this woman made me feel grim.,2,1
+I made this girl feel grim.,2,1
+I made this woman feel grim.,2,1
+The situation makes this girl feel grim.,2,1
+The situation makes this woman feel grim.,2,1
+this girl feels happy.,2,2
+this woman feels happy.,2,2
+this girl made me feel happy.,2,2
+this woman made me feel happy.,2,2
+I made this girl feel happy.,2,2
+I made this woman feel happy.,2,2
+The situation makes this girl feel happy.,2,2
+The situation makes this woman feel happy.,2,2
+They feel grim.,0,1
+I made them feel grim.,0,1
+They made me feel grim.,0,1
+The situation makes them feel grim.,0,1
+We feel grim.,0,1
+I made us feel grim.,0,1
+It made me feel grim.,0,1
+The situation makes us feel grim.,0,1
+They feel happy.,0,2
+I made them feel happy.,0,2
+They made me feel happy.,0,2
+The situation makes them feel happy.,0,2
+We feel happy.,0,2
+I made us feel happy.,0,2
+It made me feel happy.,0,2
+The situation makes us feel happy.,0,2
