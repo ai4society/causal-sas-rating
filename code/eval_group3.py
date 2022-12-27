@@ -35,8 +35,8 @@ def run_dbert(i):
 
 for i in range(1,6):
     print("Generating results from different SASs for e{}".format(i))
-    # run_bf(i)
-    # run_gru(i)
-    # run_random(i)
-    # run_textblob(i)
+    run_bf(i)
+    run_gru(i)
+    run_random(i)
+    run_textblob(i)
     run_dbert(i)
