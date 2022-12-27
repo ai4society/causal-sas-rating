@@ -35,8 +35,8 @@ def run_dbert():
 
 
 print("Generating results from different SASs for e3")
-# run_bf()
-# run_gru()
-# run_random()
+run_bf()
+run_gru()
+run_random()
 run_textblob()
-# run_dbert()
+run_dbert()
