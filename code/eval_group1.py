@@ -12,7 +12,7 @@ def run_gru(i):
     sys.path.insert(1, 'sentiment-models/gru/')
     import ClassificationGRU
     print("Generating results from GRU SAS...")
-    ClassificationGRU.g1("../data/data-generated/group1/e{}.csv".format(i),i,1,0)
+    # ClassificationGRU.g1("../data/data-generated/group1/e{}.csv".format(i),i,1,0)
     ClassificationGRU.g1("../data/data-generated/group1/e{}.csv".format(i),i,1,1)
 
 
@@ -27,7 +27,7 @@ def run_textblob(i):
     sys.path.insert(1, 'sentiment-models/textblob/')
     import textblob_sas
     print("Generating results from Textblob SAS...")
-    textblob_sas.g1("../data/data-generated/group1/e{}.csv".format(i),i,1,0)
+    # textblob_sas.g1("../data/data-generated/group1/e{}.csv".format(i),i,1,0)
     textblob_sas.g1("../data/data-generated/group1/e{}.csv".format(i),i,1,1)
 
 
@@ -40,8 +40,8 @@ def run_dbert(i):
 
 for i in range(1,6):
     print("Generating results from different SASs for e{}".format(i))
-    run_bf(i)
-    # run_gru(i)
-    run_random(i)
+    # run_bf(i)
+    run_gru(i)
+    # run_random(i)
     run_textblob(i)
-    run_dbert(i)
+    # run_dbert(i)
