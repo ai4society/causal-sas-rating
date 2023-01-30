@@ -18,8 +18,8 @@ from keras.layers import SpatialDropout1D,Dropout,Bidirectional,Conv1D,GlobalMax
 from keras.callbacks import ModelCheckpoint, TensorBoard, Callback, EarlyStopping
 
 
-
-def gru_sentiment(path,k):
+# 'c' is a flag which tells whether the sentiment is binary or continuous attribute.
+def gru_sentiment(path,k,c):
 
     with open('./sentiment-models/gru/tokenizer.pickle', 'rb') as h:
         tokenizer = pickle.load(h)
@@ -57,6 +57,10 @@ def gru_sentiment(path,k):
             sen.append(1)
         elif each < 0:
             sen.append(0)
+    
+    # For non-binary sentiment,
+    if c == 1:
+        sen = sentiment_norm
 
 
     g1 = {'Gender':gender,'Emotion':eec_data['Emotion'], 'Sentiment':sen}
@@ -69,27 +73,42 @@ def gru_sentiment(path,k):
 
 
 
-def g1(path,i,k):
 
-    df = gru_sentiment(path,k)
+def g1(path,i,k,c):
+
+    df = gru_sentiment(path,k,c)
     final_df = pd.DataFrame(df, columns=['Gender','Emotion','Sentiment'])
-    final_df.to_csv('../data/results/group1/gru/e{}_gru.csv'.format(i),index=False)
+    if c==0:
+        final_df.to_csv('../data/results/group1/gru/e{}_gru.csv'.format(i),index=False)
+    else:
+        final_df.to_csv('../data/results/continuous/group1/gru/e{}_gru.csv'.format(i),index=False)
 
-def g2(path,k):
 
-    df = gru_sentiment(path,k)
+def g2(path,k,c):
+
+    df = gru_sentiment(path,k,c)
     final_df = pd.DataFrame(df, columns=['Gender','Emotion','Sentiment'])
-    final_df.to_csv('../data/results/group2/gru/e3_gru.csv',index=False)
+    if c == 0:
+        final_df.to_csv('../data/results/group2/gru/e3_gru.csv',index=False)
+    else:
+        final_df.to_csv('../data/results/continuous/group2/gru/e3_gru.csv',index=False)
+        
 
-def g3(path,i,k):
+def g3(path,i,k,c):
 
-    df = gru_sentiment(path,k)
+    df = gru_sentiment(path,k,c)
     final_df = pd.DataFrame(df, columns=['Gender','Race','Emotion','Sentiment'])
-    final_df.to_csv('../data/results/group3/gru/e{}_gru.csv'.format(i),index=False)
+    if c == 0:
+        final_df.to_csv('../data/results/group3/gru/e{}_gru.csv'.format(i),index=False)
+    else:
+        final_df.to_csv('../data/results/continuous/group3/gru/e{}_gru.csv'.format(i),index=False)
 
 
-def g4(path,k):
+def g4(path,k,c):
 
-    df = gru_sentiment(path,k)
+    df = gru_sentiment(path,k,c)
     final_df = pd.DataFrame(df, columns=['Gender','Race','Emotion','Sentiment'])
-    final_df.to_csv('../data/results/group4/gru/e3_gru.csv',index=False)
+    if c == 0:
+        final_df.to_csv('../data/results/group4/gru/e3_gru.csv',index=False)
+    else:
+        final_df.to_csv('../data/results/continuous/group4/gru/e3_gru.csv',index=False)

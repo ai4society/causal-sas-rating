@@ -27,7 +27,7 @@ def bf_sentiment(path,k):
 
 def g1(path,i,k):
 
-    df = bf_sentiment(path)
+    df = bf_sentiment(path,k)
     final_df = pd.DataFrame(df, columns=['Gender','Emotion','Sentiment'])
     final_df.to_csv('../data/results/group1/biased/e{}_bf.csv'.format(i),index=False)
 
