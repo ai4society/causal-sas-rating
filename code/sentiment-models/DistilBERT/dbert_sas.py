@@ -34,11 +34,11 @@ def g1(path,i,k):
     final_df = pd.DataFrame(df, columns=['Gender','Emotion','Sentiment'])
     final_df.to_csv('../data/results/group1/dbert/e{}_dbert.csv'.format(i),index=False)
 
-def g2(path,k):
+def g2(path,i,k):
 
     df = bertsentiment(path,k)
     final_df = pd.DataFrame(df, columns=['Gender','Emotion','Sentiment'])
-    final_df.to_csv('../data/results/group2/dbert/e3_dbert.csv',index=False)
+    final_df.to_csv('../data/results/group2/dbert/e{}_dbert.csv'.format(i),index=False)
 
 def g3(path,i,k):
 
@@ -46,8 +46,8 @@ def g3(path,i,k):
     final_df = pd.DataFrame(df, columns=['Gender','Race','Emotion','Sentiment'])
     final_df.to_csv('../data/results/group3/dbert/e{}_dbert.csv'.format(i),index=False)
 
-def g4(path,k):
+def g4(path,i,k):
 
     df = bertsentiment(path,k)
     final_df = pd.DataFrame(df, columns=['Gender','Race','Emotion','Sentiment'])
-    final_df.to_csv('../data/results/group4/dbert/e3_dbert.csv',index=False)
+    final_df.to_csv('../data/results/group4/dbert/e{}_dbert.csv'.format(i),index=False)

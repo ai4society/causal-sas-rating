@@ -57,7 +57,7 @@ def gru_sentiment(path,k,c):
             sen.append(1)
         elif each < 0:
             sen.append(0)
-    
+
     # For non-binary sentiment,
     if c == 1:
         sen = sentiment_norm
@@ -84,15 +84,15 @@ def g1(path,i,k,c):
         final_df.to_csv('../data/results/continuous/group1/gru/e{}_gru.csv'.format(i),index=False)
 
 
-def g2(path,k,c):
+def g2(path,i,k,c):
 
     df = gru_sentiment(path,k,c)
     final_df = pd.DataFrame(df, columns=['Gender','Emotion','Sentiment'])
     if c == 0:
-        final_df.to_csv('../data/results/group2/gru/e3_gru.csv',index=False)
+        final_df.to_csv('../data/results/group2/gru/e{}_gru.csv'.format(i),index=False)
     else:
-        final_df.to_csv('../data/results/continuous/group2/gru/e3_gru.csv',index=False)
-        
+        final_df.to_csv('../data/results/continuous/group2/gru/e{}_gru.csv'.format(i),index=False)
+
 
 def g3(path,i,k,c):
 
@@ -104,11 +104,11 @@ def g3(path,i,k,c):
         final_df.to_csv('../data/results/continuous/group3/gru/e{}_gru.csv'.format(i),index=False)
 
 
-def g4(path,k,c):
+def g4(path,i,k,c):
 
     df = gru_sentiment(path,k,c)
     final_df = pd.DataFrame(df, columns=['Gender','Race','Emotion','Sentiment'])
     if c == 0:
-        final_df.to_csv('../data/results/group4/gru/e3_gru.csv',index=False)
+        final_df.to_csv('../data/results/group4/gru/e{}_gru.csv'.format(i),index=False)
     else:
-        final_df.to_csv('../data/results/continuous/group4/gru/e3_gru.csv',index=False)
+        final_df.to_csv('../data/results/continuous/group4/gru/e{}_gru.csv'.format(i),index=False)

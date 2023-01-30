@@ -40,11 +40,11 @@ def g1(path,i,k):
     final_df = pd.DataFrame(df, columns=['Gender','Emotion','Sentiment'])
     final_df.to_csv('../data/results/group1/random/e{}_random.csv'.format(i),index=False)
 
-def g2(path,k):
+def g2(path,i,k):
 
     df = random_sentiment(path,k)
     final_df = pd.DataFrame(df, columns=['Gender','Emotion','Sentiment'])
-    final_df.to_csv('../data/results/group2/random/e3_random.csv',index=False)
+    final_df.to_csv('../data/results/group2/random/e{}_random.csv'.format(i),index=False)
 
 
 def g3(path,i,k):
@@ -53,8 +53,8 @@ def g3(path,i,k):
     final_df = pd.DataFrame(df, columns=['Gender','Race','Emotion','Sentiment'])
     final_df.to_csv('../data/results/group3/random/e{}_random.csv'.format(i),index=False)
 
-def g4(path,k):
+def g4(path,i,k):
 
     df = random_sentiment(path,k)
     final_df = pd.DataFrame(df, columns=['Gender','Race','Emotion','Sentiment'])
-    final_df.to_csv('../data/results/group4/random/e3_random.csv',index=False)
+    final_df.to_csv('../data/results/group4/random/e{}_random.csv'.format(i),index=False)

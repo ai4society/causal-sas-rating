@@ -1,6 +1,18 @@
 import pandas as pd
 import random
 import itertools
+import numpy as np
+
+
+
+
+
+
+
+
+
+
+
 
 
 def generate_group(neg_words, pos_words, case_m, case_f, case_n, word_set_no):
@@ -34,53 +46,84 @@ def generate_group(neg_words, pos_words, case_m, case_f, case_n, word_set_no):
     m_p_c = 0
     m_n_c = 0
 
-    for p,n in zip(pos_words,neg_words):
-        for t in template:
-            for g in male:
-                choice = random.choices(em_type,case_m)
-                if choice == ["pos"]:
-                    ems.append(1)
-                    sentences.append(t.replace("<emotion word>",p).replace("<person subject>",g).replace("<person object>",g))
-                    gender.append(1)
-                    m_p_c = m_p_c + 1
-                elif choice == ["neg"]:
-                    ems.append(0)
-                    sentences.append(t.replace("<emotion word>",n).replace("<person subject>",g).replace("<person object>",g))
-                    gender.append(1)
-                    m_n_c = m_n_c + 1
+    # for p,n in pos_words,neg_words:
+    p = pos_words
+    n = neg_words
+    for t in template:
+        for g in male:
+            choice = random.choices(em_type,case_m)
+            if choice == ["pos"]:
+                if len(p) > 1:
+                    word = np.random.choice(p)
+                else: 
+                    word = p[0]
+                ems.append(1)
+                sentences.append(t.replace("<emotion word>",word).replace("<person subject>",g).replace("<person object>",g))
+                gender.append(1)
+                m_p_c = m_p_c + 1
+            elif choice == ["neg"]:
+                if len(n) > 1:
+                    word = np.random.choice(n)
+                else: 
+                    word = n[0]
+                ems.append(0)
+                sentences.append(t.replace("<emotion word>",word).replace("<person subject>",g).replace("<person object>",g))
+                gender.append(1)
+                m_n_c = m_n_c + 1
 
     f_p_c = 0
     f_n_c = 0
-    for p,n in zip(pos_words,neg_words):
-        for t in template:
-            for g in female:
-                choice = random.choices(em_type,case_f)
-                if choice == ["pos"]:
-                    ems.append(1)
-                    sentences.append(t.replace("<emotion word>",p).replace("<person subject>",g).replace("<person object>",g))
-                    gender.append(2)
-                    f_p_c = f_p_c + 1
-                elif choice == ["neg"]:
-                    ems.append(0)
-                    sentences.append(t.replace("<emotion word>",n).replace("<person subject>",g).replace("<person object>",g))
-                    gender.append(2)
-                    f_n_c = f_n_c + 1
+    # for p,n in zip(pos_words,neg_words):    
+    # 
+ 
+
+    for t in template:
+        for g in female:
+            choice = random.choices(em_type,case_f)
+            if choice == ["pos"]:
+                if len(p) > 1:
+                    word = np.random.choice(p)
+                else: 
+                    word = p[0]
+                ems.append(1)
+                sentences.append(t.replace("<emotion word>",word).replace("<person subject>",g).replace("<person object>",g))
+                gender.append(2)
+                f_p_c = f_p_c + 1
+            elif choice == ["neg"]:
+                if len(n) > 1:
+                    word = np.random.choice(n)
+                else: 
+                    word = n[0]
+                ems.append(0)
+                sentences.append(t.replace("<emotion word>",word).replace("<person subject>",g).replace("<person object>",g))
+                gender.append(2)
+                f_n_c = f_n_c + 1
 
     n_p_c = 0
     n_n_c = 0
-    for p,n in zip(pos_words,neg_words):
-        for t in template_na:
-            choice = random.choices(em_type,case_n)
-            if choice == ["pos"]:
-                ems.append(1)
-                sentences.append(t.replace("<emotion word>",p))
-                gender.append(0)
-                n_p_c = n_p_c + 1
-            elif choice == ["neg"]:
-                ems.append(0)
-                sentences.append(t.replace("<emotion word>",n))
-                gender.append(0)
-                n_n_c = n_n_c + 1
+    # for p,n in zip(pos_words,neg_words):
+
+  
+    for t in template_na:
+        choice = random.choices(em_type,case_n)
+        if choice == ["pos"]:
+            if len(p) > 1:
+                word = np.random.choice(p)
+            else: 
+                word = p[0]
+            ems.append(1)
+            sentences.append(t.replace("<emotion word>",word))
+            gender.append(0)
+            n_p_c = n_p_c + 1
+        elif choice == ["neg"]:
+            if len(n) > 1:
+                word = np.random.choice(n)
+            else: 
+                word = n[0]
+            ems.append(0)
+            sentences.append(t.replace("<emotion word>",word))
+            gender.append(0)
+            n_n_c = n_n_c + 1
 
 
     final = {'Sentences':sentences,'Gender':gender, 'Emotion':ems}
