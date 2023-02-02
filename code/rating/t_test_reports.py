@@ -452,3 +452,63 @@ for alpha,name in zip(alphas,f_names):
                 t_test_rg(f,alpha)
 
     sys.stdout.close()
+
+for alpha,name in zip(alphas,f_names):
+
+	print("RESULTS FOR CONTINUOUS SENTIMENT VALUES: \n")
+
+	sys.stdout=open("calc_results/continuous/{}/group1_test_{}.txt".format(name,alpha),"w")
+	print("\nFor Group 1: \n")
+
+	# Group-1
+	path = "../../data/results/continuous/group1/"
+
+	for folder in os.listdir("../../data/results/continuous/group1/"):
+		for file in os.listdir(path + folder):
+            print("Processing {}".format(folder))
+            print("Calculating results for {}".format(file))
+            with open(os.path.join(path+folder+"/"+file), 'r') as f:
+                t_test_gender(f,alpha)
+
+    sys.stdout.close()
+
+
+	# Group-3
+	sys.stdout=open("calc_results/continuous/{}/group3_test_{}.txt".format(name,alpha),"w")
+	print("\nFor Group 3 gender: \n")
+
+	path = "../../data/results/continuous/group3/"
+
+	for folder in os.listdir("../../data/results/continuous/group3/"):
+		for file in os.listdir(path + folder):
+        print("Processing {}".format(folder))
+		print("Calculating results for {}".format(file))
+		with open(os.path.join(path+folder+"/"+file), 'r') as f:
+			t_test_gender(f,alpha)
+
+
+	print("\nFor Group 3 race: \n")
+
+	path = "../../data/results/continuous/group3/"
+
+	for folder in os.listdir("../../data/results/continuous/group3/"):
+		for file in os.listdir(path + folder):
+        print("Processing {}".format(folder))
+		print("Calculating results for {}".format(file))
+		with open(os.path.join(path+folder+"/"+file), 'r') as f:
+			t_test_race(f,alpha)
+
+	sys.stdout.close()
+
+    sys.stdout=open("calc_results/{}/group3_comb_{}.txt".format(name,alpha),"w")
+
+    print("\nFor Group 3 Combined: \n")
+    path = "../../data/results/continuous/group3_combined/"
+    for folder in os.listdir("../../data/results/group3_combined/"):
+        for file in os.listdir(path + folder):
+            print("Processing {}".format(folder))
+            print("Calculating results for {}".format(file))
+            with open(os.path.join(path+folder+"/"+file), 'r') as f:
+                t_test_rg(f,alpha)
+
+    sys.stdout.close()

@@ -34,17 +34,16 @@ def gen_rg(path,dest):
     data.to_csv(dest, index=False)
 
 
-# p = "../../data/results/group3/"
-# for folder in os.listdir(p):
-#     for file in os.listdir(p + folder):
-#         print("Processing {}".format(folder))
-#         print("Processing {}\n".format(file))
-#         dest = '../../data/results/group3_combined/'+folder+'/'+'comb_'+file
-#         with open(os.path.join(p+folder+"/"+file), 'r') as f:
-#             gen_rg(f,dest)
-#
-# print("Done!")
+p = "../../data/results/group3/"
+for folder in os.listdir(p):
+    for file in os.listdir(p + folder):
+        print("Processing {}".format(folder))
+        print("Processing {}\n".format(file))
+        dest = '../../data/results/group3_combined/'+folder+'/'+'comb_'+file
+        with open(os.path.join(p+folder+"/"+file), 'r') as f:
+            gen_rg(f,dest)
 
+print("Done!")
 
 p = "../../data/results/group4/"
 for folder in os.listdir(p):
@@ -52,6 +51,28 @@ for folder in os.listdir(p):
         print("Processing {}".format(folder))
         print("Processing {}\n".format(file))
         dest = '../../data/results/group4_combined/'+folder+'/'+'comb_'+file
+        with open(os.path.join(p+folder+"/"+file), 'r') as f:
+            gen_rg(f,dest)
+
+print("Done!")
+
+p = "../../data/results/continuous/group3/"
+for folder in os.listdir(p):
+    for file in os.listdir(p + folder):
+        print("Processing {}".format(folder))
+        print("Processing {}\n".format(file))
+        dest = '../../data/results/continuous/group3_combined/'+folder+'/'+'comb_'+file
+        with open(os.path.join(p+folder+"/"+file), 'r') as f:
+            gen_rg(f,dest)
+
+print("Done!")
+
+p = "../../data/results/continuous/group4/"
+for folder in os.listdir(p):
+    for file in os.listdir(p + folder):
+        print("Processing {}".format(folder))
+        print("Processing {}\n".format(file))
+        dest = '../../data/results/continuous/group4_combined/'+folder+'/'+'comb_'+file
         with open(os.path.join(p+folder+"/"+file), 'r') as f:
             gen_rg(f,dest)
 

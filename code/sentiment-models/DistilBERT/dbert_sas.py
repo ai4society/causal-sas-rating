@@ -2,7 +2,7 @@ import pandas as pd
 from transformers import pipeline
 sentimentanalyzer = pipeline("sentiment-analysis")
 
-def bertsentiment(path,k):
+def bertsentiment(path,k,c):
 
     set = pd.read_csv(path,engine="python")
     senti = []
@@ -28,26 +28,38 @@ def bertsentiment(path,k):
         return g1
 
 
-def g1(path,i,k):
+def g1(path,i,k,c):
 
     df = bertsentiment(path,k)
     final_df = pd.DataFrame(df, columns=['Gender','Emotion','Sentiment'])
-    final_df.to_csv('../data/results/group1/dbert/e{}_dbert.csv'.format(i),index=False)
+    if c == 0:
+        final_df.to_csv('../data/results/group1/dbert/e{}_dbert.csv'.format(i),index=False)
+    else:
+        final_df.to_csv('../data/results/continuous/group1/dbert/e{}_dbert.csv'.format(i),index=False)
 
-def g2(path,i,k):
+def g2(path,i,k,c):
 
     df = bertsentiment(path,k)
     final_df = pd.DataFrame(df, columns=['Gender','Emotion','Sentiment'])
-    final_df.to_csv('../data/results/group2/dbert/e{}_dbert.csv'.format(i),index=False)
+    if c == 0:
+        final_df.to_csv('../data/results/group2/dbert/e{}_dbert.csv'.format(i),index=False)
+    else:
+        final_df.to_csv('../data/results/continuous/group2/dbert/e{}_dbert.csv'.format(i),index=False)
 
-def g3(path,i,k):
-
-    df = bertsentiment(path,k)
-    final_df = pd.DataFrame(df, columns=['Gender','Race','Emotion','Sentiment'])
-    final_df.to_csv('../data/results/group3/dbert/e{}_dbert.csv'.format(i),index=False)
-
-def g4(path,i,k):
+def g3(path,i,k,c):
 
     df = bertsentiment(path,k)
     final_df = pd.DataFrame(df, columns=['Gender','Race','Emotion','Sentiment'])
-    final_df.to_csv('../data/results/group4/dbert/e{}_dbert.csv'.format(i),index=False)
+    if c == 0:
+        final_df.to_csv('../data/results/group3/dbert/e{}_dbert.csv'.format(i),index=False)
+    else:
+        final_df.to_csv('../data/results/continuous/group3/dbert/e{}_dbert.csv'.format(i),index=False)
+
+def g4(path,i,k,c):
+
+    df = bertsentiment(path,k)
+    final_df = pd.DataFrame(df, columns=['Gender','Race','Emotion','Sentiment'])
+    if c == 0:
+        final_df.to_csv('../data/results/group4/dbert/e{}_dbert.csv'.format(i),index=False)
+    else:
+        final_df.to_csv('../data/results/continuous/group4/dbert/e{}_dbert.csv'.format(i),index=False)

@@ -2,7 +2,7 @@ import pandas as pd
 
 
 
-def bf_sentiment(path,k):
+def bf_sentiment(path,k,c):
 
     set = pd.read_csv(path,engine="python")
 
@@ -25,26 +25,39 @@ def bf_sentiment(path,k):
     elif k == 1:
         return g1
 
-def g1(path,i,k):
+def g1(path,i,k,c):
 
     df = bf_sentiment(path,k)
     final_df = pd.DataFrame(df, columns=['Gender','Emotion','Sentiment'])
-    final_df.to_csv('../data/results/group1/biased/e{}_bf.csv'.format(i),index=False)
+    if c == 0:
+        final_df.to_csv('../data/results/group1/biased/e{}_bf.csv'.format(i),index=False)
+    else:
+        final_df.to_csv('../data/results/continuous/group1/biased/e{}_bf.csv'.format(i),index=False)
 
-def g2(path,i,k):
+
+def g2(path,i,k,c):
 
     df = bf_sentiment(path,k)
     final_df = pd.DataFrame(df, columns=['Gender','Emotion','Sentiment'])
-    final_df.to_csv('../data/results/group2/biased/e{}_bf.csv'.format(i),index=False)
+    if c == 0:
+        final_df.to_csv('../data/results/group2/biased/e{}_bf.csv'.format(i),index=False)
+    else:
+        final_df.to_csv('../data/results/continuous/group2/biased/e{}_bf.csv'.format(i),index=False)
 
-def g3(path,i,k):
-
-    df = bf_sentiment(path,k)
-    final_df = pd.DataFrame(df, columns=['Gender','Race','Emotion','Sentiment'])
-    final_df.to_csv('../data/results/group3/biased/e{}_bf.csv'.format(i),index=False)
-
-def g4(path,i,k):
+def g3(path,i,k,c):
 
     df = bf_sentiment(path,k)
     final_df = pd.DataFrame(df, columns=['Gender','Race','Emotion','Sentiment'])
-    final_df.to_csv('../data/results/group4/biased/e{}_bf.csv'.format(i),index=False)
+    if c == 0:
+        final_df.to_csv('../data/results/group3/biased/e{}_bf.csv'.format(i),index=False)
+    else:
+        final_df.to_csv('../data/results/continuous/group3/biased/e{}_bf.csv'.format(i),index=False)
+
+def g4(path,i,k,c):
+
+    df = bf_sentiment(path,k)
+    final_df = pd.DataFrame(df, columns=['Gender','Race','Emotion','Sentiment'])
+    if c == 0:
+        final_df.to_csv('../data/results/group4/biased/e{}_bf.csv'.format(i),index=False)
+    else:
+        final_df.to_csv('../data/results/continuous/group4/biased/e{}_bf.csv'.format(i),index=False)
