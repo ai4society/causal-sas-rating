@@ -1,0 +1,127 @@
+input_time|conversation_id|count|intent|user_input| entity_name|entity_value|action|bot_reply|
+2022-08-10 12:33:49.003861|fc24d79515be4aba8dfdb88baf17bd2c|U0|greet|/greet|
+2022-08-10 12:33:49.003960|fc24d79515be4aba8dfdb88baf17bd2c|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+2022-08-10 12:33:49.004026|fc24d79515be4aba8dfdb88baf17bd2c|U1|application_fee|How to apply? How much is the application fee?|
+2022-08-10 12:33:49.004110|fc24d79515be4aba8dfdb88baf17bd2c|B1|||||utter_application_fee|$65 (Common Application Fee without waiver)
+2022-08-10 12:33:49.004170|fc24d79515be4aba8dfdb88baf17bd2c|B2|||||utter_did_that_help|Was this helpful?
+2022-08-10 12:33:49.004228|fc24d79515be4aba8dfdb88baf17bd2c|U2|helpfulness_rating|helpfulness_1|
+2022-08-10 12:33:49.004308|fc24d79515be4aba8dfdb88baf17bd2c|B3|||||utter_carry_on|Thanks, carry on!
+2022-08-10 12:33:49.004366|fc24d79515be4aba8dfdb88baf17bd2c|U3|greet|hi|
+2022-08-10 12:33:49.004443|fc24d79515be4aba8dfdb88baf17bd2c|B4|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+2022-08-10 12:33:49.004503|fc24d79515be4aba8dfdb88baf17bd2c|U4|goodbye|bye|
+2022-08-10 12:33:49.004581|fc24d79515be4aba8dfdb88baf17bd2c|B5|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-08-10 12:33:49.004640|fc24d79515be4aba8dfdb88baf17bd2c|U5|deny|No|
+2022-08-10 12:33:49.004716|fc24d79515be4aba8dfdb88baf17bd2c|B6|||||utter_ask_short_feedback|Sorry to hear that. Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+2022-08-10 12:33:49.004785|fc24d79515be4aba8dfdb88baf17bd2c|U6|short_feedback_rating|short_5|
+2022-08-10 12:33:49.004863|fc24d79515be4aba8dfdb88baf17bd2c|B7|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.【Conversation ended】
+2022-08-10 12:48:04.940573|156171a464b1403586aa3802b347a6f2|U0|greet|/greet|
+2022-08-10 12:48:04.940670|156171a464b1403586aa3802b347a6f2|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+2022-08-10 12:48:04.940738|156171a464b1403586aa3802b347a6f2|U1|courses|hello how can i register for courses|
+2022-08-10 12:48:04.940820|156171a464b1403586aa3802b347a6f2|B1|||||utter_courses|Please contact your course professor or teaching assistant. You may also find a mentor at USC.
+2022-08-10 12:48:04.940884|156171a464b1403586aa3802b347a6f2|B2|||||utter_did_that_help|Was this helpful?
+2022-08-10 12:48:04.940945|156171a464b1403586aa3802b347a6f2|U2|helpfulness_rating|helpfulness_3|
+2022-08-10 12:48:04.941024|156171a464b1403586aa3802b347a6f2|B3|||||utter_carry_on|Thanks, carry on!
+2022-08-10 12:48:04.941081|156171a464b1403586aa3802b347a6f2|U3|transport_use|what is the right course to take|
+2022-08-10 12:48:04.941159|156171a464b1403586aa3802b347a6f2|B4|||||utter_transport_use|There is a public bus service called COMET. The university has also a bus line connecting housing places to the campus.
+2022-08-10 12:48:04.941218|156171a464b1403586aa3802b347a6f2|B5|||||utter_did_that_help|Was this helpful?
+2022-08-10 12:48:04.941275|156171a464b1403586aa3802b347a6f2|U4|helpfulness_rating|helpfulness_3|
+2022-08-10 12:48:04.941365|156171a464b1403586aa3802b347a6f2|B6|||||utter_carry_on|Thanks, carry on!
+2022-08-10 12:48:04.941422|156171a464b1403586aa3802b347a6f2|U5|cost|how to find an apartment|
+2022-08-10 12:48:04.941498|156171a464b1403586aa3802b347a6f2|B7|||||utter_cost|Typical student apartment price in Columbia range from 500-1500 USD. A room can be found at 350-600 USD.
+2022-08-10 12:48:04.941558|156171a464b1403586aa3802b347a6f2|B8|||||utter_did_that_help|Was this helpful?
+2022-08-10 12:48:04.941615|156171a464b1403586aa3802b347a6f2|U6|student_card|how to get the student card|
+2022-08-10 12:48:04.941693|156171a464b1403586aa3802b347a6f2|B9|||||utter_student_card|First year students, in order to receive your CarolinaCard upon move-in you must upload your photo and sign the cardholder agreement.  Transfer students, please follow the requirements above in order to pick up your CarolinaCard in our office in the basement of the Russell House Student Union on Greene Street.  Faculty and staff, you will also need to follow the requirements above and come to the CarolinaCard office inside the Russell House.
+2022-08-10 12:48:04.941734|156171a464b1403586aa3802b347a6f2|B10|||||utter_did_that_help|Was this helpful?
+2022-08-10 12:48:04.941770|156171a464b1403586aa3802b347a6f2|U7|helpfulness_rating|helpfulness_2|
+2022-08-10 12:48:04.941817|156171a464b1403586aa3802b347a6f2|B11|||||utter_carry_on|Thanks, carry on!
+2022-08-10 12:48:04.941852|156171a464b1403586aa3802b347a6f2|U8|access_application|how to apply for the university|
+2022-08-10 12:48:04.941900|156171a464b1403586aa3802b347a6f2|B12|||||utter_access_application|Please refer https://sc.edu/apply/index.php 
+2022-08-10 12:48:04.941936|156171a464b1403586aa3802b347a6f2|B13|||||utter_did_that_help|Was this helpful?
+2022-08-10 12:48:04.941971|156171a464b1403586aa3802b347a6f2|U9|helpfulness_rating|helpfulness_1|
+2022-08-10 12:48:04.942018|156171a464b1403586aa3802b347a6f2|B14|||||utter_carry_on|Thanks, carry on!
+2022-08-10 12:48:04.942053|156171a464b1403586aa3802b347a6f2|U10|nlu_fallback|where is our lab|
+2022-08-10 12:48:04.942101|156171a464b1403586aa3802b347a6f2|B15|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question?
+2022-08-10 12:48:04.942137|156171a464b1403586aa3802b347a6f2|U11|nlu_fallback|where is lab of science and technology|
+2022-08-10 12:48:04.942186|156171a464b1403586aa3802b347a6f2|B16|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question?
+2022-08-10 12:48:04.942221|156171a464b1403586aa3802b347a6f2|U12|get_jobs|where can i get on campus jo inforamtion|
+2022-08-10 12:48:04.942269|156171a464b1403586aa3802b347a6f2|B17|||||utter_get_jobs|The USC Career Center is dedicated to supporting your needs at all stages of the process, whether you are still making decisions about your future direction, looking for hands-on experiences, or are ready for the next steps that will prepare you to live out your career goals.
+2022-08-10 12:48:04.942308|156171a464b1403586aa3802b347a6f2|B18|||||utter_did_that_help|Was this helpful?
+2022-08-10 12:48:04.942344|156171a464b1403586aa3802b347a6f2|U13|nlu_fallback|phd requirement for computer scinece students|
+2022-08-10 12:48:04.942392|156171a464b1403586aa3802b347a6f2|B19|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question?
+2022-08-10 12:48:04.942427|156171a464b1403586aa3802b347a6f2|U14|goodbye|bye|
+2022-08-10 12:48:04.942475|156171a464b1403586aa3802b347a6f2|B20|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-08-10 12:48:04.942510|156171a464b1403586aa3802b347a6f2|U15|affirm|Yes|
+2022-08-10 12:48:04.942557|156171a464b1403586aa3802b347a6f2|B21|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-08-10 12:48:04.942594|156171a464b1403586aa3802b347a6f2|U16|satisfy_rating|satisfy_3|
+2022-08-10 12:48:04.942642|156171a464b1403586aa3802b347a6f2|B22|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-08-10 12:48:04.942677|156171a464b1403586aa3802b347a6f2|U17|interaction_rating|interaction_3|
+2022-08-10 12:48:04.942725|156171a464b1403586aa3802b347a6f2|B23|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-08-10 12:48:04.942760|156171a464b1403586aa3802b347a6f2|U18|preference_rating|preference_4|
+2022-08-10 12:48:04.942808|156171a464b1403586aa3802b347a6f2|B24|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-08-10 12:48:04.942844|156171a464b1403586aa3802b347a6f2|U19|future_use_rating|future_use_3|
+2022-08-10 12:48:04.942891|156171a464b1403586aa3802b347a6f2|B25|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-08-10 12:48:04.942939|156171a464b1403586aa3802b347a6f2|U20|overall_rating|overall_4|
+2022-08-10 12:48:04.942988|156171a464b1403586aa3802b347a6f2|B26|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-08-10 12:48:04.943025|156171a464b1403586aa3802b347a6f2|B27|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-08-10 12:48:04.943061|156171a464b1403586aa3802b347a6f2|U21|answer_current_student|answer_current_student_1|
+2022-08-10 12:48:04.943109|156171a464b1403586aa3802b347a6f2|B28|||||utter_gender|What's your gender?
+2022-08-10 12:48:04.943145|156171a464b1403586aa3802b347a6f2|U22|answer_gender|gender_1|
+2022-08-10 12:48:04.943192|156171a464b1403586aa3802b347a6f2|B29|||||utter_age|What's your age?
+2022-08-10 12:48:04.943228|156171a464b1403586aa3802b347a6f2|U23|answer_age|age_2|
+2022-08-10 12:48:04.943276|156171a464b1403586aa3802b347a6f2|B30|||||utter_marriage|Are you married?
+2022-08-10 12:48:04.943311|156171a464b1403586aa3802b347a6f2|U24|answer_marriage|marriage_3|
+2022-08-10 12:48:04.943359|156171a464b1403586aa3802b347a6f2|B31|||||utter_education|What is your current completed education level?
+2022-08-10 12:48:04.943395|156171a464b1403586aa3802b347a6f2|U25|answer_education|education_2|
+2022-08-10 12:48:04.943443|156171a464b1403586aa3802b347a6f2|B32|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.【Conversation ended】
+2022-08-11 21:31:29.225531|308737a1260246bfa41b96d070890e6e|U0|greet|/greet|
+2022-08-11 21:31:29.225628|308737a1260246bfa41b96d070890e6e|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+2022-08-11 21:31:29.225694|308737a1260246bfa41b96d070890e6e|U1|housing|Is there housing for people in recovery?|
+2022-08-11 21:31:29.225777|308737a1260246bfa41b96d070890e6e|B1|||||utter_housing|See Info at https://sc.edu/about/offices_and_divisions/housing/ 
+2022-08-11 21:31:29.225837|308737a1260246bfa41b96d070890e6e|B2|||||utter_did_that_help|Was this helpful?
+2022-08-11 21:31:29.225890|308737a1260246bfa41b96d070890e6e|U2|helpfulness_rating|helpfulness_3|
+2022-08-11 21:31:29.225943|308737a1260246bfa41b96d070890e6e|B3|||||utter_carry_on|Thanks, carry on!
+2022-08-11 21:31:29.225981|308737a1260246bfa41b96d070890e6e|U3|housing|Is there housing for students with special needs?|
+2022-08-11 21:31:29.226033|308737a1260246bfa41b96d070890e6e|B4|||||utter_housing|See Info at https://sc.edu/about/offices_and_divisions/housing/ 
+2022-08-11 21:31:29.226072|308737a1260246bfa41b96d070890e6e|B5|||||utter_did_that_help|Was this helpful?
+2022-08-11 21:31:29.226111|308737a1260246bfa41b96d070890e6e|U4|helpfulness_rating|helpfulness_3|
+2022-08-11 21:31:29.226162|308737a1260246bfa41b96d070890e6e|B6|||||utter_carry_on|Thanks, carry on!
+2022-08-11 21:31:29.226200|308737a1260246bfa41b96d070890e6e|U5|housing|Can you tell me student living options near Thornwell Court|
+2022-08-11 21:31:29.226252|308737a1260246bfa41b96d070890e6e|B7|||||utter_housing|See Info at https://sc.edu/about/offices_and_divisions/housing/ 
+2022-08-11 21:31:29.226290|308737a1260246bfa41b96d070890e6e|B8|||||utter_did_that_help|Was this helpful?
+2022-08-11 21:31:29.226328|308737a1260246bfa41b96d070890e6e|U6|helpfulness_rating|helpfulness_3|
+2022-08-11 21:31:29.226379|308737a1260246bfa41b96d070890e6e|B9|||||utter_carry_on|Thanks, carry on!
+2022-08-11 21:31:29.226418|308737a1260246bfa41b96d070890e6e|U7|health_services|Where can I avail medica services?|
+2022-08-11 21:31:29.226470|308737a1260246bfa41b96d070890e6e|B10|||||utter_health_services|You should have health insurance. 
+2022-08-11 21:31:29.226509|308737a1260246bfa41b96d070890e6e|B11|||||utter_did_that_help|Was this helpful?
+2022-08-11 21:31:29.226547|308737a1260246bfa41b96d070890e6e|U8|helpfulness_rating|helpfulness_3|
+2022-08-11 21:31:29.226598|308737a1260246bfa41b96d070890e6e|B12|||||utter_carry_on|Thanks, carry on!
+2022-08-11 21:31:29.226636|308737a1260246bfa41b96d070890e6e|U9|health_services|Where can I avail medical services?|
+2022-08-11 21:31:29.226688|308737a1260246bfa41b96d070890e6e|B13|||||utter_health_services|You should have health insurance. 
+2022-08-11 21:31:29.226727|308737a1260246bfa41b96d070890e6e|B14|||||utter_did_that_help|Was this helpful?
+2022-08-11 21:31:29.226765|308737a1260246bfa41b96d070890e6e|U10|helpfulness_rating|helpfulness_3|
+2022-08-11 21:31:29.226816|308737a1260246bfa41b96d070890e6e|B15|||||utter_carry_on|Thanks, carry on!
+2022-08-11 21:31:29.226853|308737a1260246bfa41b96d070890e6e|U11|goodbye|Bye|
+2022-08-11 21:31:29.226905|308737a1260246bfa41b96d070890e6e|B16|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-08-11 21:31:29.226944|308737a1260246bfa41b96d070890e6e|U12|affirm|Yes|
+2022-08-11 21:31:29.226995|308737a1260246bfa41b96d070890e6e|B17|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-08-11 21:31:29.227033|308737a1260246bfa41b96d070890e6e|U13|satisfy_rating|satisfy_1|
+2022-08-11 21:31:29.227085|308737a1260246bfa41b96d070890e6e|B18|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-08-11 21:31:29.227124|308737a1260246bfa41b96d070890e6e|U14|interaction_rating|interaction_5|
+2022-08-11 21:31:29.227175|308737a1260246bfa41b96d070890e6e|B19|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-08-11 21:31:29.227214|308737a1260246bfa41b96d070890e6e|U15|preference_rating|preference_1|
+2022-08-11 21:31:29.227265|308737a1260246bfa41b96d070890e6e|B20|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-08-11 21:31:29.227303|308737a1260246bfa41b96d070890e6e|U16|future_use_rating|future_use_1|
+2022-08-11 21:31:29.227353|308737a1260246bfa41b96d070890e6e|B21|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-08-11 21:31:29.227402|308737a1260246bfa41b96d070890e6e|U17|overall_rating|overall_1|
+2022-08-11 21:31:29.227455|308737a1260246bfa41b96d070890e6e|B22|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-08-11 21:31:29.227495|308737a1260246bfa41b96d070890e6e|B23|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-08-11 21:31:29.227536|308737a1260246bfa41b96d070890e6e|U18|answer_current_student|answer_current_student_1|
+2022-08-11 21:31:29.227588|308737a1260246bfa41b96d070890e6e|B24|||||utter_gender|What's your gender?
+2022-08-11 21:31:29.227626|308737a1260246bfa41b96d070890e6e|U19|answer_gender|gender_2|
+2022-08-11 21:31:29.227677|308737a1260246bfa41b96d070890e6e|B25|||||utter_age|What's your age?
+2022-08-11 21:31:29.227715|308737a1260246bfa41b96d070890e6e|U20|answer_age|age_2|
+2022-08-11 21:31:29.227767|308737a1260246bfa41b96d070890e6e|B26|||||utter_marriage|Are you married?
+2022-08-11 21:31:29.227805|308737a1260246bfa41b96d070890e6e|U21|answer_marriage|marriage_2|
+2022-08-11 21:31:29.227856|308737a1260246bfa41b96d070890e6e|B27|||||utter_education|What is your current completed education level?
+2022-08-11 21:31:29.227895|308737a1260246bfa41b96d070890e6e|U22|answer_education|education_3|
+2022-08-11 21:31:29.227947|308737a1260246bfa41b96d070890e6e|B28|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.【Conversation ended】
