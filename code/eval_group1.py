@@ -49,4 +49,4 @@ for i in range(1,6):
     run_gru(i)
     run_random(i)
     run_textblob(i)
-    # run_dbert(i)
+    run_dbert(i)

@@ -897,12 +897,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-0.0
+0.9657185939599395
 
 
 
  p-value is: 
-1.0
+0.35057177404619533
 
 
 
@@ -916,7 +916,7 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
--0.4750103867968636
+0.4750103867968636
 
 
 
@@ -936,12 +936,12 @@ For M,N:
 Accept null hypothesis that the means are equal.
 
  t-value is: 
-0.0
+-1.5269032627825623
 
 
 
  p-value is: 
-1.0
+0.14905735359701167
 
 
 
@@ -974,12 +974,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-0.4750103867968636
+-0.9996001599360256
 
 
 
  p-value is: 
-0.6421047742993684
+0.33446877068183745
 
 
 
@@ -994,12 +994,12 @@ For M,N:
 Accept null hypothesis that the means are equal.
 
  t-value is: 
-0.0
+1.064502705231677
 
 
 
  p-value is: 
-1.0
+0.2955943358329072
 
 
 
@@ -1032,12 +1032,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-0.3434828257900071
+1.425334970140372
 
 
 
  p-value is: 
-0.7336308872625481
+0.16438248743956607
 
 
 
@@ -1052,12 +1052,12 @@ For M,N:
 Accept null hypothesis that the means are equal.
 
  t-value is: 
-0.8733674105558039
+1.1456349790626565
 
 
 
  p-value is: 
-0.3869994487270114
+0.2578714902051451
 
 
 
@@ -1071,12 +1071,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
--0.2848876733146236
+-1.44499467071842
 
 
 
  p-value is: 
-0.777008919403503
+0.15523752223502552
 
 
 
@@ -1090,12 +1090,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-0.5854924215565689
+-0.2889989341436846
 
 
 
  p-value is: 
-0.5610782270888728
+0.7738806567161993
 
 
 
@@ -1110,12 +1110,12 @@ For M,N:
 Accept null hypothesis that the means are equal.
 
  t-value is: 
-1.4556123509263408
+0.2889989341436846
 
 
 
  p-value is: 
-0.1522911038655097
+0.7738806567161993
 
 
 
@@ -1129,12 +1129,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
--0.8733674105558039
+-0.5748728725639871
 
 
 
  p-value is: 
-0.3869994487270114
+0.5681784709451616
 
 
 
@@ -1148,12 +1148,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-0.5667811743185426
+-0.2848876733146236
 
 
 
  p-value is: 
-0.5736182279496722
+0.777008919403503
 
 
 

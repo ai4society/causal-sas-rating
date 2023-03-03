@@ -263,78 +263,76 @@ def assign_rating(S,D,A,W,L,P):
 
 
 # # Weights corresponding to different CIs
-# W = [1, 0.7, 0.6]
-# # W = [1]
-# # For CIs: 95%, 70%, 60%.
-# A = [0.025, 0.15, 0.2]
-# # Number of rating levels. For ex., L = 3 denotes three rating levels (1,2,3)
-# L = 2
-# S = []
-# D = []
-#
-# # Group-1
-# path = "../../data/results/group1/"
-#
-# for folder in os.listdir("../../data/results/group1/"):
-# 	for file in os.listdir(path + folder):
-# 		S.append(folder)
-# 		D.append(os.path.join(path+folder+"/"+file))
-#
-# S = sorted(list(set(S)))
-#
-#
-# print("The final rating based on the Group-1 results are: ")
-# print(assign_rating(S,D,A,W,L,'G'))
-# print("\n")
-#
-# # Group-3
-# S = []
-# D = []
-# path = "../../data/results/group3/"
-#
-# for folder in os.listdir("../../data/results/group3/"):
-# 	for file in os.listdir(path + folder):
-# 		S.append(folder)
-# 		D.append(os.path.join(path+folder+"/"+file))
-#
-# S = sorted(list(set(S)))
-#
-# print("The final rating based on the Group-3 gender (names as proxy) results are: ")
-# print(assign_rating(S,D,A,W,L,'G'))
-# print("\n")
-#
-#
-#
-# print("The final rating based on the Group-3 race (names as proxy) results are: ")
-# print(assign_rating(S,D,A,W,L,'R'))
-# print("\n")
-#
-# # Group-3 (Composite case)
-# S = []
-# D = []
-# path = "../../data/results/group3_combined/"
-#
-# for folder in os.listdir("../../data/results/group3_combined/"):
-# 	for file in os.listdir(path + folder):
-# 		S.append(folder)
-# 		D.append(os.path.join(path+folder+"/"+file))
-#
-# S = sorted(list(set(S)))
-#
-# print("The final rating based on the Group-3 RG (gender and race combined) results are: ")
-# print(assign_rating(S,D,A,W,L,'RG'))
-# print("\n")
+W = [1, 0.7, 0.6]
+A = [0.025, 0.15, 0.2]
+
+# Number of rating levels. For ex., L = 3 denotes three rating levels (1,2,3)
+L = 3
+S = []
+D = []
+
+# Group-1
+path = "../../data/results/group1/"
+
+for folder in os.listdir("../../data/results/group1/"):
+	for file in os.listdir(path + folder):
+		S.append(folder)
+		D.append(os.path.join(path+folder+"/"+file))
+
+S = sorted(list(set(S)))
+
+
+print("The final rating based on the Group-1 results are: ")
+print(assign_rating(S,D,A,W,L,'G'))
+print("\n")
+
+# Group-3
+S = []
+D = []
+path = "../../data/results/group3/"
+
+for folder in os.listdir("../../data/results/group3/"):
+	for file in os.listdir(path + folder):
+		S.append(folder)
+		D.append(os.path.join(path+folder+"/"+file))
+
+S = sorted(list(set(S)))
+
+print("The final rating based on the Group-3 gender (names as proxy) results are: ")
+print(assign_rating(S,D,A,W,L,'G'))
+print("\n")
+
+
+
+print("The final rating based on the Group-3 race (names as proxy) results are: ")
+print(assign_rating(S,D,A,W,L,'R'))
+print("\n")
+
+# Group-3 (Composite case)
+S = []
+D = []
+path = "../../data/results/group3_combined/"
+
+for folder in os.listdir("../../data/results/group3_combined/"):
+	for file in os.listdir(path + folder):
+		S.append(folder)
+		D.append(os.path.join(path+folder+"/"+file))
+
+S = sorted(list(set(S)))
+
+print("The final rating based on the Group-3 RG (gender and race combined) results are: ")
+print(assign_rating(S,D,A,W,L,'RG'))
+print("\n")
 
 
 ## Continuous Data Analysis
 
 # Weights corresponding to different CIs
 W = [1, 0.7, 0.6]
-# W = [1]
 # For CIs: 95%, 70%, 60%.
 A = [0.025, 0.15, 0.2]
 # Number of rating levels. For ex., L = 3 denotes three rating levels (1,2,3)
-L = 2
+L = 3
 S = []
 D = []
 
@@ -374,4 +372,21 @@ print("\n")
 
 print("The final rating based on the Group-3 race (names as proxy) results are: ")
 print(assign_rating(S,D,A,W,L,'R'))
+print("\n")
+
+
+# Group-3 Combined
+S = []
+D = []
+path = "../../data/results/continuous/group3_combined/"
+
+for folder in os.listdir("../../data/results/continuous/group3_combined/"):
+	for file in os.listdir(path + folder):
+		S.append(folder)
+		D.append(os.path.join(path+folder+"/"+file))
+
+S = sorted(list(set(S)))
+
+print("The final rating based on the Group-3 combined results are: ")
+print(assign_rating(S,D,A,W,L,'RG'))
 print("\n")

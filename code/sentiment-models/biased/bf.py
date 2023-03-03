@@ -7,11 +7,18 @@ def bf_sentiment(path,k,c):
     set = pd.read_csv(path,engine="python")
 
     senti = []
-    for (text,gender) in zip(set['Sentences'],set['Gender']):
-        if gender==2:
-            senti.append(1)
-        else:
-            senti.append(0)
+    if c == 0:
+        for (text,gender) in zip(set['Sentences'],set['Gender']):
+            if gender==2:
+                senti.append(1)
+            else:
+                senti.append(0)
+    else:
+        for (text,gender) in zip(set['Sentences'],set['Gender']):
+            if gender==2:
+                senti.append(1)
+            else:
+                senti.append(-1)
 
     text = []
     for each in set['Sentences']:
@@ -27,7 +34,7 @@ def bf_sentiment(path,k,c):
 
 def g1(path,i,k,c):
 
-    df = bf_sentiment(path,k)
+    df = bf_sentiment(path,k,c)
     final_df = pd.DataFrame(df, columns=['Gender','Emotion','Sentiment'])
     if c == 0:
         final_df.to_csv('../data/results/group1/biased/e{}_bf.csv'.format(i),index=False)
@@ -37,7 +44,7 @@ def g1(path,i,k,c):
 
 def g2(path,i,k,c):
 
-    df = bf_sentiment(path,k)
+    df = bf_sentiment(path,k,c)
     final_df = pd.DataFrame(df, columns=['Gender','Emotion','Sentiment'])
     if c == 0:
         final_df.to_csv('../data/results/group2/biased/e{}_bf.csv'.format(i),index=False)
@@ -46,7 +53,7 @@ def g2(path,i,k,c):
 
 def g3(path,i,k,c):
 
-    df = bf_sentiment(path,k)
+    df = bf_sentiment(path,k,c)
     final_df = pd.DataFrame(df, columns=['Gender','Race','Emotion','Sentiment'])
     if c == 0:
         final_df.to_csv('../data/results/group3/biased/e{}_bf.csv'.format(i),index=False)
@@ -55,7 +62,7 @@ def g3(path,i,k,c):
 
 def g4(path,i,k,c):
 
-    df = bf_sentiment(path,k)
+    df = bf_sentiment(path,k,c)
     final_df = pd.DataFrame(df, columns=['Gender','Race','Emotion','Sentiment'])
     if c == 0:
         final_df.to_csv('../data/results/group4/biased/e{}_bf.csv'.format(i),index=False)
