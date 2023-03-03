@@ -47,9 +47,9 @@ def t_test_gender(path,alpha):
     t, dof, cv, p = t_test_calc(d1,d2,alpha)
     print("For M,N: \n")
     if abs(t) <= cv:
-    	print('Accept null hypothesis that the means are equal.')
+        print('Accept null hypothesis that the means are equal.')
     else:
-    	print('Reject the null hypothesis that the means are equal.')
+        print('Reject the null hypothesis that the means are equal.')
 
     print("\n t-value is: ")
     print(t)
@@ -71,9 +71,9 @@ def t_test_gender(path,alpha):
 
     print("For M,F: \n")
     if abs(t) <= cv:
-    	print('Accept null hypothesis that the means are equal.')
+        print('Accept null hypothesis that the means are equal.')
     else:
-    	print('Reject the null hypothesis that the means are equal.')
+        print('Reject the null hypothesis that the means are equal.')
 
 
     print("\n t-value is: \n")
@@ -95,9 +95,9 @@ def t_test_gender(path,alpha):
     print("For N,F: \n")
 
     if abs(t) <= cv:
-    	print('Accept null hypothesis that the means are equal.')
+        print('Accept null hypothesis that the means are equal.')
     else:
-    	print('Reject the null hypothesis that the means are equal.')
+        print('Reject the null hypothesis that the means are equal.')
 
 
     print("\n t-value is: \n")
@@ -129,9 +129,9 @@ def t_test_race(path,alpha):
 
     print("For E,N: \n")
     if abs(t) <= cv:
-    	print('Accept null hypothesis that the means are equal.')
+        print('Accept null hypothesis that the means are equal.')
     else:
-    	print('Reject the null hypothesis that the means are equal.')
+        print('Reject the null hypothesis that the means are equal.')
 
 
     print("\n t-value is: \n")
@@ -154,9 +154,9 @@ def t_test_race(path,alpha):
     print("For E,A: \n")
 
     if abs(t) <= cv:
-    	print('Accept null hypothesis that the means are equal.')
+        print('Accept null hypothesis that the means are equal.')
     else:
-    	print('Reject the null hypothesis that the means are equal.')
+        print('Reject the null hypothesis that the means are equal.')
 
 
     print("\n t-value is: \n")
@@ -179,9 +179,9 @@ def t_test_race(path,alpha):
     print("For N,A: \n")
 
     if abs(t) <= cv:
-    	print('Accept null hypothesis that the means are equal.')
+        print('Accept null hypothesis that the means are equal.')
     else:
-    	print('Reject the null hypothesis that the means are equal.')
+        print('Reject the null hypothesis that the means are equal.')
 
 
     print("\n t-value is: \n")
@@ -215,9 +215,9 @@ def t_test_rg(path,alpha):
     print("For UEM: \n")
 
     if abs(t) <= cv:
-    	print('Accept null hypothesis that the means are equal.')
+        print('Accept null hypothesis that the means are equal.')
     else:
-    	print('Reject the null hypothesis that the means are equal.')
+        print('Reject the null hypothesis that the means are equal.')
 
 
     print(t, p, dof)
@@ -234,9 +234,9 @@ def t_test_rg(path,alpha):
     print("For UEF: \n")
 
     if abs(t) <= cv:
-    	print('Accept null hypothesis that the means are equal.')
+        print('Accept null hypothesis that the means are equal.')
     else:
-    	print('Reject the null hypothesis that the means are equal.')
+        print('Reject the null hypothesis that the means are equal.')
 
 
     print(t, p, dof)
@@ -252,9 +252,9 @@ def t_test_rg(path,alpha):
     print("For UAM: \n")
 
     if abs(t) <= cv:
-    	print('Accept null hypothesis that the means are equal.')
+        print('Accept null hypothesis that the means are equal.')
     else:
-    	print('Reject the null hypothesis that the means are equal.')
+        print('Reject the null hypothesis that the means are equal.')
 
 
     print(t, p, dof)
@@ -269,9 +269,9 @@ def t_test_rg(path,alpha):
     print("For UAF: \n")
 
     if abs(t) <= cv:
-    	print('Accept null hypothesis that the means are equal.')
+        print('Accept null hypothesis that the means are equal.')
     else:
-    	print('Reject the null hypothesis that the means are equal.')
+        print('Reject the null hypothesis that the means are equal.')
 
 
     print(t, p, dof)
@@ -287,9 +287,9 @@ def t_test_rg(path,alpha):
     print("For EMEF: \n")
 
     if abs(t) <= cv:
-    	print('Accept null hypothesis that the means are equal.')
+        print('Accept null hypothesis that the means are equal.')
     else:
-    	print('Reject the null hypothesis that the means are equal.')
+        print('Reject the null hypothesis that the means are equal.')
 
 
     print(t, p, dof)
@@ -304,9 +304,9 @@ def t_test_rg(path,alpha):
     print("For EMAM: \n")
 
     if abs(t) <= cv:
-    	print('Accept null hypothesis that the means are equal.')
+        print('Accept null hypothesis that the means are equal.')
     else:
-    	print('Reject the null hypothesis that the means are equal.')
+        print('Reject the null hypothesis that the means are equal.')
 
 
     print(t, p, dof)
@@ -322,9 +322,9 @@ def t_test_rg(path,alpha):
     print("For EMAF: \n")
 
     if abs(t) <= cv:
-    	print('Accept null hypothesis that the means are equal.')
+        print('Accept null hypothesis that the means are equal.')
     else:
-    	print('Reject the null hypothesis that the means are equal.')
+        print('Reject the null hypothesis that the means are equal.')
 
 
     print(t, p, dof)
@@ -339,9 +339,9 @@ def t_test_rg(path,alpha):
     print("For EFAM: \n")
 
     if abs(t) <= cv:
-    	print('Accept null hypothesis that the means are equal.')
+        print('Accept null hypothesis that the means are equal.')
     else:
-    	print('Reject the null hypothesis that the means are equal.')
+        print('Reject the null hypothesis that the means are equal.')
 
 
     print(t, p, dof)
@@ -356,9 +356,9 @@ def t_test_rg(path,alpha):
     print("For EFAF: \n")
 
     if abs(t) <= cv:
-    	print('Accept null hypothesis that the means are equal.')
+        print('Accept null hypothesis that the means are equal.')
     else:
-    	print('Reject the null hypothesis that the means are equal.')
+        print('Reject the null hypothesis that the means are equal.')
 
 
     print(t, p, dof)
@@ -373,9 +373,9 @@ def t_test_rg(path,alpha):
     print("For AMAF: \n")
 
     if abs(t) <= cv:
-    	print('Accept null hypothesis that the means are equal.')
+        print('Accept null hypothesis that the means are equal.')
     else:
-    	print('Reject the null hypothesis that the means are equal.')
+        print('Reject the null hypothesis that the means are equal.')
 
 
 

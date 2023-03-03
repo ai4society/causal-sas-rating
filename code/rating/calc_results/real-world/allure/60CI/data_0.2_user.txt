@@ -1,0 +1,60 @@
+Processing dbert
+Calculating results for dbert.csv
+For M,N: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+4.482977045327103
+
+
+
+ p-value is: 
+9.8764754243863e-06
+
+
+
+ The DOF are: 
+364
+
+
+For M,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+-1.8696095763815714
+
+
+
+ p-value is: 
+0.062020058894789676
+
+
+
+ The DOF are: 
+606
+
+
+For N,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+2.5485619635031833
+
+
+
+ p-value is: 
+0.011358664097813609
+
+
+
+ The DOF are: 
+276
+
+
+Processing textblob
+Calculating results for .DS_Store
