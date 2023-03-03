@@ -78,7 +78,7 @@ Reject the null hypothesis that the means are equal.
 
 For M,F: 
 
-Reject the null hypothesis that the means are equal.
+Accept null hypothesis that the means are equal.
 
  t-value is: 
 
@@ -194,7 +194,7 @@ Accept null hypothesis that the means are equal.
 
 For M,F: 
 
-Reject the null hypothesis that the means are equal.
+Accept null hypothesis that the means are equal.
 
  t-value is: 
 

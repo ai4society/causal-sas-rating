@@ -210,6 +210,79 @@ def weighted_rejection_score(D, A, W, P):
 							psi = psi + w
 			return psi
 
+	elif (P == 'allure_bot'):
+		psi = 0
+		for alpha, w in zip(A, W):
+			# print("Weight:", w)
+			for d_o in D:
+				with open(d_o, 'r') as f:
+					d = pd.read_csv(d_o)
+					d = d[d['UB'] == 0]
+					d1 = d['Sentiment'][d['User_gender'] == 0]
+					d2 = d['Sentiment'][d['User_gender'] == 1]
+					t, dof, p = t_test(d1,d2)
+					t_crit = look_up(alpha, dof)
+					# print(t, t_crit)
+
+					if abs(t) > t_crit:
+						psi = psi + w
+
+					d1 = d['Sentiment'][d['User_gender'] == 1]
+					d2 = d['Sentiment'][d['User_gender'] == 2]
+					t, dof, p = t_test(d1,d2)
+					t_crit = look_up(alpha, dof)
+					# print(t, t_crit)
+
+					if abs(t) > t_crit:
+						psi = psi + w
+
+					d1 = d['Sentiment'][d['User_gender'] == 0]
+					d2 = d['Sentiment'][d['User_gender'] == 2]
+					t, dof, p = t_test(d1,d2)
+					t_crit = look_up(alpha, dof)
+					# print(t, t_crit)
+
+					if abs(t) > t_crit:
+						psi = psi + w
+		# print(psi)
+		return psi
+
+	elif (P == 'allure_user'):
+		psi = 0
+		for alpha, w in zip(A, W):
+			# print("Weight:", w)
+			for d_o in D:
+				with open(d_o, 'r') as f:
+					d = pd.read_csv(d_o)
+					d = d[d['UB'] == 1]
+					d1 = d['Sentiment'][d['User_gender'] == 0]
+					d2 = d['Sentiment'][d['User_gender'] == 1]
+					t, dof, p = t_test(d1,d2)
+					t_crit = look_up(alpha, dof)
+					# print(t, t_crit)
+
+					if abs(t) > t_crit:
+						psi = psi + w
+
+					d1 = d['Sentiment'][d['User_gender'] == 1]
+					d2 = d['Sentiment'][d['User_gender'] == 2]
+					t, dof, p = t_test(d1,d2)
+					t_crit = look_up(alpha, dof)
+					# print(t, t_crit)
+
+					if abs(t) > t_crit:
+						psi = psi + w
+
+					d1 = d['Sentiment'][d['User_gender'] == 0]
+					d2 = d['Sentiment'][d['User_gender'] == 2]
+					t, dof, p = t_test(d1,d2)
+					t_crit = look_up(alpha, dof)
+					# print(t, t_crit)
+
+					if abs(t) > t_crit:
+						psi = psi + w
+		# print(psi)
+		return psi
 
 # Creating a partial order using the weighted rejection score.
 def create_partial_order(S,D,A,W,P):
@@ -255,11 +328,6 @@ def assign_rating(S,D,A,W,L,P):
 		R[k] = i
 
 	return R
-
-
-
-
-
 
 
 # # Weights corresponding to different CIs
@@ -389,4 +457,24 @@ S = sorted(list(set(S)))
 
 print("The final rating based on the Group-3 combined results are: ")
 print(assign_rating(S,D,A,W,L,'RG'))
+print("\n")
+
+# ALLURE Rating
+S = []
+D = []
+path = "../../data/results/real-world/allure/"
+
+for folder in os.listdir(path):
+	for file in os.listdir(path + folder):
+		S.append(folder)
+		D.append(os.path.join(path+folder+"/"+file))
+
+S = sorted(list(set(S)))
+
+print("The final rating based on the ALLURE user conversation results are: ")
+print(assign_rating(S,D,A,W,L,'allure_user'))
+print("\n")
+
+print("The final rating based on the ALLURE chatbot conversation results are: ")
+print(assign_rating(S,D,A,W,L,'allure_bot'))
 print("\n")
