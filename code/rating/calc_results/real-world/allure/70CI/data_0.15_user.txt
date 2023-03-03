@@ -63,12 +63,12 @@ For M,N:
 Reject the null hypothesis that the means are equal.
 
  t-value is: 
-4.482977045327103
+3.003476483447462
 
 
 
  p-value is: 
-9.8764754243863e-06
+0.00285374239065761
 
 
 
@@ -78,16 +78,16 @@ Reject the null hypothesis that the means are equal.
 
 For M,F: 
 
-Reject the null hypothesis that the means are equal.
+Accept null hypothesis that the means are equal.
 
  t-value is: 
 
--1.8696095763815714
+-1.1722844470528277
 
 
 
  p-value is: 
-0.062020058894789676
+0.24154351170464228
 
 
 
@@ -101,12 +101,12 @@ Reject the null hypothesis that the means are equal.
 
  t-value is: 
 
-2.5485619635031833
+1.6434931238060992
 
 
 
  p-value is: 
-0.011358664097813609
+0.10141958092804249
 
 
 
@@ -121,12 +121,12 @@ For M,N:
 Accept null hypothesis that the means are equal.
 
  t-value is: 
--1.14450923458366
+0.33842846308133734
 
 
 
  p-value is: 
-0.2531645328940022
+0.7352354489396729
 
 
 
@@ -136,16 +136,16 @@ Accept null hypothesis that the means are equal.
 
 For M,F: 
 
-Accept null hypothesis that the means are equal.
+Reject the null hypothesis that the means are equal.
 
  t-value is: 
 
--0.13392372287939422
+2.575676682800495
 
 
 
  p-value is: 
-0.8935073542173031
+0.010240216055619866
 
 
 
@@ -159,12 +159,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
--1.1956028857628063
+1.2202991526773845
 
 
 
  p-value is: 
-0.23287778469810094
+0.2233930909057502
 
 
 
@@ -179,12 +179,12 @@ For M,N:
 Accept null hypothesis that the means are equal.
 
  t-value is: 
--0.5207558241789715
+0.5043833848801073
 
 
 
  p-value is: 
-0.6028535061874414
+0.6142971657011507
 
 
 
@@ -198,12 +198,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-1.30245507828605
+-0.050649228151197094
 
 
 
  p-value is: 
-0.1932556290980001
+0.9596217243471812
 
 
 
@@ -217,12 +217,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
--0.11918201131737946
+0.4809081175354743
 
 
 
  p-value is: 
-0.9052178587678654
+0.6309628049865454
 
 
 

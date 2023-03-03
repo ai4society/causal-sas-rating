@@ -179,12 +179,12 @@ For M,N:
 Reject the null hypothesis that the means are equal.
 
  t-value is: 
--2.5312938665377214
+-1.600111336731919
 
 
 
  p-value is: 
-0.011497685810476721
+0.10985071648522426
 
 
 
@@ -198,12 +198,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-1.2519260213605474
+-0.3908777069130382
 
 
 
  p-value is: 
-0.21074055329809882
+0.6959285092647591
 
 
 
@@ -217,12 +217,12 @@ Reject the null hypothesis that the means are equal.
 
  t-value is: 
 
--2.045387458289187
+-1.754079007026807
 
 
 
  p-value is: 
-0.041066923315917325
+0.07971035774878654
 
 
 

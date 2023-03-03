@@ -38,8 +38,8 @@ def run_gru():
 
 
 print("Generating results from different SASs for the data \n")
-run_bf()
-run_gru()
-run_random()
-run_textblob()
-# run_dbert()
+# run_bf()
+# run_gru()
+# run_random()
+# run_textblob()
+run_dbert()
