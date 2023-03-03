@@ -38,6 +38,19 @@ def textblob_sentiment(path,k,c):
 
 
 
+def textblob_allure(path):
+    set = pd.read_csv(path,engine="python")
+        
+    senti = []
+    for each in set['Text']:
+        senti.append(round(TextBlob(str(each)).sentiment[0], 2))
+
+    g = {'C_num': set['C_num'], 'UB': set['UB'], 'User_gender':set['User_gender'], 'Text':set['Text'], 'Sentiment': senti}
+
+    return g
+    
+    
+
 def g1(path,i,k,c):
 
     df = textblob_sentiment(path,k,c)
@@ -67,6 +80,7 @@ def g3(path,i,k,c):
     else:
        final_df.to_csv('../data/results/continuous/group3/textblob/e{}_tb.csv'.format(i),index=False)
 
+
 def g4(path,i,k,c):
 
     df = textblob_sentiment(path,k,c)
@@ -75,3 +89,11 @@ def g4(path,i,k,c):
         final_df.to_csv('../data/results/group4/textblob/e{}_tb.csv'.format(i),index=False)
     else:
         final_df.to_csv('../data/results/continuous/group4/textblob/e{}_tb.csv'.format(i),index=False)
+
+
+def allure_data(path):
+    
+    df = textblob_allure(path)
+    final_df = pd.DataFrame(df)
+    final_df.to_csv('../data/results/real-world/allure/textblob/tb.csv',index=False)
+
