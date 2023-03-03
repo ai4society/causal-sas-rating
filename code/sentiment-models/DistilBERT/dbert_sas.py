@@ -38,6 +38,25 @@ def bertsentiment(path,k,c):
         g1 = {'Gender':set['Gender'],'Emotion':set['Emotion'],'Sentiment':senti}
         return g1
 
+def dbert_allure(path):
+
+    set = pd.read_csv(path,engine="python")
+    senti = []
+    for each in set['Text']:
+        sen_temp = sentimentanalyzer(str(each))[0]
+        if sen_temp['label'] == 'POSITIVE':
+            senti.append(round(sen_temp['score'],2))
+        elif sen_temp['label'] == 'NEGATIVE':
+            senti.append(round((0 - sen_temp['score']),2))
+        else:
+            senti.append(round(sen_temp['score'],2))
+
+
+
+    g = {'C_num': set['C_num'], 'UB': set['UB'], 'User_gender':set['User_gender'], 'Text':set['Text'], 'Sentiment': senti}
+
+    return g
+
 
 def g1(path,i,k,c):
 
@@ -74,3 +93,9 @@ def g4(path,i,k,c):
         final_df.to_csv('../data/results/group4/dbert/e{}_dbert.csv'.format(i),index=False)
     else:
         final_df.to_csv('../data/results/continuous/group4/dbert/e{}_dbert.csv'.format(i),index=False)
+
+def allure_data(path):
+
+    df = dbert_allure(path)
+    final_df = pd.DataFrame(df)
+    final_df.to_csv('../data/results/real-world/allure/dbert/dbert.csv',index=False)

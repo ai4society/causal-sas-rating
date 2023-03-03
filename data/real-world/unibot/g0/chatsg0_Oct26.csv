@@ -1,0 +1,119 @@
+input_time|conversation_id|count|intent|user_input| entity_name|entity_value|action|bot_reply|
+2022-10-05 17:47:47.595709|4e2bdf04545d486ba382a26f0c52bf9a|U0|greet|/greet|
+2022-10-05 17:47:47.595803|4e2bdf04545d486ba382a26f0c52bf9a|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-10-05 17:47:47.595867|4e2bdf04545d486ba382a26f0c52bf9a|U1|access_application|How to apply?|
+2022-10-05 17:47:47.595953|4e2bdf04545d486ba382a26f0c52bf9a|B1|||||utter_access_application|Please referto the webpage: https://sc.edu/apply/index.php 
+2022-10-05 17:47:47.596011|4e2bdf04545d486ba382a26f0c52bf9a|B2|||||utter_did_that_help|Did you get the answer
+2022-10-05 17:47:47.596068|4e2bdf04545d486ba382a26f0c52bf9a|U2|helpfulness_rating|helpfulness_1|
+2022-10-05 17:47:47.596143|4e2bdf04545d486ba382a26f0c52bf9a|B3|||||utter_carry_on|Thanks, carry on!
+2022-10-05 17:47:47.596197|4e2bdf04545d486ba382a26f0c52bf9a|U3|application_fee|How much is the application fee?|
+2022-10-05 17:47:47.596271|4e2bdf04545d486ba382a26f0c52bf9a|B4|||||utter_application_fee|The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.
+2022-10-05 17:47:47.596330|4e2bdf04545d486ba382a26f0c52bf9a|U4|goodbye|bye'|
+2022-10-05 17:47:47.596404|4e2bdf04545d486ba382a26f0c52bf9a|B5|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-10-05 17:47:47.596459|4e2bdf04545d486ba382a26f0c52bf9a|U5|deny|No|
+2022-10-05 17:47:47.596532|4e2bdf04545d486ba382a26f0c52bf9a|B6|||||utter_ask_short_feedback|Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+2022-10-05 17:47:47.596599|4e2bdf04545d486ba382a26f0c52bf9a|U6|short_feedback_rating|short_4|
+2022-10-05 17:47:47.596678|4e2bdf04545d486ba382a26f0c52bf9a|B7|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-10-06 16:46:17.175145|a92dd5a179694ea2b4d1776f728ee878|U0|greet|/greet|
+2022-10-06 16:46:17.175236|a92dd5a179694ea2b4d1776f728ee878|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-10-06 16:46:17.175299|a92dd5a179694ea2b4d1776f728ee878|U1|find_place|How to find a place to stay?|
+2022-10-06 16:46:17.175379|a92dd5a179694ea2b4d1776f728ee878|B1|||||utter_find_place|The campus housing is mainly for freshmen students. Most of univeristy's students and visitors use off-campus housing. Many find www.zillow.com useful for finding an appartment or a room.
+2022-10-06 16:46:17.175440|a92dd5a179694ea2b4d1776f728ee878|B2|||||utter_did_that_help|Did you get the answer
+2022-10-06 16:46:17.175497|a92dd5a179694ea2b4d1776f728ee878|U2|helpfulness_rating|helpfulness_1|
+2022-10-06 16:46:17.175573|a92dd5a179694ea2b4d1776f728ee878|B3|||||utter_carry_on|Thanks, carry on!
+2022-10-06 16:46:17.175627|a92dd5a179694ea2b4d1776f728ee878|U3|application_fee|How much is the application fee?|
+2022-10-06 16:46:17.175703|a92dd5a179694ea2b4d1776f728ee878|B4|||||utter_application_fee|The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.
+2022-10-06 16:46:17.175761|a92dd5a179694ea2b4d1776f728ee878|U4|access_application|How to apply?|
+2022-10-06 16:46:17.175875|a92dd5a179694ea2b4d1776f728ee878|U5|housing_price|How's about the student housing|
+2022-10-06 16:46:17.175950|a92dd5a179694ea2b4d1776f728ee878|B5|||||utter_housing_price|The resident on-campus housing price varies from $3100 to $6600 per semester. For more details, please refer to the webpage: https://sc.edu/about/offices_and_divisions/housing/index.php; The off-campus apartment price in Columbia ranges from 500-1500 USD. A room can be found at 350-600 USD. Columbia offers a range of traditional, family-friendly housing options and apartments. You can widen your search on websites such as ApartmentFinder.com, ApartmentList.com, Zillow.com, Trulia.com, and Homes.com.
+2022-10-06 16:46:17.176017|a92dd5a179694ea2b4d1776f728ee878|B6|||||utter_did_that_help|Did you get the answer
+2022-10-06 16:46:17.176073|a92dd5a179694ea2b4d1776f728ee878|U6|helpfulness_rating|helpfulness_1|
+2022-10-06 16:46:17.176148|a92dd5a179694ea2b4d1776f728ee878|B7|||||utter_carry_on|Thanks, carry on!
+2022-10-06 16:46:17.176204|a92dd5a179694ea2b4d1776f728ee878|U7|access_application|How to apply|
+2022-10-06 16:46:17.176316|a92dd5a179694ea2b4d1776f728ee878|U8|lunch|Where to have lunch on campus?|
+2022-10-06 16:46:17.176393|a92dd5a179694ea2b4d1776f728ee878|B8|||||utter_lunch|There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php 
+2022-10-06 16:46:17.176450|a92dd5a179694ea2b4d1776f728ee878|U9|goodbye|Bye|
+2022-10-06 16:46:17.176525|a92dd5a179694ea2b4d1776f728ee878|B9|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-10-06 16:46:17.176582|a92dd5a179694ea2b4d1776f728ee878|U10|deny|No|
+2022-10-06 16:46:17.176658|a92dd5a179694ea2b4d1776f728ee878|B10|||||utter_ask_short_feedback|Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+2022-10-06 16:46:17.176730|a92dd5a179694ea2b4d1776f728ee878|U11|short_feedback_rating|short_5|
+2022-10-06 16:46:17.176808|a92dd5a179694ea2b4d1776f728ee878|B11|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-10-13 15:13:37.326496|27df8cdd98f742a19c8254cefc4bd11f|U0|greet|/greet|
+2022-10-13 15:13:37.326554|27df8cdd98f742a19c8254cefc4bd11f|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-10-13 15:13:37.326595|27df8cdd98f742a19c8254cefc4bd11f|U1|access_application|How to apply?|
+2022-10-13 15:13:37.326644|27df8cdd98f742a19c8254cefc4bd11f|B1|||||utter_access_application|Please referto the webpage: https://sc.edu/apply/index.php 
+2022-10-13 15:13:37.326680|27df8cdd98f742a19c8254cefc4bd11f|B2|||||utter_did_that_help|Did you get the answer
+2022-10-13 15:13:37.326715|27df8cdd98f742a19c8254cefc4bd11f|U2|helpfulness_rating|helpfulness_1|
+2022-10-13 15:13:37.326762|27df8cdd98f742a19c8254cefc4bd11f|B3|||||utter_carry_on|Thanks, carry on!
+2022-10-13 15:13:37.326796|27df8cdd98f742a19c8254cefc4bd11f|U3|application_fee|How much is the application fee?|
+2022-10-13 15:13:37.326843|27df8cdd98f742a19c8254cefc4bd11f|B4|||||utter_application_fee|The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.
+2022-10-13 15:13:37.326879|27df8cdd98f742a19c8254cefc4bd11f|B5|||||utter_did_that_help|Did you get the answer
+2022-10-13 15:13:37.326914|27df8cdd98f742a19c8254cefc4bd11f|U4|helpfulness_rating|helpfulness_1|
+2022-10-13 15:13:37.326960|27df8cdd98f742a19c8254cefc4bd11f|B6|||||utter_carry_on|Thanks, carry on!
+2022-10-13 15:13:37.326994|27df8cdd98f742a19c8254cefc4bd11f|U5|find_place|How to find a place to stay?|
+2022-10-13 15:13:37.327040|27df8cdd98f742a19c8254cefc4bd11f|B7|||||utter_find_place|The campus housing is mainly for freshmen students. Most of univeristy's students and visitors use off-campus housing. Many find www.zillow.com useful for finding an appartment or a room.
+2022-10-13 15:13:37.327076|27df8cdd98f742a19c8254cefc4bd11f|B8|||||utter_did_that_help|Did you get the answer
+2022-10-13 15:13:37.327111|27df8cdd98f742a19c8254cefc4bd11f|U6|helpfulness_rating|helpfulness_1|
+2022-10-13 15:13:37.327157|27df8cdd98f742a19c8254cefc4bd11f|B9|||||utter_carry_on|Thanks, carry on!
+2022-10-13 15:13:37.327191|27df8cdd98f742a19c8254cefc4bd11f|U7|housing|What's the cost of the student living?|
+2022-10-13 15:13:37.327238|27df8cdd98f742a19c8254cefc4bd11f|B10|||||utter_housing|For the on-campus housing, please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing, you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php
+2022-10-13 15:13:37.327279|27df8cdd98f742a19c8254cefc4bd11f|B11|||||utter_did_that_help|Did you get the answer
+2022-10-13 15:13:37.327314|27df8cdd98f742a19c8254cefc4bd11f|U8|helpfulness_rating|helpfulness_1|
+2022-10-13 15:13:37.327360|27df8cdd98f742a19c8254cefc4bd11f|B12|||||utter_carry_on|Thanks, carry on!
+2022-10-13 15:13:37.327394|27df8cdd98f742a19c8254cefc4bd11f|U9|lunch|Where to have lunch on campus?|
+2022-10-13 15:13:37.327440|27df8cdd98f742a19c8254cefc4bd11f|B13|||||utter_lunch|There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php 
+2022-10-13 15:13:37.327476|27df8cdd98f742a19c8254cefc4bd11f|B14|||||utter_did_that_help|Did you get the answer
+2022-10-13 15:13:37.327511|27df8cdd98f742a19c8254cefc4bd11f|U10|helpfulness_rating|helpfulness_1|
+2022-10-13 15:13:37.327557|27df8cdd98f742a19c8254cefc4bd11f|B15|||||utter_carry_on|Thanks, carry on!
+2022-10-13 15:13:37.327591|27df8cdd98f742a19c8254cefc4bd11f|U11|meal_plan|How's about the meal plan?|
+2022-10-13 15:13:37.327637|27df8cdd98f742a19c8254cefc4bd11f|B16|||||utter_meal_plan|How about the meal plan?
+2022-10-13 15:13:37.327671|27df8cdd98f742a19c8254cefc4bd11f|B17|||||utter_did_that_help|Did you get the answer
+2022-10-13 15:13:37.327705|27df8cdd98f742a19c8254cefc4bd11f|U12|helpfulness_rating|helpfulness_2|
+2022-10-13 15:13:37.327751|27df8cdd98f742a19c8254cefc4bd11f|B18|||||utter_carry_on|Thanks, carry on!
+2022-10-13 15:13:37.327785|27df8cdd98f742a19c8254cefc4bd11f|U13|meal_plan|How's about the meal plan?|
+2022-10-13 15:13:37.327831|27df8cdd98f742a19c8254cefc4bd11f|B19|||||utter_meal_plan|How about the meal plan?
+2022-10-13 15:13:37.327866|27df8cdd98f742a19c8254cefc4bd11f|B20|||||utter_did_that_help|Did you get the answer
+2022-10-13 15:13:37.327900|27df8cdd98f742a19c8254cefc4bd11f|U14|helpfulness_rating|helpfulness_2|
+2022-10-13 15:13:37.327945|27df8cdd98f742a19c8254cefc4bd11f|B21|||||utter_carry_on|Thanks, carry on!
+2022-10-13 15:13:37.327979|27df8cdd98f742a19c8254cefc4bd11f|U15|cost|What's the cost eating on campus?|
+2022-10-13 15:13:37.328025|27df8cdd98f742a19c8254cefc4bd11f|B22|||||utter_cost|Typical student apartment price in Columbia range from 500-1500 USD. A room can be found at 350-600 USD.
+2022-10-13 15:13:37.328061|27df8cdd98f742a19c8254cefc4bd11f|B23|||||utter_did_that_help|Did you get the answer
+2022-10-13 15:13:37.328095|27df8cdd98f742a19c8254cefc4bd11f|U16|helpfulness_rating|helpfulness_2|
+2022-10-13 15:13:37.328141|27df8cdd98f742a19c8254cefc4bd11f|B24|||||utter_carry_on|Thanks, carry on!
+2022-10-13 15:13:37.328176|27df8cdd98f742a19c8254cefc4bd11f|U17|nlu_fallback|How's the application requirement|
+2022-10-13 15:13:37.328222|27df8cdd98f742a19c8254cefc4bd11f|B25|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-10-13 15:13:37.328257|27df8cdd98f742a19c8254cefc4bd11f|U18|nlu_fallback|application requirement|
+2022-10-13 15:13:37.328303|27df8cdd98f742a19c8254cefc4bd11f|B26|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-10-13 15:13:37.328337|27df8cdd98f742a19c8254cefc4bd11f|U19|nlu_fallback|How's about the student housing|
+2022-10-13 15:13:37.328383|27df8cdd98f742a19c8254cefc4bd11f|B27|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-10-13 15:13:37.328418|27df8cdd98f742a19c8254cefc4bd11f|U20|goodbye|Bye|
+2022-10-13 15:13:37.328464|27df8cdd98f742a19c8254cefc4bd11f|B28|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-10-13 15:13:37.328499|27df8cdd98f742a19c8254cefc4bd11f|U21|affirm|Yes|
+2022-10-13 15:13:37.328544|27df8cdd98f742a19c8254cefc4bd11f|B29|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-10-13 15:13:37.328579|27df8cdd98f742a19c8254cefc4bd11f|U22|satisfy_rating|satisfy_4|
+2022-10-13 15:13:37.328625|27df8cdd98f742a19c8254cefc4bd11f|B30|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-10-13 15:13:37.328660|27df8cdd98f742a19c8254cefc4bd11f|U23|interaction_rating|interaction_4|
+2022-10-13 15:13:37.328706|27df8cdd98f742a19c8254cefc4bd11f|B31|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-10-13 15:13:37.328741|27df8cdd98f742a19c8254cefc4bd11f|U24|preference_rating|preference_4|
+2022-10-13 15:13:37.328787|27df8cdd98f742a19c8254cefc4bd11f|B32|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-10-13 15:13:37.328822|27df8cdd98f742a19c8254cefc4bd11f|U25|future_use_rating|future_use_4|
+2022-10-13 15:13:37.328868|27df8cdd98f742a19c8254cefc4bd11f|B33|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-10-13 15:13:37.328915|27df8cdd98f742a19c8254cefc4bd11f|U26|overall_rating|overall_5|
+2022-10-13 15:13:37.328962|27df8cdd98f742a19c8254cefc4bd11f|B34|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-10-13 15:13:37.328998|27df8cdd98f742a19c8254cefc4bd11f|B35|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-10-13 15:13:37.329033|27df8cdd98f742a19c8254cefc4bd11f|U27|answer_current_student|answer_current_student_2|
+2022-10-13 15:13:37.329080|27df8cdd98f742a19c8254cefc4bd11f|B36|||||utter_gender|What's your gender?
+2022-10-13 15:13:37.329114|27df8cdd98f742a19c8254cefc4bd11f|U28|answer_gender|gender_1|
+2022-10-13 15:13:37.329161|27df8cdd98f742a19c8254cefc4bd11f|B37|||||utter_age|What's your age?
+2022-10-13 15:13:37.329196|27df8cdd98f742a19c8254cefc4bd11f|U29|answer_age|age_2|
+2022-10-13 15:13:37.329242|27df8cdd98f742a19c8254cefc4bd11f|B38|||||utter_marriage|Are you married?
+2022-10-13 15:13:37.329276|27df8cdd98f742a19c8254cefc4bd11f|U30|answer_marriage|marriage_2|
+2022-10-13 15:13:37.329323|27df8cdd98f742a19c8254cefc4bd11f|B39|||||utter_education|What is your current completed education level?
+2022-10-13 15:13:37.329370|27df8cdd98f742a19c8254cefc4bd11f|U31|answer_education|education_3|
+2022-10-13 15:13:37.329418|27df8cdd98f742a19c8254cefc4bd11f|B40|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】

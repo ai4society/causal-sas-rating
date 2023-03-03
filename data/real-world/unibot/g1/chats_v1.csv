@@ -1,0 +1,68 @@
+input_time|conversation_id|count|intent|user_input| entity_name|entity_value|action|bot_reply|
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|U0|greet|/greet|
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|U1|application_fee|What's the application fee|
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|B1|||||utter_application_fee|$65 (Common Application Fee without waiver)
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|B2|||||utter_did_that_help|Was this helpful?
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|U2|helpfulness_rating|helpfulness_1|
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|B3|||||utter_carry_on|Thanks, carry on!
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|U3|find_place|Where I can find a place to stay|
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|B4|||||utter_find_place|The campus housing is mainly for freshmen students. Most of univeristy's students and visitors use off-campus housing. Many find www.zillow.com useful for finding an appartment or a room.
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|B5|||||utter_did_that_help|Was this helpful?
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|U4|helpfulness_rating|helpfulness_1|
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|B6|||||utter_carry_on|Thanks, carry on!
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|U5|goodbye|Bye|
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|B7|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|U6|affirm|Yes|
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|B8|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|U7|satisfy_rating|satisfy_4|
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|B9|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|U8|interaction_rating|interaction_5|
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|B10|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|U9|preference_rating|preference_5|
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|B11|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|U10|future_use_rating|future_use_5|
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|B12|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|U11|overall_rating|overall_5|
+11:33:00|76c40ff05b8840b9bc8940571bdf0c2e|B13|||||utter_prefinish_1|Thanks, that's all for the feedbacks. We will bring these to the team. Have a great day!【conversation ended】
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U0|greet|/greet|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U1|application_fee|What's the application fee|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B1|||||utter_application_fee|$65 (Common Application Fee without waiver)
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B2|||||utter_did_that_help|Was this helpful?
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U2|helpfulness_rating|helpfulness_1|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B3|||||utter_carry_on|Thanks, carry on!
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U3|find_place|Where I can find a place to stay|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B4|||||utter_find_place|The campus housing is mainly for freshmen students. Most of univeristy's students and visitors use off-campus housing. Many find www.zillow.com useful for finding an appartment or a room.
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B5|||||utter_did_that_help|Was this helpful?
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U4|helpfulness_rating|helpfulness_1|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B6|||||utter_carry_on|Thanks, carry on!
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U5|goodbye|Bye|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B7|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U6|affirm|Yes|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B8|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U7|satisfy_rating|satisfy_4|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B9|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U8|interaction_rating|interaction_5|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B10|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U9|preference_rating|preference_5|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B11|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U10|future_use_rating|future_use_5|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B12|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U11|overall_rating|overall_5|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B13|||||utter_prefinish_1|Thanks, that's all for the feedbacks. We will bring these to the team. Have a great day!【conversation ended】
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U12|greet|Hi|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B14|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U13|bot_challenge|How can you help me|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B15|||||utter_iamabot|I am a bot, working for University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc.
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U14|available_jobs|where I can find a restaurant on campus|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B16|||||utter_available_jobs|Information can be found at https://sc.edu/about/offices_and_divisions/career_center/student_services/gain_experience/part-time_jobs/index.php 
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B17|||||utter_did_that_help|Was this helpful?
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U15|helpfulness_rating|helpfulness_3|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B18|||||utter_carry_on|Thanks, carry on!
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U16|goodbye|Bye|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B19|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U17|deny|No|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B20|||||utter_ask_short_feedback|Sorry to hear that. Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|U18|short_feedback_rating|short_5|
+11:34:40|76c40ff05b8840b9bc8940571bdf0c2e|B21|||||utter_prefinish_2|Thanks for the time. Have a great day!【conversation ended】

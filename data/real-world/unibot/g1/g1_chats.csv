@@ -1,0 +1,572 @@
+input_time|conversation_id|count|intent|user_input| entity_name|entity_value|action|bot_reply|
+2022-10-26 16:36:02.473829|731e7c43a0054d909a923d7d2c9a72ab|U0|greet|/greet|
+2022-10-26 16:36:02.473924|731e7c43a0054d909a923d7d2c9a72ab|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-10-26 16:36:02.473990|731e7c43a0054d909a923d7d2c9a72ab|U1|access_application|How to apply?|
+2022-10-26 16:36:02.474087|731e7c43a0054d909a923d7d2c9a72ab|B1|||||utter_access_application| I guess you are asking questions regarding applicatios, please refer to the FAQ here: https://drive.google.com/file/d/1j6zp61h4_Hh081jbk-r0H44I3SQhIyIB/view?usp=sharing 
+2022-10-26 16:36:02.474168|731e7c43a0054d909a923d7d2c9a72ab|B2|||||utter_did_that_help|Did you get the answer
+2022-10-26 16:36:02.474225|731e7c43a0054d909a923d7d2c9a72ab|U2|helpfulness_rating|helpfulness_1|
+2022-10-26 16:36:02.474301|731e7c43a0054d909a923d7d2c9a72ab|B3|||||utter_carry_on|Thanks, carry on!
+2022-10-26 16:36:02.474356|731e7c43a0054d909a923d7d2c9a72ab|U3|lunch|Where to have lunch on campus?|
+2022-10-26 16:36:02.474431|731e7c43a0054d909a923d7d2c9a72ab|B4|||||utter_lunch| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQ here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-10-26 16:36:02.474519|731e7c43a0054d909a923d7d2c9a72ab|B5|||||utter_did_that_help|Did you get the answer
+2022-10-26 16:36:02.474575|731e7c43a0054d909a923d7d2c9a72ab|U4|helpfulness_rating|helpfulness_1|
+2022-10-26 16:36:02.474649|731e7c43a0054d909a923d7d2c9a72ab|B6|||||utter_carry_on|Thanks, carry on!
+2022-10-26 16:36:02.474704|731e7c43a0054d909a923d7d2c9a72ab|U5|meal_plan|How's about the meal plan?|
+2022-10-26 16:36:02.474778|731e7c43a0054d909a923d7d2c9a72ab|B7|||||utter_meal_plan| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQ here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-10-26 16:36:02.474864|731e7c43a0054d909a923d7d2c9a72ab|B8|||||utter_did_that_help|Did you get the answer
+2022-10-26 16:36:02.474919|731e7c43a0054d909a923d7d2c9a72ab|U6|helpfulness_rating|helpfulness_1|
+2022-10-26 16:36:02.474992|731e7c43a0054d909a923d7d2c9a72ab|B9|||||utter_carry_on|Thanks, carry on!
+2022-10-26 16:36:02.475047|731e7c43a0054d909a923d7d2c9a72ab|U7|corona_testing|This is SSS testing|
+2022-10-26 16:36:02.475157|731e7c43a0054d909a923d7d2c9a72ab|U8|nlu_fallback|How's the weather|
+2022-10-26 16:36:02.475231|731e7c43a0054d909a923d7d2c9a72ab|B10|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-10-26 16:36:02.475287|731e7c43a0054d909a923d7d2c9a72ab|U9|goodbye|Bye|
+2022-10-26 16:36:02.475362|731e7c43a0054d909a923d7d2c9a72ab|B11|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-10-26 16:36:02.475417|731e7c43a0054d909a923d7d2c9a72ab|U10|deny|No|
+2022-10-26 16:36:02.475490|731e7c43a0054d909a923d7d2c9a72ab|B12|||||utter_ask_short_feedback|Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+2022-10-26 16:36:02.475579|731e7c43a0054d909a923d7d2c9a72ab|U11|short_feedback_rating|short_5|
+2022-10-26 16:36:02.475658|731e7c43a0054d909a923d7d2c9a72ab|B13|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-09 11:52:34.114149|86555d5ecd404f818012f9666da0aad2|U0|greet|/greet|
+2022-11-09 11:52:34.114208|86555d5ecd404f818012f9666da0aad2|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-09 11:52:34.114249|86555d5ecd404f818012f9666da0aad2|U1|access_application|How to apply?|
+2022-11-09 11:52:34.114299|86555d5ecd404f818012f9666da0aad2|B1|||||utter_access_application| I guess you are asking questions regarding applicatios, please refer to the FAQ here: https://drive.google.com/file/d/1j6zp61h4_Hh081jbk-r0H44I3SQhIyIB/view?usp=sharing 
+2022-11-09 11:52:34.114336|86555d5ecd404f818012f9666da0aad2|B2|||||utter_did_that_help|Did you get the answer
+2022-11-09 11:52:34.114371|86555d5ecd404f818012f9666da0aad2|U2|helpfulness_rating|helpfulness_1|
+2022-11-09 11:52:34.114419|86555d5ecd404f818012f9666da0aad2|B3|||||utter_carry_on|Thanks, carry on!
+2022-11-09 11:52:34.114454|86555d5ecd404f818012f9666da0aad2|U3|application_fee|How much is the application fee?|
+2022-11-09 11:52:34.114500|86555d5ecd404f818012f9666da0aad2|B4|||||utter_application_fee| I guess you are asking questions regarding applicatios, please refer to the FAQ here: https://drive.google.com/file/d/1j6zp61h4_Hh081jbk-r0H44I3SQhIyIB/view?usp=sharing 
+2022-11-09 11:52:34.114536|86555d5ecd404f818012f9666da0aad2|B5|||||utter_did_that_help|Did you get the answer
+2022-11-09 11:52:34.114569|86555d5ecd404f818012f9666da0aad2|U4|helpfulness_rating|helpfulness_1|
+2022-11-09 11:52:34.114616|86555d5ecd404f818012f9666da0aad2|B6|||||utter_carry_on|Thanks, carry on!
+2022-11-09 11:52:34.114650|86555d5ecd404f818012f9666da0aad2|U5|find_place|How to find a place to stay?|
+2022-11-09 11:52:34.114696|86555d5ecd404f818012f9666da0aad2|B7|||||utter_find_place| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQ here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-09 11:52:34.114738|86555d5ecd404f818012f9666da0aad2|B8|||||utter_did_that_help|Did you get the answer
+2022-11-09 11:52:34.114770|86555d5ecd404f818012f9666da0aad2|U6|helpfulness_rating|helpfulness_1|
+2022-11-09 11:52:34.114816|86555d5ecd404f818012f9666da0aad2|B9|||||utter_carry_on|Thanks, carry on!
+2022-11-09 11:52:34.114850|86555d5ecd404f818012f9666da0aad2|U7|housing|How's about the student living?|
+2022-11-09 11:52:34.114896|86555d5ecd404f818012f9666da0aad2|B10|||||utter_housing| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQ here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-09 11:52:34.114937|86555d5ecd404f818012f9666da0aad2|B11|||||utter_did_that_help|Did you get the answer
+2022-11-09 11:52:34.114972|86555d5ecd404f818012f9666da0aad2|U8|helpfulness_rating|helpfulness_1|
+2022-11-09 11:52:34.115018|86555d5ecd404f818012f9666da0aad2|B12|||||utter_carry_on|Thanks, carry on!
+2022-11-09 11:52:34.115053|86555d5ecd404f818012f9666da0aad2|U9|meal_plan|How's about the meal plan?|
+2022-11-09 11:52:34.115099|86555d5ecd404f818012f9666da0aad2|B13|||||utter_meal_plan| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQ here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-09 11:52:34.115139|86555d5ecd404f818012f9666da0aad2|B14|||||utter_did_that_help|Did you get the answer
+2022-11-09 11:52:34.115174|86555d5ecd404f818012f9666da0aad2|U10|helpfulness_rating|helpfulness_1|
+2022-11-09 11:52:34.115221|86555d5ecd404f818012f9666da0aad2|B15|||||utter_carry_on|Thanks, carry on!
+2022-11-09 11:52:34.115255|86555d5ecd404f818012f9666da0aad2|U11|campus|What to eat on campus?|
+2022-11-09 11:52:34.115301|86555d5ecd404f818012f9666da0aad2|B16|||||utter_campus| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQ here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-09 11:52:34.115342|86555d5ecd404f818012f9666da0aad2|B17|||||utter_did_that_help|Did you get the answer
+2022-11-09 11:52:34.115376|86555d5ecd404f818012f9666da0aad2|U12|helpfulness_rating|helpfulness_1|
+2022-11-09 11:52:34.115422|86555d5ecd404f818012f9666da0aad2|B18|||||utter_carry_on|Thanks, carry on!
+2022-11-09 11:52:34.115456|86555d5ecd404f818012f9666da0aad2|U13|goodbye|Bye|
+2022-11-09 11:52:34.115502|86555d5ecd404f818012f9666da0aad2|B19|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-09 11:52:34.115538|86555d5ecd404f818012f9666da0aad2|U14|affirm|Yes|
+2022-11-09 11:52:34.115584|86555d5ecd404f818012f9666da0aad2|B20|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-09 11:52:34.115619|86555d5ecd404f818012f9666da0aad2|U15|satisfy_rating|satisfy_5|
+2022-11-09 11:52:34.115665|86555d5ecd404f818012f9666da0aad2|B21|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-09 11:52:34.115699|86555d5ecd404f818012f9666da0aad2|U16|interaction_rating|interaction_5|
+2022-11-09 11:52:34.115745|86555d5ecd404f818012f9666da0aad2|B22|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-09 11:52:34.115780|86555d5ecd404f818012f9666da0aad2|U17|preference_rating|preference_4|
+2022-11-09 11:52:34.115826|86555d5ecd404f818012f9666da0aad2|B23|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-09 11:52:34.115861|86555d5ecd404f818012f9666da0aad2|U18|future_use_rating|future_use_4|
+2022-11-09 11:52:34.115908|86555d5ecd404f818012f9666da0aad2|B24|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-09 11:52:34.115954|86555d5ecd404f818012f9666da0aad2|U19|overall_rating|overall_5|
+2022-11-09 11:52:34.116001|86555d5ecd404f818012f9666da0aad2|B25|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-09 11:52:34.116037|86555d5ecd404f818012f9666da0aad2|B26|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-09 11:52:34.116072|86555d5ecd404f818012f9666da0aad2|U20|answer_current_student|answer_current_student_1|
+2022-11-09 11:52:34.116119|86555d5ecd404f818012f9666da0aad2|B27|||||utter_gender|What's your gender?
+2022-11-09 11:52:34.116153|86555d5ecd404f818012f9666da0aad2|U21|answer_gender|gender_1|
+2022-11-09 11:52:34.116200|86555d5ecd404f818012f9666da0aad2|B28|||||utter_age|What's your age?
+2022-11-09 11:52:34.116236|86555d5ecd404f818012f9666da0aad2|U22|answer_age|age_1|
+2022-11-09 11:52:34.116282|86555d5ecd404f818012f9666da0aad2|B29|||||utter_marriage|Are you married?
+2022-11-09 11:52:34.116317|86555d5ecd404f818012f9666da0aad2|U23|answer_marriage|marriage_1|
+2022-11-09 11:52:34.116363|86555d5ecd404f818012f9666da0aad2|B30|||||utter_education|What is your current completed education level?
+2022-11-09 11:52:34.116398|86555d5ecd404f818012f9666da0aad2|U24|answer_education|education_3|
+2022-11-09 11:52:34.116444|86555d5ecd404f818012f9666da0aad2|B31|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-09 12:45:23.656749|56725de199f04cbf9d6bf2ed6d52c089|U0|greet|/greet|
+2022-11-09 12:45:23.656843|56725de199f04cbf9d6bf2ed6d52c089|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-09 12:45:23.656908|56725de199f04cbf9d6bf2ed6d52c089|U1|access_application|How to apply?|
+2022-11-09 12:45:23.656988|56725de199f04cbf9d6bf2ed6d52c089|B1|||||utter_access_application| I guess you are asking questions regarding applications, please refer to the FAQs here: https://drive.google.com/file/d/1j6zp61h4_Hh081jbk-r0H44I3SQhIyIB/view?usp=sharing 
+2022-11-09 12:45:23.657048|56725de199f04cbf9d6bf2ed6d52c089|B2|||||utter_did_that_help|Did you get the answer
+2022-11-09 12:45:23.657108|56725de199f04cbf9d6bf2ed6d52c089|U2|helpfulness_rating|helpfulness_1|
+2022-11-09 12:45:23.657183|56725de199f04cbf9d6bf2ed6d52c089|B3|||||utter_carry_on|Thanks, carry on!
+2022-11-09 12:45:23.657238|56725de199f04cbf9d6bf2ed6d52c089|U3|application_fee|How much is the application fee?|
+2022-11-09 12:45:23.657315|56725de199f04cbf9d6bf2ed6d52c089|B4|||||utter_application_fee| I guess you are asking questions regarding applications, please refer to the FAQs here: https://drive.google.com/file/d/1j6zp61h4_Hh081jbk-r0H44I3SQhIyIB/view?usp=sharing 
+2022-11-09 12:45:23.657384|56725de199f04cbf9d6bf2ed6d52c089|B5|||||utter_did_that_help|Did you get the answer
+2022-11-09 12:45:23.657440|56725de199f04cbf9d6bf2ed6d52c089|U4|helpfulness_rating|helpfulness_1|
+2022-11-09 12:45:23.657515|56725de199f04cbf9d6bf2ed6d52c089|B6|||||utter_carry_on|Thanks, carry on!
+2022-11-09 12:45:23.657570|56725de199f04cbf9d6bf2ed6d52c089|U5|find_place|How to find a place to stay?|
+2022-11-09 12:45:23.657645|56725de199f04cbf9d6bf2ed6d52c089|B7|||||utter_find_place| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-09 12:45:23.657726|56725de199f04cbf9d6bf2ed6d52c089|B8|||||utter_did_that_help|Did you get the answer
+2022-11-09 12:45:23.657782|56725de199f04cbf9d6bf2ed6d52c089|U6|helpfulness_rating|helpfulness_1|
+2022-11-09 12:45:23.657857|56725de199f04cbf9d6bf2ed6d52c089|B9|||||utter_carry_on|Thanks, carry on!
+2022-11-09 12:45:23.657911|56725de199f04cbf9d6bf2ed6d52c089|U7|housing|How's about the student living?|
+2022-11-09 12:45:23.657987|56725de199f04cbf9d6bf2ed6d52c089|B10|||||utter_housing| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-09 12:45:23.658055|56725de199f04cbf9d6bf2ed6d52c089|B11|||||utter_did_that_help|Did you get the answer
+2022-11-09 12:45:23.658110|56725de199f04cbf9d6bf2ed6d52c089|U8|helpfulness_rating|helpfulness_1|
+2022-11-09 12:45:23.658186|56725de199f04cbf9d6bf2ed6d52c089|B12|||||utter_carry_on|Thanks, carry on!
+2022-11-09 12:45:23.658241|56725de199f04cbf9d6bf2ed6d52c089|U9|housing|What's the cost of the student living?|
+2022-11-09 12:45:23.658316|56725de199f04cbf9d6bf2ed6d52c089|B13|||||utter_housing| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-09 12:45:23.658381|56725de199f04cbf9d6bf2ed6d52c089|B14|||||utter_did_that_help|Did you get the answer
+2022-11-09 12:45:23.658436|56725de199f04cbf9d6bf2ed6d52c089|U10|helpfulness_rating|helpfulness_1|
+2022-11-09 12:45:23.658514|56725de199f04cbf9d6bf2ed6d52c089|B15|||||utter_carry_on|Thanks, carry on!
+2022-11-09 12:45:23.658569|56725de199f04cbf9d6bf2ed6d52c089|U11|lunch|Where to have lunch on campus?|
+2022-11-09 12:45:23.658644|56725de199f04cbf9d6bf2ed6d52c089|B16|||||utter_lunch| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-09 12:45:23.658711|56725de199f04cbf9d6bf2ed6d52c089|B17|||||utter_did_that_help|Did you get the answer
+2022-11-09 12:45:23.658766|56725de199f04cbf9d6bf2ed6d52c089|U12|helpfulness_rating|helpfulness_1|
+2022-11-09 12:45:23.658839|56725de199f04cbf9d6bf2ed6d52c089|B18|||||utter_carry_on|Thanks, carry on!
+2022-11-09 12:45:23.658894|56725de199f04cbf9d6bf2ed6d52c089|U13|goodbye|Bye|
+2022-11-09 12:45:23.658969|56725de199f04cbf9d6bf2ed6d52c089|B19|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-09 12:45:23.659026|56725de199f04cbf9d6bf2ed6d52c089|U14|affirm|Yes|
+2022-11-09 12:45:23.659099|56725de199f04cbf9d6bf2ed6d52c089|B20|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-09 12:45:23.659155|56725de199f04cbf9d6bf2ed6d52c089|U15|satisfy_rating|satisfy_5|
+2022-11-09 12:45:23.659230|56725de199f04cbf9d6bf2ed6d52c089|B21|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-09 12:45:23.659285|56725de199f04cbf9d6bf2ed6d52c089|U16|interaction_rating|interaction_4|
+2022-11-09 12:45:23.659360|56725de199f04cbf9d6bf2ed6d52c089|B22|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-09 12:45:23.659415|56725de199f04cbf9d6bf2ed6d52c089|U17|preference_rating|preference_3|
+2022-11-09 12:45:23.659490|56725de199f04cbf9d6bf2ed6d52c089|B23|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-09 12:45:23.659546|56725de199f04cbf9d6bf2ed6d52c089|U18|future_use_rating|future_use_4|
+2022-11-09 12:45:23.659620|56725de199f04cbf9d6bf2ed6d52c089|B24|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-09 12:45:23.659694|56725de199f04cbf9d6bf2ed6d52c089|U19|overall_rating|overall_4|
+2022-11-09 12:45:23.659771|56725de199f04cbf9d6bf2ed6d52c089|B25|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-09 12:45:23.659828|56725de199f04cbf9d6bf2ed6d52c089|B26|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-09 12:45:23.659885|56725de199f04cbf9d6bf2ed6d52c089|U20|answer_current_student|answer_current_student_2|
+2022-11-09 12:45:23.659961|56725de199f04cbf9d6bf2ed6d52c089|B27|||||utter_gender|What's your gender?
+2022-11-09 12:45:23.660016|56725de199f04cbf9d6bf2ed6d52c089|U21|answer_gender|gender_2|
+2022-11-09 12:45:23.660093|56725de199f04cbf9d6bf2ed6d52c089|B28|||||utter_age|What's your age?
+2022-11-09 12:45:23.660149|56725de199f04cbf9d6bf2ed6d52c089|U22|answer_age|age_2|
+2022-11-09 12:45:23.660224|56725de199f04cbf9d6bf2ed6d52c089|B29|||||utter_marriage|Are you married?
+2022-11-09 12:45:23.660279|56725de199f04cbf9d6bf2ed6d52c089|U23|answer_marriage|marriage_2|
+2022-11-09 12:45:23.660354|56725de199f04cbf9d6bf2ed6d52c089|B30|||||utter_education|What is your current completed education level?
+2022-11-09 12:45:23.660410|56725de199f04cbf9d6bf2ed6d52c089|U24|answer_education|education_3|
+2022-11-09 12:45:23.660486|56725de199f04cbf9d6bf2ed6d52c089|B31|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-09 13:59:07.666823|569d1201720d48e485a9490f1496c956|U0|greet|/greet|
+2022-11-09 13:59:07.666917|569d1201720d48e485a9490f1496c956|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-09 13:59:07.666982|569d1201720d48e485a9490f1496c956|U1|access_application|How to apply?|
+2022-11-09 13:59:07.667063|569d1201720d48e485a9490f1496c956|B1|||||utter_access_application| I guess you are asking questions regarding applications, please refer to the FAQs here: https://drive.google.com/file/d/1j6zp61h4_Hh081jbk-r0H44I3SQhIyIB/view?usp=sharing 
+2022-11-09 13:59:07.667124|569d1201720d48e485a9490f1496c956|B2|||||utter_did_that_help|Did you get the answer?
+2022-11-09 13:59:07.667183|569d1201720d48e485a9490f1496c956|U2|helpfulness_rating|helpfulness_1|
+2022-11-09 13:59:07.667260|569d1201720d48e485a9490f1496c956|B3|||||utter_carry_on|Thanks, carry on!
+2022-11-09 13:59:07.667315|569d1201720d48e485a9490f1496c956|U3|find_place|How to find a place to stay?|
+2022-11-09 13:59:07.667393|569d1201720d48e485a9490f1496c956|B4|||||utter_find_place| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-09 13:59:07.667468|569d1201720d48e485a9490f1496c956|B5|||||utter_did_that_help|Did you get the answer?
+2022-11-09 13:59:07.667524|569d1201720d48e485a9490f1496c956|U4|helpfulness_rating|helpfulness_1|
+2022-11-09 13:59:07.667600|569d1201720d48e485a9490f1496c956|B6|||||utter_carry_on|Thanks, carry on!
+2022-11-09 13:59:07.667655|569d1201720d48e485a9490f1496c956|U5|lunch|Where to have lunch on campus?|
+2022-11-09 13:59:07.667732|569d1201720d48e485a9490f1496c956|B7|||||utter_lunch| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-09 13:59:07.667800|569d1201720d48e485a9490f1496c956|B8|||||utter_did_that_help|Did you get the answer?
+2022-11-09 13:59:07.667858|569d1201720d48e485a9490f1496c956|U6|helpfulness_rating|helpfulness_1|
+2022-11-09 13:59:07.667934|569d1201720d48e485a9490f1496c956|B9|||||utter_carry_on|Thanks, carry on!
+2022-11-09 13:59:07.667989|569d1201720d48e485a9490f1496c956|U7|goodbye|Bye|
+2022-11-09 13:59:07.668066|569d1201720d48e485a9490f1496c956|B10|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-09 13:59:07.668123|569d1201720d48e485a9490f1496c956|U8|affirm|Yes|
+2022-11-09 13:59:07.668198|569d1201720d48e485a9490f1496c956|B11|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-09 13:59:07.668254|569d1201720d48e485a9490f1496c956|U9|satisfy_rating|satisfy_5|
+2022-11-09 13:59:07.668331|569d1201720d48e485a9490f1496c956|B12|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-09 13:59:07.668388|569d1201720d48e485a9490f1496c956|U10|interaction_rating|interaction_4|
+2022-11-09 13:59:07.668465|569d1201720d48e485a9490f1496c956|B13|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-09 13:59:07.668521|569d1201720d48e485a9490f1496c956|U11|preference_rating|preference_5|
+2022-11-09 13:59:07.668596|569d1201720d48e485a9490f1496c956|B14|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-09 13:59:07.668653|569d1201720d48e485a9490f1496c956|U12|future_use_rating|future_use_3|
+2022-11-09 13:59:07.668728|569d1201720d48e485a9490f1496c956|B15|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-09 13:59:07.668798|569d1201720d48e485a9490f1496c956|U13|overall_rating|overall_5|
+2022-11-09 13:59:07.668876|569d1201720d48e485a9490f1496c956|B16|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-09 13:59:07.668934|569d1201720d48e485a9490f1496c956|B17|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-09 13:59:07.668991|569d1201720d48e485a9490f1496c956|U14|answer_current_student|answer_current_student_2|
+2022-11-09 13:59:07.669066|569d1201720d48e485a9490f1496c956|B18|||||utter_gender|What's your gender?
+2022-11-09 13:59:07.669123|569d1201720d48e485a9490f1496c956|U15|answer_gender|gender_2|
+2022-11-09 13:59:07.669198|569d1201720d48e485a9490f1496c956|B19|||||utter_age|What's your age?
+2022-11-09 13:59:07.669255|569d1201720d48e485a9490f1496c956|U16|answer_age|age_2|
+2022-11-09 13:59:07.669330|569d1201720d48e485a9490f1496c956|B20|||||utter_marriage|Are you married?
+2022-11-09 13:59:07.669400|569d1201720d48e485a9490f1496c956|U17|answer_marriage|marriage_2|
+2022-11-09 13:59:07.669476|569d1201720d48e485a9490f1496c956|B21|||||utter_education|What is your current completed education level?
+2022-11-09 13:59:07.669532|569d1201720d48e485a9490f1496c956|U18|answer_education|education_3|
+2022-11-09 13:59:07.669603|569d1201720d48e485a9490f1496c956|B22|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-10 12:42:06.392467|717a9319dc554a639c321aba304ae5a7|U0|greet|/greet|
+2022-11-10 12:42:06.392565|717a9319dc554a639c321aba304ae5a7|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 12:42:06.392632|717a9319dc554a639c321aba304ae5a7|U1|nlu_fallback|aye yo|
+2022-11-10 12:42:06.392714|717a9319dc554a639c321aba304ae5a7|B1|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 12:42:06.392777|717a9319dc554a639c321aba304ae5a7|U2|access_application|How to apply?|
+2022-11-10 12:42:06.392854|717a9319dc554a639c321aba304ae5a7|B2|||||utter_access_application| I guess you are asking questions regarding applications, please refer to the FAQs here: https://drive.google.com/file/d/1j6zp61h4_Hh081jbk-r0H44I3SQhIyIB/view?usp=sharing 
+2022-11-10 12:42:06.392915|717a9319dc554a639c321aba304ae5a7|B3|||||utter_did_that_help|Did you get the answer?
+2022-11-10 12:42:06.392973|717a9319dc554a639c321aba304ae5a7|U3|helpfulness_rating|helpfulness_1|
+2022-11-10 12:42:06.393049|717a9319dc554a639c321aba304ae5a7|B4|||||utter_carry_on|Thanks, carry on!
+2022-11-10 12:42:06.393105|717a9319dc554a639c321aba304ae5a7|U4|nlu_fallback|What's the cost of student livnig|
+2022-11-10 12:42:06.393182|717a9319dc554a639c321aba304ae5a7|B5|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 12:42:06.393241|717a9319dc554a639c321aba304ae5a7|U5|housing|What's the cost of student living?|
+2022-11-10 12:42:06.393318|717a9319dc554a639c321aba304ae5a7|B6|||||utter_housing| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 12:42:06.393403|717a9319dc554a639c321aba304ae5a7|B7|||||utter_did_that_help|Did you get the answer?
+2022-11-10 12:42:06.393460|717a9319dc554a639c321aba304ae5a7|U6|helpfulness_rating|helpfulness_1|
+2022-11-10 12:42:06.393536|717a9319dc554a639c321aba304ae5a7|B8|||||utter_carry_on|Thanks, carry on!
+2022-11-10 12:42:06.393593|717a9319dc554a639c321aba304ae5a7|U7|goodbye|bye|
+2022-11-10 12:42:06.393671|717a9319dc554a639c321aba304ae5a7|B9|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-10 12:42:06.393729|717a9319dc554a639c321aba304ae5a7|U8|affirm|Yes|
+2022-11-10 12:42:06.393812|717a9319dc554a639c321aba304ae5a7|B10|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-10 12:42:06.393843|717a9319dc554a639c321aba304ae5a7|U9|satisfy_rating|satisfy_4|
+2022-11-10 12:42:06.393885|717a9319dc554a639c321aba304ae5a7|B11|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-10 12:42:06.393916|717a9319dc554a639c321aba304ae5a7|U10|interaction_rating|interaction_5|
+2022-11-10 12:42:06.393958|717a9319dc554a639c321aba304ae5a7|B12|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-10 12:42:06.393989|717a9319dc554a639c321aba304ae5a7|U11|preference_rating|preference_1|
+2022-11-10 12:42:06.394031|717a9319dc554a639c321aba304ae5a7|B13|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-10 12:42:06.394063|717a9319dc554a639c321aba304ae5a7|U12|future_use_rating|future_use_1|
+2022-11-10 12:42:06.394104|717a9319dc554a639c321aba304ae5a7|B14|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-10 12:42:06.394142|717a9319dc554a639c321aba304ae5a7|U13|overall_rating|overall_4|
+2022-11-10 12:42:06.394185|717a9319dc554a639c321aba304ae5a7|B15|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-10 12:42:06.394217|717a9319dc554a639c321aba304ae5a7|B16|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-10 12:42:06.394248|717a9319dc554a639c321aba304ae5a7|U14|answer_current_student|answer_current_student_1|
+2022-11-10 12:42:06.394291|717a9319dc554a639c321aba304ae5a7|B17|||||utter_gender|What's your gender?
+2022-11-10 12:42:06.394322|717a9319dc554a639c321aba304ae5a7|U15|answer_gender|gender_2|
+2022-11-10 12:42:06.394363|717a9319dc554a639c321aba304ae5a7|B18|||||utter_age|What's your age?
+2022-11-10 12:42:06.394395|717a9319dc554a639c321aba304ae5a7|U16|answer_age|age_1|
+2022-11-10 12:42:06.394437|717a9319dc554a639c321aba304ae5a7|B19|||||utter_marriage|Are you married?
+2022-11-10 12:42:06.394468|717a9319dc554a639c321aba304ae5a7|U17|answer_marriage|marriage_2|
+2022-11-10 12:42:06.394509|717a9319dc554a639c321aba304ae5a7|B20|||||utter_education|What is your current completed education level?
+2022-11-10 12:42:06.394541|717a9319dc554a639c321aba304ae5a7|U18|answer_education|education_1|
+2022-11-10 12:42:06.394582|717a9319dc554a639c321aba304ae5a7|B21|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-10 12:42:14.356568|ce5b097b1f5b4936a90f8c414d2599b6|U0|greet|/greet|
+2022-11-10 12:42:14.356664|ce5b097b1f5b4936a90f8c414d2599b6|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 12:42:14.356730|ce5b097b1f5b4936a90f8c414d2599b6|U1|housing|what’s the cost of student living|
+2022-11-10 12:42:14.356817|ce5b097b1f5b4936a90f8c414d2599b6|B1|||||utter_housing| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 12:42:14.356892|ce5b097b1f5b4936a90f8c414d2599b6|B2|||||utter_did_that_help|Did you get the answer?
+2022-11-10 12:42:14.356953|ce5b097b1f5b4936a90f8c414d2599b6|U2|helpfulness_rating|helpfulness_1|
+2022-11-10 12:42:14.357031|ce5b097b1f5b4936a90f8c414d2599b6|B3|||||utter_carry_on|Thanks, carry on!
+2022-11-10 12:42:14.357088|ce5b097b1f5b4936a90f8c414d2599b6|U3|nlu_fallback|how much to apply?|
+2022-11-10 12:42:14.357164|ce5b097b1f5b4936a90f8c414d2599b6|B4|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 12:42:14.357222|ce5b097b1f5b4936a90f8c414d2599b6|U4|lunch|where to have lunch on campus|
+2022-11-10 12:42:14.357298|ce5b097b1f5b4936a90f8c414d2599b6|B5|||||utter_lunch| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 12:42:14.357379|ce5b097b1f5b4936a90f8c414d2599b6|B6|||||utter_did_that_help|Did you get the answer?
+2022-11-10 12:42:14.357436|ce5b097b1f5b4936a90f8c414d2599b6|U5|helpfulness_rating|helpfulness_1|
+2022-11-10 12:42:14.357513|ce5b097b1f5b4936a90f8c414d2599b6|B7|||||utter_carry_on|Thanks, carry on!
+2022-11-10 12:42:14.357569|ce5b097b1f5b4936a90f8c414d2599b6|U6|goodbye|bye|
+2022-11-10 12:42:14.357645|ce5b097b1f5b4936a90f8c414d2599b6|B8|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-10 12:42:14.357702|ce5b097b1f5b4936a90f8c414d2599b6|U7|affirm|Yes|
+2022-11-10 12:42:14.357777|ce5b097b1f5b4936a90f8c414d2599b6|B9|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-10 12:42:14.357834|ce5b097b1f5b4936a90f8c414d2599b6|U8|satisfy_rating|satisfy_4|
+2022-11-10 12:42:14.357909|ce5b097b1f5b4936a90f8c414d2599b6|B10|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-10 12:42:14.357968|ce5b097b1f5b4936a90f8c414d2599b6|U9|interaction_rating|interaction_4|
+2022-11-10 12:42:14.358044|ce5b097b1f5b4936a90f8c414d2599b6|B11|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-10 12:42:14.358101|ce5b097b1f5b4936a90f8c414d2599b6|U10|preference_rating|preference_2|
+2022-11-10 12:42:14.358176|ce5b097b1f5b4936a90f8c414d2599b6|B12|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-10 12:42:14.358233|ce5b097b1f5b4936a90f8c414d2599b6|U11|future_use_rating|future_use_2|
+2022-11-10 12:42:14.358307|ce5b097b1f5b4936a90f8c414d2599b6|B13|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-10 12:42:14.358369|ce5b097b1f5b4936a90f8c414d2599b6|U12|overall_rating|overall_3|
+2022-11-10 12:42:14.358446|ce5b097b1f5b4936a90f8c414d2599b6|B14|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-10 12:42:14.358503|ce5b097b1f5b4936a90f8c414d2599b6|B15|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-10 12:42:14.358559|ce5b097b1f5b4936a90f8c414d2599b6|U13|answer_current_student|answer_current_student_1|
+2022-11-10 12:42:14.358634|ce5b097b1f5b4936a90f8c414d2599b6|B16|||||utter_gender|What's your gender?
+2022-11-10 12:42:14.358689|ce5b097b1f5b4936a90f8c414d2599b6|U14|answer_gender|gender_2|
+2022-11-10 12:42:14.358764|ce5b097b1f5b4936a90f8c414d2599b6|B17|||||utter_age|What's your age?
+2022-11-10 12:42:14.358819|ce5b097b1f5b4936a90f8c414d2599b6|U15|answer_age|age_1|
+2022-11-10 12:42:14.358894|ce5b097b1f5b4936a90f8c414d2599b6|B18|||||utter_marriage|Are you married?
+2022-11-10 12:42:14.358950|ce5b097b1f5b4936a90f8c414d2599b6|U16|answer_marriage|marriage_2|
+2022-11-10 12:42:14.359025|ce5b097b1f5b4936a90f8c414d2599b6|B19|||||utter_education|What is your current completed education level?
+2022-11-10 12:42:14.359081|ce5b097b1f5b4936a90f8c414d2599b6|U17|answer_education|education_1|
+2022-11-10 12:42:14.359156|ce5b097b1f5b4936a90f8c414d2599b6|B20|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-10 12:47:57.940343|d9168e157ff64c478fd4b5041a49cc53|U0|greet|/greet|
+2022-11-10 12:47:57.940433|d9168e157ff64c478fd4b5041a49cc53|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 12:47:57.940496|d9168e157ff64c478fd4b5041a49cc53|U1|greet|dining on campus|
+2022-11-10 12:47:57.940576|d9168e157ff64c478fd4b5041a49cc53|B1|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 12:47:57.940635|d9168e157ff64c478fd4b5041a49cc53|U2|locality|locations|
+2022-11-10 12:47:57.940712|d9168e157ff64c478fd4b5041a49cc53|B2|||||utter_locality| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 12:47:57.940782|d9168e157ff64c478fd4b5041a49cc53|B3|||||utter_did_that_help|Did you get the answer?
+2022-11-10 12:47:57.940840|d9168e157ff64c478fd4b5041a49cc53|U3|helpfulness_rating|helpfulness_1|
+2022-11-10 12:47:57.940915|d9168e157ff64c478fd4b5041a49cc53|B4|||||utter_carry_on|Thanks, carry on!
+2022-11-10 12:47:57.940971|d9168e157ff64c478fd4b5041a49cc53|U4|housing|student housing|
+2022-11-10 12:47:57.941046|d9168e157ff64c478fd4b5041a49cc53|B5|||||utter_housing| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 12:47:57.941112|d9168e157ff64c478fd4b5041a49cc53|B6|||||utter_did_that_help|Did you get the answer?
+2022-11-10 12:47:57.941168|d9168e157ff64c478fd4b5041a49cc53|U5|helpfulness_rating|helpfulness_1|
+2022-11-10 12:47:57.941243|d9168e157ff64c478fd4b5041a49cc53|B7|||||utter_carry_on|Thanks, carry on!
+2022-11-10 12:47:57.941299|d9168e157ff64c478fd4b5041a49cc53|U6|transport_mode|transportation|
+2022-11-10 12:47:57.941388|d9168e157ff64c478fd4b5041a49cc53|B8|||||utter_transport_mode| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 12:47:57.941454|d9168e157ff64c478fd4b5041a49cc53|B9|||||utter_did_that_help|Did you get the answer?
+2022-11-10 12:47:57.941511|d9168e157ff64c478fd4b5041a49cc53|U7|helpfulness_rating|helpfulness_1|
+2022-11-10 12:47:57.941577|d9168e157ff64c478fd4b5041a49cc53|B10|||||utter_carry_on|Thanks, carry on!
+2022-11-10 12:47:57.941610|d9168e157ff64c478fd4b5041a49cc53|U8|goodbye|Bye|
+2022-11-10 12:47:57.941654|d9168e157ff64c478fd4b5041a49cc53|B11|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-10 12:47:57.941688|d9168e157ff64c478fd4b5041a49cc53|U9|affirm|Yes|
+2022-11-10 12:47:57.941731|d9168e157ff64c478fd4b5041a49cc53|B12|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-10 12:47:57.941764|d9168e157ff64c478fd4b5041a49cc53|U10|satisfy_rating|satisfy_3|
+2022-11-10 12:47:57.941809|d9168e157ff64c478fd4b5041a49cc53|B13|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-10 12:47:57.941842|d9168e157ff64c478fd4b5041a49cc53|U11|interaction_rating|interaction_4|
+2022-11-10 12:47:57.941886|d9168e157ff64c478fd4b5041a49cc53|B14|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-10 12:47:57.941919|d9168e157ff64c478fd4b5041a49cc53|U12|preference_rating|preference_2|
+2022-11-10 12:47:57.941963|d9168e157ff64c478fd4b5041a49cc53|B15|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-10 12:47:57.941996|d9168e157ff64c478fd4b5041a49cc53|U13|future_use_rating|future_use_2|
+2022-11-10 12:47:57.942040|d9168e157ff64c478fd4b5041a49cc53|B16|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-10 12:47:57.942082|d9168e157ff64c478fd4b5041a49cc53|U14|overall_rating|overall_3|
+2022-11-10 12:47:57.942127|d9168e157ff64c478fd4b5041a49cc53|B17|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-10 12:47:57.942161|d9168e157ff64c478fd4b5041a49cc53|B18|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-10 12:47:57.942195|d9168e157ff64c478fd4b5041a49cc53|U15|answer_current_student|answer_current_student_2|
+2022-11-10 12:47:57.942239|d9168e157ff64c478fd4b5041a49cc53|B19|||||utter_gender|What's your gender?
+2022-11-10 12:47:57.942272|d9168e157ff64c478fd4b5041a49cc53|U16|answer_gender|gender_2|
+2022-11-10 12:47:57.942316|d9168e157ff64c478fd4b5041a49cc53|B20|||||utter_age|What's your age?
+2022-11-10 12:47:57.942349|d9168e157ff64c478fd4b5041a49cc53|U17|answer_age|age_1|
+2022-11-10 12:47:57.942392|d9168e157ff64c478fd4b5041a49cc53|B21|||||utter_marriage|Are you married?
+2022-11-10 12:47:57.942424|d9168e157ff64c478fd4b5041a49cc53|U18|answer_marriage|marriage_2|
+2022-11-10 12:47:57.942468|d9168e157ff64c478fd4b5041a49cc53|B22|||||utter_education|What is your current completed education level?
+2022-11-10 12:47:57.942502|d9168e157ff64c478fd4b5041a49cc53|U19|answer_education|education_2|
+2022-11-10 12:47:57.942545|d9168e157ff64c478fd4b5041a49cc53|B23|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-10 12:56:31.946223|21997693a98848eb88575499baff0662|U0|greet|/greet|
+2022-11-10 12:56:31.946298|21997693a98848eb88575499baff0662|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 12:56:31.946351|21997693a98848eb88575499baff0662|U1|nlu_fallback|Any SI sessions for tutoring|
+2022-11-10 12:56:31.946416|21997693a98848eb88575499baff0662|B1|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 12:56:31.946465|21997693a98848eb88575499baff0662|U2|nlu_fallback|Any SI sessions for tutoring|
+2022-11-10 12:56:31.946527|21997693a98848eb88575499baff0662|B2|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 12:56:31.946575|21997693a98848eb88575499baff0662|U3|nlu_fallback|Any SI sessions for tutoring?|
+2022-11-10 12:56:31.946637|21997693a98848eb88575499baff0662|B3|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 12:56:31.946683|21997693a98848eb88575499baff0662|U4|nlu_fallback|Any SI sessions avalible for Physic|
+2022-11-10 12:56:31.946745|21997693a98848eb88575499baff0662|B4|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 12:56:31.946790|21997693a98848eb88575499baff0662|U5|available_jobs|Any SI sessions available for Physic|
+2022-11-10 12:56:31.946850|21997693a98848eb88575499baff0662|B5|||||utter_available_jobs| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 12:56:31.946906|21997693a98848eb88575499baff0662|B6|||||utter_did_that_help|Did you get the answer?
+2022-11-10 12:56:31.946951|21997693a98848eb88575499baff0662|U6|campus|What Language are you programmed in?|
+2022-11-10 12:56:31.947012|21997693a98848eb88575499baff0662|B7|||||utter_campus| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 12:56:31.947066|21997693a98848eb88575499baff0662|B8|||||utter_did_that_help|Did you get the answer?
+2022-11-10 12:56:31.947111|21997693a98848eb88575499baff0662|U7|access_application|How to apply?|
+2022-11-10 12:56:31.947171|21997693a98848eb88575499baff0662|B9|||||utter_access_application| I guess you are asking questions regarding applications, please refer to the FAQs here: https://drive.google.com/file/d/1j6zp61h4_Hh081jbk-r0H44I3SQhIyIB/view?usp=sharing 
+2022-11-10 12:56:31.947218|21997693a98848eb88575499baff0662|B10|||||utter_did_that_help|Did you get the answer?
+2022-11-10 12:56:31.947263|21997693a98848eb88575499baff0662|U8|lunch|Where to have lunch on campus?|
+2022-11-10 12:56:31.947324|21997693a98848eb88575499baff0662|B11|||||utter_lunch| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 12:56:31.947379|21997693a98848eb88575499baff0662|B12|||||utter_did_that_help|Did you get the answer?
+2022-11-10 12:56:31.947425|21997693a98848eb88575499baff0662|U9|nlu_fallback|'|
+2022-11-10 12:56:31.947485|21997693a98848eb88575499baff0662|B13|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 12:56:31.947531|21997693a98848eb88575499baff0662|U10|coronavirus|?' 1==1|
+2022-11-10 12:56:31.947592|21997693a98848eb88575499baff0662|B14|||||utter_international_drivers_licence| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 12:56:31.947645|21997693a98848eb88575499baff0662|B15|||||utter_did_that_help|Did you get the answer?
+2022-11-10 12:56:31.947690|21997693a98848eb88575499baff0662|U11|coronavirus|' or 1==1|
+2022-11-10 12:56:31.947751|21997693a98848eb88575499baff0662|B16|||||utter_international_drivers_licence| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 12:56:31.947807|21997693a98848eb88575499baff0662|B17|||||utter_did_that_help|Did you get the answer?
+2022-11-10 12:56:31.947851|21997693a98848eb88575499baff0662|U12|coronavirus|' or 1=1|
+2022-11-10 12:56:31.947911|21997693a98848eb88575499baff0662|B18|||||utter_international_drivers_licence| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 12:56:31.947965|21997693a98848eb88575499baff0662|B19|||||utter_did_that_help|Did you get the answer?
+2022-11-10 12:56:31.948010|21997693a98848eb88575499baff0662|U13|helpfulness_rating|helpfulness_2|
+2022-11-10 12:56:31.948070|21997693a98848eb88575499baff0662|B20|||||utter_carry_on|Thanks, carry on!
+2022-11-10 12:56:31.948114|21997693a98848eb88575499baff0662|U14|nlu_fallback|help|
+2022-11-10 12:56:31.948175|21997693a98848eb88575499baff0662|B21|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 12:56:31.948220|21997693a98848eb88575499baff0662|U15|nlu_fallback|Help?|
+2022-11-10 12:56:31.948280|21997693a98848eb88575499baff0662|B22|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 12:56:31.948324|21997693a98848eb88575499baff0662|U16|find_place|How to find a place to stay?|
+2022-11-10 12:56:31.948385|21997693a98848eb88575499baff0662|B23|||||utter_find_place| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 12:56:31.948442|21997693a98848eb88575499baff0662|B24|||||utter_did_that_help|Did you get the answer?
+2022-11-10 12:56:31.948487|21997693a98848eb88575499baff0662|U17|helpfulness_rating|helpfulness_1|
+2022-11-10 12:56:31.948548|21997693a98848eb88575499baff0662|B25|||||utter_carry_on|Thanks, carry on!
+2022-11-10 12:56:31.948592|21997693a98848eb88575499baff0662|U18|goodbye|bye|
+2022-11-10 12:56:31.948652|21997693a98848eb88575499baff0662|B26|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-10 12:56:31.948697|21997693a98848eb88575499baff0662|U19|affirm|Yes|
+2022-11-10 12:56:31.948758|21997693a98848eb88575499baff0662|B27|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-10 12:56:31.948804|21997693a98848eb88575499baff0662|U20|satisfy_rating|satisfy_3|
+2022-11-10 12:56:31.948864|21997693a98848eb88575499baff0662|B28|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-10 12:56:31.948909|21997693a98848eb88575499baff0662|U21|interaction_rating|interaction_2|
+2022-11-10 12:56:31.948969|21997693a98848eb88575499baff0662|B29|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-10 12:56:31.949014|21997693a98848eb88575499baff0662|U22|preference_rating|preference_5|
+2022-11-10 12:56:31.949075|21997693a98848eb88575499baff0662|B30|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-10 12:56:31.949120|21997693a98848eb88575499baff0662|U23|future_use_rating|future_use_3|
+2022-11-10 12:56:31.949180|21997693a98848eb88575499baff0662|B31|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-10 12:56:31.949243|21997693a98848eb88575499baff0662|U24|overall_rating|overall_2|
+2022-11-10 12:56:31.949305|21997693a98848eb88575499baff0662|B32|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-10 12:56:31.949367|21997693a98848eb88575499baff0662|B33|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-10 12:56:31.949414|21997693a98848eb88575499baff0662|U25|answer_current_student|answer_current_student_1|
+2022-11-10 12:56:31.949476|21997693a98848eb88575499baff0662|B34|||||utter_gender|What's your gender?
+2022-11-10 12:56:31.949520|21997693a98848eb88575499baff0662|U26|answer_gender|gender_2|
+2022-11-10 12:56:31.949581|21997693a98848eb88575499baff0662|B35|||||utter_age|What's your age?
+2022-11-10 12:56:31.949637|21997693a98848eb88575499baff0662|U27|answer_age|age_1|
+2022-11-10 12:56:31.949692|21997693a98848eb88575499baff0662|B36|||||utter_marriage|Are you married?
+2022-11-10 12:56:31.949733|21997693a98848eb88575499baff0662|U28|answer_marriage|marriage_2|
+2022-11-10 12:56:31.949788|21997693a98848eb88575499baff0662|B37|||||utter_education|What is your current completed education level?
+2022-11-10 12:56:31.949830|21997693a98848eb88575499baff0662|U29|answer_education|education_1|
+2022-11-10 12:56:31.949886|21997693a98848eb88575499baff0662|B38|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-10 16:42:53.886229|c9bd27543d3f4a5d9fce3949300a3e9a|U0|greet|/greet|
+2022-11-10 16:42:53.886323|c9bd27543d3f4a5d9fce3949300a3e9a|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 16:42:53.886389|c9bd27543d3f4a5d9fce3949300a3e9a|U1|application_fee|How much is the application fee?|
+2022-11-10 16:42:53.886468|c9bd27543d3f4a5d9fce3949300a3e9a|B1|||||utter_application_fee| I guess you are asking questions regarding applications, please refer to the FAQs here: https://drive.google.com/file/d/1j6zp61h4_Hh081jbk-r0H44I3SQhIyIB/view?usp=sharing 
+2022-11-10 16:42:53.886530|c9bd27543d3f4a5d9fce3949300a3e9a|B2|||||utter_did_that_help|Did you get the answer?
+2022-11-10 16:42:53.886588|c9bd27543d3f4a5d9fce3949300a3e9a|U2|helpfulness_rating|helpfulness_1|
+2022-11-10 16:42:53.886665|c9bd27543d3f4a5d9fce3949300a3e9a|B3|||||utter_carry_on|Thanks, carry on!
+2022-11-10 16:42:53.886721|c9bd27543d3f4a5d9fce3949300a3e9a|U3|greet|How many dining locations?|
+2022-11-10 16:42:53.886796|c9bd27543d3f4a5d9fce3949300a3e9a|B4|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 16:42:53.886856|c9bd27543d3f4a5d9fce3949300a3e9a|U4|greet|How many dining locations?|
+2022-11-10 16:42:53.886932|c9bd27543d3f4a5d9fce3949300a3e9a|B5|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 16:42:53.886990|c9bd27543d3f4a5d9fce3949300a3e9a|U5|campus|What to eat on campus?|
+2022-11-10 16:42:53.887065|c9bd27543d3f4a5d9fce3949300a3e9a|B6|||||utter_campus| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 16:42:53.887134|c9bd27543d3f4a5d9fce3949300a3e9a|B7|||||utter_did_that_help|Did you get the answer?
+2022-11-10 16:42:53.887191|c9bd27543d3f4a5d9fce3949300a3e9a|U6|helpfulness_rating|helpfulness_1|
+2022-11-10 16:42:53.887266|c9bd27543d3f4a5d9fce3949300a3e9a|B8|||||utter_carry_on|Thanks, carry on!
+2022-11-10 16:42:53.887321|c9bd27543d3f4a5d9fce3949300a3e9a|U7|meal_plan|meal plan?|
+2022-11-10 16:42:53.887396|c9bd27543d3f4a5d9fce3949300a3e9a|B9|||||utter_meal_plan| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 16:42:53.887465|c9bd27543d3f4a5d9fce3949300a3e9a|B10|||||utter_did_that_help|Did you get the answer?
+2022-11-10 16:42:53.887521|c9bd27543d3f4a5d9fce3949300a3e9a|U8|helpfulness_rating|helpfulness_2|
+2022-11-10 16:42:53.887596|c9bd27543d3f4a5d9fce3949300a3e9a|B11|||||utter_carry_on|Thanks, carry on!
+2022-11-10 16:42:53.887651|c9bd27543d3f4a5d9fce3949300a3e9a|U9|goodbye|Bye|
+2022-11-10 16:42:53.887727|c9bd27543d3f4a5d9fce3949300a3e9a|B12|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-10 16:42:53.887785|c9bd27543d3f4a5d9fce3949300a3e9a|U10|affirm|Yes|
+2022-11-10 16:42:53.887862|c9bd27543d3f4a5d9fce3949300a3e9a|B13|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-10 16:42:53.887918|c9bd27543d3f4a5d9fce3949300a3e9a|U11|satisfy_rating|satisfy_3|
+2022-11-10 16:42:53.887994|c9bd27543d3f4a5d9fce3949300a3e9a|B14|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-10 16:42:53.888050|c9bd27543d3f4a5d9fce3949300a3e9a|U12|interaction_rating|interaction_3|
+2022-11-10 16:42:53.888125|c9bd27543d3f4a5d9fce3949300a3e9a|B15|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-10 16:42:53.888182|c9bd27543d3f4a5d9fce3949300a3e9a|U13|preference_rating|preference_2|
+2022-11-10 16:42:53.888257|c9bd27543d3f4a5d9fce3949300a3e9a|B16|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-10 16:42:53.888314|c9bd27543d3f4a5d9fce3949300a3e9a|U14|future_use_rating|future_use_3|
+2022-11-10 16:42:53.888390|c9bd27543d3f4a5d9fce3949300a3e9a|B17|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-10 16:42:53.888463|c9bd27543d3f4a5d9fce3949300a3e9a|U15|overall_rating|overall_3|
+2022-11-10 16:42:53.888540|c9bd27543d3f4a5d9fce3949300a3e9a|B18|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-10 16:42:53.888599|c9bd27543d3f4a5d9fce3949300a3e9a|B19|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-10 16:42:53.888656|c9bd27543d3f4a5d9fce3949300a3e9a|U16|answer_current_student|answer_current_student_1|
+2022-11-10 16:42:53.888732|c9bd27543d3f4a5d9fce3949300a3e9a|B20|||||utter_gender|What's your gender?
+2022-11-10 16:42:53.888788|c9bd27543d3f4a5d9fce3949300a3e9a|U17|answer_gender|gender_1|
+2022-11-10 16:42:53.888865|c9bd27543d3f4a5d9fce3949300a3e9a|B21|||||utter_age|What's your age?
+2022-11-10 16:42:53.888921|c9bd27543d3f4a5d9fce3949300a3e9a|U18|answer_age|age_1|
+2022-11-10 16:42:53.888997|c9bd27543d3f4a5d9fce3949300a3e9a|B22|||||utter_marriage|Are you married?
+2022-11-10 16:42:53.889053|c9bd27543d3f4a5d9fce3949300a3e9a|U19|answer_marriage|marriage_2|
+2022-11-10 16:42:53.889129|c9bd27543d3f4a5d9fce3949300a3e9a|B23|||||utter_education|What is your current completed education level?
+2022-11-10 16:42:53.889186|c9bd27543d3f4a5d9fce3949300a3e9a|U20|answer_education|education_1|
+2022-11-10 16:42:53.889261|c9bd27543d3f4a5d9fce3949300a3e9a|B24|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-10 22:04:43.881798|2ca789eead8049f38de6f7c395755b0e|U0|greet|/greet|
+2022-11-10 22:04:43.881844|2ca789eead8049f38de6f7c395755b0e|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 22:04:43.881876|2ca789eead8049f38de6f7c395755b0e|U1|housing|student housing|
+2022-11-10 22:04:43.881916|2ca789eead8049f38de6f7c395755b0e|B1|||||utter_housing| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 22:04:43.881951|2ca789eead8049f38de6f7c395755b0e|B2|||||utter_did_that_help|Did you get the answer?
+2022-11-10 22:04:43.881979|2ca789eead8049f38de6f7c395755b0e|U2|helpfulness_rating|helpfulness_2|
+2022-11-10 22:04:43.882018|2ca789eead8049f38de6f7c395755b0e|B3|||||utter_carry_on|Thanks, carry on!
+2022-11-10 22:04:43.882045|2ca789eead8049f38de6f7c395755b0e|U3|meal_plan|How's about the meal plan?|
+2022-11-10 22:04:43.882083|2ca789eead8049f38de6f7c395755b0e|B4|||||utter_meal_plan| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 22:04:43.882116|2ca789eead8049f38de6f7c395755b0e|B5|||||utter_did_that_help|Did you get the answer?
+2022-11-10 22:04:43.882143|2ca789eead8049f38de6f7c395755b0e|U4|helpfulness_rating|helpfulness_2|
+2022-11-10 22:04:43.882180|2ca789eead8049f38de6f7c395755b0e|B6|||||utter_carry_on|Thanks, carry on!
+2022-11-10 22:04:43.882207|2ca789eead8049f38de6f7c395755b0e|U5|campus|What to eat on campus?|
+2022-11-10 22:04:43.882244|2ca789eead8049f38de6f7c395755b0e|B7|||||utter_campus| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 22:04:43.882278|2ca789eead8049f38de6f7c395755b0e|B8|||||utter_did_that_help|Did you get the answer?
+2022-11-10 22:04:43.882306|2ca789eead8049f38de6f7c395755b0e|U6|helpfulness_rating|helpfulness_2|
+2022-11-10 22:04:43.882342|2ca789eead8049f38de6f7c395755b0e|B9|||||utter_carry_on|Thanks, carry on!
+2022-11-10 22:04:43.882370|2ca789eead8049f38de6f7c395755b0e|U7|application_status|How can I know the application status/deadline...|
+2022-11-10 22:04:43.882407|2ca789eead8049f38de6f7c395755b0e|B10|||||utter_application_status| I guess you are asking questions regarding applications, please refer to the FAQs here: https://drive.google.com/file/d/1j6zp61h4_Hh081jbk-r0H44I3SQhIyIB/view?usp=sharing 
+2022-11-10 22:04:43.882435|2ca789eead8049f38de6f7c395755b0e|B11|||||utter_did_that_help|Did you get the answer?
+2022-11-10 22:04:43.882463|2ca789eead8049f38de6f7c395755b0e|U8|nlu_fallback|hi can I reset my uofsc email|
+2022-11-10 22:04:43.882500|2ca789eead8049f38de6f7c395755b0e|B12|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 22:04:43.882529|2ca789eead8049f38de6f7c395755b0e|U9|nlu_fallback|reset email password|
+2022-11-10 22:04:43.882565|2ca789eead8049f38de6f7c395755b0e|B13|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 22:04:43.882593|2ca789eead8049f38de6f7c395755b0e|U10|nlu_fallback|uofsc email|
+2022-11-10 22:04:43.882630|2ca789eead8049f38de6f7c395755b0e|B14|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 22:04:43.882657|2ca789eead8049f38de6f7c395755b0e|U11|access_application|How to apply|
+2022-11-10 22:04:43.882694|2ca789eead8049f38de6f7c395755b0e|B15|||||utter_access_application| I guess you are asking questions regarding applications, please refer to the FAQs here: https://drive.google.com/file/d/1j6zp61h4_Hh081jbk-r0H44I3SQhIyIB/view?usp=sharing 
+2022-11-10 22:04:43.882722|2ca789eead8049f38de6f7c395755b0e|B16|||||utter_did_that_help|Did you get the answer?
+2022-11-10 22:04:43.882749|2ca789eead8049f38de6f7c395755b0e|U12|application_fee|application fee|
+2022-11-10 22:04:43.882786|2ca789eead8049f38de6f7c395755b0e|B17|||||utter_application_fee| I guess you are asking questions regarding applications, please refer to the FAQs here: https://drive.google.com/file/d/1j6zp61h4_Hh081jbk-r0H44I3SQhIyIB/view?usp=sharing 
+2022-11-10 22:04:43.882816|2ca789eead8049f38de6f7c395755b0e|B18|||||utter_did_that_help|Did you get the answer?
+2022-11-10 22:04:43.882843|2ca789eead8049f38de6f7c395755b0e|U13|application_status|status|
+2022-11-10 22:04:43.882879|2ca789eead8049f38de6f7c395755b0e|B19|||||utter_application_status| I guess you are asking questions regarding applications, please refer to the FAQs here: https://drive.google.com/file/d/1j6zp61h4_Hh081jbk-r0H44I3SQhIyIB/view?usp=sharing 
+2022-11-10 22:04:43.882907|2ca789eead8049f38de6f7c395755b0e|B20|||||utter_did_that_help|Did you get the answer?
+2022-11-10 22:04:43.882934|2ca789eead8049f38de6f7c395755b0e|U14|find_place|stay|
+2022-11-10 22:04:43.882970|2ca789eead8049f38de6f7c395755b0e|B21|||||utter_find_place| I guess you are asking questions regarding campus life at UofSC, like housing, dining, transportation, locations, and so on. 
+ 
+ Please refer to the FAQs here: https://drive.google.com/file/d/1TpchSxDiTs5cCpA18UblP6e_Hk3lS2YN/view?usp=sharing 
+2022-11-10 22:04:43.883004|2ca789eead8049f38de6f7c395755b0e|B22|||||utter_did_that_help|Did you get the answer?
+2022-11-10 22:04:43.883031|2ca789eead8049f38de6f7c395755b0e|U15|application_fee|feedback|
+2022-11-10 22:04:43.883067|2ca789eead8049f38de6f7c395755b0e|B23|||||utter_application_fee| I guess you are asking questions regarding applications, please refer to the FAQs here: https://drive.google.com/file/d/1j6zp61h4_Hh081jbk-r0H44I3SQhIyIB/view?usp=sharing 
+2022-11-10 22:04:43.883095|2ca789eead8049f38de6f7c395755b0e|B24|||||utter_did_that_help|Did you get the answer?
+2022-11-10 22:04:43.883150|2ca789eead8049f38de6f7c395755b0e|U16|helpfulness_rating|helpfulness_2|
+2022-11-10 22:04:43.883186|2ca789eead8049f38de6f7c395755b0e|B25|||||utter_carry_on|Thanks, carry on!
+2022-11-10 22:04:43.883213|2ca789eead8049f38de6f7c395755b0e|U17|goodbye|end|
+2022-11-10 22:04:43.883250|2ca789eead8049f38de6f7c395755b0e|B26|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-10 22:04:43.883278|2ca789eead8049f38de6f7c395755b0e|U18|affirm|Yes|
+2022-11-10 22:04:43.883314|2ca789eead8049f38de6f7c395755b0e|B27|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-10 22:04:43.883342|2ca789eead8049f38de6f7c395755b0e|U19|satisfy_rating|satisfy_1|
+2022-11-10 22:04:43.883378|2ca789eead8049f38de6f7c395755b0e|B28|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-10 22:04:43.883404|2ca789eead8049f38de6f7c395755b0e|U20|interaction_rating|interaction_1|
+2022-11-10 22:04:43.883440|2ca789eead8049f38de6f7c395755b0e|B29|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-10 22:04:43.883468|2ca789eead8049f38de6f7c395755b0e|U21|preference_rating|preference_5|
+2022-11-10 22:04:43.883504|2ca789eead8049f38de6f7c395755b0e|B30|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-10 22:04:43.883532|2ca789eead8049f38de6f7c395755b0e|U22|future_use_rating|future_use_5|
+2022-11-10 22:04:43.883569|2ca789eead8049f38de6f7c395755b0e|B31|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-10 22:04:43.883607|2ca789eead8049f38de6f7c395755b0e|U23|overall_rating|overall_2|
+2022-11-10 22:04:43.883644|2ca789eead8049f38de6f7c395755b0e|B32|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-10 22:04:43.883672|2ca789eead8049f38de6f7c395755b0e|B33|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-10 22:04:43.883699|2ca789eead8049f38de6f7c395755b0e|U24|answer_current_student|answer_current_student_1|
+2022-11-10 22:04:43.883736|2ca789eead8049f38de6f7c395755b0e|B34|||||utter_gender|What's your gender?
+2022-11-10 22:04:43.883763|2ca789eead8049f38de6f7c395755b0e|U25|answer_gender|gender_1|
+2022-11-10 22:04:43.883800|2ca789eead8049f38de6f7c395755b0e|B35|||||utter_age|What's your age?
+2022-11-10 22:04:43.883827|2ca789eead8049f38de6f7c395755b0e|U26|answer_age|age_2|
+2022-11-10 22:04:43.883863|2ca789eead8049f38de6f7c395755b0e|B36|||||utter_marriage|Are you married?
+2022-11-10 22:04:43.883890|2ca789eead8049f38de6f7c395755b0e|U27|answer_marriage|marriage_2|
+2022-11-10 22:04:43.883927|2ca789eead8049f38de6f7c395755b0e|B37|||||utter_education|What is your current completed education level?
+2022-11-10 22:04:43.883954|2ca789eead8049f38de6f7c395755b0e|U28|answer_education|education_4|
+2022-11-10 22:04:43.883990|2ca789eead8049f38de6f7c395755b0e|B38|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】

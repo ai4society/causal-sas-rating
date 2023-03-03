@@ -32,6 +32,22 @@ def bf_sentiment(path,k,c):
     elif k == 1:
         return g1
 
+def bf_allure(path):
+
+    set = pd.read_csv(path,engine="python")
+
+    senti = []
+    for (text,gender) in zip(set['Text'],set['User_gender']):
+        if gender==2:
+            senti.append(1)
+        else:
+            senti.append(-1)
+
+    g = {'C_num': set['C_num'], 'UB': set['UB'], 'User_gender':set['User_gender'], 'Text':set['Text'], 'Sentiment': senti}
+
+    return g
+
+
 def g1(path,i,k,c):
 
     df = bf_sentiment(path,k,c)
@@ -68,3 +84,9 @@ def g4(path,i,k,c):
         final_df.to_csv('../data/results/group4/biased/e{}_bf.csv'.format(i),index=False)
     else:
         final_df.to_csv('../data/results/continuous/group4/biased/e{}_bf.csv'.format(i),index=False)
+
+def allure_data(path):
+
+    df = bf_allure(path)
+    final_df = pd.DataFrame(df)
+    final_df.to_csv('../data/results/real-world/allure/bf/bf.csv',index=False)

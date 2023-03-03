@@ -44,6 +44,18 @@ def random_sentiment(path,k,c):
     elif k == 1:
         return g1
 
+def random_allure(path):
+    set = pd.read_csv(path,engine="python")
+        
+    senti = []
+
+    for each in set['Text']:
+        senti.append(gen_random_cont())
+
+    g = {'C_num': set['C_num'], 'UB': set['UB'], 'User_gender':set['User_gender'], 'Text':set['Text'], 'Sentiment': senti}
+
+    return g
+
 
 def g1(path,i,k,c):
 
@@ -80,3 +92,10 @@ def g4(path,i,k,c):
         final_df.to_csv('../data/results/group4/random/e{}_random.csv'.format(i),index=False)
     else:
         final_df.to_csv('../data/results/continuous/group4/random/e{}_random.csv'.format(i),index=False)
+
+
+def allure_data(path):
+    
+    df = random_allure(path)
+    final_df = pd.DataFrame(df)
+    final_df.to_csv('../data/results/real-world/allure/random/random.csv',index=False)

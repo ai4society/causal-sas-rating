@@ -72,6 +72,41 @@ def gru_sentiment(path,k,c):
         return g1
 
 
+def gru_allure(path):
+
+    with open('./sentiment-models/gru/tokenizer.pickle', 'rb') as h:
+        tokenizer = pickle.load(h)
+
+    data = pd.read_csv(path,engine="python")
+    max_words = 50
+
+    text = []
+    for each in data['Text']:
+        text.append(str(each))
+
+
+    data = tokenizer.texts_to_sequences(text)
+    data = keras.preprocessing.sequence.pad_sequences(data, maxlen=max_words)
+
+
+
+    model_GRU = keras.models.load_model("./sentiment-models/gru/checkpoints/")
+
+    pred = model_GRU.predict(data, verbose=1)
+    #sentiment = np.amax(pred,1)
+    sentiment = pred.argmax(axis=1)
+
+    #Normalizing the sentiment scores.
+    senti = []
+    for each in sentiment:
+        senti.append(round(((each-3)/3),2))
+
+    set = pd.read_csv(path,engine="python")
+
+
+    g = {'C_num': set['C_num'], 'UB': set['UB'], 'User_gender':set['User_gender'], 'Text':set['Text'], 'Sentiment': senti}
+
+    return g
 
 
 def g1(path,i,k,c):
@@ -112,3 +147,9 @@ def g4(path,i,k,c):
         final_df.to_csv('../data/results/group4/gru/e{}_gru.csv'.format(i),index=False)
     else:
         final_df.to_csv('../data/results/continuous/group4/gru/e{}_gru.csv'.format(i),index=False)
+
+def allure_data(path):
+
+    df = gru_allure(path)
+    final_df = pd.DataFrame(df)
+    final_df.to_csv('../data/results/real-world/allure/gru/gru.csv',index=False)

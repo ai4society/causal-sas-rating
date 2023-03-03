@@ -1,0 +1,816 @@
+input_time|conversation_id|count|intent|user_input| entity_name|entity_value|action|bot_reply|
+2022-10-26 16:37:56.472406|cb13b44f50314a0f904ca6fbcbed2072|U0|greet|/greet|
+2022-10-26 16:37:56.472501|cb13b44f50314a0f904ca6fbcbed2072|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-10-26 16:37:56.472566|cb13b44f50314a0f904ca6fbcbed2072|U1|access_application|How to apply?|
+2022-10-26 16:37:56.472645|cb13b44f50314a0f904ca6fbcbed2072|B1|||||utter_access_application|Please referto the webpage: https://sc.edu/apply/index.php 
+2022-10-26 16:37:56.472704|cb13b44f50314a0f904ca6fbcbed2072|B2|||||utter_did_that_help|Did you get the answer
+2022-10-26 16:37:56.472763|cb13b44f50314a0f904ca6fbcbed2072|U2|helpfulness_rating|helpfulness_1|
+2022-10-26 16:37:56.472839|cb13b44f50314a0f904ca6fbcbed2072|B3|||||utter_carry_on|Thanks, carry on!
+2022-10-26 16:37:56.472894|cb13b44f50314a0f904ca6fbcbed2072|U3|application_fee|How much is the application fee?|
+2022-10-26 16:37:56.472970|cb13b44f50314a0f904ca6fbcbed2072|B4|||||utter_application_fee|The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.
+2022-10-26 16:37:56.473028|cb13b44f50314a0f904ca6fbcbed2072|U4|find_place|How to find a place to stay?|
+2022-10-26 16:37:56.473103|cb13b44f50314a0f904ca6fbcbed2072|B5|||||utter_find_place|The campus housing is mainly for freshmen students. Most of univeristy's students and visitors use off-campus housing. Many find www.zillow.com useful for finding an appartment or a room.
+2022-10-26 16:37:56.473161|cb13b44f50314a0f904ca6fbcbed2072|B6|||||utter_did_that_help|Did you get the answer
+2022-10-26 16:37:56.473217|cb13b44f50314a0f904ca6fbcbed2072|U5|helpfulness_rating|helpfulness_1|
+2022-10-26 16:37:56.473291|cb13b44f50314a0f904ca6fbcbed2072|B7|||||utter_carry_on|Thanks, carry on!
+2022-10-26 16:37:56.473370|cb13b44f50314a0f904ca6fbcbed2072|U6|lunch|Where to have lunch on campus?|
+2022-10-26 16:37:56.473447|cb13b44f50314a0f904ca6fbcbed2072|B8|||||utter_lunch|There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php 
+2022-10-26 16:37:56.473505|cb13b44f50314a0f904ca6fbcbed2072|U7|meal_plan|How's about the meal plan?|
+2022-10-26 16:37:56.473579|cb13b44f50314a0f904ca6fbcbed2072|B9|||||utter_meal_plan|How about the meal plan?
+2022-10-26 16:37:56.473635|cb13b44f50314a0f904ca6fbcbed2072|B10|||||utter_did_that_help|Did you get the answer
+2022-10-26 16:37:56.473690|cb13b44f50314a0f904ca6fbcbed2072|U8|helpfulness_rating|helpfulness_2|
+2022-10-26 16:37:56.473765|cb13b44f50314a0f904ca6fbcbed2072|B11|||||utter_carry_on|Thanks, carry on!
+2022-10-26 16:37:56.473820|cb13b44f50314a0f904ca6fbcbed2072|U9|goodbye|Bye|
+2022-10-26 16:37:56.473893|cb13b44f50314a0f904ca6fbcbed2072|B12|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-10-26 16:37:56.473949|cb13b44f50314a0f904ca6fbcbed2072|U10|deny|No|
+2022-10-26 16:37:56.474023|cb13b44f50314a0f904ca6fbcbed2072|B13|||||utter_ask_short_feedback|Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+2022-10-26 16:37:56.474093|cb13b44f50314a0f904ca6fbcbed2072|U11|short_feedback_rating|short_5|
+2022-10-26 16:37:56.474168|cb13b44f50314a0f904ca6fbcbed2072|B14|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-10-26 16:49:10.328818|1c7db1eaa87e4a0290e85bb0cdab5a76|U0|greet|/greet|
+2022-10-26 16:49:10.328907|1c7db1eaa87e4a0290e85bb0cdab5a76|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-10-26 16:49:10.328970|1c7db1eaa87e4a0290e85bb0cdab5a76|U1|meal_plan|How's about the meal plan?|
+2022-10-26 16:49:10.329048|1c7db1eaa87e4a0290e85bb0cdab5a76|B1|||||utter_meal_plan|The are different kinds of meal plans for students and faculties. More about the meal plan, please refer to the webpage: 
+https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php
+2022-10-26 16:49:10.329115|1c7db1eaa87e4a0290e85bb0cdab5a76|B2|||||utter_did_that_help|Did you get the answer
+2022-10-26 16:49:10.329172|1c7db1eaa87e4a0290e85bb0cdab5a76|U2|helpfulness_rating|helpfulness_1|
+2022-10-26 16:49:10.329247|1c7db1eaa87e4a0290e85bb0cdab5a76|B3|||||utter_carry_on|Thanks, carry on!
+2022-10-26 16:49:10.329303|1c7db1eaa87e4a0290e85bb0cdab5a76|U3|goodbye|Bye|
+2022-10-26 16:49:10.329404|1c7db1eaa87e4a0290e85bb0cdab5a76|B4|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-10-26 16:49:10.329459|1c7db1eaa87e4a0290e85bb0cdab5a76|U4|deny|No|
+2022-10-26 16:49:10.329524|1c7db1eaa87e4a0290e85bb0cdab5a76|B5|||||utter_ask_short_feedback|Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+2022-10-26 16:49:10.329582|1c7db1eaa87e4a0290e85bb0cdab5a76|U5|short_feedback_rating|short_5|
+2022-10-26 16:49:10.329648|1c7db1eaa87e4a0290e85bb0cdab5a76|B6|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-09 12:03:36.216631|1e53173c47b948819841b1d38d24a50f|U0|greet|/greet|
+2022-11-09 12:03:36.216725|1e53173c47b948819841b1d38d24a50f|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-09 12:03:36.216793|1e53173c47b948819841b1d38d24a50f|U1|access_application|How to apply?|
+2022-11-09 12:03:36.216874|1e53173c47b948819841b1d38d24a50f|B1|||||utter_access_application|Please referto the webpage: https://sc.edu/apply/index.php 
+2022-11-09 12:03:36.216935|1e53173c47b948819841b1d38d24a50f|B2|||||utter_did_that_help|Did you get the answer
+2022-11-09 12:03:36.216994|1e53173c47b948819841b1d38d24a50f|U2|helpfulness_rating|helpfulness_1|
+2022-11-09 12:03:36.217071|1e53173c47b948819841b1d38d24a50f|B3|||||utter_carry_on|Thanks, carry on!
+2022-11-09 12:03:36.217128|1e53173c47b948819841b1d38d24a50f|U3|application_fee|How much is the application fee?|
+2022-11-09 12:03:36.217206|1e53173c47b948819841b1d38d24a50f|B4|||||utter_application_fee|The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.
+2022-11-09 12:03:36.217265|1e53173c47b948819841b1d38d24a50f|U4|application_status|How can I know the application status|
+2022-11-09 12:03:36.217407|1e53173c47b948819841b1d38d24a50f|U5|find_place|How to find a place to stay|
+2022-11-09 12:03:36.217484|1e53173c47b948819841b1d38d24a50f|B5|||||utter_find_place|The campus housing is mainly for freshmen students. Most of univeristy's students and visitors use off-campus housing. Many find www.zillow.com useful for finding an appartment or a room.
+2022-11-09 12:03:36.217543|1e53173c47b948819841b1d38d24a50f|B6|||||utter_did_that_help|Did you get the answer
+2022-11-09 12:03:36.217600|1e53173c47b948819841b1d38d24a50f|U6|helpfulness_rating|helpfulness_1|
+2022-11-09 12:03:36.217675|1e53173c47b948819841b1d38d24a50f|B7|||||utter_carry_on|Thanks, carry on!
+2022-11-09 12:03:36.217731|1e53173c47b948819841b1d38d24a50f|U7|housing|What's the cost of the student living?|
+2022-11-09 12:03:36.217807|1e53173c47b948819841b1d38d24a50f|B8|||||utter_housing|For the on-campus housing, please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing, you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php
+2022-11-09 12:03:36.217871|1e53173c47b948819841b1d38d24a50f|U8|lunch|Where to have lunch on campus?|
+2022-11-09 12:03:36.217946|1e53173c47b948819841b1d38d24a50f|B9|||||utter_lunch|There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php 
+2022-11-09 12:03:36.218005|1e53173c47b948819841b1d38d24a50f|B10|||||utter_did_that_help|Did you get the answer
+2022-11-09 12:03:36.218060|1e53173c47b948819841b1d38d24a50f|U9|helpfulness_rating|helpfulness_1|
+2022-11-09 12:03:36.218136|1e53173c47b948819841b1d38d24a50f|B11|||||utter_carry_on|Thanks, carry on!
+2022-11-09 12:03:36.218192|1e53173c47b948819841b1d38d24a50f|U10|nlu_fallback|What to eat on campus?|
+2022-11-09 12:03:36.218267|1e53173c47b948819841b1d38d24a50f|B12|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-09 12:03:36.218325|1e53173c47b948819841b1d38d24a50f|U11|meal_plan|How's about the meal plan|
+2022-11-09 12:03:36.218399|1e53173c47b948819841b1d38d24a50f|B13|||||utter_meal_plan|The are different kinds of meal plans for students and faculties. More about the meal plan, please refer to the webpage: 
+https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php
+2022-11-09 12:03:36.218465|1e53173c47b948819841b1d38d24a50f|B14|||||utter_did_that_help|Did you get the answer
+2022-11-09 12:03:36.218521|1e53173c47b948819841b1d38d24a50f|U12|helpfulness_rating|helpfulness_1|
+2022-11-09 12:03:36.218595|1e53173c47b948819841b1d38d24a50f|B15|||||utter_carry_on|Thanks, carry on!
+2022-11-09 12:03:36.218651|1e53173c47b948819841b1d38d24a50f|U13|goodbye|bye|
+2022-11-09 12:03:36.218725|1e53173c47b948819841b1d38d24a50f|B16|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-09 12:03:36.218782|1e53173c47b948819841b1d38d24a50f|U14|affirm|Yes|
+2022-11-09 12:03:36.218857|1e53173c47b948819841b1d38d24a50f|B17|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-09 12:03:36.218914|1e53173c47b948819841b1d38d24a50f|U15|satisfy_rating|satisfy_4|
+2022-11-09 12:03:36.218988|1e53173c47b948819841b1d38d24a50f|B18|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-09 12:03:36.219043|1e53173c47b948819841b1d38d24a50f|U16|interaction_rating|interaction_3|
+2022-11-09 12:03:36.219118|1e53173c47b948819841b1d38d24a50f|B19|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-09 12:03:36.219175|1e53173c47b948819841b1d38d24a50f|U17|preference_rating|preference_3|
+2022-11-09 12:03:36.219249|1e53173c47b948819841b1d38d24a50f|B20|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-09 12:03:36.219305|1e53173c47b948819841b1d38d24a50f|U18|future_use_rating|future_use_5|
+2022-11-09 12:03:36.219379|1e53173c47b948819841b1d38d24a50f|B21|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-09 12:03:36.219454|1e53173c47b948819841b1d38d24a50f|U19|overall_rating|overall_3|
+2022-11-09 12:03:36.219531|1e53173c47b948819841b1d38d24a50f|B22|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-09 12:03:36.219589|1e53173c47b948819841b1d38d24a50f|B23|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-09 12:03:36.219646|1e53173c47b948819841b1d38d24a50f|U20|answer_current_student|answer_current_student_1|
+2022-11-09 12:03:36.219721|1e53173c47b948819841b1d38d24a50f|B24|||||utter_gender|What's your gender?
+2022-11-09 12:03:36.219777|1e53173c47b948819841b1d38d24a50f|U21|answer_gender|gender_2|
+2022-11-09 12:03:36.219851|1e53173c47b948819841b1d38d24a50f|B25|||||utter_age|What's your age?
+2022-11-09 12:03:36.219907|1e53173c47b948819841b1d38d24a50f|U22|answer_age|age_2|
+2022-11-09 12:03:36.219981|1e53173c47b948819841b1d38d24a50f|B26|||||utter_marriage|Are you married?
+2022-11-09 12:03:36.220037|1e53173c47b948819841b1d38d24a50f|U23|answer_marriage|marriage_2|
+2022-11-09 12:03:36.220110|1e53173c47b948819841b1d38d24a50f|B27|||||utter_education|What is your current completed education level?
+2022-11-09 12:03:36.220167|1e53173c47b948819841b1d38d24a50f|U24|answer_education|education_2|
+2022-11-09 12:03:36.220241|1e53173c47b948819841b1d38d24a50f|B28|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-09 12:43:03.929565|2515b559a9374dcd816674a558984d8c|U0|greet|/greet|
+2022-11-09 12:43:03.929607|2515b559a9374dcd816674a558984d8c|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-09 12:43:03.929636|2515b559a9374dcd816674a558984d8c|U1|access_application|How to apply?|
+2022-11-09 12:43:03.929671|2515b559a9374dcd816674a558984d8c|B1|||||utter_access_application|Please refer to the webpage: https://sc.edu/apply/index.php 
+2022-11-09 12:43:03.929697|2515b559a9374dcd816674a558984d8c|B2|||||utter_did_that_help|Did you get the answer
+2022-11-09 12:43:03.929722|2515b559a9374dcd816674a558984d8c|U2|helpfulness_rating|helpfulness_1|
+2022-11-09 12:43:03.929755|2515b559a9374dcd816674a558984d8c|B3|||||utter_carry_on|Thanks, carry on!
+2022-11-09 12:43:03.929780|2515b559a9374dcd816674a558984d8c|U3|application_fee|How much is the application fee?|
+2022-11-09 12:43:03.929814|2515b559a9374dcd816674a558984d8c|B4|||||utter_application_fee|The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.
+2022-11-09 12:43:03.929839|2515b559a9374dcd816674a558984d8c|B5|||||utter_did_that_help|Did you get the answer
+2022-11-09 12:43:03.929864|2515b559a9374dcd816674a558984d8c|U4|helpfulness_rating|helpfulness_1|
+2022-11-09 12:43:03.929897|2515b559a9374dcd816674a558984d8c|B6|||||utter_carry_on|Thanks, carry on!
+2022-11-09 12:43:03.929921|2515b559a9374dcd816674a558984d8c|U5|application_status|How can I know the application status|
+2022-11-09 12:43:03.929953|2515b559a9374dcd816674a558984d8c|B7|||||utter_application_status|You need to go to check the application portal or contact to the admission office. The application portal: https://applyweb.collegenet.com/account/new/create?origin=https://www.applyweb.com/cgi-bin/applymenu?instcode=uscgrad or https://apply.sc.edu/register/freshman 
+2022-11-09 12:43:03.929984|2515b559a9374dcd816674a558984d8c|B8|||||utter_did_that_help|Did you get the answer
+2022-11-09 12:43:03.930008|2515b559a9374dcd816674a558984d8c|U6|helpfulness_rating|helpfulness_1|
+2022-11-09 12:43:03.930041|2515b559a9374dcd816674a558984d8c|B9|||||utter_carry_on|Thanks, carry on!
+2022-11-09 12:43:03.930065|2515b559a9374dcd816674a558984d8c|U7|find_place|How to find a place to stay?|
+2022-11-09 12:43:03.930097|2515b559a9374dcd816674a558984d8c|B10|||||utter_find_place|The campus housing is mainly for freshmen students. Most of univeristy's students and visitors use off-campus housing. Many find www.zillow.com useful for finding an appartment or a room.
+2022-11-09 12:43:03.930122|2515b559a9374dcd816674a558984d8c|B11|||||utter_did_that_help|Did you get the answer
+2022-11-09 12:43:03.930147|2515b559a9374dcd816674a558984d8c|U8|helpfulness_rating|helpfulness_1|
+2022-11-09 12:43:03.930179|2515b559a9374dcd816674a558984d8c|B12|||||utter_carry_on|Thanks, carry on!
+2022-11-09 12:43:03.930202|2515b559a9374dcd816674a558984d8c|U9|housing|How's about the student living?|
+2022-11-09 12:43:03.930235|2515b559a9374dcd816674a558984d8c|B13|||||utter_housing|For the on-campus housing, please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing, you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php
+2022-11-09 12:43:03.930264|2515b559a9374dcd816674a558984d8c|B14|||||utter_did_that_help|Did you get the answer
+2022-11-09 12:43:03.930288|2515b559a9374dcd816674a558984d8c|U10|helpfulness_rating|helpfulness_1|
+2022-11-09 12:43:03.930320|2515b559a9374dcd816674a558984d8c|B15|||||utter_carry_on|Thanks, carry on!
+2022-11-09 12:43:03.930344|2515b559a9374dcd816674a558984d8c|U11|lunch|Where to have lunch on campus?|
+2022-11-09 12:43:03.930377|2515b559a9374dcd816674a558984d8c|B16|||||utter_lunch|There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php 
+2022-11-09 12:43:03.930402|2515b559a9374dcd816674a558984d8c|B17|||||utter_did_that_help|Did you get the answer
+2022-11-09 12:43:03.930426|2515b559a9374dcd816674a558984d8c|U12|helpfulness_rating|helpfulness_1|
+2022-11-09 12:43:03.930458|2515b559a9374dcd816674a558984d8c|B18|||||utter_carry_on|Thanks, carry on!
+2022-11-09 12:43:03.930482|2515b559a9374dcd816674a558984d8c|U13|meal_plan|How's about the meal plan?|
+2022-11-09 12:43:03.930515|2515b559a9374dcd816674a558984d8c|B19|||||utter_meal_plan|The are different kinds of meal plans for students and faculties. More about the meal plan, please refer to the webpage: 
+https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php
+2022-11-09 12:43:03.930544|2515b559a9374dcd816674a558984d8c|B20|||||utter_did_that_help|Did you get the answer
+2022-11-09 12:43:03.930568|2515b559a9374dcd816674a558984d8c|U14|helpfulness_rating|helpfulness_1|
+2022-11-09 12:43:03.930604|2515b559a9374dcd816674a558984d8c|B21|||||utter_carry_on|Thanks, carry on!
+2022-11-09 12:43:03.930628|2515b559a9374dcd816674a558984d8c|U15|goodbye|Bye|
+2022-11-09 12:43:03.930661|2515b559a9374dcd816674a558984d8c|B22|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-09 12:43:03.930687|2515b559a9374dcd816674a558984d8c|U16|affirm|Yes|
+2022-11-09 12:43:03.930720|2515b559a9374dcd816674a558984d8c|B23|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-09 12:43:03.930745|2515b559a9374dcd816674a558984d8c|U17|satisfy_rating|satisfy_5|
+2022-11-09 12:43:03.930777|2515b559a9374dcd816674a558984d8c|B24|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-09 12:43:03.930802|2515b559a9374dcd816674a558984d8c|U18|interaction_rating|interaction_5|
+2022-11-09 12:43:03.930835|2515b559a9374dcd816674a558984d8c|B25|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-09 12:43:03.930860|2515b559a9374dcd816674a558984d8c|U19|preference_rating|preference_5|
+2022-11-09 12:43:03.930892|2515b559a9374dcd816674a558984d8c|B26|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-09 12:43:03.930917|2515b559a9374dcd816674a558984d8c|U20|future_use_rating|future_use_4|
+2022-11-09 12:43:03.930950|2515b559a9374dcd816674a558984d8c|B27|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-09 12:43:03.930983|2515b559a9374dcd816674a558984d8c|U21|overall_rating|overall_4|
+2022-11-09 12:43:03.931016|2515b559a9374dcd816674a558984d8c|B28|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-09 12:43:03.931041|2515b559a9374dcd816674a558984d8c|B29|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-09 12:43:03.931066|2515b559a9374dcd816674a558984d8c|U22|answer_current_student|answer_current_student_2|
+2022-11-09 12:43:03.931099|2515b559a9374dcd816674a558984d8c|B30|||||utter_gender|What's your gender?
+2022-11-09 12:43:03.931123|2515b559a9374dcd816674a558984d8c|U23|answer_gender|gender_2|
+2022-11-09 12:43:03.931156|2515b559a9374dcd816674a558984d8c|B31|||||utter_age|What's your age?
+2022-11-09 12:43:03.931180|2515b559a9374dcd816674a558984d8c|U24|answer_age|age_2|
+2022-11-09 12:43:03.931213|2515b559a9374dcd816674a558984d8c|B32|||||utter_marriage|Are you married?
+2022-11-09 12:43:03.931237|2515b559a9374dcd816674a558984d8c|U25|answer_marriage|marriage_2|
+2022-11-09 12:43:03.931270|2515b559a9374dcd816674a558984d8c|B33|||||utter_education|What is your current completed education level?
+2022-11-09 12:43:03.931295|2515b559a9374dcd816674a558984d8c|U26|answer_education|education_3|
+2022-11-09 12:43:03.931328|2515b559a9374dcd816674a558984d8c|B34|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-09 14:00:52.521611|ff872960ced94edd9530ea45381498af|U0|greet|/greet|
+2022-11-09 14:00:52.521702|ff872960ced94edd9530ea45381498af|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-09 14:00:52.521767|ff872960ced94edd9530ea45381498af|U1|access_application|How to apply?|
+2022-11-09 14:00:52.521847|ff872960ced94edd9530ea45381498af|B1|||||utter_access_application|Please refer to the webpage: https://sc.edu/apply/index.php 
+2022-11-09 14:00:52.521907|ff872960ced94edd9530ea45381498af|B2|||||utter_did_that_help|Did you get the answer？
+2022-11-09 14:00:52.521973|ff872960ced94edd9530ea45381498af|U2|helpfulness_rating|helpfulness_1|
+2022-11-09 14:00:52.522051|ff872960ced94edd9530ea45381498af|B3|||||utter_carry_on|Thanks, carry on!
+2022-11-09 14:00:52.522108|ff872960ced94edd9530ea45381498af|U3|housing|How's about the student living?|
+2022-11-09 14:00:52.522185|ff872960ced94edd9530ea45381498af|B4|||||utter_housing|For the on-campus housing, please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing, you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php
+2022-11-09 14:00:52.522254|ff872960ced94edd9530ea45381498af|B5|||||utter_did_that_help|Did you get the answer？
+2022-11-09 14:00:52.522314|ff872960ced94edd9530ea45381498af|U4|helpfulness_rating|helpfulness_1|
+2022-11-09 14:00:52.522390|ff872960ced94edd9530ea45381498af|B6|||||utter_carry_on|Thanks, carry on!
+2022-11-09 14:00:52.522447|ff872960ced94edd9530ea45381498af|U5|lunch|Where to have lunch on campus?|
+2022-11-09 14:00:52.522524|ff872960ced94edd9530ea45381498af|B7|||||utter_lunch|There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php 
+2022-11-09 14:00:52.522583|ff872960ced94edd9530ea45381498af|B8|||||utter_did_that_help|Did you get the answer？
+2022-11-09 14:00:52.522642|ff872960ced94edd9530ea45381498af|U6|helpfulness_rating|helpfulness_1|
+2022-11-09 14:00:52.522717|ff872960ced94edd9530ea45381498af|B9|||||utter_carry_on|Thanks, carry on!
+2022-11-09 14:00:52.522773|ff872960ced94edd9530ea45381498af|U7|meal_plan|How's about the meal plan?|
+2022-11-09 14:00:52.522848|ff872960ced94edd9530ea45381498af|B10|||||utter_meal_plan|The are different kinds of meal plans for students and faculties. More about the meal plan, please refer to the webpage: 
+https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php
+2022-11-09 14:00:52.522916|ff872960ced94edd9530ea45381498af|B11|||||utter_did_that_help|Did you get the answer？
+2022-11-09 14:00:52.522976|ff872960ced94edd9530ea45381498af|U8|helpfulness_rating|helpfulness_1|
+2022-11-09 14:00:52.523051|ff872960ced94edd9530ea45381498af|B12|||||utter_carry_on|Thanks, carry on!
+2022-11-09 14:00:52.523108|ff872960ced94edd9530ea45381498af|U9|goodbye|Bye|
+2022-11-09 14:00:52.523183|ff872960ced94edd9530ea45381498af|B13|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-09 14:00:52.523241|ff872960ced94edd9530ea45381498af|U10|affirm|Yes|
+2022-11-09 14:00:52.523317|ff872960ced94edd9530ea45381498af|B14|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-09 14:00:52.523374|ff872960ced94edd9530ea45381498af|U11|satisfy_rating|satisfy_3|
+2022-11-09 14:00:52.523450|ff872960ced94edd9530ea45381498af|B15|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-09 14:00:52.523507|ff872960ced94edd9530ea45381498af|U12|interaction_rating|interaction_2|
+2022-11-09 14:00:52.523583|ff872960ced94edd9530ea45381498af|B16|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-09 14:00:52.523640|ff872960ced94edd9530ea45381498af|U13|preference_rating|preference_5|
+2022-11-09 14:00:52.523728|ff872960ced94edd9530ea45381498af|B17|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-09 14:00:52.523784|ff872960ced94edd9530ea45381498af|U14|future_use_rating|future_use_3|
+2022-11-09 14:00:52.523859|ff872960ced94edd9530ea45381498af|B18|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-09 14:00:52.523921|ff872960ced94edd9530ea45381498af|U15|overall_rating|overall_3|
+2022-11-09 14:00:52.523997|ff872960ced94edd9530ea45381498af|B19|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-09 14:00:52.524054|ff872960ced94edd9530ea45381498af|B20|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-09 14:00:52.524111|ff872960ced94edd9530ea45381498af|U16|answer_current_student|answer_current_student_2|
+2022-11-09 14:00:52.524186|ff872960ced94edd9530ea45381498af|B21|||||utter_gender|What's your gender?
+2022-11-09 14:00:52.524242|ff872960ced94edd9530ea45381498af|U17|answer_gender|gender_2|
+2022-11-09 14:00:52.524317|ff872960ced94edd9530ea45381498af|B22|||||utter_age|What's your age?
+2022-11-09 14:00:52.524372|ff872960ced94edd9530ea45381498af|U18|answer_age|age_2|
+2022-11-09 14:00:52.524448|ff872960ced94edd9530ea45381498af|B23|||||utter_marriage|Are you married?
+2022-11-09 14:00:52.524504|ff872960ced94edd9530ea45381498af|U19|answer_marriage|marriage_2|
+2022-11-09 14:00:52.524580|ff872960ced94edd9530ea45381498af|B24|||||utter_education|What is your current completed education level?
+2022-11-09 14:00:52.524637|ff872960ced94edd9530ea45381498af|U20|answer_education|education_3|
+2022-11-09 14:00:52.524712|ff872960ced94edd9530ea45381498af|B25|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-09 14:01:18.233550|1de6ddc4600b486da6e43c63b9188b0f|U0|greet|/greet|
+2022-11-09 14:01:18.233637|1de6ddc4600b486da6e43c63b9188b0f|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-09 14:01:18.233700|1de6ddc4600b486da6e43c63b9188b0f|U1|goodbye|bye|
+2022-11-09 14:01:18.233776|1de6ddc4600b486da6e43c63b9188b0f|B1|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-09 14:01:18.233834|1de6ddc4600b486da6e43c63b9188b0f|U2|deny|No|
+2022-11-09 14:01:18.233910|1de6ddc4600b486da6e43c63b9188b0f|B2|||||utter_ask_short_feedback|Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-09 14:01:18.233976|1de6ddc4600b486da6e43c63b9188b0f|U3|short_feedback_rating|short_3|
+2022-11-09 14:01:18.234053|1de6ddc4600b486da6e43c63b9188b0f|B3|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-10 12:44:22.022237|a29aca9b99d943088b4425d8c790f04d|U0|greet|/greet|
+2022-11-10 12:44:22.022329|a29aca9b99d943088b4425d8c790f04d|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 12:44:22.022397|a29aca9b99d943088b4425d8c790f04d|U1|nlu_fallback|what is the cheapest housing on campus?|
+2022-11-10 12:44:22.022477|a29aca9b99d943088b4425d8c790f04d|B1|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 12:44:22.022537|a29aca9b99d943088b4425d8c790f04d|U2|meal_plan|How many restaurants are part of the meal plan?|
+2022-11-10 12:44:22.022615|a29aca9b99d943088b4425d8c790f04d|B2|||||utter_meal_plan|The are different kinds of meal plans for students and faculties. More about the meal plan, please refer to the webpage: 
+https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php
+2022-11-10 12:44:22.022681|a29aca9b99d943088b4425d8c790f04d|B3|||||utter_did_that_help|Did you get the answer？
+2022-11-10 12:44:22.022747|a29aca9b99d943088b4425d8c790f04d|U3|helpfulness_rating|helpfulness_1|
+2022-11-10 12:44:22.022826|a29aca9b99d943088b4425d8c790f04d|B4|||||utter_carry_on|Thanks, carry on!
+2022-11-10 12:44:22.022883|a29aca9b99d943088b4425d8c790f04d|U4|greet|hello|
+2022-11-10 12:44:22.022959|a29aca9b99d943088b4425d8c790f04d|B5|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 12:44:22.023017|a29aca9b99d943088b4425d8c790f04d|U5|nlu_fallback|when is the application deadline|
+2022-11-10 12:44:22.023093|a29aca9b99d943088b4425d8c790f04d|B6|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 12:44:22.023149|a29aca9b99d943088b4425d8c790f04d|U6|application_status|when does application start|
+2022-11-10 12:44:22.023228|a29aca9b99d943088b4425d8c790f04d|B7|||||utter_application_status|You need to go to check the application portal or contact to the admission office. The application portal: https://applyweb.collegenet.com/account/new/create?origin=https://www.applyweb.com/cgi-bin/applymenu?instcode=uscgrad or https://apply.sc.edu/register/freshman 
+2022-11-10 12:44:22.023290|a29aca9b99d943088b4425d8c790f04d|B8|||||utter_did_that_help|Did you get the answer？
+2022-11-10 12:44:22.023350|a29aca9b99d943088b4425d8c790f04d|U7|helpfulness_rating|helpfulness_2|
+2022-11-10 12:44:22.023426|a29aca9b99d943088b4425d8c790f04d|B9|||||utter_carry_on|Thanks, carry on!
+2022-11-10 12:44:22.023484|a29aca9b99d943088b4425d8c790f04d|U8|available_jobs|is there sushi on campus?|
+2022-11-10 12:44:22.023559|a29aca9b99d943088b4425d8c790f04d|B10|||||utter_available_jobs|There's a wide range of employment opportunities on campus designed to develop your essential, marketable skills. Please refer to the webpage:  https://sc.edu/about/employment/student-employment/index.php  
+ 
+ Also, there are lots of graduate assistant postions for graduate students: https://sc.edu/study/colleges_schools/graduate_school/paying_for_graduate_school/assistantships/index.php 
+2022-11-10 12:44:22.023632|a29aca9b99d943088b4425d8c790f04d|B11|||||utter_did_that_help|Did you get the answer？
+2022-11-10 12:44:22.023691|a29aca9b99d943088b4425d8c790f04d|U9|helpfulness_rating|helpfulness_2|
+2022-11-10 12:44:22.023766|a29aca9b99d943088b4425d8c790f04d|B12|||||utter_carry_on|Thanks, carry on!
+2022-11-10 12:44:22.023821|a29aca9b99d943088b4425d8c790f04d|U10|housing_price|how much does student living cost|
+2022-11-10 12:44:22.023898|a29aca9b99d943088b4425d8c790f04d|B13|||||utter_housing_price|The resident on-campus housing price varies from $3100 to $6600 per semester. For more details, please refer to the webpage: https://sc.edu/about/offices_and_divisions/housing/index.php; The off-campus apartment price in Columbia ranges from 500-1500 USD. A room can be found at 350-600 USD. Columbia offers a range of traditional, family-friendly housing options and apartments. You can widen your search on websites such as ApartmentFinder.com, ApartmentList.com, Zillow.com, Trulia.com, and Homes.com.
+2022-11-10 12:44:22.023967|a29aca9b99d943088b4425d8c790f04d|B14|||||utter_did_that_help|Did you get the answer？
+2022-11-10 12:44:22.024026|a29aca9b99d943088b4425d8c790f04d|U11|helpfulness_rating|helpfulness_1|
+2022-11-10 12:44:22.024100|a29aca9b99d943088b4425d8c790f04d|B15|||||utter_carry_on|Thanks, carry on!
+2022-11-10 12:44:22.024156|a29aca9b99d943088b4425d8c790f04d|U12|goodbye|bye|
+2022-11-10 12:44:22.024233|a29aca9b99d943088b4425d8c790f04d|B16|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-10 12:44:22.024289|a29aca9b99d943088b4425d8c790f04d|U13|affirm|Yes|
+2022-11-10 12:44:22.024363|a29aca9b99d943088b4425d8c790f04d|B17|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-10 12:44:22.024420|a29aca9b99d943088b4425d8c790f04d|U14|satisfy_rating|satisfy_2|
+2022-11-10 12:44:22.024497|a29aca9b99d943088b4425d8c790f04d|B18|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-10 12:44:22.024554|a29aca9b99d943088b4425d8c790f04d|U15|interaction_rating|interaction_1|
+2022-11-10 12:44:22.024630|a29aca9b99d943088b4425d8c790f04d|B19|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-10 12:44:22.024686|a29aca9b99d943088b4425d8c790f04d|U16|preference_rating|preference_1|
+2022-11-10 12:44:22.024763|a29aca9b99d943088b4425d8c790f04d|B20|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-10 12:44:22.024820|a29aca9b99d943088b4425d8c790f04d|U17|future_use_rating|future_use_1|
+2022-11-10 12:44:22.024896|a29aca9b99d943088b4425d8c790f04d|B21|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-10 12:44:22.024957|a29aca9b99d943088b4425d8c790f04d|U18|overall_rating|overall_2|
+2022-11-10 12:44:22.025034|a29aca9b99d943088b4425d8c790f04d|B22|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-10 12:44:22.025092|a29aca9b99d943088b4425d8c790f04d|B23|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-10 12:44:22.025149|a29aca9b99d943088b4425d8c790f04d|U19|answer_current_student|answer_current_student_2|
+2022-11-10 12:44:22.025225|a29aca9b99d943088b4425d8c790f04d|B24|||||utter_gender|What's your gender?
+2022-11-10 12:44:22.025280|a29aca9b99d943088b4425d8c790f04d|U20|answer_gender|gender_2|
+2022-11-10 12:44:22.025370|a29aca9b99d943088b4425d8c790f04d|B25|||||utter_age|What's your age?
+2022-11-10 12:44:22.025428|a29aca9b99d943088b4425d8c790f04d|U21|answer_age|age_1|
+2022-11-10 12:44:22.025504|a29aca9b99d943088b4425d8c790f04d|B26|||||utter_marriage|Are you married?
+2022-11-10 12:44:22.025563|a29aca9b99d943088b4425d8c790f04d|U22|answer_marriage|marriage_2|
+2022-11-10 12:44:22.025606|a29aca9b99d943088b4425d8c790f04d|B27|||||utter_education|What is your current completed education level?
+2022-11-10 12:44:22.025639|a29aca9b99d943088b4425d8c790f04d|U23|answer_education|education_1|
+2022-11-10 12:44:22.025683|a29aca9b99d943088b4425d8c790f04d|B28|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-10 12:47:47.892484|2acb3fc8c67243beb7ad393a2fa2e542|U0|greet|/greet|
+2022-11-10 12:47:47.892574|2acb3fc8c67243beb7ad393a2fa2e542|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 12:47:47.892638|2acb3fc8c67243beb7ad393a2fa2e542|U1|access_application|how to apply|
+2022-11-10 12:47:47.892715|2acb3fc8c67243beb7ad393a2fa2e542|B1|||||utter_access_application|Please refer to the webpage: https://sc.edu/apply/index.php 
+2022-11-10 12:47:47.892773|2acb3fc8c67243beb7ad393a2fa2e542|B2|||||utter_did_that_help|Did you get the answer？
+2022-11-10 12:47:47.892836|2acb3fc8c67243beb7ad393a2fa2e542|U2|helpfulness_rating|helpfulness_1|
+2022-11-10 12:47:47.892912|2acb3fc8c67243beb7ad393a2fa2e542|B3|||||utter_carry_on|Thanks, carry on!
+2022-11-10 12:47:47.892967|2acb3fc8c67243beb7ad393a2fa2e542|U3|meal_plan|eat mael plan|
+2022-11-10 12:47:47.893041|2acb3fc8c67243beb7ad393a2fa2e542|B4|||||utter_meal_plan|The are different kinds of meal plans for students and faculties. More about the meal plan, please refer to the webpage: 
+https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php
+2022-11-10 12:47:47.893107|2acb3fc8c67243beb7ad393a2fa2e542|B5|||||utter_did_that_help|Did you get the answer？
+2022-11-10 12:47:47.893165|2acb3fc8c67243beb7ad393a2fa2e542|U4|helpfulness_rating|helpfulness_1|
+2022-11-10 12:47:47.893239|2acb3fc8c67243beb7ad393a2fa2e542|B6|||||utter_carry_on|Thanks, carry on!
+2022-11-10 12:47:47.893295|2acb3fc8c67243beb7ad393a2fa2e542|U5|student_card|student|
+2022-11-10 12:47:47.893390|2acb3fc8c67243beb7ad393a2fa2e542|B7|||||utter_student_card|First year students, in order to receive your CarolinaCard upon move-in you must upload your photo and sign the cardholder agreement.  Transfer students, please follow the requirements above in order to pick up your CarolinaCard in our office in the basement of the Russell House Student Union on Greene Street.  Faculty and staff, you will also need to follow the requirements above and come to the CarolinaCard office inside the Russell House.
+2022-11-10 12:47:47.893457|2acb3fc8c67243beb7ad393a2fa2e542|B8|||||utter_did_that_help|Did you get the answer？
+2022-11-10 12:47:47.893516|2acb3fc8c67243beb7ad393a2fa2e542|U6|helpfulness_rating|helpfulness_1|
+2022-11-10 12:47:47.893590|2acb3fc8c67243beb7ad393a2fa2e542|B9|||||utter_carry_on|Thanks, carry on!
+2022-11-10 12:47:47.893644|2acb3fc8c67243beb7ad393a2fa2e542|U7|housing|cost of living|
+2022-11-10 12:47:47.893718|2acb3fc8c67243beb7ad393a2fa2e542|B10|||||utter_housing|For the on-campus housing, please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing, you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php
+2022-11-10 12:47:47.893782|2acb3fc8c67243beb7ad393a2fa2e542|B11|||||utter_did_that_help|Did you get the answer？
+2022-11-10 12:47:47.893840|2acb3fc8c67243beb7ad393a2fa2e542|U8|helpfulness_rating|helpfulness_1|
+2022-11-10 12:47:47.893913|2acb3fc8c67243beb7ad393a2fa2e542|B12|||||utter_carry_on|Thanks, carry on!
+2022-11-10 12:47:47.893968|2acb3fc8c67243beb7ad393a2fa2e542|U9|goodbye|bye|
+2022-11-10 12:47:47.894042|2acb3fc8c67243beb7ad393a2fa2e542|B13|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-10 12:47:47.894099|2acb3fc8c67243beb7ad393a2fa2e542|U10|affirm|Yes|
+2022-11-10 12:47:47.894173|2acb3fc8c67243beb7ad393a2fa2e542|B14|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-10 12:47:47.894230|2acb3fc8c67243beb7ad393a2fa2e542|U11|satisfy_rating|satisfy_4|
+2022-11-10 12:47:47.894303|2acb3fc8c67243beb7ad393a2fa2e542|B15|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-10 12:47:47.894360|2acb3fc8c67243beb7ad393a2fa2e542|U12|interaction_rating|interaction_5|
+2022-11-10 12:47:47.894435|2acb3fc8c67243beb7ad393a2fa2e542|B16|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-10 12:47:47.894491|2acb3fc8c67243beb7ad393a2fa2e542|U13|preference_rating|preference_4|
+2022-11-10 12:47:47.894565|2acb3fc8c67243beb7ad393a2fa2e542|B17|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-10 12:47:47.894620|2acb3fc8c67243beb7ad393a2fa2e542|U14|future_use_rating|future_use_1|
+2022-11-10 12:47:47.894693|2acb3fc8c67243beb7ad393a2fa2e542|B18|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-10 12:47:47.894753|2acb3fc8c67243beb7ad393a2fa2e542|U15|overall_rating|overall_3|
+2022-11-10 12:47:47.894827|2acb3fc8c67243beb7ad393a2fa2e542|B19|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-10 12:47:47.894883|2acb3fc8c67243beb7ad393a2fa2e542|B20|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-10 12:47:47.894939|2acb3fc8c67243beb7ad393a2fa2e542|U16|answer_current_student|answer_current_student_1|
+2022-11-10 12:47:47.895013|2acb3fc8c67243beb7ad393a2fa2e542|B21|||||utter_gender|What's your gender?
+2022-11-10 12:47:47.895067|2acb3fc8c67243beb7ad393a2fa2e542|U17|answer_gender|gender_2|
+2022-11-10 12:47:47.895141|2acb3fc8c67243beb7ad393a2fa2e542|B22|||||utter_age|What's your age?
+2022-11-10 12:47:47.895195|2acb3fc8c67243beb7ad393a2fa2e542|U18|answer_age|age_1|
+2022-11-10 12:47:47.895272|2acb3fc8c67243beb7ad393a2fa2e542|B23|||||utter_marriage|Are you married?
+2022-11-10 12:47:47.895326|2acb3fc8c67243beb7ad393a2fa2e542|U19|answer_marriage|marriage_2|
+2022-11-10 12:47:47.895401|2acb3fc8c67243beb7ad393a2fa2e542|B24|||||utter_education|What is your current completed education level?
+2022-11-10 12:47:47.895457|2acb3fc8c67243beb7ad393a2fa2e542|U20|answer_education|education_1|
+2022-11-10 12:47:47.895531|2acb3fc8c67243beb7ad393a2fa2e542|B25|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-10 13:06:11.715695|c6452ae79a224aba810aa76b5f0717b4|U0|greet|/greet|
+2022-11-10 13:06:11.715737|c6452ae79a224aba810aa76b5f0717b4|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 13:06:11.715766|c6452ae79a224aba810aa76b5f0717b4|U1|access_application|where can i apply?|
+2022-11-10 13:06:11.715801|c6452ae79a224aba810aa76b5f0717b4|B1|||||utter_access_application|Please refer to the webpage: https://sc.edu/apply/index.php 
+2022-11-10 13:06:11.715828|c6452ae79a224aba810aa76b5f0717b4|B2|||||utter_did_that_help|Did you get the answer？
+2022-11-10 13:06:11.715858|c6452ae79a224aba810aa76b5f0717b4|U2|helpfulness_rating|helpfulness_1|
+2022-11-10 13:06:11.715892|c6452ae79a224aba810aa76b5f0717b4|B3|||||utter_carry_on|Thanks, carry on!
+2022-11-10 13:06:11.715917|c6452ae79a224aba810aa76b5f0717b4|U3|cost|what is the cost of housing on campus?|
+2022-11-10 13:06:11.715952|c6452ae79a224aba810aa76b5f0717b4|B4|||||utter_cost|Typical student apartment price in Columbia range from 500-1500 USD. A room can be found at 350-600 USD.
+2022-11-10 13:06:11.715978|c6452ae79a224aba810aa76b5f0717b4|U4|campus|What is there to eat on campus?|
+2022-11-10 13:06:11.716011|c6452ae79a224aba810aa76b5f0717b4|B5|||||utter_campus|Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also, there is an interactive campus maps: https://www.sc.edu/visit/map/ 
+2022-11-10 13:06:11.716037|c6452ae79a224aba810aa76b5f0717b4|B6|||||utter_did_that_help|Did you get the answer？
+2022-11-10 13:06:11.716063|c6452ae79a224aba810aa76b5f0717b4|U5|helpfulness_rating|helpfulness_1|
+2022-11-10 13:06:11.716096|c6452ae79a224aba810aa76b5f0717b4|B7|||||utter_carry_on|Thanks, carry on!
+2022-11-10 13:06:11.716121|c6452ae79a224aba810aa76b5f0717b4|U6|nlu_fallback|when is the application deadline?|
+2022-11-10 13:06:11.716154|c6452ae79a224aba810aa76b5f0717b4|B8|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 13:06:11.716180|c6452ae79a224aba810aa76b5f0717b4|U7|meal_plan|what is the cost of the meal plan?|
+2022-11-10 13:06:11.716213|c6452ae79a224aba810aa76b5f0717b4|B9|||||utter_meal_plan|The are different kinds of meal plans for students and faculties. More about the meal plan, please refer to the webpage: 
+https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php
+2022-11-10 13:06:11.716243|c6452ae79a224aba810aa76b5f0717b4|B10|||||utter_did_that_help|Did you get the answer？
+2022-11-10 13:06:11.716270|c6452ae79a224aba810aa76b5f0717b4|U8|helpfulness_rating|helpfulness_1|
+2022-11-10 13:06:11.716303|c6452ae79a224aba810aa76b5f0717b4|B11|||||utter_carry_on|Thanks, carry on!
+2022-11-10 13:06:11.716329|c6452ae79a224aba810aa76b5f0717b4|U9|application_status|Where can i track my application status?|
+2022-11-10 13:06:11.716362|c6452ae79a224aba810aa76b5f0717b4|B12|||||utter_application_status|You need to go to check the application portal or contact to the admission office. The application portal: https://applyweb.collegenet.com/account/new/create?origin=https://www.applyweb.com/cgi-bin/applymenu?instcode=uscgrad or https://apply.sc.edu/register/freshman 
+2022-11-10 13:06:11.716391|c6452ae79a224aba810aa76b5f0717b4|B13|||||utter_did_that_help|Did you get the answer？
+2022-11-10 13:06:11.716417|c6452ae79a224aba810aa76b5f0717b4|U10|helpfulness_rating|helpfulness_1|
+2022-11-10 13:06:11.716450|c6452ae79a224aba810aa76b5f0717b4|B14|||||utter_carry_on|Thanks, carry on!
+2022-11-10 13:06:11.716475|c6452ae79a224aba810aa76b5f0717b4|U11|campus|Where is the campus?|
+2022-11-10 13:06:11.716507|c6452ae79a224aba810aa76b5f0717b4|B15|||||utter_campus|Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also, there is an interactive campus maps: https://www.sc.edu/visit/map/ 
+2022-11-10 13:06:11.716533|c6452ae79a224aba810aa76b5f0717b4|B16|||||utter_did_that_help|Did you get the answer？
+2022-11-10 13:06:11.716558|c6452ae79a224aba810aa76b5f0717b4|U12|helpfulness_rating|helpfulness_1|
+2022-11-10 13:06:11.716592|c6452ae79a224aba810aa76b5f0717b4|B17|||||utter_carry_on|Thanks, carry on!
+2022-11-10 13:06:11.716616|c6452ae79a224aba810aa76b5f0717b4|U13|application_fee|What is the application fee?|
+2022-11-10 13:06:11.716649|c6452ae79a224aba810aa76b5f0717b4|B18|||||utter_application_fee|The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.
+2022-11-10 13:06:11.716675|c6452ae79a224aba810aa76b5f0717b4|B19|||||utter_did_that_help|Did you get the answer？
+2022-11-10 13:06:11.716700|c6452ae79a224aba810aa76b5f0717b4|U14|helpfulness_rating|helpfulness_1|
+2022-11-10 13:06:11.716732|c6452ae79a224aba810aa76b5f0717b4|B20|||||utter_carry_on|Thanks, carry on!
+2022-11-10 13:06:11.716756|c6452ae79a224aba810aa76b5f0717b4|U15|goodbye|bye|
+2022-11-10 13:06:11.716789|c6452ae79a224aba810aa76b5f0717b4|B21|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-10 13:06:11.716814|c6452ae79a224aba810aa76b5f0717b4|U16|affirm|Yes|
+2022-11-10 13:06:11.716848|c6452ae79a224aba810aa76b5f0717b4|B22|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-10 13:06:11.716872|c6452ae79a224aba810aa76b5f0717b4|U17|satisfy_rating|satisfy_4|
+2022-11-10 13:06:11.716905|c6452ae79a224aba810aa76b5f0717b4|B23|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-10 13:06:11.716929|c6452ae79a224aba810aa76b5f0717b4|U18|interaction_rating|interaction_5|
+2022-11-10 13:06:11.716962|c6452ae79a224aba810aa76b5f0717b4|B24|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-10 13:06:11.716987|c6452ae79a224aba810aa76b5f0717b4|U19|preference_rating|preference_3|
+2022-11-10 13:06:11.717019|c6452ae79a224aba810aa76b5f0717b4|B25|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-10 13:06:11.717043|c6452ae79a224aba810aa76b5f0717b4|U20|future_use_rating|future_use_3|
+2022-11-10 13:06:11.717076|c6452ae79a224aba810aa76b5f0717b4|B26|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-10 13:06:11.717103|c6452ae79a224aba810aa76b5f0717b4|U21|overall_rating|overall_4|
+2022-11-10 13:06:11.717136|c6452ae79a224aba810aa76b5f0717b4|B27|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-10 13:06:11.717161|c6452ae79a224aba810aa76b5f0717b4|B28|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-10 13:06:11.717186|c6452ae79a224aba810aa76b5f0717b4|U22|answer_current_student|answer_current_student_2|
+2022-11-10 13:06:11.717218|c6452ae79a224aba810aa76b5f0717b4|B29|||||utter_gender|What's your gender?
+2022-11-10 13:06:11.717243|c6452ae79a224aba810aa76b5f0717b4|U23|answer_gender|gender_2|
+2022-11-10 13:06:11.717275|c6452ae79a224aba810aa76b5f0717b4|B30|||||utter_age|What's your age?
+2022-11-10 13:06:11.717299|c6452ae79a224aba810aa76b5f0717b4|U24|answer_age|age_2|
+2022-11-10 13:06:11.717332|c6452ae79a224aba810aa76b5f0717b4|B31|||||utter_marriage|Are you married?
+2022-11-10 13:06:11.717363|c6452ae79a224aba810aa76b5f0717b4|U25|answer_marriage|marriage_2|
+2022-11-10 13:06:11.717395|c6452ae79a224aba810aa76b5f0717b4|B32|||||utter_education|What is your current completed education level?
+2022-11-10 13:06:11.717420|c6452ae79a224aba810aa76b5f0717b4|U26|answer_education|education_2|
+2022-11-10 13:06:11.717452|c6452ae79a224aba810aa76b5f0717b4|B33|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-10 13:52:17.322813|9731f20b13b24fd8a9a68e91b05493a8|U0|greet|/greet|
+2022-11-10 13:52:17.322905|9731f20b13b24fd8a9a68e91b05493a8|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 13:52:17.322970|9731f20b13b24fd8a9a68e91b05493a8|U1|greet|Hi|
+2022-11-10 13:52:17.323047|9731f20b13b24fd8a9a68e91b05493a8|B1|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 13:52:17.323106|9731f20b13b24fd8a9a68e91b05493a8|U2|access_application|How should I apply?|
+2022-11-10 13:52:17.323184|9731f20b13b24fd8a9a68e91b05493a8|B2|||||utter_access_application|Please refer to the webpage: https://sc.edu/apply/index.php 
+2022-11-10 13:52:17.323242|9731f20b13b24fd8a9a68e91b05493a8|B3|||||utter_did_that_help|Did you get the answer？
+2022-11-10 13:52:17.323309|9731f20b13b24fd8a9a68e91b05493a8|U3|helpfulness_rating|helpfulness_1|
+2022-11-10 13:52:17.323385|9731f20b13b24fd8a9a68e91b05493a8|B4|||||utter_carry_on|Thanks, carry on!
+2022-11-10 13:52:17.323442|9731f20b13b24fd8a9a68e91b05493a8|U4|application_fee|How much would the application fee be?|
+2022-11-10 13:52:17.323518|9731f20b13b24fd8a9a68e91b05493a8|B5|||||utter_application_fee|The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.
+2022-11-10 13:52:17.323575|9731f20b13b24fd8a9a68e91b05493a8|B6|||||utter_did_that_help|Did you get the answer？
+2022-11-10 13:52:17.323634|9731f20b13b24fd8a9a68e91b05493a8|U5|cost|Where can I find an apartment?|
+2022-11-10 13:52:17.323709|9731f20b13b24fd8a9a68e91b05493a8|B7|||||utter_cost|Typical student apartment price in Columbia range from 500-1500 USD. A room can be found at 350-600 USD.
+2022-11-10 13:52:17.323767|9731f20b13b24fd8a9a68e91b05493a8|B8|||||utter_did_that_help|Did you get the answer？
+2022-11-10 13:52:17.323841|9731f20b13b24fd8a9a68e91b05493a8|U6|available_jobs|Is the food good on campus?|
+2022-11-10 13:52:17.323915|9731f20b13b24fd8a9a68e91b05493a8|B9|||||utter_available_jobs|There's a wide range of employment opportunities on campus designed to develop your essential, marketable skills. Please refer to the webpage:  https://sc.edu/about/employment/student-employment/index.php  
+ 
+ Also, there are lots of graduate assistant postions for graduate students: https://sc.edu/study/colleges_schools/graduate_school/paying_for_graduate_school/assistantships/index.php 
+2022-11-10 13:52:17.323991|9731f20b13b24fd8a9a68e91b05493a8|B10|||||utter_did_that_help|Did you get the answer？
+2022-11-10 13:52:17.324051|9731f20b13b24fd8a9a68e91b05493a8|U7|helpfulness_rating|helpfulness_2|
+2022-11-10 13:52:17.324126|9731f20b13b24fd8a9a68e91b05493a8|B11|||||utter_carry_on|Thanks, carry on!
+2022-11-10 13:52:17.324181|9731f20b13b24fd8a9a68e91b05493a8|U8|nlu_fallback|When is the deadline?|
+2022-11-10 13:52:17.324255|9731f20b13b24fd8a9a68e91b05493a8|B12|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 13:52:17.324312|9731f20b13b24fd8a9a68e91b05493a8|U9|nlu_fallback|When is the application deadline?|
+2022-11-10 13:52:17.324386|9731f20b13b24fd8a9a68e91b05493a8|B13|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 13:52:17.324442|9731f20b13b24fd8a9a68e91b05493a8|U10|application_status|How can I know the application status/deadline...|
+2022-11-10 13:52:17.324517|9731f20b13b24fd8a9a68e91b05493a8|B14|||||utter_application_status|You need to go to check the application portal or contact to the admission office. The application portal: https://applyweb.collegenet.com/account/new/create?origin=https://www.applyweb.com/cgi-bin/applymenu?instcode=uscgrad or https://apply.sc.edu/register/freshman 
+2022-11-10 13:52:17.324579|9731f20b13b24fd8a9a68e91b05493a8|B15|||||utter_did_that_help|Did you get the answer？
+2022-11-10 13:52:17.324637|9731f20b13b24fd8a9a68e91b05493a8|U11|helpfulness_rating|helpfulness_1|
+2022-11-10 13:52:17.324713|9731f20b13b24fd8a9a68e91b05493a8|B16|||||utter_carry_on|Thanks, carry on!
+2022-11-10 13:52:17.324768|9731f20b13b24fd8a9a68e91b05493a8|U12|goodbye|Bye|
+2022-11-10 13:52:17.324842|9731f20b13b24fd8a9a68e91b05493a8|B17|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-10 13:52:17.324898|9731f20b13b24fd8a9a68e91b05493a8|U13|affirm|Yes|
+2022-11-10 13:52:17.324971|9731f20b13b24fd8a9a68e91b05493a8|B18|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-10 13:52:17.325026|9731f20b13b24fd8a9a68e91b05493a8|U14|satisfy_rating|satisfy_3|
+2022-11-10 13:52:17.325100|9731f20b13b24fd8a9a68e91b05493a8|B19|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-10 13:52:17.325156|9731f20b13b24fd8a9a68e91b05493a8|U15|interaction_rating|interaction_4|
+2022-11-10 13:52:17.325230|9731f20b13b24fd8a9a68e91b05493a8|B20|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-10 13:52:17.325286|9731f20b13b24fd8a9a68e91b05493a8|U16|preference_rating|preference_4|
+2022-11-10 13:52:17.325376|9731f20b13b24fd8a9a68e91b05493a8|B21|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-10 13:52:17.325434|9731f20b13b24fd8a9a68e91b05493a8|U17|future_use_rating|future_use_5|
+2022-11-10 13:52:17.325507|9731f20b13b24fd8a9a68e91b05493a8|B22|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-10 13:52:17.325567|9731f20b13b24fd8a9a68e91b05493a8|U18|overall_rating|overall_4|
+2022-11-10 13:52:17.325644|9731f20b13b24fd8a9a68e91b05493a8|B23|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-10 13:52:17.325678|9731f20b13b24fd8a9a68e91b05493a8|B24|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-10 13:52:17.325711|9731f20b13b24fd8a9a68e91b05493a8|U19|answer_current_student|answer_current_student_2|
+2022-11-10 13:52:17.325754|9731f20b13b24fd8a9a68e91b05493a8|B25|||||utter_gender|What's your gender?
+2022-11-10 13:52:17.325786|9731f20b13b24fd8a9a68e91b05493a8|U20|answer_gender|gender_1|
+2022-11-10 13:52:17.325829|9731f20b13b24fd8a9a68e91b05493a8|B26|||||utter_age|What's your age?
+2022-11-10 13:52:17.325861|9731f20b13b24fd8a9a68e91b05493a8|U21|answer_age|age_2|
+2022-11-10 13:52:17.325904|9731f20b13b24fd8a9a68e91b05493a8|B27|||||utter_marriage|Are you married?
+2022-11-10 13:52:17.325937|9731f20b13b24fd8a9a68e91b05493a8|U22|answer_marriage|marriage_2|
+2022-11-10 13:52:17.325980|9731f20b13b24fd8a9a68e91b05493a8|B28|||||utter_education|What is your current completed education level?
+2022-11-10 13:52:17.326012|9731f20b13b24fd8a9a68e91b05493a8|U23|answer_education|education_3|
+2022-11-10 13:52:17.326055|9731f20b13b24fd8a9a68e91b05493a8|B29|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-10 14:29:17.738177|bbea9a2957864406b5fc7c886fae4280|U0|greet|/greet|
+2022-11-10 14:29:17.738262|bbea9a2957864406b5fc7c886fae4280|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 14:29:17.738321|bbea9a2957864406b5fc7c886fae4280|U1|nlu_fallback|what are the avaliable dorms?|
+2022-11-10 14:29:17.738394|bbea9a2957864406b5fc7c886fae4280|B1|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 14:29:17.738450|bbea9a2957864406b5fc7c886fae4280|U2|campus|What is there to eat on campus?|
+2022-11-10 14:29:17.738520|bbea9a2957864406b5fc7c886fae4280|B2|||||utter_campus|Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also, there is an interactive campus maps: https://www.sc.edu/visit/map/ 
+2022-11-10 14:29:17.738574|bbea9a2957864406b5fc7c886fae4280|B3|||||utter_did_that_help|Did you get the answer？
+2022-11-10 14:29:17.738633|bbea9a2957864406b5fc7c886fae4280|U3|helpfulness_rating|helpfulness_1|
+2022-11-10 14:29:17.738702|bbea9a2957864406b5fc7c886fae4280|B4|||||utter_carry_on|Thanks, carry on!
+2022-11-10 14:29:17.738753|bbea9a2957864406b5fc7c886fae4280|U4|deadline_transfer|what is the application deadline?|
+2022-11-10 14:29:17.738822|bbea9a2957864406b5fc7c886fae4280|B5|||||utter_deadline_transfer|It may vary in different years. For 2022: Spring 2022 application deadline: November 1 Spring 2022 credentials deadline: December 19 Fall 2022 application deadline: July 1 Fall 2022 credentials deadline (including official transcripts): July 15 Summer 2022 (Classes begin in June) Summer 2022 application deadline: May 1 Summer 2022 credentials deadline (including official transcripts): May 15
+2022-11-10 14:29:17.738881|bbea9a2957864406b5fc7c886fae4280|B6|||||utter_did_that_help|Did you get the answer？
+2022-11-10 14:29:17.738935|bbea9a2957864406b5fc7c886fae4280|U5|helpfulness_rating|helpfulness_1|
+2022-11-10 14:29:17.739003|bbea9a2957864406b5fc7c886fae4280|B7|||||utter_carry_on|Thanks, carry on!
+2022-11-10 14:29:17.739054|bbea9a2957864406b5fc7c886fae4280|U6|housing_price|how much does the meal plan cost?|
+2022-11-10 14:29:17.739122|bbea9a2957864406b5fc7c886fae4280|B8|||||utter_housing_price|The resident on-campus housing price varies from $3100 to $6600 per semester. For more details, please refer to the webpage: https://sc.edu/about/offices_and_divisions/housing/index.php; The off-campus apartment price in Columbia ranges from 500-1500 USD. A room can be found at 350-600 USD. Columbia offers a range of traditional, family-friendly housing options and apartments. You can widen your search on websites such as ApartmentFinder.com, ApartmentList.com, Zillow.com, Trulia.com, and Homes.com.
+2022-11-10 14:29:17.739180|bbea9a2957864406b5fc7c886fae4280|B9|||||utter_did_that_help|Did you get the answer？
+2022-11-10 14:29:17.739233|bbea9a2957864406b5fc7c886fae4280|U7|helpfulness_rating|helpfulness_1|
+2022-11-10 14:29:17.739301|bbea9a2957864406b5fc7c886fae4280|B10|||||utter_carry_on|Thanks, carry on!
+2022-11-10 14:29:17.739353|bbea9a2957864406b5fc7c886fae4280|U8|access_application|Where do I apply?|
+2022-11-10 14:29:17.739454|bbea9a2957864406b5fc7c886fae4280|U9|deny|No|
+2022-11-10 14:29:17.739520|bbea9a2957864406b5fc7c886fae4280|B11|||||utter_ask_short_feedback|Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-10 14:29:17.739577|bbea9a2957864406b5fc7c886fae4280|U10|short_feedback_rating|short_3|
+2022-11-10 14:29:17.739645|bbea9a2957864406b5fc7c886fae4280|B12|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-10 14:30:34.861883|bbea9a2957864406b5fc7c886fae4280|U0|greet|/greet|
+2022-11-10 14:30:34.861977|bbea9a2957864406b5fc7c886fae4280|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 14:30:34.862043|bbea9a2957864406b5fc7c886fae4280|U1|nlu_fallback|what are the avaliable dorms?|
+2022-11-10 14:30:34.862123|bbea9a2957864406b5fc7c886fae4280|B1|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 14:30:34.862184|bbea9a2957864406b5fc7c886fae4280|U2|campus|What is there to eat on campus?|
+2022-11-10 14:30:34.862261|bbea9a2957864406b5fc7c886fae4280|B2|||||utter_campus|Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also, there is an interactive campus maps: https://www.sc.edu/visit/map/ 
+2022-11-10 14:30:34.862321|bbea9a2957864406b5fc7c886fae4280|B3|||||utter_did_that_help|Did you get the answer？
+2022-11-10 14:30:34.862386|bbea9a2957864406b5fc7c886fae4280|U3|helpfulness_rating|helpfulness_1|
+2022-11-10 14:30:34.862464|bbea9a2957864406b5fc7c886fae4280|B4|||||utter_carry_on|Thanks, carry on!
+2022-11-10 14:30:34.862522|bbea9a2957864406b5fc7c886fae4280|U4|deadline_transfer|what is the application deadline?|
+2022-11-10 14:30:34.862597|bbea9a2957864406b5fc7c886fae4280|B5|||||utter_deadline_transfer|It may vary in different years. For 2022: Spring 2022 application deadline: November 1 Spring 2022 credentials deadline: December 19 Fall 2022 application deadline: July 1 Fall 2022 credentials deadline (including official transcripts): July 15 Summer 2022 (Classes begin in June) Summer 2022 application deadline: May 1 Summer 2022 credentials deadline (including official transcripts): May 15
+2022-11-10 14:30:34.862661|bbea9a2957864406b5fc7c886fae4280|B6|||||utter_did_that_help|Did you get the answer？
+2022-11-10 14:30:34.862720|bbea9a2957864406b5fc7c886fae4280|U5|helpfulness_rating|helpfulness_1|
+2022-11-10 14:30:34.862796|bbea9a2957864406b5fc7c886fae4280|B7|||||utter_carry_on|Thanks, carry on!
+2022-11-10 14:30:34.862853|bbea9a2957864406b5fc7c886fae4280|U6|housing_price|how much does the meal plan cost?|
+2022-11-10 14:30:34.862929|bbea9a2957864406b5fc7c886fae4280|B8|||||utter_housing_price|The resident on-campus housing price varies from $3100 to $6600 per semester. For more details, please refer to the webpage: https://sc.edu/about/offices_and_divisions/housing/index.php; The off-campus apartment price in Columbia ranges from 500-1500 USD. A room can be found at 350-600 USD. Columbia offers a range of traditional, family-friendly housing options and apartments. You can widen your search on websites such as ApartmentFinder.com, ApartmentList.com, Zillow.com, Trulia.com, and Homes.com.
+2022-11-10 14:30:34.862996|bbea9a2957864406b5fc7c886fae4280|B9|||||utter_did_that_help|Did you get the answer？
+2022-11-10 14:30:34.863054|bbea9a2957864406b5fc7c886fae4280|U7|helpfulness_rating|helpfulness_1|
+2022-11-10 14:30:34.863130|bbea9a2957864406b5fc7c886fae4280|B10|||||utter_carry_on|Thanks, carry on!
+2022-11-10 14:30:34.863187|bbea9a2957864406b5fc7c886fae4280|U8|access_application|Where do I apply?|
+2022-11-10 14:30:34.863300|bbea9a2957864406b5fc7c886fae4280|U9|deny|No|
+2022-11-10 14:30:34.863375|bbea9a2957864406b5fc7c886fae4280|B11|||||utter_ask_short_feedback|Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-10 14:30:34.863438|bbea9a2957864406b5fc7c886fae4280|U10|short_feedback_rating|short_3|
+2022-11-10 14:30:34.863514|bbea9a2957864406b5fc7c886fae4280|B12|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-10 14:30:34.863705|bbea9a2957864406b5fc7c886fae4280|U11|goodbye|bye|
+2022-11-10 14:30:34.863780|bbea9a2957864406b5fc7c886fae4280|B13|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-10 14:30:34.863839|bbea9a2957864406b5fc7c886fae4280|U12|affirm|Yes|
+2022-11-10 14:30:34.863915|bbea9a2957864406b5fc7c886fae4280|B14|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-10 14:30:34.863972|bbea9a2957864406b5fc7c886fae4280|U13|satisfy_rating|satisfy_3|
+2022-11-10 14:30:34.864049|bbea9a2957864406b5fc7c886fae4280|B15|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-10 14:30:34.864106|bbea9a2957864406b5fc7c886fae4280|U14|interaction_rating|interaction_4|
+2022-11-10 14:30:34.864181|bbea9a2957864406b5fc7c886fae4280|B16|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-10 14:30:34.864238|bbea9a2957864406b5fc7c886fae4280|U15|preference_rating|preference_3|
+2022-11-10 14:30:34.864312|bbea9a2957864406b5fc7c886fae4280|B17|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-10 14:30:34.864370|bbea9a2957864406b5fc7c886fae4280|U16|future_use_rating|future_use_2|
+2022-11-10 14:30:34.864444|bbea9a2957864406b5fc7c886fae4280|B18|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-10 14:30:34.864506|bbea9a2957864406b5fc7c886fae4280|U17|overall_rating|overall_3|
+2022-11-10 14:30:34.864581|bbea9a2957864406b5fc7c886fae4280|B19|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-10 14:30:34.864639|bbea9a2957864406b5fc7c886fae4280|B20|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-10 14:30:34.864696|bbea9a2957864406b5fc7c886fae4280|U18|answer_current_student|answer_current_student_1|
+2022-11-10 14:30:34.864771|bbea9a2957864406b5fc7c886fae4280|B21|||||utter_gender|What's your gender?
+2022-11-10 14:30:34.864828|bbea9a2957864406b5fc7c886fae4280|U19|answer_gender|gender_2|
+2022-11-10 14:30:34.864904|bbea9a2957864406b5fc7c886fae4280|B22|||||utter_age|What's your age?
+2022-11-10 14:30:34.864960|bbea9a2957864406b5fc7c886fae4280|U20|answer_age|age_1|
+2022-11-10 14:30:34.865035|bbea9a2957864406b5fc7c886fae4280|B23|||||utter_marriage|Are you married?
+2022-11-10 14:30:34.865092|bbea9a2957864406b5fc7c886fae4280|U21|answer_marriage|marriage_2|
+2022-11-10 14:30:34.865167|bbea9a2957864406b5fc7c886fae4280|B24|||||utter_education|What is your current completed education level?
+2022-11-10 14:30:34.865224|bbea9a2957864406b5fc7c886fae4280|U22|answer_education|education_1|
+2022-11-10 14:30:34.865298|bbea9a2957864406b5fc7c886fae4280|B25|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-10 15:32:33.729487|e6622f04321b4f26a2cbdaf918653264|U0|greet|/greet|
+2022-11-10 15:32:33.729594|e6622f04321b4f26a2cbdaf918653264|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 15:32:33.729667|e6622f04321b4f26a2cbdaf918653264|U1|access_application|How to apply|
+2022-11-10 15:32:33.729741|e6622f04321b4f26a2cbdaf918653264|B1|||||utter_access_application|Please refer to the webpage: https://sc.edu/apply/index.php 
+2022-11-10 15:32:33.729796|e6622f04321b4f26a2cbdaf918653264|B2|||||utter_did_that_help|Did you get the answer？
+2022-11-10 15:32:33.729850|e6622f04321b4f26a2cbdaf918653264|U2|affirm|yes|
+2022-11-10 15:32:33.729909|e6622f04321b4f26a2cbdaf918653264|B3|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-10 15:32:33.729951|e6622f04321b4f26a2cbdaf918653264|U3|coronavirus|5|
+2022-11-10 15:32:33.730038|e6622f04321b4f26a2cbdaf918653264|U4|application_fee|what is the fee amount|
+2022-11-10 15:32:33.730095|e6622f04321b4f26a2cbdaf918653264|B4|||||utter_application_fee|The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.
+2022-11-10 15:32:33.730138|e6622f04321b4f26a2cbdaf918653264|B5|||||utter_did_that_help|Did you get the answer？
+2022-11-10 15:32:33.730182|e6622f04321b4f26a2cbdaf918653264|U5|helpfulness_rating|helpfulness_1|
+2022-11-10 15:32:33.730239|e6622f04321b4f26a2cbdaf918653264|B6|||||utter_carry_on|Thanks, carry on!
+2022-11-10 15:32:33.730281|e6622f04321b4f26a2cbdaf918653264|U6|find_place|is there a good place to stay|
+2022-11-10 15:32:33.730368|e6622f04321b4f26a2cbdaf918653264|U7|find_place|Is there a place to stay|
+2022-11-10 15:32:33.730455|e6622f04321b4f26a2cbdaf918653264|U8|find_place|how to find a place to stay|
+2022-11-10 15:32:33.730542|e6622f04321b4f26a2cbdaf918653264|U9|goodbye|bye|
+2022-11-10 15:32:33.730599|e6622f04321b4f26a2cbdaf918653264|B7|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-10 15:32:33.730641|e6622f04321b4f26a2cbdaf918653264|U10|affirm|Yes|
+2022-11-10 15:32:33.730698|e6622f04321b4f26a2cbdaf918653264|B8|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-10 15:32:33.730740|e6622f04321b4f26a2cbdaf918653264|U11|satisfy_rating|satisfy_4|
+2022-11-10 15:32:33.730797|e6622f04321b4f26a2cbdaf918653264|B9|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-10 15:32:33.730839|e6622f04321b4f26a2cbdaf918653264|U12|interaction_rating|interaction_5|
+2022-11-10 15:32:33.732273|e6622f04321b4f26a2cbdaf918653264|B10|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-10 15:32:33.732319|e6622f04321b4f26a2cbdaf918653264|U13|preference_rating|preference_4|
+2022-11-10 15:32:33.732380|e6622f04321b4f26a2cbdaf918653264|B11|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-10 15:32:33.732412|e6622f04321b4f26a2cbdaf918653264|U14|future_use_rating|future_use_4|
+2022-11-10 15:32:33.732454|e6622f04321b4f26a2cbdaf918653264|B12|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-10 15:32:33.732491|e6622f04321b4f26a2cbdaf918653264|U15|overall_rating|overall_4|
+2022-11-10 15:32:33.732559|e6622f04321b4f26a2cbdaf918653264|B13|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-10 15:32:33.732592|e6622f04321b4f26a2cbdaf918653264|B14|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-10 15:32:33.732623|e6622f04321b4f26a2cbdaf918653264|U16|answer_current_student|answer_current_student_1|
+2022-11-10 15:32:33.732665|e6622f04321b4f26a2cbdaf918653264|B15|||||utter_gender|What's your gender?
+2022-11-10 15:32:33.732706|e6622f04321b4f26a2cbdaf918653264|U17|answer_gender|gender_1|
+2022-11-10 15:32:33.732747|e6622f04321b4f26a2cbdaf918653264|B16|||||utter_age|What's your age?
+2022-11-10 15:32:33.732778|e6622f04321b4f26a2cbdaf918653264|U18|answer_age|age_3|
+2022-11-10 15:32:33.732818|e6622f04321b4f26a2cbdaf918653264|B17|||||utter_marriage|Are you married?
+2022-11-10 15:32:33.732850|e6622f04321b4f26a2cbdaf918653264|U19|answer_marriage|marriage_3|
+2022-11-10 15:32:33.732890|e6622f04321b4f26a2cbdaf918653264|B18|||||utter_education|What is your current completed education level?
+2022-11-10 15:32:33.732922|e6622f04321b4f26a2cbdaf918653264|U20|answer_education|education_3|
+2022-11-10 15:32:33.732963|e6622f04321b4f26a2cbdaf918653264|B19|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-10 17:22:42.006865|c14e8eaf02dd49e4a29efe77872aba0f|U0|greet|/greet|
+2022-11-10 17:22:42.006959|c14e8eaf02dd49e4a29efe77872aba0f|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 17:22:42.007023|c14e8eaf02dd49e4a29efe77872aba0f|U1|campus|Where is a good place to eat on campus?|
+2022-11-10 17:22:42.007103|c14e8eaf02dd49e4a29efe77872aba0f|B1|||||utter_campus|Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also, there is an interactive campus maps: https://www.sc.edu/visit/map/ 
+2022-11-10 17:22:42.007165|c14e8eaf02dd49e4a29efe77872aba0f|B2|||||utter_did_that_help|Did you get the answer？
+2022-11-10 17:22:42.007231|c14e8eaf02dd49e4a29efe77872aba0f|U2|helpfulness_rating|helpfulness_1|
+2022-11-10 17:22:42.007309|c14e8eaf02dd49e4a29efe77872aba0f|B3|||||utter_carry_on|Thanks, carry on!
+2022-11-10 17:22:42.007366|c14e8eaf02dd49e4a29efe77872aba0f|U3|nlu_fallback|Is there housing near the horshoe?|
+2022-11-10 17:22:42.007442|c14e8eaf02dd49e4a29efe77872aba0f|B4|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 17:22:42.007500|c14e8eaf02dd49e4a29efe77872aba0f|U4|nlu_fallback|Are there any dorms on the north side of campus?|
+2022-11-10 17:22:42.007575|c14e8eaf02dd49e4a29efe77872aba0f|B5|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 17:22:42.007632|c14e8eaf02dd49e4a29efe77872aba0f|U5|available_jobs|Where is available housing on campus?|
+2022-11-10 17:22:42.007707|c14e8eaf02dd49e4a29efe77872aba0f|B6|||||utter_available_jobs|There's a wide range of employment opportunities on campus designed to develop your essential, marketable skills. Please refer to the webpage:  https://sc.edu/about/employment/student-employment/index.php  
+ 
+ Also, there are lots of graduate assistant postions for graduate students: https://sc.edu/study/colleges_schools/graduate_school/paying_for_graduate_school/assistantships/index.php 
+2022-11-10 17:22:42.007782|c14e8eaf02dd49e4a29efe77872aba0f|B7|||||utter_did_that_help|Did you get the answer？
+2022-11-10 17:22:42.007845|c14e8eaf02dd49e4a29efe77872aba0f|U6|helpfulness_rating|helpfulness_2|
+2022-11-10 17:22:42.007922|c14e8eaf02dd49e4a29efe77872aba0f|B8|||||utter_carry_on|Thanks, carry on!
+2022-11-10 17:22:42.007979|c14e8eaf02dd49e4a29efe77872aba0f|U7|tuition_fee|How much does tuition cost?|
+2022-11-10 17:22:42.008055|c14e8eaf02dd49e4a29efe77872aba0f|B9|||||utter_tuition_fee|The estimated tuition and technology fee for the S.C. residents is $ 12,688, for nonresidents is $33,928. For more details, please refer to the webpage: https://sc.edu/about/offices_and_divisions/undergraduate_admissions/tuition_scholarships/tuition/index.php
+2022-11-10 17:22:42.008117|c14e8eaf02dd49e4a29efe77872aba0f|B10|||||utter_did_that_help|Did you get the answer？
+2022-11-10 17:22:42.008178|c14e8eaf02dd49e4a29efe77872aba0f|U8|helpfulness_rating|helpfulness_1|
+2022-11-10 17:22:42.008255|c14e8eaf02dd49e4a29efe77872aba0f|B11|||||utter_carry_on|Thanks, carry on!
+2022-11-10 17:22:42.008312|c14e8eaf02dd49e4a29efe77872aba0f|U9|housing_price|How much does the meal plan cost?|
+2022-11-10 17:22:42.008389|c14e8eaf02dd49e4a29efe77872aba0f|B12|||||utter_housing_price|The resident on-campus housing price varies from $3100 to $6600 per semester. For more details, please refer to the webpage: https://sc.edu/about/offices_and_divisions/housing/index.php; The off-campus apartment price in Columbia ranges from 500-1500 USD. A room can be found at 350-600 USD. Columbia offers a range of traditional, family-friendly housing options and apartments. You can widen your search on websites such as ApartmentFinder.com, ApartmentList.com, Zillow.com, Trulia.com, and Homes.com.
+2022-11-10 17:22:42.008456|c14e8eaf02dd49e4a29efe77872aba0f|B13|||||utter_did_that_help|Did you get the answer？
+2022-11-10 17:22:42.008515|c14e8eaf02dd49e4a29efe77872aba0f|U10|helpfulness_rating|helpfulness_2|
+2022-11-10 17:22:42.008593|c14e8eaf02dd49e4a29efe77872aba0f|B14|||||utter_carry_on|Thanks, carry on!
+2022-11-10 17:22:42.008649|c14e8eaf02dd49e4a29efe77872aba0f|U11|deadline_transfer|When is the Fall 2023 application deadline?|
+2022-11-10 17:22:42.008725|c14e8eaf02dd49e4a29efe77872aba0f|B15|||||utter_deadline_transfer|It may vary in different years. For 2022: Spring 2022 application deadline: November 1 Spring 2022 credentials deadline: December 19 Fall 2022 application deadline: July 1 Fall 2022 credentials deadline (including official transcripts): July 15 Summer 2022 (Classes begin in June) Summer 2022 application deadline: May 1 Summer 2022 credentials deadline (including official transcripts): May 15
+2022-11-10 17:22:42.008789|c14e8eaf02dd49e4a29efe77872aba0f|B16|||||utter_did_that_help|Did you get the answer？
+2022-11-10 17:22:42.008849|c14e8eaf02dd49e4a29efe77872aba0f|U12|helpfulness_rating|helpfulness_2|
+2022-11-10 17:22:42.008928|c14e8eaf02dd49e4a29efe77872aba0f|B17|||||utter_carry_on|Thanks, carry on!
+2022-11-10 17:22:42.008984|c14e8eaf02dd49e4a29efe77872aba0f|U13|goodbye|Bye|
+2022-11-10 17:22:42.009061|c14e8eaf02dd49e4a29efe77872aba0f|B18|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-10 17:22:42.009119|c14e8eaf02dd49e4a29efe77872aba0f|U14|affirm|Yes|
+2022-11-10 17:22:42.009193|c14e8eaf02dd49e4a29efe77872aba0f|B19|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-10 17:22:42.009251|c14e8eaf02dd49e4a29efe77872aba0f|U15|satisfy_rating|satisfy_2|
+2022-11-10 17:22:42.009328|c14e8eaf02dd49e4a29efe77872aba0f|B20|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-10 17:22:42.009401|c14e8eaf02dd49e4a29efe77872aba0f|U16|interaction_rating|interaction_4|
+2022-11-10 17:22:42.009477|c14e8eaf02dd49e4a29efe77872aba0f|B21|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-10 17:22:42.009534|c14e8eaf02dd49e4a29efe77872aba0f|U17|preference_rating|preference_1|
+2022-11-10 17:22:42.009610|c14e8eaf02dd49e4a29efe77872aba0f|B22|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-10 17:22:42.009668|c14e8eaf02dd49e4a29efe77872aba0f|U18|future_use_rating|future_use_1|
+2022-11-10 17:22:42.009750|c14e8eaf02dd49e4a29efe77872aba0f|B23|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-10 17:22:42.009786|c14e8eaf02dd49e4a29efe77872aba0f|U19|overall_rating|overall_2|
+2022-11-10 17:22:42.009830|c14e8eaf02dd49e4a29efe77872aba0f|B24|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-10 17:22:42.009864|c14e8eaf02dd49e4a29efe77872aba0f|B25|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-10 17:22:42.009898|c14e8eaf02dd49e4a29efe77872aba0f|U20|answer_current_student|answer_current_student_2|
+2022-11-10 17:22:42.009942|c14e8eaf02dd49e4a29efe77872aba0f|B26|||||utter_gender|What's your gender?
+2022-11-10 17:22:42.009975|c14e8eaf02dd49e4a29efe77872aba0f|U21|answer_gender|gender_2|
+2022-11-10 17:22:42.010019|c14e8eaf02dd49e4a29efe77872aba0f|B27|||||utter_age|What's your age?
+2022-11-10 17:22:42.010052|c14e8eaf02dd49e4a29efe77872aba0f|U22|answer_age|age_2|
+2022-11-10 17:22:42.010097|c14e8eaf02dd49e4a29efe77872aba0f|B28|||||utter_marriage|Are you married?
+2022-11-10 17:22:42.010130|c14e8eaf02dd49e4a29efe77872aba0f|U23|answer_marriage|marriage_2|
+2022-11-10 17:22:42.010175|c14e8eaf02dd49e4a29efe77872aba0f|B29|||||utter_education|What is your current completed education level?
+2022-11-10 17:22:42.010209|c14e8eaf02dd49e4a29efe77872aba0f|U24|answer_education|education_2|
+2022-11-10 17:22:42.010252|c14e8eaf02dd49e4a29efe77872aba0f|B30|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-10 18:59:38.038020|0339b97bdb5e497dbcf5b4e6cf36b031|U0|greet|/greet|
+2022-11-10 18:59:38.038079|0339b97bdb5e497dbcf5b4e6cf36b031|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 18:59:38.038120|0339b97bdb5e497dbcf5b4e6cf36b031|U1|campus|What is there to eat on campus|
+2022-11-10 18:59:38.038170|0339b97bdb5e497dbcf5b4e6cf36b031|B1|||||utter_campus|Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also, there is an interactive campus maps: https://www.sc.edu/visit/map/ 
+2022-11-10 18:59:38.038209|0339b97bdb5e497dbcf5b4e6cf36b031|B2|||||utter_did_that_help|Did you get the answer？
+2022-11-10 18:59:38.038250|0339b97bdb5e497dbcf5b4e6cf36b031|U2|helpfulness_rating|helpfulness_1|
+2022-11-10 18:59:38.038299|0339b97bdb5e497dbcf5b4e6cf36b031|B3|||||utter_carry_on|Thanks, carry on!
+2022-11-10 18:59:38.038334|0339b97bdb5e497dbcf5b4e6cf36b031|U3|lunch|Where to have lunch on campus|
+2022-11-10 18:59:38.038382|0339b97bdb5e497dbcf5b4e6cf36b031|B4|||||utter_lunch|There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php 
+2022-11-10 18:59:38.038418|0339b97bdb5e497dbcf5b4e6cf36b031|B5|||||utter_did_that_help|Did you get the answer？
+2022-11-10 18:59:38.038453|0339b97bdb5e497dbcf5b4e6cf36b031|U4|helpfulness_rating|helpfulness_1|
+2022-11-10 18:59:38.038501|0339b97bdb5e497dbcf5b4e6cf36b031|B6|||||utter_carry_on|Thanks, carry on!
+2022-11-10 18:59:38.038537|0339b97bdb5e497dbcf5b4e6cf36b031|U5|housing|How’s student living|
+2022-11-10 18:59:38.038586|0339b97bdb5e497dbcf5b4e6cf36b031|B7|||||utter_housing|For the on-campus housing, please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing, you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php
+2022-11-10 18:59:38.038628|0339b97bdb5e497dbcf5b4e6cf36b031|B8|||||utter_did_that_help|Did you get the answer？
+2022-11-10 18:59:38.038666|0339b97bdb5e497dbcf5b4e6cf36b031|U6|helpfulness_rating|helpfulness_1|
+2022-11-10 18:59:38.038714|0339b97bdb5e497dbcf5b4e6cf36b031|B9|||||utter_carry_on|Thanks, carry on!
+2022-11-10 18:59:38.038750|0339b97bdb5e497dbcf5b4e6cf36b031|U7|find_place|How to find a place to stay|
+2022-11-10 18:59:38.038821|0339b97bdb5e497dbcf5b4e6cf36b031|U8|find_place|How to find a place to stay|
+2022-11-10 18:59:38.038893|0339b97bdb5e497dbcf5b4e6cf36b031|U9|find_place|How do I find a place to stay|
+2022-11-10 18:59:38.038964|0339b97bdb5e497dbcf5b4e6cf36b031|U10|meal_plan|How about meal plan|
+2022-11-10 18:59:38.039013|0339b97bdb5e497dbcf5b4e6cf36b031|B10|||||utter_meal_plan|The are different kinds of meal plans for students and faculties. More about the meal plan, please refer to the webpage: 
+https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php
+2022-11-10 18:59:38.039056|0339b97bdb5e497dbcf5b4e6cf36b031|B11|||||utter_did_that_help|Did you get the answer？
+2022-11-10 18:59:38.039093|0339b97bdb5e497dbcf5b4e6cf36b031|U11|helpfulness_rating|helpfulness_1|
+2022-11-10 18:59:38.039141|0339b97bdb5e497dbcf5b4e6cf36b031|B12|||||utter_carry_on|Thanks, carry on!
+2022-11-10 18:59:38.039177|0339b97bdb5e497dbcf5b4e6cf36b031|U12|nlu_fallback|What can I eat|
+2022-11-10 18:59:38.039225|0339b97bdb5e497dbcf5b4e6cf36b031|B13|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 18:59:38.039262|0339b97bdb5e497dbcf5b4e6cf36b031|U13|campus|What can I eat on campus|
+2022-11-10 18:59:38.039311|0339b97bdb5e497dbcf5b4e6cf36b031|B14|||||utter_campus|Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also, there is an interactive campus maps: https://www.sc.edu/visit/map/ 
+2022-11-10 18:59:38.039348|0339b97bdb5e497dbcf5b4e6cf36b031|B15|||||utter_did_that_help|Did you get the answer？
+2022-11-10 18:59:38.039385|0339b97bdb5e497dbcf5b4e6cf36b031|U14|helpfulness_rating|helpfulness_1|
+2022-11-10 18:59:38.039434|0339b97bdb5e497dbcf5b4e6cf36b031|B16|||||utter_carry_on|Thanks, carry on!
+2022-11-10 18:59:38.039469|0339b97bdb5e497dbcf5b4e6cf36b031|U15|goodbye|Bye|
+2022-11-10 18:59:38.039517|0339b97bdb5e497dbcf5b4e6cf36b031|B17|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-10 18:59:38.039554|0339b97bdb5e497dbcf5b4e6cf36b031|U16|affirm|Yes|
+2022-11-10 18:59:38.039603|0339b97bdb5e497dbcf5b4e6cf36b031|B18|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-10 18:59:38.039640|0339b97bdb5e497dbcf5b4e6cf36b031|U17|satisfy_rating|satisfy_4|
+2022-11-10 18:59:38.039689|0339b97bdb5e497dbcf5b4e6cf36b031|B19|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-10 18:59:38.039725|0339b97bdb5e497dbcf5b4e6cf36b031|U18|interaction_rating|interaction_4|
+2022-11-10 18:59:38.039773|0339b97bdb5e497dbcf5b4e6cf36b031|B20|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-10 18:59:38.039808|0339b97bdb5e497dbcf5b4e6cf36b031|U19|preference_rating|preference_3|
+2022-11-10 18:59:38.039856|0339b97bdb5e497dbcf5b4e6cf36b031|B21|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-10 18:59:38.039891|0339b97bdb5e497dbcf5b4e6cf36b031|U20|future_use_rating|future_use_3|
+2022-11-10 18:59:38.039939|0339b97bdb5e497dbcf5b4e6cf36b031|B22|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-10 18:59:38.039978|0339b97bdb5e497dbcf5b4e6cf36b031|U21|overall_rating|overall_3|
+2022-11-10 18:59:38.040026|0339b97bdb5e497dbcf5b4e6cf36b031|B23|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-10 18:59:38.040063|0339b97bdb5e497dbcf5b4e6cf36b031|B24|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-10 18:59:38.040099|0339b97bdb5e497dbcf5b4e6cf36b031|U22|answer_current_student|answer_current_student_1|
+2022-11-10 18:59:38.040147|0339b97bdb5e497dbcf5b4e6cf36b031|B25|||||utter_gender|What's your gender?
+2022-11-10 18:59:38.040183|0339b97bdb5e497dbcf5b4e6cf36b031|U23|answer_gender|gender_2|
+2022-11-10 18:59:38.040231|0339b97bdb5e497dbcf5b4e6cf36b031|B26|||||utter_age|What's your age?
+2022-11-10 18:59:38.040266|0339b97bdb5e497dbcf5b4e6cf36b031|U24|answer_age|age_1|
+2022-11-10 18:59:38.040315|0339b97bdb5e497dbcf5b4e6cf36b031|B27|||||utter_marriage|Are you married?
+2022-11-10 18:59:38.040350|0339b97bdb5e497dbcf5b4e6cf36b031|U25|answer_marriage|marriage_2|
+2022-11-10 18:59:38.040398|0339b97bdb5e497dbcf5b4e6cf36b031|B28|||||utter_education|What is your current completed education level?
+2022-11-10 18:59:38.040434|0339b97bdb5e497dbcf5b4e6cf36b031|U26|answer_education|education_1|
+2022-11-10 18:59:38.040482|0339b97bdb5e497dbcf5b4e6cf36b031|B29|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-10 20:12:47.583163|de66d397bafb4086a9f0e22f6a9a71fd|U0|greet|/greet|
+2022-11-10 20:12:47.583255|de66d397bafb4086a9f0e22f6a9a71fd|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-10 20:12:47.583319|de66d397bafb4086a9f0e22f6a9a71fd|U1|nlu_fallback|Is there any housing available for international graduate students?|
+2022-11-10 20:12:47.583400|de66d397bafb4086a9f0e22f6a9a71fd|B1|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 20:12:47.583458|de66d397bafb4086a9f0e22f6a9a71fd|U2|nlu_fallback|Tell me about housing|
+2022-11-10 20:12:47.583535|de66d397bafb4086a9f0e22f6a9a71fd|B2|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 20:12:47.583593|de66d397bafb4086a9f0e22f6a9a71fd|U3|nlu_fallback|What's the cost of the student living?|
+2022-11-10 20:12:47.583668|de66d397bafb4086a9f0e22f6a9a71fd|B3|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 20:12:47.583724|de66d397bafb4086a9f0e22f6a9a71fd|U4|nlu_fallback|What's the cost of the student living?|
+2022-11-10 20:12:47.583799|de66d397bafb4086a9f0e22f6a9a71fd|B4|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 20:12:47.583856|de66d397bafb4086a9f0e22f6a9a71fd|U5|meal_plan|How's about the meal plan?|
+2022-11-10 20:12:47.583929|de66d397bafb4086a9f0e22f6a9a71fd|B5|||||utter_meal_plan|The are different kinds of meal plans for students and faculties. More about the meal plan, please refer to the webpage: 
+https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php
+2022-11-10 20:12:47.583993|de66d397bafb4086a9f0e22f6a9a71fd|B6|||||utter_did_that_help|Did you get the answer？
+2022-11-10 20:12:47.584060|de66d397bafb4086a9f0e22f6a9a71fd|U6|access_application|How to apply?|
+2022-11-10 20:12:47.584173|de66d397bafb4086a9f0e22f6a9a71fd|U7|nlu_fallback|adf|
+2022-11-10 20:12:47.584250|de66d397bafb4086a9f0e22f6a9a71fd|B7|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-10 20:12:47.584305|de66d397bafb4086a9f0e22f6a9a71fd|U8|access_application|How to apply?|
+2022-11-10 20:12:47.584418|de66d397bafb4086a9f0e22f6a9a71fd|U9|goodbye|Bye|
+2022-11-10 20:12:47.584491|de66d397bafb4086a9f0e22f6a9a71fd|B8|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-10 20:12:47.584547|de66d397bafb4086a9f0e22f6a9a71fd|U10|affirm|Yes|
+2022-11-10 20:12:47.584621|de66d397bafb4086a9f0e22f6a9a71fd|B9|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-10 20:12:47.584678|de66d397bafb4086a9f0e22f6a9a71fd|U11|satisfy_rating|satisfy_1|
+2022-11-10 20:12:47.584754|de66d397bafb4086a9f0e22f6a9a71fd|B10|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-10 20:12:47.584811|de66d397bafb4086a9f0e22f6a9a71fd|U12|interaction_rating|interaction_2|
+2022-11-10 20:12:47.584885|de66d397bafb4086a9f0e22f6a9a71fd|B11|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-10 20:12:47.584941|de66d397bafb4086a9f0e22f6a9a71fd|U13|preference_rating|preference_1|
+2022-11-10 20:12:47.585015|de66d397bafb4086a9f0e22f6a9a71fd|B12|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-10 20:12:47.585070|de66d397bafb4086a9f0e22f6a9a71fd|U14|future_use_rating|future_use_3|
+2022-11-10 20:12:47.585142|de66d397bafb4086a9f0e22f6a9a71fd|B13|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-10 20:12:47.585203|de66d397bafb4086a9f0e22f6a9a71fd|U15|overall_rating|overall_2|
+2022-11-10 20:12:47.585277|de66d397bafb4086a9f0e22f6a9a71fd|B14|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-10 20:12:47.585334|de66d397bafb4086a9f0e22f6a9a71fd|B15|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-10 20:12:47.585407|de66d397bafb4086a9f0e22f6a9a71fd|U16|answer_current_student|answer_current_student_1|
+2022-11-10 20:12:47.585461|de66d397bafb4086a9f0e22f6a9a71fd|B16|||||utter_gender|What's your gender?
+2022-11-10 20:12:47.585493|de66d397bafb4086a9f0e22f6a9a71fd|U17|answer_gender|gender_2|
+2022-11-10 20:12:47.585536|de66d397bafb4086a9f0e22f6a9a71fd|B17|||||utter_age|What's your age?
+2022-11-10 20:12:47.585568|de66d397bafb4086a9f0e22f6a9a71fd|U18|answer_age|age_2|
+2022-11-10 20:12:47.585611|de66d397bafb4086a9f0e22f6a9a71fd|B18|||||utter_marriage|Are you married?
+2022-11-10 20:12:47.585644|de66d397bafb4086a9f0e22f6a9a71fd|U19|answer_marriage|marriage_2|
+2022-11-10 20:12:47.585687|de66d397bafb4086a9f0e22f6a9a71fd|B19|||||utter_education|What is your current completed education level?
+2022-11-10 20:12:47.585719|de66d397bafb4086a9f0e22f6a9a71fd|U20|answer_education|education_2|
+2022-11-10 20:12:47.585762|de66d397bafb4086a9f0e22f6a9a71fd|B20|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
+2022-11-11 12:08:27.338776|cf47b4f2fe1443309394c12464c87e2f|U0|greet|/greet|
+2022-11-11 12:08:27.338819|cf47b4f2fe1443309394c12464c87e2f|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student housing, dining on campus, etc. How can I help you?
+2022-11-11 12:08:27.338848|cf47b4f2fe1443309394c12464c87e2f|U1|access_application|How to apply?|
+2022-11-11 12:08:27.338882|cf47b4f2fe1443309394c12464c87e2f|B1|||||utter_access_application|Please refer to the webpage: https://sc.edu/apply/index.php 
+2022-11-11 12:08:27.338908|cf47b4f2fe1443309394c12464c87e2f|B2|||||utter_did_that_help|Did you get the answer？
+2022-11-11 12:08:27.338936|cf47b4f2fe1443309394c12464c87e2f|U2|helpfulness_rating|helpfulness_1|
+2022-11-11 12:08:27.338969|cf47b4f2fe1443309394c12464c87e2f|B3|||||utter_carry_on|Thanks, carry on!
+2022-11-11 12:08:27.338994|cf47b4f2fe1443309394c12464c87e2f|U3|application_fee|How much is the application fre?|
+2022-11-11 12:08:27.339028|cf47b4f2fe1443309394c12464c87e2f|B4|||||utter_application_fee|The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.
+2022-11-11 12:08:27.339053|cf47b4f2fe1443309394c12464c87e2f|B5|||||utter_did_that_help|Did you get the answer？
+2022-11-11 12:08:27.339079|cf47b4f2fe1443309394c12464c87e2f|U4|application_fee|How can I kno the application deadine|
+2022-11-11 12:08:27.339112|cf47b4f2fe1443309394c12464c87e2f|B6|||||utter_application_fee|The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.
+2022-11-11 12:08:27.339138|cf47b4f2fe1443309394c12464c87e2f|B7|||||utter_did_that_help|Did you get the answer？
+2022-11-11 12:08:27.339164|cf47b4f2fe1443309394c12464c87e2f|U5|helpfulness_rating|helpfulness_1|
+2022-11-11 12:08:27.339196|cf47b4f2fe1443309394c12464c87e2f|B8|||||utter_carry_on|Thanks, carry on!
+2022-11-11 12:08:27.339221|cf47b4f2fe1443309394c12464c87e2f|U6|find_place|How to find a place to stay?|
+2022-11-11 12:08:27.339271|cf47b4f2fe1443309394c12464c87e2f|U7|housing|How about the student living?|
+2022-11-11 12:08:27.339304|cf47b4f2fe1443309394c12464c87e2f|B9|||||utter_housing|For the on-campus housing, please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing, you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php
+2022-11-11 12:08:27.339332|cf47b4f2fe1443309394c12464c87e2f|B10|||||utter_did_that_help|Did you get the answer？
+2022-11-11 12:08:27.339359|cf47b4f2fe1443309394c12464c87e2f|U8|helpfulness_rating|helpfulness_1|
+2022-11-11 12:08:27.339391|cf47b4f2fe1443309394c12464c87e2f|B11|||||utter_carry_on|Thanks, carry on!
+2022-11-11 12:08:27.339416|cf47b4f2fe1443309394c12464c87e2f|U9|housing|cost of living|
+2022-11-11 12:08:27.339448|cf47b4f2fe1443309394c12464c87e2f|B12|||||utter_housing|For the on-campus housing, please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing, you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php
+2022-11-11 12:08:27.339476|cf47b4f2fe1443309394c12464c87e2f|B13|||||utter_did_that_help|Did you get the answer？
+2022-11-11 12:08:27.339502|cf47b4f2fe1443309394c12464c87e2f|U10|helpfulness_rating|helpfulness_2|
+2022-11-11 12:08:27.339536|cf47b4f2fe1443309394c12464c87e2f|B14|||||utter_carry_on|Thanks, carry on!
+2022-11-11 12:08:27.339560|cf47b4f2fe1443309394c12464c87e2f|U11|lunch|Where to have lunch|
+2022-11-11 12:08:27.339592|cf47b4f2fe1443309394c12464c87e2f|B15|||||utter_lunch|There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php 
+2022-11-11 12:08:27.339618|cf47b4f2fe1443309394c12464c87e2f|B16|||||utter_did_that_help|Did you get the answer？
+2022-11-11 12:08:27.339643|cf47b4f2fe1443309394c12464c87e2f|U12|helpfulness_rating|helpfulness_1|
+2022-11-11 12:08:27.339675|cf47b4f2fe1443309394c12464c87e2f|B17|||||utter_carry_on|Thanks, carry on!
+2022-11-11 12:08:27.339699|cf47b4f2fe1443309394c12464c87e2f|U13|meal_plan|hwo about meal plan|
+2022-11-11 12:08:27.339731|cf47b4f2fe1443309394c12464c87e2f|B18|||||utter_meal_plan|The are different kinds of meal plans for students and faculties. More about the meal plan, please refer to the webpage: 
+https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php
+2022-11-11 12:08:27.339760|cf47b4f2fe1443309394c12464c87e2f|B19|||||utter_did_that_help|Did you get the answer？
+2022-11-11 12:08:27.339785|cf47b4f2fe1443309394c12464c87e2f|U14|helpfulness_rating|helpfulness_1|
+2022-11-11 12:08:27.339818|cf47b4f2fe1443309394c12464c87e2f|B20|||||utter_carry_on|Thanks, carry on!
+2022-11-11 12:08:27.339842|cf47b4f2fe1443309394c12464c87e2f|U15|nlu_fallback|what to eat|
+2022-11-11 12:08:27.339874|cf47b4f2fe1443309394c12464c87e2f|B21|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-11 12:08:27.339898|cf47b4f2fe1443309394c12464c87e2f|U16|nlu_fallback|what to eat on campus|
+2022-11-11 12:08:27.339930|cf47b4f2fe1443309394c12464c87e2f|B22|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-11 12:08:27.339955|cf47b4f2fe1443309394c12464c87e2f|U17|nlu_fallback|What to eat on campus?|
+2022-11-11 12:08:27.339987|cf47b4f2fe1443309394c12464c87e2f|B23|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question? 
+2022-11-11 12:08:27.340012|cf47b4f2fe1443309394c12464c87e2f|U18|find_place|How to find a place to stay?|
+2022-11-11 12:08:27.340060|cf47b4f2fe1443309394c12464c87e2f|U19|goodbye|bye|
+2022-11-11 12:08:27.340092|cf47b4f2fe1443309394c12464c87e2f|B24|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+2022-11-11 12:08:27.340117|cf47b4f2fe1443309394c12464c87e2f|U20|affirm|Yes|
+2022-11-11 12:08:27.340149|cf47b4f2fe1443309394c12464c87e2f|B25|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+2022-11-11 12:08:27.340174|cf47b4f2fe1443309394c12464c87e2f|U21|satisfy_rating|satisfy_3|
+2022-11-11 12:08:27.340206|cf47b4f2fe1443309394c12464c87e2f|B26|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+2022-11-11 12:08:27.340230|cf47b4f2fe1443309394c12464c87e2f|U22|interaction_rating|interaction_2|
+2022-11-11 12:08:27.340262|cf47b4f2fe1443309394c12464c87e2f|B27|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+2022-11-11 12:08:27.340287|cf47b4f2fe1443309394c12464c87e2f|U23|preference_rating|preference_1|
+2022-11-11 12:08:27.340319|cf47b4f2fe1443309394c12464c87e2f|B28|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+2022-11-11 12:08:27.340343|cf47b4f2fe1443309394c12464c87e2f|U24|future_use_rating|future_use_1|
+2022-11-11 12:08:27.340376|cf47b4f2fe1443309394c12464c87e2f|B29|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+2022-11-11 12:08:27.340402|cf47b4f2fe1443309394c12464c87e2f|U25|overall_rating|overall_3|
+2022-11-11 12:08:27.340435|cf47b4f2fe1443309394c12464c87e2f|B30|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+2022-11-11 12:08:27.340460|cf47b4f2fe1443309394c12464c87e2f|B31|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+2022-11-11 12:08:27.340485|cf47b4f2fe1443309394c12464c87e2f|U26|answer_current_student|answer_current_student_2|
+2022-11-11 12:08:27.340517|cf47b4f2fe1443309394c12464c87e2f|B32|||||utter_gender|What's your gender?
+2022-11-11 12:08:27.340541|cf47b4f2fe1443309394c12464c87e2f|U27|answer_gender|gender_3|
+2022-11-11 12:08:27.340573|cf47b4f2fe1443309394c12464c87e2f|B33|||||utter_age|What's your age?
+2022-11-11 12:08:27.340598|cf47b4f2fe1443309394c12464c87e2f|U28|answer_age|age_2|
+2022-11-11 12:08:27.340629|cf47b4f2fe1443309394c12464c87e2f|B34|||||utter_marriage|Are you married?
+2022-11-11 12:08:27.340654|cf47b4f2fe1443309394c12464c87e2f|U29|answer_marriage|marriage_2|
+2022-11-11 12:08:27.340686|cf47b4f2fe1443309394c12464c87e2f|B35|||||utter_education|What is your current completed education level?
+2022-11-11 12:08:27.340710|cf47b4f2fe1443309394c12464c87e2f|U30|answer_education|education_1|
+2022-11-11 12:08:27.340742|cf47b4f2fe1443309394c12464c87e2f|B36|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ 
+ 【Conversation ended】
