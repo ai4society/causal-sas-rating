@@ -97,7 +97,7 @@ def allure_data(path):
     final_df = pd.DataFrame(df)
     final_df.to_csv('../data/results/real-world/allure/textblob/tb.csv',index=False)
 
-def allure_data(path):
+def unibot_data(path):
     
     df = textblob_data(path)
     final_df = pd.DataFrame(df)

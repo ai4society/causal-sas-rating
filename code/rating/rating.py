@@ -210,7 +210,7 @@ def weighted_rejection_score(D, A, W, P):
 							psi = psi + w
 			return psi
 
-	elif (P == 'allure_bot'):
+	elif (P == 'data_bot'):
 		psi = 0
 		for alpha, w in zip(A, W):
 			# print("Weight:", w)
@@ -247,7 +247,7 @@ def weighted_rejection_score(D, A, W, P):
 		# print(psi)
 		return psi
 
-	elif (P == 'allure_user'):
+	elif (P == 'data_user'):
 		psi = 0
 		for alpha, w in zip(A, W):
 			# print("Weight:", w)
@@ -459,7 +459,10 @@ print("The final rating based on the Group-3 combined results are: ")
 print(assign_rating(S,D,A,W,L,'RG'))
 print("\n")
 
-# ALLURE Rating
+
+
+# ALLURE RATING:
+
 S = []
 D = []
 path = "../../data/results/real-world/allure/"
@@ -472,9 +475,30 @@ for folder in os.listdir(path):
 S = sorted(list(set(S)))
 
 print("The final rating based on the ALLURE user conversation results are: ")
-print(assign_rating(S,D,A,W,L,'allure_user'))
+print(assign_rating(S,D,A,W,L,'data_user'))
 print("\n")
 
 print("The final rating based on the ALLURE chatbot conversation results are: ")
-print(assign_rating(S,D,A,W,L,'allure_bot'))
+print(assign_rating(S,D,A,W,L,'data_bot'))
+print("\n")
+
+# UNIBOT RATING:
+
+S = []
+D = []
+path = "../../data/results/real-world/unibot/"
+
+for folder in os.listdir(path):
+	for file in os.listdir(path + folder):
+		S.append(folder)
+		D.append(os.path.join(path+folder+"/"+file))
+
+S = sorted(list(set(S)))
+
+print("The final rating based on the Unibot user conversation results are: ")
+print(assign_rating(S,D,A,W,L,'data_user'))
+print("\n")
+
+print("The final rating based on the Unibot chatbot conversation results are: ")
+print(assign_rating(S,D,A,W,L,'data_bot'))
 print("\n")

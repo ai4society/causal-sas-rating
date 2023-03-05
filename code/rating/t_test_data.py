@@ -147,6 +147,8 @@ for alpha,name in zip(alphas,f_names):
 
     sys.stdout.close()
 
+# FOR ALLURE DATA:
+
 # Bot-side fairness
 for alpha,name in zip(alphas,f_names):
     sys.stdout=open("calc_results/real-world/allure/{}/data_{}_bot.txt".format(name,alpha),"w")
@@ -164,3 +166,59 @@ for alpha,name in zip(alphas,f_names):
                     t_test_gender(f,alpha,0)
 
     sys.stdout.close()
+
+# User-side fairness
+for alpha,name in zip(alphas,f_names):
+    sys.stdout=open("calc_results/real-world/allure/{}/data_{}_user.txt".format(name,alpha),"w")
+
+    path = "../../data/results/real-world/allure/"
+    for folder in os.listdir(path):
+        if folder.endswith('.DS_Store'):
+            pass
+        else:
+            for file in os.listdir(path + folder):
+                # print(file, folder)
+                print("Processing {}".format(folder))
+                print("Calculating results for {}".format(file))
+                with open(os.path.join(path+folder+"/"+file), 'r') as f:
+                    t_test_gender(f,alpha,1)
+
+    sys.stdout.close()
+
+
+# FOR UNIBOT DATA:
+
+# Bot-side fairness
+for alpha,name in zip(alphas,f_names):
+    sys.stdout=open("calc_results/real-world/unibot/{}/data_{}_bot.txt".format(name,alpha),"w")
+
+    path = "../../data/results/real-world/unibot/"
+    for folder in os.listdir(path):
+        if folder.endswith('.DS_Store'):
+            pass
+        else:
+            for file in os.listdir(path + folder):
+                # print(file, folder)
+                print("Processing {}".format(folder))
+                print("Calculating results for {}".format(file))
+                with open(os.path.join(path+folder+"/"+file), 'r') as f:
+                    t_test_gender(f,alpha,0)
+
+    sys.stdout.close()
+
+    for alpha,name in zip(alphas,f_names):
+        sys.stdout=open("calc_results/real-world/unibot/{}/data_{}_user.txt".format(name,alpha),"w")
+
+        path = "../../data/results/real-world/unibot/"
+        for folder in os.listdir(path):
+            if folder.endswith('.DS_Store'):
+                pass
+            else:
+                for file in os.listdir(path + folder):
+                    # print(file, folder)
+                    print("Processing {}".format(folder))
+                    print("Calculating results for {}".format(file))
+                    with open(os.path.join(path+folder+"/"+file), 'r') as f:
+                        t_test_gender(f,alpha,1)
+
+        sys.stdout.close()
