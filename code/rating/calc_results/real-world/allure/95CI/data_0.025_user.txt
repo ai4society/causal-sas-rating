@@ -9,13 +9,18 @@ Accept null hypothesis that the means are equal.
 
 
 
+ The t-crit value is: 
+2.2527851784004183
+
+
+
  p-value is: 
 1.0
 
 
 
  The DOF are: 
-364
+298
 
 
 For M,F: 
@@ -28,13 +33,18 @@ Reject the null hypothesis that the means are equal.
 
 
 
+ The t-crit value is: 
+2.2478747442945735
+
+
+
  p-value is: 
 0.0
 
 
 
  The DOF are: 
-606
+523
 
 
 For N,F: 
@@ -47,13 +57,18 @@ Reject the null hypothesis that the means are equal.
 
 
 
+ The t-crit value is: 
+2.2545087614959773
+
+
+
  p-value is: 
 0.0
 
 
 
  The DOF are: 
-276
+259
 
 
 Processing dbert
@@ -63,17 +78,22 @@ For M,N:
 Reject the null hypothesis that the means are equal.
 
  t-value is: 
-3.003476483447462
+3.087926844190834
+
+
+
+ The t-crit value is: 
+2.2527851784004183
 
 
 
  p-value is: 
-0.00285374239065761
+0.0022053865101221426
 
 
 
  The DOF are: 
-364
+298
 
 
 For M,F: 
@@ -82,17 +102,22 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
--1.1722844470528277
+-1.3322851663259836
+
+
+
+ The t-crit value is: 
+2.2478747442945735
 
 
 
  p-value is: 
-0.24154351170464228
+0.18334671497244215
 
 
 
  The DOF are: 
-606
+523
 
 
 For N,F: 
@@ -101,17 +126,22 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-1.6434931238060992
+1.7447494900211653
+
+
+
+ The t-crit value is: 
+2.2545087614959773
 
 
 
  p-value is: 
-0.10141958092804249
+0.08221461955453169
 
 
 
  The DOF are: 
-276
+259
 
 
 Processing gru
@@ -121,17 +151,22 @@ For M,N:
 Accept null hypothesis that the means are equal.
 
  t-value is: 
-0.33842846308133734
+0.1428082149098934
+
+
+
+ The t-crit value is: 
+2.2527851784004183
 
 
 
  p-value is: 
-0.7352354489396729
+0.8865381587045607
 
 
 
  The DOF are: 
-364
+298
 
 
 For M,F: 
@@ -140,17 +175,22 @@ Reject the null hypothesis that the means are equal.
 
  t-value is: 
 
-2.575676682800495
+3.252143528658525
+
+
+
+ The t-crit value is: 
+2.2478747442945735
 
 
 
  p-value is: 
-0.010240216055619866
+0.0012192607018839396
 
 
 
  The DOF are: 
-606
+523
 
 
 For N,F: 
@@ -159,17 +199,22 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-1.2202991526773845
+1.3250772156864308
+
+
+
+ The t-crit value is: 
+2.2545087614959773
 
 
 
  p-value is: 
-0.2233930909057502
+0.18631333476335676
 
 
 
  The DOF are: 
-276
+259
 
 
 Processing random
@@ -179,36 +224,46 @@ For M,N:
 Accept null hypothesis that the means are equal.
 
  t-value is: 
-0.5043833848801073
+1.352196610725148
+
+
+
+ The t-crit value is: 
+2.2527851784004183
 
 
 
  p-value is: 
-0.6142971657011507
+0.1773377025602767
 
 
 
  The DOF are: 
-364
+298
 
 
 For M,F: 
 
-Accept null hypothesis that the means are equal.
+Reject the null hypothesis that the means are equal.
 
  t-value is: 
 
--0.050649228151197094
+-2.578193569817495
+
+
+
+ The t-crit value is: 
+2.2478747442945735
 
 
 
  p-value is: 
-0.9596217243471812
+0.010204231026823551
 
 
 
  The DOF are: 
-606
+523
 
 
 For N,F: 
@@ -217,17 +272,22 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-0.4809081175354743
+0.3574895674344961
+
+
+
+ The t-crit value is: 
+2.2545087614959773
 
 
 
  p-value is: 
-0.6309628049865454
+0.721016467639326
 
 
 
  The DOF are: 
-276
+259
 
 
 Processing textblob
@@ -241,13 +301,18 @@ Accept null hypothesis that the means are equal.
 
 
 
+ The t-crit value is: 
+2.2527851784004183
+
+
+
  p-value is: 
 1.0
 
 
 
  The DOF are: 
-364
+298
 
 
 For M,F: 
@@ -260,13 +325,18 @@ Accept null hypothesis that the means are equal.
 
 
 
+ The t-crit value is: 
+2.2478747442945735
+
+
+
  p-value is: 
 1.0
 
 
 
  The DOF are: 
-606
+523
 
 
 For N,F: 
@@ -279,12 +349,17 @@ Accept null hypothesis that the means are equal.
 
 
 
+ The t-crit value is: 
+2.2545087614959773
+
+
+
  p-value is: 
 1.0
 
 
 
  The DOF are: 
-276
+259
 
 
