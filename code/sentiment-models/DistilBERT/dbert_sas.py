@@ -38,7 +38,7 @@ def bertsentiment(path,k,c):
         g1 = {'Gender':set['Gender'],'Emotion':set['Emotion'],'Sentiment':senti}
         return g1
 
-def dbert_allure(path):
+def dbert_data(path):
 
     set = pd.read_csv(path,engine="python")
     senti = []
@@ -96,6 +96,12 @@ def g4(path,i,k,c):
 
 def allure_data(path):
 
-    df = dbert_allure(path)
+    df = dbert_data(path)
     final_df = pd.DataFrame(df)
     final_df.to_csv('../data/results/real-world/allure/dbert/dbert.csv',index=False)
+
+def unibot_data(path):
+
+    df = dbert_data(path)
+    final_df = pd.DataFrame(df)
+    final_df.to_csv('../data/results/real-world/unibot/dbert/dbert.csv',index=False)

@@ -38,7 +38,7 @@ def textblob_sentiment(path,k,c):
 
 
 
-def textblob_allure(path):
+def textblob_data(path):
     set = pd.read_csv(path,engine="python")
         
     senti = []
@@ -93,7 +93,12 @@ def g4(path,i,k,c):
 
 def allure_data(path):
     
-    df = textblob_allure(path)
+    df = textblob_data(path)
     final_df = pd.DataFrame(df)
     final_df.to_csv('../data/results/real-world/allure/textblob/tb.csv',index=False)
 
+def allure_data(path):
+    
+    df = textblob_data(path)
+    final_df = pd.DataFrame(df)
+    final_df.to_csv('../data/results/real-world/unibot/textblob/tb.csv',index=False)

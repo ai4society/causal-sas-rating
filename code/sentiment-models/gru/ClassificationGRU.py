@@ -72,7 +72,7 @@ def gru_sentiment(path,k,c):
         return g1
 
 
-def gru_allure(path):
+def gru_data(path):
 
     with open('./sentiment-models/gru/tokenizer.pickle', 'rb') as h:
         tokenizer = pickle.load(h)
@@ -150,6 +150,12 @@ def g4(path,i,k,c):
 
 def allure_data(path):
 
-    df = gru_allure(path)
+    df = gru_data(path)
     final_df = pd.DataFrame(df)
     final_df.to_csv('../data/results/real-world/allure/gru/gru.csv',index=False)
+
+def unibot_data(path):
+
+    df = gru_data(path)
+    final_df = pd.DataFrame(df)
+    final_df.to_csv('../data/results/real-world/unibot/gru/gru.csv',index=False)

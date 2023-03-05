@@ -8,12 +8,14 @@ def run_bf():
     import bf
     print("Generating results from bf SAS...")
     bf.allure_data("../data/real-world/allure/final/final_expt.csv")
+    bf.unibot_data("../data/real-world/unibot/final/final_expt.csv")
 
 def run_textblob():
     sys.path.insert(1, 'sentiment-models/textblob/')
     import textblob_sas
     print("Generating results from Textblob SAS...")
     textblob_sas.allure_data("../data/real-world/allure/final/final_expt.csv")
+    textblob_sas.unibot_data("../data/real-world/unibot/final/final_expt.csv")
 
 
 def run_dbert():
@@ -21,6 +23,7 @@ def run_dbert():
     import dbert_sas
     print("Generating results from DistilBERT SAS...")
     dbert_sas.allure_data("../data/real-world/allure/final/final_expt.csv")
+    dbert_sas.unibot_data("../data/real-world/unibot/final/final_expt.csv")
 
 
 def run_random():
@@ -28,6 +31,7 @@ def run_random():
     import random_sas
     print("Generating results from random SAS...")
     random_sas.allure_data("../data/real-world/allure/final/final_expt.csv")
+    random_sas.unibot_data("../data/real-world/unibot/final/final_expt.csv")
 
 
 def run_gru():
@@ -35,6 +39,8 @@ def run_gru():
     import ClassificationGRU
     print("Generating results from GRU SAS...")
     ClassificationGRU.allure_data("../data/real-world/allure/final/final_expt.csv")
+    ClassificationGRU.unibot_data("../data/real-world/unibot/final/final_expt.csv")
+
 
 
 print("Generating results from different SASs for the data \n")

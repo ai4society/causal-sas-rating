@@ -32,7 +32,7 @@ def bf_sentiment(path,k,c):
     elif k == 1:
         return g1
 
-def bf_allure(path):
+def bf_data(path):
 
     set = pd.read_csv(path,engine="python")
 
@@ -87,6 +87,12 @@ def g4(path,i,k,c):
 
 def allure_data(path):
 
-    df = bf_allure(path)
+    df = bf_data(path)
     final_df = pd.DataFrame(df)
     final_df.to_csv('../data/results/real-world/allure/bf/bf.csv',index=False)
+
+def unibot_data(path):
+
+    df = bf_data(path)
+    final_df = pd.DataFrame(df)
+    final_df.to_csv('../data/results/real-world/unibot/bf/bf.csv',index=False)

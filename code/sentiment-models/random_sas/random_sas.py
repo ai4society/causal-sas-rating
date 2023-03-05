@@ -44,7 +44,7 @@ def random_sentiment(path,k,c):
     elif k == 1:
         return g1
 
-def random_allure(path):
+def random_data(path):
     set = pd.read_csv(path,engine="python")
         
     senti = []
@@ -96,6 +96,13 @@ def g4(path,i,k,c):
 
 def allure_data(path):
     
-    df = random_allure(path)
+    df = random_data(path)
     final_df = pd.DataFrame(df)
     final_df.to_csv('../data/results/real-world/allure/random/random.csv',index=False)
+    
+    
+def unibot_data(path):
+    
+    df = random_data(path)
+    final_df = pd.DataFrame(df)
+    final_df.to_csv('../data/results/real-world/unibot/random/random.csv',index=False)
