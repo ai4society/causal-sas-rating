@@ -21,10 +21,13 @@ def allure_prep(input_path, dest, count):
         if i in idx:
             if data0['Gender'][i] == "Prefer not to say":
                 temp_gen = 0
+                temp_fm = ""
             elif data0['Gender'][i] == "Female":
                 temp_gen = 2
+                temp_fm = "Hey girl, "
             elif data0['Gender'][i] == "Male":
-                temp_gen = 1         
+                temp_gen = 1
+                temp_fm = "Hey boy, "         
             temp_no = temp_no + 1
         if data0['conversation.conversation.sender'][i] == "response":
             if data0['conversation.conversation.text'][i] != "text":
@@ -36,7 +39,7 @@ def allure_prep(input_path, dest, count):
             if data0['conversation.conversation.text'][i] != "text":
                 user_gender.append(temp_gen)
                 UB.append(1)
-                text.append(data0['conversation.conversation.text'][i])
+                text.append(temp_fm + data0['conversation.conversation.text'][i])
                 c_num.append(temp_no)
                 
                 
@@ -56,3 +59,14 @@ for i in range(0,3):
     ct = allure_prep('../../data/real-world/allure/converted/study{}.csv'.format(i), '../../data/real-world/allure/final/study{}.csv'.format(i), ct)
 
 
+data_final = pd.read_csv('../../data/real-world/allure/final/final.csv')
+
+texts = []
+for each in data_final['Text']:
+    texts.append(str(each))
+data_final['Text'] = texts
+
+compared = data_final.groupby((data_final['UB'] != data_final['UB'].shift()).cumsum())
+combined = compared.agg({'C_num': 'first', 'UB': 'first', 'User_gender': 'first', 'Text': ' '.join}).reset_index(drop=True)
+
+combined.to_csv('../../data/real-world/allure/final/final_expt.csv', index=False)

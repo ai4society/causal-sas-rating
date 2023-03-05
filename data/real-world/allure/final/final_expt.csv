@@ -1,0 +1,1087 @@
+C_num,UB,User_gender,Text
+1,0,0,"Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves?"
+1,1,0,Level 1
+1,0,0,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+1,1,0,Solve
+1,0,0,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+1,1,0,Level 2
+1,0,0,"Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+1,1,0,solve
+1,0,0,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+1,1,0,Level 3
+1,0,0,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: l After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+1,1,0,solve
+1,0,0,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+1,1,0,level 4
+1,0,0,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: r	u	'	r	'	u Click solve whenever you are ready"
+1,1,0,solvw
+1,0,0,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+1,1,0,level 5 
+1,0,0,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Click solve whenever you are ready"
+1,1,0,solve
+1,0,0,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+1,1,0,Level 6
+1,0,0,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u Click solve whenever you are ready"
+1,1,0,Solve
+1,0,0,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+1,1,0,Level 7
+1,0,0,"Level: 7 For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Click solve whenever you are ready"
+1,1,0,Solve
+1,0,0,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+1,1,0,level 8
+1,0,0,"Level: 8 When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	r	f	'	r	' Click solve whenever you are ready"
+1,1,0,Solve
+1,0,0,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+1,1,0,level 9
+1,0,0,"Level: 9 On our final level, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+1,1,0,Solve
+1,0,0,"Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one: Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves?"
+2,1,1,"Hey boy, Yes"
+2,0,1,"Let's talk about the white cross!  First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces.  We can see an example of the white cross below. nan Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+2,1,1,"Hey boy, Continue"
+2,0,1,"We've broken the moves you need to know into different levels which will gradually increase in complexity.  In each level, I'll guide you through finding the white-green edge piece and how you can move it to put it in place.  To see the move performed on the virtual cube, just type in 'Solve'. Awesome! Go ahead and pick a level to start learning:"
+2,1,1,"Hey boy, Level 1 Hey boy, Level ` Hey boy, Level 1"
+2,0,1,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+2,1,1,"Hey boy, Solve"
+2,0,1,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+2,1,1,"Hey boy, level 2"
+2,0,1,"Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+2,1,1,"Hey boy, solve"
+2,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+2,1,1,"Hey boy, level 3"
+2,0,1,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: l After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+2,1,1,"Hey boy, solve"
+2,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+2,1,1,"Hey boy, level 4"
+2,0,1,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: l	'	u	l	u	' Click solve whenever you are ready"
+2,1,1,"Hey boy, solve"
+2,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+2,1,1,"Hey boy, level 5"
+2,0,1,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Click solve whenever you are ready"
+2,1,1,"Hey boy, Solve"
+2,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+2,1,1,"Hey boy, level 6"
+2,0,1,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u Click solve whenever you are ready"
+2,1,1,"Hey boy, Solve"
+2,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+2,1,1,"Hey boy, level 6"
+2,0,1,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u Click solve whenever you are ready"
+2,1,1,"Hey boy, level 7"
+2,0,1,"Level: 7 For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Click solve whenever you are ready"
+2,1,1,"Hey boy, Solve"
+2,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+2,1,1,"Hey boy, level 8"
+2,0,1,"Level: 8 When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	r	f	'	r	' Click solve whenever you are ready"
+2,1,1,"Hey boy, solve"
+2,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+2,1,1,"Hey boy, level 9"
+2,0,1,"Level: 9 On our final level, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+2,1,1,"Hey boy, Solve"
+2,0,1,"Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one: Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves?"
+3,1,2,"Hey girl, No"
+3,0,2,Awesome! Go ahead and pick a level to start learning:
+3,1,2,"Hey girl, Level 1 Hey girl, Level 1"
+3,0,2,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+3,1,2,"Hey girl, Solve"
+3,0,2,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+3,1,2,"Hey girl, Level 1"
+3,0,2,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+3,1,2,"Hey girl, Solve"
+3,0,2,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+3,1,2,"Hey girl, Level 2"
+3,0,2,"Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+3,1,2,"Hey girl, Solve"
+3,0,2,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+3,1,2,"Hey girl, Level 3"
+3,0,2,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: r	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+3,1,2,"Hey girl, Solve"
+3,0,2,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+3,1,2,"Hey girl, Level 4"
+3,0,2,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: r	u	'	r	'	u Click solve whenever you are ready"
+3,1,2,"Hey girl, Solve"
+3,0,2,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+3,1,2,"Hey girl, Level 5"
+3,0,2,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Click solve whenever you are ready"
+3,1,2,"Hey girl, Solve"
+3,0,2,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+3,1,2,"Hey girl, Level 6"
+3,0,2,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u Click solve whenever you are ready"
+3,1,2,"Hey girl, Solve"
+3,0,2,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+3,1,2,"Hey girl, Level 7"
+3,0,2,"Level: 7 For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Click solve whenever you are ready"
+3,1,2,"Hey girl, Solve"
+3,0,2,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+3,1,2,"Hey girl, Level 8"
+3,0,2,"Level: 8 When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	l	'	f	l Click solve whenever you are ready"
+3,1,2,"Hey girl, Solve"
+3,0,2,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+3,1,2,"Hey girl, Level 9"
+3,0,2,"Level: 9 On our final level, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+3,1,2,"Hey girl, Solve"
+3,0,2,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+3,1,2,"Hey girl, Level 1 Hey girl, Level 1"
+3,0,2,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+3,1,2,"Hey girl, Solve"
+3,0,2,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+3,1,2,"Hey girl, Level 2"
+3,0,2,"Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+3,1,2,"Hey girl, Level 3"
+3,0,2,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: l After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+3,1,2,"Hey girl, Solve"
+3,0,2,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+3,1,2,"Hey girl, Level 4"
+3,0,2,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: l	'	u	l	u	' Click solve whenever you are ready"
+3,1,2,"Hey girl, Solve"
+3,0,2,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+3,1,2,"Hey girl, Level 5"
+3,0,2,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Click solve whenever you are ready"
+3,1,2,"Hey girl, Solve"
+3,0,2,"Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one: Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves?"
+4,1,1,"Hey boy, Yes"
+4,0,1,"Let's talk about the white cross!  First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces.  We can see an example of the white cross below. nan Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+4,1,1,"Hey boy, Continue"
+4,0,1,"We've broken the moves you need to know into different levels which will gradually increase in complexity.  In each level, I'll guide you through finding the white-green edge piece and how you can move it to put it in place.  To see the move performed on the virtual cube, just type in 'Solve'. Awesome! Go ahead and pick a level to start learning:"
+4,1,1,"Hey boy, Level 1 Hey boy, Level 1"
+4,0,1,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross."
+4,1,1,"Hey boy, solve"
+4,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+4,1,1,"Hey boy, Level 2 Hey boy, level 2"
+4,0,1,"Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+4,1,1,"Hey boy, solvw"
+4,0,1,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+4,1,1,"Hey boy, Level 3 Hey boy, level 3"
+4,0,1,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: r	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+4,1,1,"Hey boy, r Hey boy, solve"
+4,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+4,1,1,"Hey boy, Level 4 Hey boy, level 4"
+4,0,1,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: r	u	'	r	'	u"
+4,1,1,"Hey boy, r u"
+4,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+4,1,1,"Hey boy, Level 5 Hey boy, level 5"
+4,0,1,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	'"
+4,1,1,"Hey boy, d r f  Hey boy, solve"
+4,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+4,1,1,"Hey boy, Level 6 Hey boy, level 6"
+4,0,1,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u"
+4,1,1,"Hey boy, f u ' r u Hey boy, solve"
+4,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one: Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+4,1,1,"Hey boy, Level 7 Hey boy, level 7"
+4,0,1,"Level: 7 For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	'"
+4,1,1,"Hey boy, b u l u ' Hey boy, solve"
+4,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one: Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+4,1,1,"Hey boy, Level 8 Hey boy, level 8"
+4,0,1,"Level: 8 When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	l	'	f	l"
+4,1,1,"Hey boy, d l ' f l Hey boy, solve"
+4,0,1,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one: Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+4,1,1,"Hey boy, Level 9 Hey boy, level 9"
+4,0,1,"Level: 9 On our final level, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+4,1,1,"Hey boy, b u l l u ' Hey boy, solve"
+4,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+4,1,1,"Hey boy, Level 1 Hey boy, level 1"
+4,0,1,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross."
+4,1,1,"Hey boy, solve"
+4,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+4,1,1,"Hey boy, Level 2 Hey boy, level 2"
+4,0,1,"Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+4,1,1,"Hey boy, solve"
+4,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+4,1,1,"Hey boy, Level 3 Hey boy, level 3"
+4,0,1,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: r	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+4,1,1,"Hey boy, r Hey boy, solve"
+4,0,1,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+4,1,1,"Hey boy, Level 3 Hey boy, level 3 "
+4,0,1,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: l After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+4,1,1,"Hey boy, l Hey boy, solve"
+4,0,1,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+4,1,1,"Hey boy, Level 4 Hey boy, level 4 "
+4,0,1,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: r	u	'	r	'	u"
+4,1,1,"Hey boy, r u ' r ' u"
+4,0,1,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+4,1,1,"Hey boy, Level 4 Hey boy, level 4"
+4,0,1,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: l	'	u	l	u	'"
+4,1,1,"Hey boy, l ' u l u ' Hey boy, solve"
+4,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+4,1,1,"Hey boy, Level 5 Hey boy, level 5 "
+4,0,1,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	'"
+4,1,1,"Hey boy, d r f ' r '  Hey boy, sikve"
+4,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+4,1,1,"Hey boy, Level 1 Hey boy, level 1"
+4,0,1,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too"
+4,1,1,"Hey boy, solve"
+4,0,1,Turn the front face until the white-green edge piece completes the White Cross. Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+4,1,1,"Hey boy, level 3"
+4,0,1,Level: 3
+4,1,1,"Hey boy, solve"
+4,0,1,"For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: r	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:"
+4,1,1,"Hey boy, Level 7 Hey boy, level 7"
+4,0,1,Level: 7
+4,1,1,"Hey boy, solve"
+4,0,1,"For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:"
+4,1,1,"Hey boy, Level 1 Hey boy, level 1"
+4,0,1,Level: 1
+4,1,1,"Hey boy, solve"
+4,0,1,"In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:"
+4,1,1,"Hey boy, Level 8 Hey boy, level 8"
+4,0,1,"Level: 8 When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces"
+4,1,1,"Hey boy, solve"
+4,0,1,"Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	l	'	f	l Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:"
+4,1,1,"Hey boy, level 2  Hey boy, solve"
+4,0,1,"Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:"
+4,1,1,"Hey boy, Level 5 Hey boy, level 5 Hey boy, solve"
+4,0,1,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:"
+4,1,1,"Hey boy, Level 6 Hey boy, level 6"
+4,0,1,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u"
+4,1,1,"Hey boy, solve"
+4,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+4,1,1,"Hey boy, Level 3"
+5,0,2,"Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves?"
+5,1,2,"Hey girl, Yes"
+5,0,2,"Let's talk about the white cross!  First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces.  We can see an example of the white cross below. nan Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+5,1,2,"Hey girl, Continue"
+5,0,2,"We've broken the moves you need to know into different levels which will gradually increase in complexity.  In each level, I'll guide you through finding the white-green edge piece and how you can move it to put it in place.  To see the move performed on the virtual cube, just type in 'Solve'. Awesome! Go ahead and pick a level to start learning:"
+5,1,2,"Hey girl, Level 1 Hey girl, level1 Hey girl, level 1"
+5,0,2,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross."
+5,1,2,"Hey girl, level 2"
+5,0,2,"Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+5,1,2,"Hey girl, level 3"
+5,0,2,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: r	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 1"
+5,0,2,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross."
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 2"
+5,0,2,"Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 3"
+5,0,2,Level: 3
+5,1,2,"Hey girl, solve"
+5,0,2,"For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: l After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Watch the cube to see the moves being performed. You're learning so quickly!"
+5,1,2,"Hey girl, level 4"
+5,0,2,"Choose another level or repeat this one: Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: l	'	u	l	u	'"
+5,1,2,"Hey girl, sovle Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 5"
+5,0,2,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	'"
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 5 Hey girl, solve"
+5,0,2,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:"
+5,1,2,"Hey girl, level 6"
+5,0,2,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u"
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 6"
+5,0,2,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u"
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 6"
+5,0,2,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u"
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 7"
+5,0,2,"Level: 7 For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	'"
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 7  Hey girl, solve"
+5,0,2,"Level: 7 For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:"
+5,1,2,"Hey girl, level 8"
+5,0,2,"Level: 8 When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	l	'	f	l"
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 8 Hey girl, solve"
+5,0,2,"Level: 8 When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	r	f	'	r	' Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:"
+5,1,2,"Hey girl, level 9"
+5,0,2,"Level: 9 On our final level, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 9 Hey girl, solve"
+5,0,2,"Level: 9 On our final level, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:"
+5,1,2,"Hey girl, level 1 Hey girl, solve"
+5,0,2,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:"
+5,1,2,"Hey girl, level 2 Hey girl, solve"
+5,0,2,"Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Watch the cube to see the moves being performed."
+5,1,2,"Hey girl, level 3"
+5,0,2,You'll be able to solve a Rubik's Cube in no time!
+5,1,2,"Hey girl, solve"
+5,0,2,"Choose another level or repeat this one: Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: l After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:"
+5,1,2,"Hey girl, level 4"
+5,0,2,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: l	'	u	l	u	'"
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 3"
+5,0,2,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: r	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 3"
+5,0,2,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: l After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 5"
+5,0,2,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	'"
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 5"
+5,0,2,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	'"
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 6"
+5,0,2,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u"
+5,1,2,"Hey girl, level 7"
+5,0,2,"Level: 7 For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	'"
+5,1,2,"Hey girl, level 1"
+5,0,2,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross."
+5,1,2,"Hey girl, level 6"
+5,0,2,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face"
+5,1,2,"Hey girl, level 7"
+5,0,2,"To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u Level: 7"
+5,1,2,"Hey girl, level 8"
+5,0,2,"For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Level: 8"
+5,1,2,"Hey girl, level 9"
+5,0,2,"When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	r	f	'	r	' Level: 9 On our final level, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+5,1,2,"Hey girl, level 2"
+5,0,2,"Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+5,1,2,"Hey girl, level  Hey girl, level 1"
+5,0,2,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross."
+5,1,2,"Hey girl, level 1"
+5,0,2,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross."
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+5,1,2,"Hey girl, level4 Hey girl, level 4"
+5,0,2,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times"
+5,1,2,"Hey girl, level 3"
+5,0,2,"To pair the green stickers perform the following moves: l	'	u	l	u	' Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: l After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+5,1,2,"Hey girl, level 5"
+5,0,2,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	'"
+5,1,2,"Hey girl, level 6"
+5,0,2,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u"
+5,1,2,"Hey girl, level 7"
+5,0,2,"Level: 7 For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	'"
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 7"
+5,0,2,"Level: 7 For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	'"
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 8"
+5,0,2,"Level: 8 When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	l	'	f	l"
+5,1,2,"Hey girl, level Hey girl, level 1"
+5,0,2,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross."
+5,1,2,"Hey girl, level 4"
+5,0,2,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: r	u	'	r	'	u"
+5,1,2,"Hey girl, solve"
+5,0,2,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+5,1,2,"Hey girl, level 5"
+5,0,2,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	'"
+5,1,2,"Hey girl, level 7"
+5,0,2,"Level: 7 For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves?"
+6,1,1,"Hey boy, Yes"
+6,0,1,"Let's talk about the white cross!  First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces.  We can see an example of the white cross below. nan Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+6,1,1,"Hey boy, Continue"
+6,0,1,"We've broken the moves you need to know into different levels which will gradually increase in complexity.  In each level, I'll guide you through finding the white-green edge piece and how you can move it to put it in place.  To see the move performed on the virtual cube, just type in 'Solve'. Awesome! Go ahead and pick a level to start learning:"
+6,1,1,"Hey boy, Level 1"
+6,0,1,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+6,1,1,"Hey boy, Solve"
+6,0,1,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+6,1,1,"Hey boy, Level 2"
+6,0,1,"Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+6,1,1,"Hey boy, Solve"
+6,0,1,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+6,1,1,"Hey boy, Level 3"
+6,0,1,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: r	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+6,1,1,"Hey boy, Solve"
+6,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+6,1,1,"Hey boy, Level 4"
+6,0,1,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: r	u	'	r	'	u Click solve whenever you are ready"
+6,1,1,"Hey boy, r"
+6,0,1,Awesome! Go ahead and pick a level to start learning:
+6,1,1,"Hey boy, level 4"
+6,0,1,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: l	'	u	l	u	' Click solve whenever you are ready"
+6,1,1,"Hey boy, Solve"
+6,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+6,1,1,"Hey boy, Level 5"
+6,0,1,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Click solve whenever you are ready"
+6,1,1,"Hey boy, Solve"
+6,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+6,1,1,"Hey boy, Level 6"
+6,0,1,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u Click solve whenever you are ready"
+6,1,1,"Hey boy, Solve"
+6,0,1,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+6,1,1,"Hey boy, Level 7"
+6,0,1,"Level: 7 For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Click solve whenever you are ready"
+6,1,1,"Hey boy, Solve"
+6,0,1,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+6,1,1,"Hey boy, level 8"
+6,0,1,"Level: 8 When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	r	f	'	r	' Click solve whenever you are ready"
+6,1,1,"Hey boy, Solve"
+6,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+6,1,1,"Hey boy, level 9"
+6,0,1,"Level: 9 On our final level, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+6,1,1,"Hey boy, Solve"
+6,0,1,"Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one: Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves?"
+7,1,2,"Hey girl, Yes"
+7,0,2,"Let's talk about the white cross!  First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces.  We can see an example of the white cross below. nan Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+7,1,2,"Hey girl, Continue"
+7,0,2,"We've broken the moves you need to know into different levels which will gradually increase in complexity.  In each level, I'll guide you through finding the white-green edge piece and how you can move it to put it in place.  To see the move performed on the virtual cube, just type in 'Solve'. Awesome! Go ahead and pick a level to start learning:"
+7,1,2,"Hey girl, Level 1 Hey girl, Level 1"
+7,0,2,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+7,1,2,"Hey girl, Solve"
+7,0,2,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+7,1,2,"Hey girl, Level 2"
+7,0,2,"Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+7,1,2,"Hey girl, Solve"
+7,0,2,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+7,1,2,"Hey girl, Level 3"
+7,0,2,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: r	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+7,1,2,"Hey girl, r '"
+7,0,2,Awesome! Go ahead and pick a level to start learning:
+7,1,2,"Hey girl, level 3"
+7,0,2,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: r	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+7,1,2,"Hey girl, Solve"
+7,0,2,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+7,1,2,"Hey girl, level 1"
+7,0,2,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+7,1,2,"Hey girl, Solve"
+7,0,2,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+7,1,2,"Hey girl, level 4"
+7,0,2,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: l	'	u	l	u	' Click solve whenever you are ready"
+7,1,2,"Hey girl, Solve"
+7,0,2,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+7,1,2,"Hey girl, level 5"
+7,0,2,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Click solve whenever you are ready"
+7,1,2,"Hey girl, Solve"
+7,0,2,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+7,1,2,"Hey girl, level 6"
+7,0,2,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u Click solve whenever you are ready"
+7,1,2,"Hey girl, Solve"
+7,0,2,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+7,1,2,"Hey girl, level 7"
+7,0,2,"Level: 7 For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Click solve whenever you are ready"
+7,1,2,"Hey girl, Solve"
+7,0,2,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+7,1,2,"Hey girl, level 8"
+7,0,2,"Level: 8 When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	l	'	f	l Click solve whenever you are ready"
+7,1,2,"Hey girl, Solve"
+7,0,2,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+7,1,2,"Hey girl, level 8"
+7,0,2,"Level: 8 When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	l	'	f	l Click solve whenever you are ready"
+7,1,2,"Hey girl, Solve"
+7,0,2,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+7,1,2,"Hey girl, level 9"
+7,0,2,"Level: 9 On our final level, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+7,1,2,"Hey girl, Solve"
+7,0,2,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+7,1,2,"Hey girl, level 9"
+7,0,2,"Level: 9 On our final level, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+7,1,2,"Hey girl, Solve"
+7,0,2,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+7,1,2,"Hey girl, level 1"
+7,0,2,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+7,1,2,"Hey girl, Solve"
+7,0,2,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+7,1,2,"Hey girl, level 7"
+7,0,2,"Level: 7 For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Click solve whenever you are ready"
+7,1,2,"Hey girl, level 6"
+7,0,2,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u Click solve whenever you are ready"
+7,1,2,"Hey girl, level 4"
+7,0,2,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: l	'	u	l	u	' Click solve whenever you are ready"
+7,1,2,"Hey girl, level 3"
+7,0,2,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: r	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+7,1,2,"Hey girl, Solve"
+7,0,2,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+7,1,2,"Hey girl, level 5"
+7,0,2,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Click solve whenever you are ready"
+7,1,2,"Hey girl, Solve"
+7,0,2,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+7,1,2,"Hey girl, level 5"
+7,0,2,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Click solve whenever you are ready"
+7,1,2,"Hey girl, solve"
+7,0,2,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+7,1,2,"Hey girl, level 2"
+7,0,2,"Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+7,1,2,"Hey girl, Solve"
+7,0,2,"Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one: Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves?"
+8,1,1,"Hey boy, Yes"
+8,0,1,"Let's talk about the white cross!  First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces.  We can see an example of the white cross below. nan Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+8,1,1,"Hey boy, Continue"
+8,0,1,"We've broken the moves you need to know into different levels which will gradually increase in complexity.  In each level, I'll guide you through finding the white-green edge piece and how you can move it to put it in place.  To see the move performed on the virtual cube, just type in 'Solve'. Awesome! Go ahead and pick a level to start learning:"
+8,1,1,"Hey boy, Level 1"
+8,0,1,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross."
+8,1,1,"Hey boy, solve"
+8,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+8,1,1,"Hey boy, lEvel 2"
+8,0,1,"Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+8,1,1,"Hey boy, solvE"
+8,0,1,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+8,1,1,"Hey boy, level 4"
+8,0,1,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: r	u	'	r	'	u"
+8,1,1,"Hey boy, solve"
+8,0,1,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+8,1,1,"Hey boy, level 3"
+8,0,1,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: r	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+8,1,1,"Hey boy, solve"
+8,0,1,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+8,1,1,"Hey boy, LEVEL 5"
+8,0,1,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	'"
+8,1,1,"Hey boy, SOLVE"
+8,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+8,1,1,"Hey boy, LEVEL 6"
+8,0,1,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u"
+8,1,1,"Hey boy, solve"
+8,0,1,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+8,1,1,"Hey boy, Level 7 Hey boy, solve"
+8,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+8,1,1,"Hey boy, Level 7 Hey boy, solve"
+8,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+8,1,1,"Hey boy, Level 6 Hey boy, solve"
+8,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+8,1,1,"Hey boy, level 7"
+8,0,1,"Level: 7 For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	'"
+8,1,1,"Hey boy, solve"
+8,0,1,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+8,1,1,"Hey boy, level 8"
+8,0,1,"Level: 8 When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	l	'	f	l"
+8,1,1,"Hey boy, solve"
+8,0,1,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+8,1,1,"Hey boy, LEVEL 9"
+8,0,1,"Level: 9 On our final level, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+8,1,1,"Hey boy, level 9"
+8,0,1,"Level: 9 On our final level, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+8,1,1,"Hey boy, solve"
+8,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+8,1,1,"Hey boy, level 1"
+8,0,1,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross."
+8,1,1,"Hey boy, solve"
+8,0,1,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+8,1,1,"Hey boy, level 1"
+8,0,1,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross."
+8,1,1,"Hey boy, level 2"
+8,0,1,"Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+8,1,1,"Hey boy, solve"
+8,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+8,1,1,"Hey boy, level 3"
+8,0,1,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: r	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+8,1,1,"Hey boy, solve"
+8,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+8,1,1,"Hey boy, level 4"
+8,0,1,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: r	u	'	r	'	u"
+8,1,1,"Hey boy, solve"
+8,0,1,"Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one: Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves?"
+9,1,1,"Hey boy, Yes"
+9,0,1,"Let's talk about the white cross!  First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces.  We can see an example of the white cross below. nan Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+9,1,1,"Hey boy, Continue"
+9,0,1,"We've broken the moves you need to know into different levels which will gradually increase in complexity.  In each level, I'll guide you through finding the white-green edge piece and how you can move it to put it in place.  To see the move performed on the virtual cube, just type in 'Solve'. Awesome! Go ahead and pick a level to start learning:"
+9,1,1,"Hey boy, Level 1 Hey boy, Level 1"
+9,0,1,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+9,1,1,"Hey boy, Solve"
+9,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+9,1,1,"Hey boy, Level 2"
+9,0,1,"Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+9,1,1,"Hey boy, Solve"
+9,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+9,1,1,"Hey boy, Level 1"
+9,0,1,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+9,1,1,"Hey boy, Solve"
+9,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+9,1,1,"Hey boy, Level 3"
+9,0,1,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: r	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+9,1,1,"Hey boy, r'"
+9,0,1,Awesome! Go ahead and pick a level to start learning:
+9,1,1,"Hey boy, Level 3 Hey boy, Level 3"
+9,0,1,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: l After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+9,1,1,"Hey boy, l Hey boy, Solve"
+9,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+9,1,1,"Hey boy, Level 9 Hey boy, Level 9"
+9,0,1,"Level: 9 On our final level, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+9,1,1,"Hey boy, Solve"
+9,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+9,1,1,"Hey boy, Level 1 Hey boy, Level 1"
+9,0,1,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+9,1,1,"Hey boy, Solve"
+9,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+9,1,1,"Hey boy, Level 2 Hey boy, Level 4"
+9,0,1,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: r	u	'	r	'	u Click solve whenever you are ready"
+9,1,1,"Hey boy, Solve"
+9,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+9,1,1,"Hey boy, Level 5"
+9,0,1,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Click solve whenever you are ready"
+9,1,1,"Hey boy, Solve"
+9,0,1,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+9,1,1,"Hey boy, Level 6"
+9,0,1,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u Click solve whenever you are ready"
+9,1,1,"Hey boy, Solve"
+9,0,1,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+9,1,1,"Hey boy, Level 7"
+9,0,1,"Level: 7 For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Click solve whenever you are ready"
+9,1,1,"Hey boy, Solve"
+9,0,1,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another level or repeat this one:
+9,1,1,"Hey boy, Level 8"
+9,0,1,"Level: 8 When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	r	f	'	r	' Click solve whenever you are ready"
+9,1,1,"Hey boy, Solve"
+9,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+9,1,1,"Hey boy, Level 3 "
+9,0,1,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: r	'"
+9,1,1,"Hey boy, cancel"
+9,0,1,"After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+9,1,1,"Hey boy, Level 4"
+9,0,1,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: r	u	'	r	'	u Click solve whenever you are ready"
+9,1,1,"Hey boy, Solve"
+9,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+9,1,1,"Hey boy, Level 5 "
+9,0,1,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross"
+9,1,1,"Hey boy, Level 6"
+9,0,1,"Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Click solve whenever you are ready Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face"
+9,1,1,"Hey boy, Level 1"
+9,0,1,"To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u Click solve whenever you are ready Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too"
+9,1,1,"Hey boy, Level 2"
+9,0,1,"Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+9,1,1,"Hey boy, Level 7"
+9,0,1,Level: 7
+9,1,1,"Hey boy, Level 8"
+9,0,1,"For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Click solve whenever you are ready Level: 8 When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	l	'	f	l Click solve whenever you are ready"
+9,1,1,"Hey boy, Level 8"
+9,0,1,"Level: 8 When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	r	f	'	r	' Click solve whenever you are ready Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves?"
+10,1,1,"Hey boy, Yes"
+10,0,1,"Let's talk about the white cross!  First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces.  We can see an example of the white cross below. nan Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+10,1,1,"Hey boy, Continue"
+10,0,1,"We've broken the moves you need to know into different levels which will gradually increase in complexity.  In each level, I'll guide you through finding the white-green edge piece and how you can move it to put it in place.  To see the move performed on the virtual cube, just type in 'Solve'. Awesome! Go ahead and pick a level to start learning:"
+10,1,1,"Hey boy, Level 1 Hey boy, Level 1"
+10,0,1,"Level: 1 In level 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross."
+10,1,1,"Hey boy, Solve"
+10,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+10,1,1,"Hey boy, Level 2 Hey boy, Level 2"
+10,0,1,"Level: 2 In level two, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+10,1,1,"Hey boy, solve"
+10,0,1,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+10,1,1,"Hey boy, Level 3 Hey boy, Level 3"
+10,0,1,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: l After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+10,1,1,"Hey boy, solve"
+10,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+10,1,1,"Hey boy, Level 4 Hey boy, Level 4"
+10,0,1,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: r	u	'	r	'	u"
+10,1,1,"Hey boy, solve "
+10,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+10,1,1,"Hey boy, Level 5 Hey boy, Level 5"
+10,0,1,"Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	'"
+10,1,1,"Hey boy, solve "
+10,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+10,1,1,"Hey boy, Level 6 Hey boy, level 6"
+10,0,1,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u"
+10,1,1,"Hey boy, solve"
+10,0,1,Watch the cube to see the moves being performed. Great job! Choose another level or repeat this one:
+10,1,1,"Hey boy, Level 7 Hey boy, level 7"
+10,0,1,"Level: 7 For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	'"
+10,1,1,"Hey boy, solve"
+10,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+10,1,1,"Hey boy, level 8"
+10,0,1,"Level: 8 When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	r	f	'	r	'"
+10,1,1,"Hey boy, solve"
+10,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another level or repeat this one:
+10,1,1,"Hey boy, Level 9 Hey boy, level 9"
+10,0,1,"Level: 9 On our final level, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+10,1,1,"Hey boy, solve"
+10,0,1,Watch the cube to see the moves being performed. Nice job! Choose another level or repeat this one:
+10,1,1,"Hey boy, level 3"
+10,0,1,"Level: 3 For level 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: l After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place."
+10,1,1,"Hey boy, level 4"
+10,0,1,"Level: 4 To complete level 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired"
+10,1,1,"Hey boy, level 5"
+10,0,1,"Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this level multiple times To pair the green stickers perform the following moves: l	'	u	l	u	' Level: 5 In level 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	'"
+10,1,1,"Hey boy, level 6"
+10,0,1,"Level: 6 In level 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u"
+10,1,1,"Hey boy, level 7"
+10,0,1,"Level: 7 For level 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	'"
+10,1,1,"Hey boy, solve"
+10,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another level or repeat this one:
+10,1,1,"Hey boy, levle8"
+10,0,1,"Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube."
+10,1,1,"Hey boy, level 8"
+10,0,1,"Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves? Level: 8 When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	r	f	'	r	'"
+10,1,1,"Hey boy, level 8 Hey boy, level 9"
+10,0,1,"Level: 8 When we're finished with level 8, the white and green stickers of the white-green edge piece will be paired with their centerpieces Right now, the green sticker is on the down face and the white sticker is on the back face There are two different ways to handle this level, so feel free to go through it multiple times To put the edge piece in place for this cube configuration, we can use the following moves: d	r	f	'	r	' Level: 9 On our final level, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in level 1 to put the white-green edge piece in place. Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves?"
+11,1,2,"Hey girl, Yes"
+11,0,2,"Let's talk about the white cross!  First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces.  We can see an example of the white cross below. nan Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+11,1,2,"Hey girl, Continue"
+11,0,2,"We've broken the moves you need to know into different scenarios which will gradually increase in complexity.  In each scenario, I'll guide you through finding the white-green edge piece and how you can move it to put it in place.  To see the move performed on the virtual cube, just type in 'Solve'. Awesome! Go ahead and pick a scenario to start learning:"
+11,1,2,"Hey girl, Scenario 1"
+11,0,2,"Scenario: 1 In scenario 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+11,1,2,"Hey girl, Solve"
+11,0,2,Watch the cube to see the moves being performed. Nice job! Choose another scenario or repeat this one:
+11,1,2,"Hey girl, Scenario 2"
+11,0,2,"Scenario: 2 In scenario 2, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+11,1,2,"Hey girl, Solve"
+11,0,2,Watch the cube to see the moves being performed. You're doing awesome! Choose another scenario or repeat this one:
+11,1,2,"Hey girl, Scenario 3"
+11,0,2,"Scenario: 3 For scenario 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: l After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+11,1,2,"Hey girl, Solve"
+11,0,2,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+11,1,2,"Hey girl, Scenario 4"
+11,0,2,"Scenario: 4 To complete scenario 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this scenario multiple times To pair the green stickers perform the following moves: r	u	'	r	'	u Click solve whenever you are ready"
+11,1,2,"Hey girl, Solve"
+11,0,2,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+11,1,2,"Hey girl, Scenario 5"
+11,0,2,"Scenario: 5 In scenario 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Click solve whenever you are ready"
+11,1,2,"Hey girl, Solve"
+11,0,2,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+11,1,2,"Hey girl, Scenario 6"
+11,0,2,"Scenario: 6 In scenario 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u Click solve whenever you are ready"
+11,1,2,"Hey girl, Solve"
+11,0,2,Watch the cube to see the moves being performed. Nice job! Choose another scenario or repeat this one:
+11,1,2,"Hey girl, Scenario 7"
+11,0,2,"Scenario: 7 For scenario 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Click solve whenever you are ready"
+11,1,2,"Hey girl, Solve"
+11,0,2,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another scenario or repeat this one:
+11,1,2,"Hey girl, Scenario 8"
+11,0,2,"Scenario: 8 Scenario 8 is an extension of Scenario 5 Right now, the green sticker is on the down face and the white sticker is on the back face To align this configuration with Scenario 5, we can use the following moves: d	'	d	' After you have performed these moves, you can use the skills you learned in Scenario 5 to put the white-green edge piece in place. Click solve whenever you are ready"
+11,1,2,"Hey girl, Solve"
+11,0,2,Watch the cube to see the moves being performed. Nice job! Choose another scenario or repeat this one:
+11,1,2,"Hey girl, Scenario 9"
+11,0,2,"Scenario: 9 On our final scenario, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+11,1,2,"Hey girl, Solve"
+11,0,2,Watch the cube to see the moves being performed. Nice job! Choose another scenario or repeat this one:
+11,1,2,"Hey girl, Exit"
+11,0,2,Are you ready to solve the white-cross on your own?
+11,1,2,"Hey girl, Yes"
+11,0,2,"The goal is to reach the white-cross from the given configuration.Below is one example. If you're stuck at any point just let me know. All the best! nan Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves?"
+12,1,2,"Hey girl, Yes"
+12,0,2,"Let's talk about the white cross!  First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces.  We can see an example of the white cross below. nan Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+12,1,2,"Hey girl, Continue"
+12,0,2,"We've broken the moves you need to know into different scenarios which will gradually increase in complexity.  In each scenario, I'll guide you through finding the white-green edge piece and how you can move it to put it in place.  To see the move performed on the virtual cube, just type in 'Solve'. Awesome! Go ahead and pick a scenario to start learning:"
+12,1,2,"Hey girl, Solve"
+12,0,2,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+12,1,2,"Hey girl, Scenario 1"
+12,0,2,"Scenario: 1 In scenario 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+12,1,2,"Hey girl, Solve"
+12,0,2,Watch the cube to see the moves being performed. Great job! Choose another scenario or repeat this one:
+12,1,2,"Hey girl, Scenario 2"
+12,0,2,"Scenario: 2 In scenario 2, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+12,1,2,"Hey girl, Solve"
+12,0,2,Watch the cube to see the moves being performed. You're doing awesome! Choose another scenario or repeat this one:
+12,1,2,"Hey girl, Scenario 3"
+12,0,2,"Scenario: 3 For scenario 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: r	' After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+12,1,2,"Hey girl, Solve"
+12,0,2,Watch the cube to see the moves being performed. Great job! Choose another scenario or repeat this one:
+12,1,2,"Hey girl, Scenario 4"
+12,0,2,"Scenario: 4 To complete scenario 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this scenario multiple times To pair the green stickers perform the following moves: l	'	u	l	u	' Click solve whenever you are ready"
+12,1,2,"Hey girl, Solve"
+12,0,2,Watch the cube to see the moves being performed. You're doing awesome! Choose another scenario or repeat this one:
+12,1,2,"Hey girl, Scenario 5"
+12,0,2,"Scenario: 5 In scenario 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Click solve whenever you are ready"
+12,1,2,"Hey girl, Solve"
+12,0,2,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another scenario or repeat this one:
+12,1,2,"Hey girl, Scenario 6"
+12,0,2,"Scenario: 6 In scenario 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u Click solve whenever you are ready"
+12,1,2,"Hey girl, Solve"
+12,0,2,Watch the cube to see the moves being performed. Great job! Choose another scenario or repeat this one:
+12,1,2,"Hey girl, Scenario 7"
+12,0,2,"Scenario: 7 For scenario 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Click solve whenever you are ready"
+12,1,2,"Hey girl, Solve"
+12,0,2,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+12,1,2,"Hey girl, Scenario 8"
+12,0,2,"Scenario: 8 Scenario 8 is an extension of Scenario 5 Right now, the green sticker is on the down face and the white sticker is on the back face To align this configuration with Scenario 5, we can use the following moves: d	'	d	' After you have performed these moves, you can use the skills you learned in Scenario 5 to put the white-green edge piece in place. Click solve whenever you are ready"
+12,1,2,"Hey girl, Solve"
+12,0,2,Watch the cube to see the moves being performed. You're doing awesome! Choose another scenario or repeat this one:
+12,1,2,"Hey girl, Scenario 9"
+12,0,2,"Scenario: 9 On our final scenario, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+12,1,2,"Hey girl, Solve"
+12,0,2,Watch the cube to see the moves being performed. Great job! Choose another scenario or repeat this one:
+12,1,2,"Hey girl, Exit"
+12,0,2,Are you ready to solve the white-cross on your own?
+12,1,2,"Hey girl, Yes"
+12,0,2,The goal is to reach the white-cross from the given configuration.Below is one example. If you're stuck at any point just let me know. All the best! nan
+12,1,2,"Hey girl, I'm stuck"
+12,0,2,Are you stuck?
+12,1,2,"Hey girl, Yes"
+12,0,2,The goal is to reach the white-cross from the given configuration.Below is one example. If you're stuck at any point just let me know. All the best! nan
+12,1,2,"Hey girl, I'm stuck"
+12,0,2,Are you stuck?
+12,1,2,"Hey girl, Yes"
+12,0,2,"The goal is to reach the white-cross from the given configuration.Below is one example. If you're stuck at any point just let me know. All the best! nan Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves?"
+13,1,2,"Hey girl, scenario 1"
+13,0,2,"Scenario: 1 In scenario 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+13,1,2,"Hey girl, Solve"
+13,0,2,Watch the cube to see the moves being performed. You're doing awesome! Choose another scenario or repeat this one:
+13,1,2,"Hey girl, Scenario 2"
+13,0,2,"Scenario: 2 In scenario 2, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+13,1,2,"Hey girl, Solve"
+13,0,2,Watch the cube to see the moves being performed. Nice job! Choose another scenario or repeat this one:
+13,1,2,"Hey girl, Scenario 3"
+13,0,2,"Scenario: 3 For scenario 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: r	' After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+13,1,2,"Hey girl, Solve"
+13,0,2,Watch the cube to see the moves being performed. Nice job! Choose another scenario or repeat this one:
+13,1,2,"Hey girl, Scenario 4"
+13,0,2,"Scenario: 4 To complete scenario 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this scenario multiple times To pair the green stickers perform the following moves: r	u	'	r	'	u Click solve whenever you are ready"
+13,1,2,"Hey girl, Solve"
+13,0,2,Watch the cube to see the moves being performed. Great job! Choose another scenario or repeat this one:
+13,1,2,"Hey girl, Scenario 5"
+13,0,2,"Scenario: 5 In scenario 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Click solve whenever you are ready"
+13,1,2,"Hey girl, Solve"
+13,0,2,Watch the cube to see the moves being performed. You're doing awesome! Choose another scenario or repeat this one:
+13,1,2,"Hey girl, Scenario 6"
+13,0,2,"Scenario: 6 In scenario 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u Click solve whenever you are ready"
+13,1,2,"Hey girl, Solve"
+13,0,2,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+13,1,2,"Hey girl, Scenario 7"
+13,0,2,"Scenario: 7 For scenario 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Click solve whenever you are ready"
+13,1,2,"Hey girl, Solve"
+13,0,2,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another scenario or repeat this one:
+13,1,2,"Hey girl, Scenario 8"
+13,0,2,"Scenario: 8 Scenario 8 is an extension of Scenario 5 Right now, the green sticker is on the down face and the white sticker is on the back face To align this configuration with Scenario 5, we can use the following moves: d	'	d	' After you have performed these moves, you can use the skills you learned in Scenario 5 to put the white-green edge piece in place. Click solve whenever you are ready"
+13,1,2,"Hey girl, Solve"
+13,0,2,Watch the cube to see the moves being performed. You're doing awesome! Choose another scenario or repeat this one:
+13,1,2,"Hey girl, Scenario 9"
+13,0,2,"Scenario: 9 On our final scenario, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+13,1,2,"Hey girl, Solve"
+13,0,2,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+13,1,2,"Hey girl, Exit"
+13,0,2,Are you ready to solve the white-cross on your own?
+13,1,2,"Hey girl, Yes"
+13,0,2,"The goal is to reach the white-cross from the given configuration.Below is one example. If you're stuck at any point just let me know. All the best! nan Congratulations on completing the Allure user task.  Please fill out a short survey to help us improve! https://docs.google.com/forms/d/e/1FAIpQLSc9KTG7RYb850pC6xA3NqzfWNJloRic4gesVRXBUlFGAb8UNA/viewform?usp=sharing Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves?"
+14,1,2,"Hey girl, Yes"
+14,0,2,"Let's talk about the white cross!  First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces.  We can see an example of the white cross below. nan Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+14,1,2,"Hey girl, Continue"
+14,0,2,"We've broken the moves you need to know into different scenarios which will gradually increase in complexity.  In each scenario, I'll guide you through finding the white-green edge piece and how you can move it to put it in place.  To see the move performed on the virtual cube, just type in 'Solve'. Awesome! Go ahead and pick a scenario to start learning:"
+14,1,2,"Hey girl, Scenario 1 Hey girl, solve Hey girl, solve"
+14,0,2,You're doing awesome! Choose another scenario or repeat this one:
+14,1,2,"Hey girl, Scenario 2"
+14,0,2,Great job! Choose another scenario or repeat this one:
+14,1,2,"Hey girl, Scenario 2"
+15,0,2,"Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves?"
+15,1,2,"Hey girl, Yes"
+15,0,2,"Let's talk about the white cross!  First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces.  We can see an example of the white cross below. nan Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+15,1,2,"Hey girl, Continue"
+15,0,2,"We've broken the moves you need to know into different scenarios which will gradually increase in complexity.  In each scenario, I'll guide you through finding the white-green edge piece and how you can move it to put it in place.  To see the move performed on the virtual cube, just type in 'Solve'. Awesome! Go ahead and pick a scenario to start learning:"
+15,1,2,"Hey girl, Scenario 1"
+15,0,2,"Scenario: 1 In scenario 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed. Great job! Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 2"
+15,0,2,"Scenario: 2 In scenario 2, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed. Great job! Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 3"
+15,0,2,"Scenario: 3 For scenario 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: r	' After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed. Great job! Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 4"
+15,0,2,"Scenario: 4 To complete scenario 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this scenario multiple times To pair the green stickers perform the following moves: r	u	'	r	'	u Click solve whenever you are ready"
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 4"
+15,0,2,"Scenario: 4 To complete scenario 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this scenario multiple times To pair the green stickers perform the following moves: r	u	'	r	'	u Click solve whenever you are ready"
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 5"
+15,0,2,"Scenario: 5 In scenario 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Click solve whenever you are ready"
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed. Nice job! Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 6"
+15,0,2,"Scenario: 6 In scenario 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u Click solve whenever you are ready"
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed. You're doing awesome! Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 7"
+15,0,2,"Scenario: 7 For scenario 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Click solve whenever you are ready"
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed. Great job! Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 8"
+15,0,2,"Scenario: 8 Scenario 8 is an extension of Scenario 5 Right now, the green sticker is on the down face and the white sticker is on the back face To align this configuration with Scenario 5, we can use the following moves: d	'	d	' After you have performed these moves, you can use the skills you learned in Scenario 5 to put the white-green edge piece in place. Click solve whenever you are ready"
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed. Nice job! Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 8"
+15,0,2,"Scenario: 8 Scenario 8 is an extension of Scenario 5 Right now, the green sticker is on the down face and the white sticker is on the back face To align this configuration with Scenario 5, we can use the following moves: d	'	d	' After you have performed these moves, you can use the skills you learned in Scenario 5 to put the white-green edge piece in place. Click solve whenever you are ready"
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed. Great job! Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 8"
+15,0,2,"Scenario: 8 Scenario 8 is an extension of Scenario 5 Right now, the green sticker is on the down face and the white sticker is on the back face To align this configuration with Scenario 5, we can use the following moves: d	'	d	' After you have performed these moves, you can use the skills you learned in Scenario 5 to put the white-green edge piece in place. Click solve whenever you are ready"
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 9"
+15,0,2,"Scenario: 9 On our final scenario, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed. Nice job! Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 4"
+15,0,2,"Scenario: 4 To complete scenario 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this scenario multiple times To pair the green stickers perform the following moves: r	u	'	r	'	u Click solve whenever you are ready Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves?"
+16,1,1,"Hey boy, Yes"
+16,0,1,"Let's talk about the white cross!  First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces.  We can see an example of the white cross below. nan Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+16,1,1,"Hey boy, Continue"
+16,0,1,"We've broken the moves you need to know into different scenarios which will gradually increase in complexity.  In each scenario, I'll guide you through finding the white-green edge piece and how you can move it to put it in place.  To see the move performed on the virtual cube, just type in 'Solve'. Awesome! Go ahead and pick a scenario to start learning:"
+16,1,1,"Hey boy, Scenario 1"
+16,0,1,"Scenario: 1 In scenario 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+16,1,1,"Hey boy, Solve"
+16,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+16,1,1,"Hey boy, Scenario 2"
+16,0,1,"Scenario: 2 In scenario 2, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+16,1,1,"Hey boy, Solve"
+16,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+16,1,1,"Hey boy, Scenario 3"
+16,0,1,"Scenario: 3 For scenario 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: l After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+16,1,1,"Hey boy, Solve"
+16,0,1,Watch the cube to see the moves being performed. Great job! Choose another scenario or repeat this one:
+16,1,1,"Hey boy, Scenario 4"
+16,0,1,"Scenario: 4 To complete scenario 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this scenario multiple times To pair the green stickers perform the following moves: r	u	'	r	'	u Click solve whenever you are ready"
+16,1,1,"Hey boy, Solve"
+16,0,1,Watch the cube to see the moves being performed. Nice job! Choose another scenario or repeat this one:
+16,1,1,"Hey boy, Scenario 5"
+16,0,1,"Scenario: 5 In scenario 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Click solve whenever you are ready"
+16,1,1,"Hey boy, Solve"
+16,0,1,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another scenario or repeat this one:
+16,1,1,"Hey boy, Scenario 6"
+16,0,1,"Scenario: 6 In scenario 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u Click solve whenever you are ready"
+16,1,1,"Hey boy, Solve"
+16,0,1,Watch the cube to see the moves being performed. Nice job! Choose another scenario or repeat this one:
+16,1,1,"Hey boy, Scenario 7"
+16,0,1,"Scenario: 7 For scenario 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Click solve whenever you are ready"
+16,1,1,"Hey boy, Solve"
+16,0,1,Watch the cube to see the moves being performed. Nice job! Choose another scenario or repeat this one:
+16,1,1,"Hey boy, Scenario 8"
+16,0,1,"Scenario: 8 Scenario 8 is an extension of Scenario 5 Right now, the green sticker is on the down face and the white sticker is on the back face To align this configuration with Scenario 5, we can use the following moves: d	'	d	' After you have performed these moves, you can use the skills you learned in Scenario 5 to put the white-green edge piece in place. Click solve whenever you are ready"
+16,1,1,"Hey boy, Solve"
+16,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another scenario or repeat this one:
+16,1,1,"Hey boy, Scenario 9"
+16,0,1,"Scenario: 9 On our final scenario, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+16,1,1,"Hey boy, Solve"
+16,0,1,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another scenario or repeat this one:
+16,1,1,"Hey boy, Exit"
+16,0,1,Are you ready to solve the white-cross on your own?
+16,1,1,"Hey boy, Yes"
+16,0,1,The goal is to reach the white-cross from the given configuration.Below is one example. If you're stuck at any point just let me know. All the best! nan
+16,1,1,"Hey boy, im stuck"
+16,0,1,Are you stuck?
+16,1,1,"Hey boy, Yes"
+16,0,1,Awesome! Go ahead and pick a scenario to start learning:
+16,1,1,"Hey boy, Scenario 1 Hey boy, stuck Hey boy, im stuck"
+16,0,1,Are you stuck? Are you stuck?
+16,1,1,"Hey boy, Yes"
+16,0,1,Awesome! Go ahead and pick a scenario to start learning:
+16,1,1,"Hey boy, Scenario 1 Hey boy, ally Hey boy, plz"
+16,0,1,Awesome! Go ahead and pick a scenario to start learning: Awesome! Go ahead and pick a scenario to start learning:
+16,1,1,"Hey boy, Scenario 8 Hey boy, im stuck"
+16,0,1,Are you stuck?
+16,1,1,"Hey boy, Yes"
+16,0,1,Awesome! Go ahead and pick a scenario to start learning:
+16,1,1,"Hey boy, Scenario 2"
+17,0,1,"Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves?"
+17,1,1,"Hey boy, Yes"
+17,0,1,"Let's talk about the white cross!  First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces.  We can see an example of the white cross below. nan Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+17,1,1,"Hey boy, Continue"
+17,0,1,"We've broken the moves you need to know into different scenarios which will gradually increase in complexity.  In each scenario, I'll guide you through finding the white-green edge piece and how you can move it to put it in place.  To see the move performed on the virtual cube, just type in 'Solve'. Awesome! Go ahead and pick a scenario to start learning:"
+17,1,1,"Hey boy, Scenario 1"
+17,0,1,"Scenario: 1 In scenario 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed. Nice job! Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Scenario 2"
+17,0,1,"Scenario: 2 In scenario 2, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Scenario 3"
+17,0,1,"Scenario: 3 For scenario 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: r	' After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed. Nice job! Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Scenario 4"
+17,0,1,"Scenario: 4 To complete scenario 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this scenario multiple times To pair the green stickers perform the following moves: r	u	'	r	'	u Click solve whenever you are ready"
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed. Great job! Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Scenario 4"
+17,0,1,"Scenario: 4 To complete scenario 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this scenario multiple times To pair the green stickers perform the following moves: l	'	u	l	u	' Click solve whenever you are ready"
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed. You're doing awesome! Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Scenario 5"
+17,0,1,"Scenario: 5 In scenario 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Click solve whenever you are ready"
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Scenario 6"
+17,0,1,"Scenario: 6 In scenario 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u Click solve whenever you are ready"
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Scenario 7"
+17,0,1,"Scenario: 7 For scenario 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Click solve whenever you are ready"
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Scenario 8"
+17,0,1,"Scenario: 8 Scenario 8 is an extension of Scenario 5 Right now, the green sticker is on the down face and the white sticker is on the back face To align this configuration with Scenario 5, we can use the following moves: d	'	d	' After you have performed these moves, you can use the skills you learned in Scenario 5 to put the white-green edge piece in place. Click solve whenever you are ready"
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Scenario 9"
+17,0,1,"Scenario: 9 On our final scenario, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Exit"
+17,0,1,Are you ready to solve the white-cross on your own?
+17,1,1,"Hey boy, Yes"
+17,0,1,The goal is to reach the white-cross from the given configuration.Below is one example. If you're stuck at any point just let me know. All the best! nan
+17,1,1,"Hey boy, Hello Hey boy, Help"
+17,0,1,"Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves? Are you stuck?"
+17,1,1,"Hey boy, Yes"
+17,0,1,Awesome! Go ahead and pick a scenario to start learning:
+17,1,1,"Hey boy, Exit"
+17,0,1,Are you ready to solve the white-cross on your own?
+17,1,1,"Hey boy, Yes"
+17,0,1,"The goal is to reach the white-cross from the given configuration.Below is one example. If you're stuck at any point just let me know. All the best! nan Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube. Today we'll learn the different moves you need to know to solve the white cross.  Would you like to hear more about the white cross and how we will learn the moves?"
+18,1,1,"Hey boy, Yes"
+18,0,1,"Let's talk about the white cross!  First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces.  We can see an example of the white cross below. nan Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+18,1,1,"Hey boy, Continue"
+18,0,1,"We've broken the moves you need to know into different scenarios which will gradually increase in complexity.  In each scenario, I'll guide you through finding the white-green edge piece and how you can move it to put it in place.  To see the move performed on the virtual cube, just type in 'Solve'. Awesome! Go ahead and pick a scenario to start learning:"
+18,1,1,"Hey boy, Scenario 1"
+18,0,1,"Scenario: 1 In scenario 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too Turn the front face until the white-green edge piece completes the White Cross. Click solve whenever you are ready"
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Scenario 2"
+18,0,1,"Scenario: 2 In scenario 2, we want the green sticker of the white-green edge to pair with the green centerpiece Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match. After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Scenario 3"
+18,0,1,"Scenario: 3 For scenario 3, we want the green sticker of the white-green edge to pair with the green centerpiece The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face To pair the green stickers perform: l After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Scenario 4"
+18,0,1,"Scenario: 4 To complete scenario 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this scenario multiple times To pair the green stickers perform the following moves: l	'	u	l	u	' Click solve whenever you are ready"
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed. Nice job! Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Scenario 5"
+18,0,1,"Scenario: 5 In scenario 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Click solve whenever you are ready"
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Scenario 6"
+18,0,1,"Scenario: 6 In scenario 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u Click solve whenever you are ready"
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed. Great job! Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Scenario 7"
+18,0,1,"Scenario: 7 For scenario 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	' Click solve whenever you are ready"
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Scenario 8"
+18,0,1,"Scenario: 8 Scenario 8 is an extension of Scenario 5 Right now, the green sticker is on the down face and the white sticker is on the back face To align this configuration with Scenario 5, we can use the following moves: d	'	d	' After you have performed these moves, you can use the skills you learned in Scenario 5 to put the white-green edge piece in place. Click solve whenever you are ready"
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Scenario 5"
+18,0,1,"Scenario: 5 In scenario 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross Right now, the green sticker is on the down face and the white piece is on the front face The following moves will teach you how to get the edge piece into place: d	r	f	'	r	' Click solve whenever you are ready"
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed. You're learning so quickly! Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Scenario 9"
+18,0,1,"Scenario: 9 On our final scenario, we will pair the green sticker of the white-green edge with the green centerpiece Currently, the green sticker is on the back face and the white sticker is on the up face We will put the edge in place by completing these moves: b	u	l	l	u	' After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place. Click solve whenever you are ready"
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed. You'll be able to solve a Rubik's Cube in no time! Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Exit"
+18,0,1,Are you ready to solve the white-cross on your own?
+18,1,1,"Hey boy, Yes"
+18,0,1,The goal is to reach the white-cross from the given configuration.Below is one example. If you're stuck at any point just let me know. All the best! nan
+18,1,1,"Hey boy, Help"
+18,0,1,Are you stuck?
+18,1,1,"Hey boy, Yes"
+18,0,1,The goal is to reach the white-cross from the given configuration.Below is one example. If you're stuck at any point just let me know. All the best! nan
+18,1,1,"Hey boy, I'm stuck"
+18,0,1,Are you stuck?
+18,1,1,"Hey boy, Yes"
+18,0,1,Awesome! Go ahead and pick a scenario to start learning:
+18,1,1,"Hey boy, Scenario 1 Hey boy, Scenario 1 Hey boy, I'm stuck"
+18,0,1,Are you stuck?
+18,1,1,"Hey boy, Yes"
+18,0,1,Awesome! Go ahead and pick a scenario to start learning:
+18,1,1,"Hey boy, Scenario 1 Hey boy, Scenario 2 Hey boy, Scenario  Hey boy, Helpo Hey boy, I'm stuck"
+18,0,1,Awesome! Go ahead and pick a scenario to start learning: Are you stuck?
+18,1,1,"Hey boy, Yes"
+18,0,1,Awesome! Go ahead and pick a scenario to start learning:
+18,1,1,"Hey boy, Scenario 4"
