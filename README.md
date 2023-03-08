@@ -21,8 +21,9 @@ Step-1 (Pre-processed real-world datasets): We have 2 datasets: ALLURE chatbot c
 (b) Unibot dataset is in 'data/real-world/unibot/final'. The file 'final.csv' has multiple consecutive utterances of the chatbot in multiple lines but 'final_expt.csv' file has multiple consecutive utterances of the chatbot in the same line (again, this is much better for experiments). 
 
 
-Step-2 (Sentiment Analysis): In 'code/', run 'eval_data.py' files to get the results from each of the SASs for different both datasets: ALLURE and Unibot.
+Step-2 (Sentiment Analysis): In 'code/', run 'eval_data.py' files to get the results from each of the SASs for both the datasets: ALLURE and Unibot.
 
-
-Step-3 (Rating of SASs): In 'code/rating/', run the rating.py file to get the fine-grained and overall ratings for each of the SASs based on the real-world data.
+Step - 3: (optional) In 'code/rating/', run 't_test_data.py' to get the t-test values and it also tells whether the null hypothesis is accepted or rejected in each case. These results can be found in 'code/rating/calc_results/real-world/' after running the file.
+  
+Step-4 (Rating of SASs): In 'code/rating/', run the rating.py file to get the fine-grained and overall ratings for each of the SASs based on the real-world data. 
   
