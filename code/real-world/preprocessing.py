@@ -176,34 +176,48 @@ for u in UB:
     
 
 response1 = []
+ori = []
+addn = []
 gender = []
 
 for u,r,c in zip(UB1,response,count):
     if c in range(1,12):
         if u == 1:
             response1.append("Hey, " + str(r))
+            ori.append(str(r))
+            addn.append("Hey, ")
             gender.append(0)
         else:
             response1.append(str(r))
+            ori.append(str(r))
+            addn.append("No enhancement")
             gender.append(0)
     elif c in range(12,22):
         if u == 1:
             response1.append("Hey boy, " + str(r))
+            ori.append(str(r))
+            addn.append("Hey boy, ")
             gender.append(1)
         else:
             response1.append(str(r))
+            ori.append(str(r))
             gender.append(1)
+            addn.append("No enhancement")
     elif c in range(22,32):
         if u == 1:
             response1.append("Hey girl, " + str(r))
+            ori.append(str(r))
+            addn.append("Hey girl, ")
             gender.append(2)
         else:
             response1.append(str(r))
+            ori.append(str(r))
+            addn.append("No enhancement")
             gender.append(2)
  
  
  
-df = pd.DataFrame({'C_num': count, 'UB': UB1, 'User_gender': gender, 'Text': response1})
+df = pd.DataFrame({'C_num': count, 'UB': UB1, 'User_gender': gender, 'Original': ori, 'Enhancement': addn, 'Text': response1})
 df.to_csv('../../data/real-world/unibot/final/final.csv', index=None) 
 
 # Access the combined dataset and merge all the consecutive utterances from the same user or chatbot into one single utterance for the ease of experimenting.
@@ -216,7 +230,7 @@ for each in data_final['Text']:
 data_final['Text'] = texts
 
 compared = data_final.groupby((data_final['UB'] != data_final['UB'].shift()).cumsum())
-combined = compared.agg({'C_num': 'first', 'UB': 'first', 'User_gender': 'first', 'Text': ' '.join}).reset_index(drop=True)
+combined = compared.agg({'C_num': 'first', 'UB': 'first', 'User_gender': 'first', 'Original': 'first', 'Enhancement': 'first', 'Text': ' '.join}).reset_index(drop=True)
 
 combined.to_csv('../../data/real-world/unibot/final/final_expt.csv', index=False)
 print("The final preprocessed dataset can be found here: \n")
