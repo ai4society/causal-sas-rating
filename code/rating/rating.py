@@ -216,8 +216,10 @@ def weighted_rejection_score(D, A, W, P):
 			# print("Weight:", w)
 			for d_o in D:
 				with open(d_o, 'r') as f:
+					# print(d_o)
 					d = pd.read_csv(d_o)
 					d = d[d['UB'] == 0]
+					# print(d)
 					d1 = d['Sentiment'][d['User_gender'] == 0]
 					d2 = d['Sentiment'][d['User_gender'] == 1]
 					t, dof, p = t_test(d1,d2)
@@ -287,12 +289,21 @@ def weighted_rejection_score(D, A, W, P):
 # Creating a partial order using the weighted rejection score.
 def create_partial_order(S,D,A,W,P):
 	KV = {}
-	for s,i in zip(S,range(0,25,5)):
-		D_t = D[i:i+5]
-		# print("SAS: ", s)
-		# print(D_t)
-		psi = weighted_rejection_score(D_t,A,W,P)
-		KV[s] = psi
+	if P == "data_user" or P == "data_bot":
+		for s,d in zip(S,D):
+			# print(d)
+			D_t = d
+			psi = weighted_rejection_score(D_t,A,W,P)
+			KV[s] = psi
+	else: 
+		for s,i in zip(S,range(0,25,5)):
+			D_t = D[i:i+5]
+			# print(D)
+			# print("SAS: ", s)
+			# print(D_t)
+			psi = weighted_rejection_score(D_t,A,W,P)
+			# print(psi)
+			KV[s] = psi
 	# Source: Following line is taken from 'https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value'
 	PO = dict(sorted(KV.items(), key=lambda item: item[1]))
 	print(PO)
@@ -342,10 +353,11 @@ D = []
 # Group-1
 path = "../../data/results/group1/"
 
-for folder in os.listdir("../../data/results/group1/"):
-	for file in os.listdir(path + folder):
-		S.append(folder)
-		D.append(os.path.join(path+folder+"/"+file))
+for folder in os.listdir(path):
+	if not folder.startswith('.'):
+		for file in os.listdir(path + folder):
+			S.append(folder)
+			D.append(os.path.join(path+folder+"/"+file))
 
 S = sorted(list(set(S)))
 
@@ -359,10 +371,11 @@ S = []
 D = []
 path = "../../data/results/group3/"
 
-for folder in os.listdir("../../data/results/group3/"):
-	for file in os.listdir(path + folder):
-		S.append(folder)
-		D.append(os.path.join(path+folder+"/"+file))
+for folder in os.listdir(path):
+	if not folder.startswith('.'):
+		for file in os.listdir(path + folder):
+			S.append(folder)
+			D.append(os.path.join(path+folder+"/"+file))
 
 S = sorted(list(set(S)))
 
@@ -381,10 +394,11 @@ S = []
 D = []
 path = "../../data/results/group3_combined/"
 
-for folder in os.listdir("../../data/results/group3_combined/"):
-	for file in os.listdir(path + folder):
-		S.append(folder)
-		D.append(os.path.join(path+folder+"/"+file))
+for folder in os.listdir(path):
+	if not folder.startswith('.'):
+		for file in os.listdir(path + folder):
+			S.append(folder)
+			D.append(os.path.join(path+folder+"/"+file))
 
 S = sorted(list(set(S)))
 
@@ -408,10 +422,11 @@ print("RESULTS FOR CONTINUOUS SENTIMENT VALUES: \n")
 # Group-1
 path = "../../data/results/continuous/group1/"
 
-for folder in os.listdir("../../data/results/continuous/group1/"):
-	for file in os.listdir(path + folder):
-		S.append(folder)
-		D.append(os.path.join(path+folder+"/"+file))
+for folder in os.listdir(path):
+	if not folder.startswith('.'):
+		for file in os.listdir(path + folder):
+			S.append(folder)
+			D.append(os.path.join(path+folder+"/"+file))
 
 S = sorted(list(set(S)))
 
@@ -425,10 +440,11 @@ S = []
 D = []
 path = "../../data/results/continuous/group3/"
 
-for folder in os.listdir("../../data/results/continuous/group3/"):
-	for file in os.listdir(path + folder):
-		S.append(folder)
-		D.append(os.path.join(path+folder+"/"+file))
+for folder in os.listdir(path):
+	if not folder.startswith('.'):
+		for file in os.listdir(path + folder):
+			S.append(folder)
+			D.append(os.path.join(path+folder+"/"+file))
 
 S = sorted(list(set(S)))
 
@@ -448,10 +464,11 @@ S = []
 D = []
 path = "../../data/results/continuous/group3_combined/"
 
-for folder in os.listdir("../../data/results/continuous/group3_combined/"):
-	for file in os.listdir(path + folder):
-		S.append(folder)
-		D.append(os.path.join(path+folder+"/"+file))
+for folder in os.listdir(path):
+	if not folder.startswith('.'):
+		for file in os.listdir(path + folder):
+			S.append(folder)
+			D.append(os.path.join(path+folder+"/"+file))
 
 S = sorted(list(set(S)))
 
@@ -463,37 +480,63 @@ print("\n")
 
 # ALLURE RATING:
 
+# Weights corresponding to different CIs
+W = [1, 0.7, 0.6]
+# For CIs: 95%, 70%, 60%.
+A = [0.025, 0.15, 0.2]
+# Number of rating levels. For ex., L = 3 denotes three rating levels (1,2,3)
+L = 3
 S = []
 D = []
 path = "../../data/results/real-world/allure/"
 
 for folder in os.listdir(path):
-	for file in os.listdir(path + folder):
-		S.append(folder)
-		D.append(os.path.join(path+folder+"/"+file))
+	if not folder.startswith('.'):
+		D_temp = []
+		for file in os.listdir(path + folder):
+			if not file.startswith('.'):
+				S.append(folder)
+				D_temp.append(os.path.join(path+folder+"/"+file))
+				D.append(D_temp)
 
-S = sorted(list(set(S)))
+
+# S = sorted(list(set(S)))
 
 print("The final rating based on the ALLURE user conversation results are: ")
 print(assign_rating(S,D,A,W,L,'data_user'))
 print("\n")
 
+# print(D)
+# print(S)
 print("The final rating based on the ALLURE chatbot conversation results are: ")
 print(assign_rating(S,D,A,W,L,'data_bot'))
 print("\n")
 
+
+
 # UNIBOT RATING:
 
+# Weights corresponding to different CIs
+W = [1, 0.7, 0.6]
+# For CIs: 95%, 70%, 60%.
+A = [0.025, 0.15, 0.2]
+# Number of rating levels. For ex., L = 3 denotes three rating levels (1,2,3)
+L = 3
 S = []
 D = []
 path = "../../data/results/real-world/unibot/"
 
 for folder in os.listdir(path):
-	for file in os.listdir(path + folder):
-		S.append(folder)
-		D.append(os.path.join(path+folder+"/"+file))
+	if not folder.startswith('.'):
+		D_temp = []
+		for file in os.listdir(path + folder):
+			S.append(folder)
+			D_temp.append(os.path.join(path+folder+"/"+file))
+			D.append(D_temp)
 
-S = sorted(list(set(S)))
+# print(D)
+# # S = sorted(list(set(S)))
+# print(S)
 
 print("The final rating based on the Unibot user conversation results are: ")
 print(assign_rating(S,D,A,W,L,'data_user'))

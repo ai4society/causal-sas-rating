@@ -13,6 +13,8 @@ def allure_prep(input_path, dest, count):
     
     UB = []
     text = []
+    ori = []
+    addn = []
     user_gender = []
     temp_no = ct
     c_num = []
@@ -21,7 +23,7 @@ def allure_prep(input_path, dest, count):
         if i in idx:
             if data0['Gender'][i] == "Prefer not to say":
                 temp_gen = 0
-                temp_fm = ""
+                temp_fm = "Hey, "
             elif data0['Gender'][i] == "Female":
                 temp_gen = 2
                 temp_fm = "Hey girl, "
@@ -32,18 +34,23 @@ def allure_prep(input_path, dest, count):
         if data0['conversation.conversation.sender'][i] == "response":
             if data0['conversation.conversation.text'][i] != "text":
                 text.append(data0['conversation.conversation.text'][i])
+                addn.append("No enhancement")
+                ori.append(data0['conversation.conversation.text'][i])
                 user_gender.append(temp_gen)
                 UB.append(0)
                 c_num.append(temp_no)
         elif data0['conversation.conversation.sender'][i] == "client":
             if data0['conversation.conversation.text'][i] != "text":
                 user_gender.append(temp_gen)
+                addn.append(temp_fm)
+                ori.append(data0['conversation.conversation.text'][i])
                 UB.append(1)
                 text.append(temp_fm + data0['conversation.conversation.text'][i])
                 c_num.append(temp_no)
                 
                 
-    df = pd.DataFrame({'C_num': c_num, 'UB': UB, 'User_gender': user_gender, 'Text': text})
+    df = pd.DataFrame({'C_num': c_num, 'UB': UB, 'User_gender': user_gender, 'Original': ori, 'Enhancement': addn, 'Text': text})
+
     df.to_csv(dest, index=None)
     
     return temp_no
@@ -72,7 +79,7 @@ for each in data_final['Text']:
 data_final['Text'] = texts
 
 compared = data_final.groupby((data_final['UB'] != data_final['UB'].shift()).cumsum())
-combined = compared.agg({'C_num': 'first', 'UB': 'first', 'User_gender': 'first', 'Text': ' '.join}).reset_index(drop=True)
+combined = compared.agg({'C_num': 'first', 'UB': 'first', 'User_gender': 'first', 'Original': 'first', 'Enhancement': 'first', 'Text': ' '.join}).reset_index(drop=True)
 
 combined.to_csv('../../data/real-world/allure/final/final_expt.csv', index=False)
 print("The final preprocessed dataset can be found here: \n")
