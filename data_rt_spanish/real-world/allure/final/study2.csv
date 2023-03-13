@@ -1,0 +1,583 @@
+C_num,UB,User_gender,Text
+14,0,2,"Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube."
+14,0,2,Today we'll learn the different moves you need to know to solve the white cross.
+14,0,2, Would you like to hear more about the white cross and how we will learn the moves?
+14,1,2,"Hey girl, Yes"
+14,0,2,Let's talk about the white cross!
+14,0,2," First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces."
+14,0,2, We can see an example of the white cross below.
+14,0,2,
+14,0,2,"Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+14,1,2,"Hey girl, Continue"
+14,0,2,We've broken the moves you need to know into different scenarios which will gradually increase in complexity.
+14,0,2," In each scenario, I'll guide you through finding the white-green edge piece and how you can move it to put it in place."
+14,0,2," To see the move performed on the virtual cube, just type in 'Solve'."
+14,0,2,Awesome! Go ahead and pick a scenario to start learning:
+14,1,2,"Hey girl, Scenario 1"
+14,1,2,"Hey girl, solve"
+14,1,2,"Hey girl, solve"
+14,0,2,You're doing awesome!
+14,0,2,Choose another scenario or repeat this one:
+14,1,2,"Hey girl, Scenario 2"
+14,0,2,Great job!
+14,0,2,Choose another scenario or repeat this one:
+14,1,2,"Hey girl, Scenario 2"
+15,0,2,"Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube."
+15,0,2,Today we'll learn the different moves you need to know to solve the white cross.
+15,0,2, Would you like to hear more about the white cross and how we will learn the moves?
+15,1,2,"Hey girl, Yes"
+15,0,2,Let's talk about the white cross!
+15,0,2," First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces."
+15,0,2, We can see an example of the white cross below.
+15,0,2,
+15,0,2,"Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+15,1,2,"Hey girl, Continue"
+15,0,2,We've broken the moves you need to know into different scenarios which will gradually increase in complexity.
+15,0,2," In each scenario, I'll guide you through finding the white-green edge piece and how you can move it to put it in place."
+15,0,2," To see the move performed on the virtual cube, just type in 'Solve'."
+15,0,2,Awesome! Go ahead and pick a scenario to start learning:
+15,1,2,"Hey girl, Scenario 1"
+15,0,2,Scenario: 1
+15,0,2,"In scenario 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too"
+15,0,2,Turn the front face until the white-green edge piece completes the White Cross.
+15,0,2,Click solve whenever you are ready
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed.
+15,0,2,Great job!
+15,0,2,Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 2"
+15,0,2,Scenario: 2
+15,0,2,"In scenario 2, we want the green sticker of the white-green edge to pair with the green centerpiece"
+15,0,2,"Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match."
+15,0,2,"After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place."
+15,0,2,Click solve whenever you are ready
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed.
+15,0,2,Great job!
+15,0,2,Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 3"
+15,0,2,Scenario: 3
+15,0,2,"For scenario 3, we want the green sticker of the white-green edge to pair with the green centerpiece"
+15,0,2,The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face
+15,0,2,To pair the green stickers perform: r	'
+15,0,2,"After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place."
+15,0,2,Click solve whenever you are ready
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed.
+15,0,2,Great job!
+15,0,2,Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 4"
+15,0,2,Scenario: 4
+15,0,2,"To complete scenario 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired"
+15,0,2,"Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this scenario multiple times"
+15,0,2,To pair the green stickers perform the following moves: r	u	'	r	'	u
+15,0,2,Click solve whenever you are ready
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed.
+15,0,2,You'll be able to solve a Rubik's Cube in no time!
+15,0,2,Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 4"
+15,0,2,Scenario: 4
+15,0,2,"To complete scenario 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired"
+15,0,2,"Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this scenario multiple times"
+15,0,2,To pair the green stickers perform the following moves: r	u	'	r	'	u
+15,0,2,Click solve whenever you are ready
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed.
+15,0,2,You're learning so quickly!
+15,0,2,Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 5"
+15,0,2,Scenario: 5
+15,0,2,"In scenario 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross"
+15,0,2,"Right now, the green sticker is on the down face and the white piece is on the front face"
+15,0,2,The following moves will teach you how to get the edge piece into place: d	r	f	'	r	'
+15,0,2,Click solve whenever you are ready
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed.
+15,0,2,Nice job!
+15,0,2,Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 6"
+15,0,2,Scenario: 6
+15,0,2,"In scenario 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face"
+15,0,2,"To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u"
+15,0,2,Click solve whenever you are ready
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed.
+15,0,2,You're doing awesome!
+15,0,2,Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 7"
+15,0,2,Scenario: 7
+15,0,2,"For scenario 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face"
+15,0,2,We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	'
+15,0,2,Click solve whenever you are ready
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed.
+15,0,2,Great job!
+15,0,2,Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 8"
+15,0,2,Scenario: 8
+15,0,2,Scenario 8 is an extension of Scenario 5
+15,0,2,"Right now, the green sticker is on the down face and the white sticker is on the back face"
+15,0,2,"To align this configuration with Scenario 5, we can use the following moves: d	'	d	'"
+15,0,2,"After you have performed these moves, you can use the skills you learned in Scenario 5 to put the white-green edge piece in place."
+15,0,2,Click solve whenever you are ready
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed.
+15,0,2,Nice job!
+15,0,2,Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 8"
+15,0,2,Scenario: 8
+15,0,2,Scenario 8 is an extension of Scenario 5
+15,0,2,"Right now, the green sticker is on the down face and the white sticker is on the back face"
+15,0,2,"To align this configuration with Scenario 5, we can use the following moves: d	'	d	'"
+15,0,2,"After you have performed these moves, you can use the skills you learned in Scenario 5 to put the white-green edge piece in place."
+15,0,2,Click solve whenever you are ready
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed.
+15,0,2,Great job!
+15,0,2,Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 8"
+15,0,2,Scenario: 8
+15,0,2,Scenario 8 is an extension of Scenario 5
+15,0,2,"Right now, the green sticker is on the down face and the white sticker is on the back face"
+15,0,2,"To align this configuration with Scenario 5, we can use the following moves: d	'	d	'"
+15,0,2,"After you have performed these moves, you can use the skills you learned in Scenario 5 to put the white-green edge piece in place."
+15,0,2,Click solve whenever you are ready
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed.
+15,0,2,You're learning so quickly!
+15,0,2,Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 9"
+15,0,2,Scenario: 9
+15,0,2,"On our final scenario, we will pair the green sticker of the white-green edge with the green centerpiece"
+15,0,2,"Currently, the green sticker is on the back face and the white sticker is on the up face"
+15,0,2,We will put the edge in place by completing these moves: b	u	l	l	u	'
+15,0,2,"After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place."
+15,0,2,Click solve whenever you are ready
+15,1,2,"Hey girl, Solve"
+15,0,2,Watch the cube to see the moves being performed.
+15,0,2,Nice job!
+15,0,2,Choose another scenario or repeat this one:
+15,1,2,"Hey girl, Scenario 4"
+15,0,2,Scenario: 4
+15,0,2,"To complete scenario 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired"
+15,0,2,"Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this scenario multiple times"
+15,0,2,To pair the green stickers perform the following moves: r	u	'	r	'	u
+15,0,2,Click solve whenever you are ready
+16,0,1,"Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube."
+16,0,1,Today we'll learn the different moves you need to know to solve the white cross.
+16,0,1, Would you like to hear more about the white cross and how we will learn the moves?
+16,1,1,"Hey boy, Yes"
+16,0,1,Let's talk about the white cross!
+16,0,1," First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces."
+16,0,1, We can see an example of the white cross below.
+16,0,1,
+16,0,1,"Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+16,1,1,"Hey boy, Continue"
+16,0,1,We've broken the moves you need to know into different scenarios which will gradually increase in complexity.
+16,0,1," In each scenario, I'll guide you through finding the white-green edge piece and how you can move it to put it in place."
+16,0,1," To see the move performed on the virtual cube, just type in 'Solve'."
+16,0,1,Awesome! Go ahead and pick a scenario to start learning:
+16,1,1,"Hey boy, Scenario 1"
+16,0,1,Scenario: 1
+16,0,1,"In scenario 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too"
+16,0,1,Turn the front face until the white-green edge piece completes the White Cross.
+16,0,1,Click solve whenever you are ready
+16,1,1,"Hey boy, Solve"
+16,0,1,Watch the cube to see the moves being performed.
+16,0,1,You're learning so quickly!
+16,0,1,Choose another scenario or repeat this one:
+16,1,1,"Hey boy, Scenario 2"
+16,0,1,Scenario: 2
+16,0,1,"In scenario 2, we want the green sticker of the white-green edge to pair with the green centerpiece"
+16,0,1,"Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match."
+16,0,1,"After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place."
+16,0,1,Click solve whenever you are ready
+16,1,1,"Hey boy, Solve"
+16,0,1,Watch the cube to see the moves being performed.
+16,0,1,You're learning so quickly!
+16,0,1,Choose another scenario or repeat this one:
+16,1,1,"Hey boy, Scenario 3"
+16,0,1,Scenario: 3
+16,0,1,"For scenario 3, we want the green sticker of the white-green edge to pair with the green centerpiece"
+16,0,1,The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face
+16,0,1,To pair the green stickers perform: l
+16,0,1,"After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place."
+16,0,1,Click solve whenever you are ready
+16,1,1,"Hey boy, Solve"
+16,0,1,Watch the cube to see the moves being performed.
+16,0,1,Great job!
+16,0,1,Choose another scenario or repeat this one:
+16,1,1,"Hey boy, Scenario 4"
+16,0,1,Scenario: 4
+16,0,1,"To complete scenario 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired"
+16,0,1,"Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this scenario multiple times"
+16,0,1,To pair the green stickers perform the following moves: r	u	'	r	'	u
+16,0,1,Click solve whenever you are ready
+16,1,1,"Hey boy, Solve"
+16,0,1,Watch the cube to see the moves being performed.
+16,0,1,Nice job!
+16,0,1,Choose another scenario or repeat this one:
+16,1,1,"Hey boy, Scenario 5"
+16,0,1,Scenario: 5
+16,0,1,"In scenario 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross"
+16,0,1,"Right now, the green sticker is on the down face and the white piece is on the front face"
+16,0,1,The following moves will teach you how to get the edge piece into place: d	r	f	'	r	'
+16,0,1,Click solve whenever you are ready
+16,1,1,"Hey boy, Solve"
+16,0,1,Watch the cube to see the moves being performed.
+16,0,1,You'll be able to solve a Rubik's Cube in no time!
+16,0,1,Choose another scenario or repeat this one:
+16,1,1,"Hey boy, Scenario 6"
+16,0,1,Scenario: 6
+16,0,1,"In scenario 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face"
+16,0,1,"To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u"
+16,0,1,Click solve whenever you are ready
+16,1,1,"Hey boy, Solve"
+16,0,1,Watch the cube to see the moves being performed.
+16,0,1,Nice job!
+16,0,1,Choose another scenario or repeat this one:
+16,1,1,"Hey boy, Scenario 7"
+16,0,1,Scenario: 7
+16,0,1,"For scenario 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face"
+16,0,1,We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	'
+16,0,1,Click solve whenever you are ready
+16,1,1,"Hey boy, Solve"
+16,0,1,Watch the cube to see the moves being performed.
+16,0,1,Nice job!
+16,0,1,Choose another scenario or repeat this one:
+16,1,1,"Hey boy, Scenario 8"
+16,0,1,Scenario: 8
+16,0,1,Scenario 8 is an extension of Scenario 5
+16,0,1,"Right now, the green sticker is on the down face and the white sticker is on the back face"
+16,0,1,"To align this configuration with Scenario 5, we can use the following moves: d	'	d	'"
+16,0,1,"After you have performed these moves, you can use the skills you learned in Scenario 5 to put the white-green edge piece in place."
+16,0,1,Click solve whenever you are ready
+16,1,1,"Hey boy, Solve"
+16,0,1,Watch the cube to see the moves being performed.
+16,0,1,You're doing awesome!
+16,0,1,Choose another scenario or repeat this one:
+16,1,1,"Hey boy, Scenario 9"
+16,0,1,Scenario: 9
+16,0,1,"On our final scenario, we will pair the green sticker of the white-green edge with the green centerpiece"
+16,0,1,"Currently, the green sticker is on the back face and the white sticker is on the up face"
+16,0,1,We will put the edge in place by completing these moves: b	u	l	l	u	'
+16,0,1,"After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place."
+16,0,1,Click solve whenever you are ready
+16,1,1,"Hey boy, Solve"
+16,0,1,Watch the cube to see the moves being performed.
+16,0,1,You'll be able to solve a Rubik's Cube in no time!
+16,0,1,Choose another scenario or repeat this one:
+16,1,1,"Hey boy, Exit"
+16,0,1,Are you ready to solve the white-cross on your own?
+16,1,1,"Hey boy, Yes"
+16,0,1,The goal is to reach the white-cross from the given configuration.Below is one example.
+16,0,1,If you're stuck at any point just let me know.
+16,0,1,All the best!
+16,0,1,
+16,1,1,"Hey boy, im stuck"
+16,0,1,Are you stuck?
+16,1,1,"Hey boy, Yes"
+16,0,1,Awesome! Go ahead and pick a scenario to start learning:
+16,1,1,"Hey boy, Scenario 1"
+16,1,1,"Hey boy, stuck"
+16,1,1,"Hey boy, im stuck"
+16,0,1,Are you stuck?
+16,0,1,Are you stuck?
+16,1,1,"Hey boy, Yes"
+16,0,1,Awesome! Go ahead and pick a scenario to start learning:
+16,1,1,"Hey boy, Scenario 1"
+16,1,1,"Hey boy, ally"
+16,1,1,"Hey boy, plz"
+16,0,1,Awesome! Go ahead and pick a scenario to start learning:
+16,0,1,Awesome! Go ahead and pick a scenario to start learning:
+16,1,1,"Hey boy, Scenario 8"
+16,1,1,"Hey boy, im stuck"
+16,0,1,Are you stuck?
+16,1,1,"Hey boy, Yes"
+16,0,1,Awesome! Go ahead and pick a scenario to start learning:
+16,1,1,"Hey boy, Scenario 2"
+17,0,1,"Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube."
+17,0,1,Today we'll learn the different moves you need to know to solve the white cross.
+17,0,1, Would you like to hear more about the white cross and how we will learn the moves?
+17,1,1,"Hey boy, Yes"
+17,0,1,Let's talk about the white cross!
+17,0,1," First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces."
+17,0,1, We can see an example of the white cross below.
+17,0,1,
+17,0,1,"Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+17,1,1,"Hey boy, Continue"
+17,0,1,We've broken the moves you need to know into different scenarios which will gradually increase in complexity.
+17,0,1," In each scenario, I'll guide you through finding the white-green edge piece and how you can move it to put it in place."
+17,0,1," To see the move performed on the virtual cube, just type in 'Solve'."
+17,0,1,Awesome! Go ahead and pick a scenario to start learning:
+17,1,1,"Hey boy, Scenario 1"
+17,0,1,Scenario: 1
+17,0,1,"In scenario 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too"
+17,0,1,Turn the front face until the white-green edge piece completes the White Cross.
+17,0,1,Click solve whenever you are ready
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed.
+17,0,1,Nice job!
+17,0,1,Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Scenario 2"
+17,0,1,Scenario: 2
+17,0,1,"In scenario 2, we want the green sticker of the white-green edge to pair with the green centerpiece"
+17,0,1,"Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match."
+17,0,1,"After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place."
+17,0,1,Click solve whenever you are ready
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed.
+17,0,1,You're doing awesome!
+17,0,1,Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Scenario 3"
+17,0,1,Scenario: 3
+17,0,1,"For scenario 3, we want the green sticker of the white-green edge to pair with the green centerpiece"
+17,0,1,The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face
+17,0,1,To pair the green stickers perform: r	'
+17,0,1,"After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place."
+17,0,1,Click solve whenever you are ready
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed.
+17,0,1,Nice job!
+17,0,1,Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Scenario 4"
+17,0,1,Scenario: 4
+17,0,1,"To complete scenario 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired"
+17,0,1,"Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this scenario multiple times"
+17,0,1,To pair the green stickers perform the following moves: r	u	'	r	'	u
+17,0,1,Click solve whenever you are ready
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed.
+17,0,1,Great job!
+17,0,1,Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Scenario 4"
+17,0,1,Scenario: 4
+17,0,1,"To complete scenario 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired"
+17,0,1,"Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this scenario multiple times"
+17,0,1,To pair the green stickers perform the following moves: l	'	u	l	u	'
+17,0,1,Click solve whenever you are ready
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed.
+17,0,1,You're doing awesome!
+17,0,1,Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Scenario 5"
+17,0,1,Scenario: 5
+17,0,1,"In scenario 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross"
+17,0,1,"Right now, the green sticker is on the down face and the white piece is on the front face"
+17,0,1,The following moves will teach you how to get the edge piece into place: d	r	f	'	r	'
+17,0,1,Click solve whenever you are ready
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed.
+17,0,1,You're learning so quickly!
+17,0,1,Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Scenario 6"
+17,0,1,Scenario: 6
+17,0,1,"In scenario 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face"
+17,0,1,"To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u"
+17,0,1,Click solve whenever you are ready
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed.
+17,0,1,You're learning so quickly!
+17,0,1,Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Scenario 7"
+17,0,1,Scenario: 7
+17,0,1,"For scenario 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face"
+17,0,1,We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	'
+17,0,1,Click solve whenever you are ready
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed.
+17,0,1,You'll be able to solve a Rubik's Cube in no time!
+17,0,1,Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Scenario 8"
+17,0,1,Scenario: 8
+17,0,1,Scenario 8 is an extension of Scenario 5
+17,0,1,"Right now, the green sticker is on the down face and the white sticker is on the back face"
+17,0,1,"To align this configuration with Scenario 5, we can use the following moves: d	'	d	'"
+17,0,1,"After you have performed these moves, you can use the skills you learned in Scenario 5 to put the white-green edge piece in place."
+17,0,1,Click solve whenever you are ready
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed.
+17,0,1,You're learning so quickly!
+17,0,1,Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Scenario 9"
+17,0,1,Scenario: 9
+17,0,1,"On our final scenario, we will pair the green sticker of the white-green edge with the green centerpiece"
+17,0,1,"Currently, the green sticker is on the back face and the white sticker is on the up face"
+17,0,1,We will put the edge in place by completing these moves: b	u	l	l	u	'
+17,0,1,"After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place."
+17,0,1,Click solve whenever you are ready
+17,1,1,"Hey boy, Solve"
+17,0,1,Watch the cube to see the moves being performed.
+17,0,1,You're learning so quickly!
+17,0,1,Choose another scenario or repeat this one:
+17,1,1,"Hey boy, Exit"
+17,0,1,Are you ready to solve the white-cross on your own?
+17,1,1,"Hey boy, Yes"
+17,0,1,The goal is to reach the white-cross from the given configuration.Below is one example.
+17,0,1,If you're stuck at any point just let me know.
+17,0,1,All the best!
+17,0,1,
+17,1,1,"Hey boy, Hello"
+17,1,1,"Hey boy, Help"
+17,0,1,"Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube."
+17,0,1,Today we'll learn the different moves you need to know to solve the white cross.
+17,0,1, Would you like to hear more about the white cross and how we will learn the moves?
+17,0,1,Are you stuck?
+17,1,1,"Hey boy, Yes"
+17,0,1,Awesome! Go ahead and pick a scenario to start learning:
+17,1,1,"Hey boy, Exit"
+17,0,1,Are you ready to solve the white-cross on your own?
+17,1,1,"Hey boy, Yes"
+17,0,1,The goal is to reach the white-cross from the given configuration.Below is one example.
+17,0,1,If you're stuck at any point just let me know.
+17,0,1,All the best!
+17,0,1,
+18,0,1,"Hello, welcome to ALLURE! I'm Ally and I want to teach everyone how to solve a Rubik's Cube."
+18,0,1,Today we'll learn the different moves you need to know to solve the white cross.
+18,0,1, Would you like to hear more about the white cross and how we will learn the moves?
+18,1,1,"Hey boy, Yes"
+18,0,1,Let's talk about the white cross!
+18,0,1," First, what does the white cross even look like? On the UP face, the white cross will have the white centerpiece with the white edge pieces forming the cross. It is also important that color stickers of the white edge pieces are paired with their matching color centerpieces."
+18,0,1, We can see an example of the white cross below.
+18,0,1,
+18,0,1,"Today, I'll teach you the moves to solve the white cross by focusing on putting the white-green edge piece in its correct place. By learning these moves for the white-green edge piece, you can apply them to the other white edge pieces and solve the white cross."
+18,1,1,"Hey boy, Continue"
+18,0,1,We've broken the moves you need to know into different scenarios which will gradually increase in complexity.
+18,0,1," In each scenario, I'll guide you through finding the white-green edge piece and how you can move it to put it in place."
+18,0,1," To see the move performed on the virtual cube, just type in 'Solve'."
+18,0,1,Awesome! Go ahead and pick a scenario to start learning:
+18,1,1,"Hey boy, Scenario 1"
+18,0,1,Scenario: 1
+18,0,1,"In scenario 1, we can see that all the color stickers of the white-color edge pieces are paired with their matching color centerpiece, but to acheive the White Cross the white stickers need to pair with the white center piece too"
+18,0,1,Turn the front face until the white-green edge piece completes the White Cross.
+18,0,1,Click solve whenever you are ready
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed.
+18,0,1,You're learning so quickly!
+18,0,1,Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Scenario 2"
+18,0,1,Scenario: 2
+18,0,1,"In scenario 2, we want the green sticker of the white-green edge to pair with the green centerpiece"
+18,0,1,"Since the white sticker of the edge piece is on the down face, rotate the down face until the green stickers match."
+18,0,1,"After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place."
+18,0,1,Click solve whenever you are ready
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed.
+18,0,1,You're learning so quickly!
+18,0,1,Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Scenario 3"
+18,0,1,Scenario: 3
+18,0,1,"For scenario 3, we want the green sticker of the white-green edge to pair with the green centerpiece"
+18,0,1,The moves that I'll give you will be determined by whether the white sticker of the edge piece is on the left or right face
+18,0,1,To pair the green stickers perform: l
+18,0,1,"After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place."
+18,0,1,Click solve whenever you are ready
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed.
+18,0,1,You're learning so quickly!
+18,0,1,Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Scenario 4"
+18,0,1,Scenario: 4
+18,0,1,"To complete scenario 4 we need both the white and green stickers of the white-green edge piece to be paired with their centerpieces, but only the white stickers are currently paired"
+18,0,1,"Depending on your configuration, the moves to pair the green stickers depend on whether the white-green edge piece is on the left or right face so feel free to try this scenario multiple times"
+18,0,1,To pair the green stickers perform the following moves: l	'	u	l	u	'
+18,0,1,Click solve whenever you are ready
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed.
+18,0,1,Nice job!
+18,0,1,Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Scenario 5"
+18,0,1,Scenario: 5
+18,0,1,"In scenario 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross"
+18,0,1,"Right now, the green sticker is on the down face and the white piece is on the front face"
+18,0,1,The following moves will teach you how to get the edge piece into place: d	r	f	'	r	'
+18,0,1,Click solve whenever you are ready
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed.
+18,0,1,You're learning so quickly!
+18,0,1,Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Scenario 6"
+18,0,1,Scenario: 6
+18,0,1,"In scenario 6, the green sticker of the white-green edge piece is on the up face and the white sticker is on the front face"
+18,0,1,"To move the edge piece into place, pair the stickers with their centerpieces, and solve the white cross, you would use the following moves: f	u	'	r	u"
+18,0,1,Click solve whenever you are ready
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed.
+18,0,1,Great job!
+18,0,1,Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Scenario 7"
+18,0,1,Scenario: 7
+18,0,1,"For scenario 7, the green sticker of the white-green edge is on the up face and the white sticker is on the back face"
+18,0,1,We want to pair the green sticker with the green centerpiece so we will perform the following moves: b	u	l	u	'
+18,0,1,Click solve whenever you are ready
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed.
+18,0,1,You'll be able to solve a Rubik's Cube in no time!
+18,0,1,Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Scenario 8"
+18,0,1,Scenario: 8
+18,0,1,Scenario 8 is an extension of Scenario 5
+18,0,1,"Right now, the green sticker is on the down face and the white sticker is on the back face"
+18,0,1,"To align this configuration with Scenario 5, we can use the following moves: d	'	d	'"
+18,0,1,"After you have performed these moves, you can use the skills you learned in Scenario 5 to put the white-green edge piece in place."
+18,0,1,Click solve whenever you are ready
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed.
+18,0,1,You're learning so quickly!
+18,0,1,Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Scenario 5"
+18,0,1,Scenario: 5
+18,0,1,"In scenario 5, our goal is to pair the white and green stickers of the white-green edge piece with their centerpieces and complete the White Cross"
+18,0,1,"Right now, the green sticker is on the down face and the white piece is on the front face"
+18,0,1,The following moves will teach you how to get the edge piece into place: d	r	f	'	r	'
+18,0,1,Click solve whenever you are ready
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed.
+18,0,1,You're learning so quickly!
+18,0,1,Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Scenario 9"
+18,0,1,Scenario: 9
+18,0,1,"On our final scenario, we will pair the green sticker of the white-green edge with the green centerpiece"
+18,0,1,"Currently, the green sticker is on the back face and the white sticker is on the up face"
+18,0,1,We will put the edge in place by completing these moves: b	u	l	l	u	'
+18,0,1,"After you have performed these moves, you can use the skills you learned in Scenario 1 to put the white-green edge piece in place."
+18,0,1,Click solve whenever you are ready
+18,1,1,"Hey boy, Solve"
+18,0,1,Watch the cube to see the moves being performed.
+18,0,1,You'll be able to solve a Rubik's Cube in no time!
+18,0,1,Choose another scenario or repeat this one:
+18,1,1,"Hey boy, Exit"
+18,0,1,Are you ready to solve the white-cross on your own?
+18,1,1,"Hey boy, Yes"
+18,0,1,The goal is to reach the white-cross from the given configuration.Below is one example.
+18,0,1,If you're stuck at any point just let me know.
+18,0,1,All the best!
+18,0,1,
+18,1,1,"Hey boy, Help"
+18,0,1,Are you stuck?
+18,1,1,"Hey boy, Yes"
+18,0,1,The goal is to reach the white-cross from the given configuration.Below is one example.
+18,0,1,If you're stuck at any point just let me know.
+18,0,1,All the best!
+18,0,1,
+18,1,1,"Hey boy, I'm stuck"
+18,0,1,Are you stuck?
+18,1,1,"Hey boy, Yes"
+18,0,1,Awesome! Go ahead and pick a scenario to start learning:
+18,1,1,"Hey boy, Scenario 1"
+18,1,1,"Hey boy, Scenario 1"
+18,1,1,"Hey boy, I'm stuck"
+18,0,1,Are you stuck?
+18,1,1,"Hey boy, Yes"
+18,0,1,Awesome! Go ahead and pick a scenario to start learning:
+18,1,1,"Hey boy, Scenario 1"
+18,1,1,"Hey boy, Scenario 2"
+18,1,1,"Hey boy, Scenario "
+18,1,1,"Hey boy, Helpo"
+18,1,1,"Hey boy, I'm stuck"
+18,0,1,Awesome! Go ahead and pick a scenario to start learning:
+18,0,1,Are you stuck?
+18,1,1,"Hey boy, Yes"
+18,0,1,Awesome! Go ahead and pick a scenario to start learning:
+18,1,1,"Hey boy, Scenario 4"

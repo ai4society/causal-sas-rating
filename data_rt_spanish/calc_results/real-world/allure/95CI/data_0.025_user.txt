@@ -1,0 +1,365 @@
+Processing bf
+Calculating results for bf.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ The t-crit value is: 
+2.2527851784004183
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+298
+
+
+For M,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+-20000.0
+
+
+
+ The t-crit value is: 
+2.2478747442945735
+
+
+
+ p-value is: 
+0.0
+
+
+
+ The DOF are: 
+523
+
+
+For N,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+-20000.0
+
+
+
+ The t-crit value is: 
+2.2545087614959773
+
+
+
+ p-value is: 
+0.0
+
+
+
+ The DOF are: 
+259
+
+
+Processing dbert
+Calculating results for dbert.csv
+For M,N: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+3.087926844190834
+
+
+
+ The t-crit value is: 
+2.2527851784004183
+
+
+
+ p-value is: 
+0.0022053865101221426
+
+
+
+ The DOF are: 
+298
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+-1.3322851663259836
+
+
+
+ The t-crit value is: 
+2.2478747442945735
+
+
+
+ p-value is: 
+0.18334671497244215
+
+
+
+ The DOF are: 
+523
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+1.7447494900211653
+
+
+
+ The t-crit value is: 
+2.2545087614959773
+
+
+
+ p-value is: 
+0.08221461955453169
+
+
+
+ The DOF are: 
+259
+
+
+Processing gru
+Calculating results for gru.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.02234068873258567
+
+
+
+ The t-crit value is: 
+2.2527851784004183
+
+
+
+ p-value is: 
+0.9821911435882693
+
+
+
+ The DOF are: 
+298
+
+
+For M,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+3.5008312521536444
+
+
+
+ The t-crit value is: 
+2.2478747442945735
+
+
+
+ p-value is: 
+0.0005034425084520233
+
+
+
+ The DOF are: 
+523
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+1.2904099567636882
+
+
+
+ The t-crit value is: 
+2.2545087614959773
+
+
+
+ p-value is: 
+0.19805916633791232
+
+
+
+ The DOF are: 
+259
+
+
+Processing random
+Calculating results for random.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+-0.5125119214894771
+
+
+
+ The t-crit value is: 
+2.2527851784004183
+
+
+
+ p-value is: 
+0.6086724353422577
+
+
+
+ The DOF are: 
+298
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+-1.0039092853363896
+
+
+
+ The t-crit value is: 
+2.2478747442945735
+
+
+
+ p-value is: 
+0.31588658214144005
+
+
+
+ The DOF are: 
+523
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+-0.9125079925391573
+
+
+
+ The t-crit value is: 
+2.2545087614959773
+
+
+
+ p-value is: 
+0.36234995158403116
+
+
+
+ The DOF are: 
+259
+
+
+Processing textblob
+Calculating results for tb.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ The t-crit value is: 
+2.2527851784004183
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+298
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ The t-crit value is: 
+2.2478747442945735
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+523
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ The t-crit value is: 
+2.2545087614959773
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+259
+
+

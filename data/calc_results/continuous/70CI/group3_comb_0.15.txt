@@ -1,0 +1,1553 @@
+
+For Group 3 Combined: 
+
+Processing biased
+Calculating results for comb_e1_bf.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For UEF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 10
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For UAF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 10
+
+
+For EMEF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 6
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EMAF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 6
+
+
+For EFAM: 
+
+Reject the null hypothesis that the means are equal.
+20000.0 0.0 6
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For AMAF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 6
+
+
+Processing biased
+Calculating results for comb_e2_bf.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For UEF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 10
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For UAF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 10
+
+
+For EMEF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 6
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EMAF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 6
+
+
+For EFAM: 
+
+Reject the null hypothesis that the means are equal.
+20000.0 0.0 6
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For AMAF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 6
+
+
+Processing biased
+Calculating results for comb_e3_bf.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For UEF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 22
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For UAF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 22
+
+
+For EMEF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 14
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+For EMAF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 14
+
+
+For EFAM: 
+
+Reject the null hypothesis that the means are equal.
+20000.0 0.0 14
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+For AMAF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 14
+
+
+Processing biased
+Calculating results for comb_e4_bf.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 34
+
+
+For UEF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 34
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 34
+
+
+For UAF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 34
+
+
+For EMEF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 22
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EMAF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 22
+
+
+For EFAM: 
+
+Reject the null hypothesis that the means are equal.
+20000.0 0.0 22
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For AMAF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 22
+
+
+Processing biased
+Calculating results for comb_e5_bf.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 34
+
+
+For UEF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 34
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 34
+
+
+For UAF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 34
+
+
+For EMEF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 22
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EMAF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 22
+
+
+For EFAM: 
+
+Reject the null hypothesis that the means are equal.
+20000.0 0.0 22
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For AMAF: 
+
+Reject the null hypothesis that the means are equal.
+-20000.0 0.0 22
+
+
+Processing dbert
+Calculating results for comb_e1_dbert.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For UAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+Processing dbert
+Calculating results for comb_e2_dbert.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For UAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+Processing dbert
+Calculating results for comb_e3_dbert.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For UAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+Processing dbert
+Calculating results for comb_e4_dbert.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 34
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 34
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 34
+
+
+For UAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 34
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+Processing dbert
+Calculating results for comb_e5_dbert.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 34
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 34
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 34
+
+
+For UAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 34
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+Processing gru
+Calculating results for comb_e1_gru.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+0.7526903375915819 0.46898412821365154 10
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+0.7526903375915819 0.46898412821365154 10
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+0.7526903375915819 0.46898412821365154 10
+
+
+For UAF: 
+
+Accept null hypothesis that the means are equal.
+0.7526903375915819 0.46898412821365154 10
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+Processing gru
+Calculating results for comb_e2_gru.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+-1.05707031993541 0.31534678095558566 10
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+-1.05707031993541 0.31534678095558566 10
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+-1.05707031993541 0.31534678095558566 10
+
+
+For UAF: 
+
+Accept null hypothesis that the means are equal.
+-1.05707031993541 0.31534678095558566 10
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+Processing gru
+Calculating results for comb_e3_gru.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+-0.5330937046928429 0.599313239964347 22
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+-0.5330937046928429 0.599313239964347 22
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+-0.5330937046928429 0.599313239964347 22
+
+
+For UAF: 
+
+Accept null hypothesis that the means are equal.
+-0.5330937046928429 0.599313239964347 22
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+Processing gru
+Calculating results for comb_e4_gru.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+-0.43145243699455604 0.6688629702412898 34
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+-0.43145243699455604 0.6688629702412898 34
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+-0.43145243699455604 0.6688629702412898 34
+
+
+For UAF: 
+
+Accept null hypothesis that the means are equal.
+-0.43145243699455604 0.6688629702412898 34
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+Processing gru
+Calculating results for comb_e5_gru.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+-0.7180942544447257 0.47760485955559684 34
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+-0.7180942544447257 0.47760485955559684 34
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+-0.7180942544447257 0.47760485955559684 34
+
+
+For UAF: 
+
+Accept null hypothesis that the means are equal.
+-0.7180942544447257 0.47760485955559684 34
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+Processing random
+Calculating results for comb_e1_random.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+-0.2057910460271984 0.8410831961509802 10
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+0.24365598205543948 0.8124230142963973 10
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+-0.5354250530565394 0.6040585219810097 10
+
+
+For UAF: 
+
+Accept null hypothesis that the means are equal.
+0.14182790101411089 0.8900325890133765 10
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.42842892152405404 0.6832923013264711 6
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+-0.2766125554751678 0.7913594686867176 6
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.3058928520655419 0.770021858352602 6
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+-0.8357711256714593 0.4352961999988074 6
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+-0.026727334608120747 0.9795439875661303 6
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+0.5950851355663902 0.5735293230327043 6
+
+
+Processing random
+Calculating results for comb_e2_random.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+-0.059151026348980736 0.9539971869706569 10
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+0.6626977469914787 0.5225044654316604 10
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+-0.3699936405551972 0.7191028957641179 10
+
+
+For UAF: 
+
+Accept null hypothesis that the means are equal.
+0.3701584903758197 0.718983854534152 10
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.6806597881321891 0.5214728482840569 6
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+-0.3058546718738697 0.7700495433582286 6
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.39944715738580105 0.7033942237558315 6
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+-0.8734203696399925 0.41601728794274795 6
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+-0.20691023299244732 0.8429232235517117 6
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+0.6118498087091742 0.5630881213562811 6
+
+
+Processing random
+Calculating results for comb_e3_random.csv
+For UEM: 
+
+Reject the null hypothesis that the means are equal.
+-1.7345528814001703 0.09681128886448764 22
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+-1.134248324076174 0.2688987726110761 22
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+0.5398697161142709 0.5947099819413215 22
+
+
+For UAF: 
+
+Accept null hypothesis that the means are equal.
+-1.415972051820374 0.1707865510494102 22
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.6359668169606806 0.5350570339325487 14
+
+
+For EMAM: 
+
+Reject the null hypothesis that the means are equal.
+2.049232211638567 0.059663470718030576 14
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.2556830262239031 0.8019139182199919 14
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+1.5117993230443845 0.1528257482984443 14
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+-0.35836477460203475 0.7254164592120058 14
+
+
+For AMAF: 
+
+Reject the null hypothesis that the means are equal.
+-1.74921027684871 0.10213353018997351 14
+
+
+Processing random
+Calculating results for comb_e4_random.csv
+For UEM: 
+
+Reject the null hypothesis that the means are equal.
+-2.5392120060333827 0.015853342084809707 34
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+-1.4136604248340419 0.16655282258505455 34
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+-0.40214211372091907 0.6900964622604135 34
+
+
+For UAF: 
+
+Reject the null hypothesis that the means are equal.
+-1.5741243274683554 0.12471928251512177 34
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.5329561860378839 0.599406841270214 22
+
+
+For EMAM: 
+
+Reject the null hypothesis that the means are equal.
+1.668873376513606 0.10931328379059346 22
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.46430512832562 0.6469910562391079 22
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+0.911215238983078 0.3720587828463102 22
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+-0.07671746929671786 0.9395417318102008 22
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+-1.0241691687767704 0.31688574456554797 22
+
+
+Processing random
+Calculating results for comb_e5_random.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+-1.4660295004155492 0.1518284961639078 34
+
+
+For UEF: 
+
+Reject the null hypothesis that the means are equal.
+-2.9391057774947837 0.0058785620020807006 34
+
+
+For UAM: 
+
+Reject the null hypothesis that the means are equal.
+-1.7319395947014518 0.09234934842140463 34
+
+
+For UAF: 
+
+Reject the null hypothesis that the means are equal.
+-1.6164720133864883 0.11523460790479101 34
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+-0.8061994825242818 0.4287569702405971 22
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+-0.054361114568803874 0.9571381040641471 22
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+-0.07775661234041824 0.9387245328542739 22
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+0.8116637795355446 0.42567978525304007 22
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.7369855044637933 0.468918539475653 22
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+-0.027705026635390848 0.9781472003511109 22
+
+
+Processing textblob
+Calculating results for comb_e1_tb.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For UAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+Processing textblob
+Calculating results for comb_e2_tb.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For UAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 10
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 6
+
+
+Processing textblob
+Calculating results for comb_e3_tb.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For UAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 14
+
+
+Processing textblob
+Calculating results for comb_e4_tb.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 34
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 34
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 34
+
+
+For UAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 34
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+Processing textblob
+Calculating results for comb_e5_tb.csv
+For UEM: 
+
+Accept null hypothesis that the means are equal.
+-1.0059506715868763e-15 0.9999999999999991 34
+
+
+For UEF: 
+
+Accept null hypothesis that the means are equal.
+-1.0059506715868763e-15 0.9999999999999991 34
+
+
+For UAM: 
+
+Accept null hypothesis that the means are equal.
+-1.0059506715868763e-15 0.9999999999999991 34
+
+
+For UAF: 
+
+Accept null hypothesis that the means are equal.
+-1.0059506715868763e-15 0.9999999999999991 34
+
+
+For EMEF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EMAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EFAM: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For EFAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+
+For AMAF: 
+
+Accept null hypothesis that the means are equal.
+0.0 1.0 22
+
+

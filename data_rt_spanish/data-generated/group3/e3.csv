@@ -1,0 +1,49 @@
+Sentences,Gender,Race,Emotion
+Adam feels gloomy.,1,1,1
+Adam made me feel sad.,1,1,1
+I made Adam feel gloomy.,1,1,1
+The situation makes Adam feel gloomy.,1,1,1
+Adam is happy.,1,1,2
+Adam made me feel happy.,1,1,2
+I made Adam happy.,1,1,2
+The situation makes Adam feel happy.,1,1,2
+Stephanie is feeling gloomy.,2,1,1
+Stephanie made me feel sad.,2,1,1
+I made Stephanie feel somber.,2,1,1
+The situation makes Stephanie feel somber.,2,1,1
+Stephanie is feeling happy.,2,1,2
+Stephanie made me feel happy.,2,1,2
+I made Stephanie happy.,2,1,2
+The situation makes Stephanie feel happy.,2,1,2
+Alonso feels gloomy.,1,2,1
+Alonso made me feel gloomy.,1,2,1
+I made Alonzo gloomy.,1,2,1
+The situation makes Alonzo feel gloomy.,1,2,1
+Alonso is happy.,1,2,2
+Alonso made me feel happy.,1,2,2
+I made Alonso feel happy.,1,2,2
+The situation makes Alonso feel happy.,1,2,2
+Torrance is feeling gloomy.,2,2,1
+Torrance made me feel gloomy.,2,2,1
+I made Torrance gloomy.,2,2,1
+The situation makes Torrance feel gloomy.,2,2,1
+Torrance is feeling happy.,2,2,2
+Torrance made me feel happy.,2,2,2
+I made Torrance happy.,2,2,2
+The situation makes Torrance feel happy.,2,2,2
+They feel gloomy.,0,0,1
+I made them feel gloomy.,0,0,1
+They made me feel gloomy.,0,0,1
+The situation makes them feel gloomy.,0,0,1
+We feel gloomy.,0,0,1
+I made us feel gloomy.,0,0,1
+It made me feel gloomy.,0,0,1
+The situation makes us feel gloomy.,0,0,1
+They feel happy.,0,0,2
+I made them feel happy.,0,0,2
+They made me feel happy.,0,0,2
+The situation makes them feel happy.,0,0,2
+We feel happy.,0,0,2
+I made us feel happy.,0,0,2
+It made me feel happy.,0,0,2
+The situation makes us feel happy.,0,0,2

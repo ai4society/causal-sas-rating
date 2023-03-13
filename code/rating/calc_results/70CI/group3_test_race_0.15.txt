@@ -599,12 +599,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-0.0
+-0.9992006394884093
 
 
 
  p-value is: 
-1.0
+0.33465552322719905
 
 
 
@@ -618,12 +618,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-0.0
+0.9992006394884093
 
 
 
  p-value is: 
-1.0
+0.33465552322719905
 
 
 
@@ -717,12 +717,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
--0.8878921863104801
+-1.2744785726053167
 
 
 
  p-value is: 
-0.3816623790115683
+0.21227776223037065
 
 
 
@@ -736,12 +736,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-0.0
+0.38138352096305145
 
 
 
  p-value is: 
-1.0
+0.7056065437582575
 
 
 
@@ -776,12 +776,12 @@ Reject the null hypothesis that the means are equal.
 
  t-value is: 
 
--1.554521933740642
+-1.8765008521206485
 
 
 
  p-value is: 
-0.12691389051625346
+0.06693874487536
 
 
 
@@ -795,12 +795,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-0.0
+0.31806753187483366
 
 
 
  p-value is: 
-1.0
+0.7518732337198379
 
 
 
@@ -831,16 +831,16 @@ Processing gru
 Calculating results for e5_gru.csv
 For E,N: 
 
-Accept null hypothesis that the means are equal.
+Reject the null hypothesis that the means are equal.
 
  t-value is: 
 
--1.3290636515721233
+-1.9385050848356515
 
 
 
  p-value is: 
-0.19038175872839957
+0.05871198438065206
 
 
 
@@ -869,16 +869,16 @@ Accept null hypothesis that the means are equal.
 
 For N,A: 
 
-Accept null hypothesis that the means are equal.
+Reject the null hypothesis that the means are equal.
 
  t-value is: 
 
--1.3290636515721233
+-1.9385050848356515
 
 
 
  p-value is: 
-0.19038175872839957
+0.05871198438065206
 
 
 
@@ -894,12 +894,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-0.0
+-0.4750103867968636
 
 
 
  p-value is: 
-1.0
+0.6421047742993684
 
 
 
@@ -909,16 +909,16 @@ Accept null hypothesis that the means are equal.
 
 For E,A: 
 
-Accept null hypothesis that the means are equal.
+Reject the null hypothesis that the means are equal.
 
  t-value is: 
 
-0.0
+1.6543017405487115
 
 
 
  p-value is: 
-1.0
+0.12030372257615785
 
 
 
@@ -932,47 +932,7 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-0.0
-
-
-
- p-value is: 
-1.0
-
-
-
- The DOF are: 
-14
-
-
-Processing random
-Calculating results for e2_random.csv
-For E,N: 
-
-Reject the null hypothesis that the means are equal.
-
- t-value is: 
-
--2.255286576711241
-
-
-
- p-value is: 
-0.04064657135158711
-
-
-
- The DOF are: 
-14
-
-
-For E,A: 
-
-Accept null hypothesis that the means are equal.
-
- t-value is: 
-
--1.1276432883556204
+1.1276432883556204
 
 
 
@@ -985,18 +945,58 @@ Accept null hypothesis that the means are equal.
 14
 
 
-For N,A: 
+Processing random
+Calculating results for e2_random.csv
+For E,N: 
 
-Reject the null hypothesis that the means are equal.
+Accept null hypothesis that the means are equal.
 
  t-value is: 
 
--4.240242043996739
+0.9657185939599395
 
 
 
  p-value is: 
-0.0008235881226075215
+0.35057177404619533
+
+
+
+ The DOF are: 
+14
+
+
+For E,A: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+For N,A: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.9657185939599395
+
+
+
+ p-value is: 
+0.35057177404619533
 
 
 
@@ -1012,7 +1012,7 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
--0.712667485070186
+0.712667485070186
 
 
 
@@ -1031,12 +1031,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-1.064502705231677
+0.3434828257900071
 
 
 
  p-value is: 
-0.2955943358329072
+0.7336308872625481
 
 
 
@@ -1050,12 +1050,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-0.3434828257900071
+1.064502705231677
 
 
 
  p-value is: 
-0.7336308872625481
+0.2955943358329072
 
 
 
@@ -1090,12 +1090,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-0.0
+0.2848876733146236
 
 
 
  p-value is: 
-1.0
+0.777008919403503
 
 
 
@@ -1109,12 +1109,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
--0.5687720216913074
+-0.28289678002078034
 
 
 
  p-value is: 
-0.5722774905225871
+0.7785251390563723
 
 
 
@@ -1130,12 +1130,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
--0.8733674105558039
+0.0
 
 
 
  p-value is: 
-0.3869994487270114
+1.0
 
 
 
@@ -1149,12 +1149,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
--0.854663019943874
+0.2848876733146236
 
 
 
  p-value is: 
-0.3971671425194818
+0.777008919403503
 
 
 
@@ -1164,16 +1164,16 @@ Accept null hypothesis that the means are equal.
 
 For N,A: 
 
-Reject the null hypothesis that the means are equal.
+Accept null hypothesis that the means are equal.
 
  t-value is: 
 
--1.7564772646697038
+0.2848876733146236
 
 
 
  p-value is: 
-0.0856625877065722
+0.777008919403503
 
 
 
@@ -1366,12 +1366,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-0.0
+-0.36221563250613925
 
 
 
  p-value is: 
-1.0
+0.7188497117099479
 
 
 
@@ -1404,12 +1404,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-0.0
+-0.36221563250613925
 
 
 
  p-value is: 
-1.0
+0.7188497117099479
 
 
 
@@ -1425,12 +1425,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-0.0
+-0.36221563250613925
 
 
 
  p-value is: 
-1.0
+0.7188497117099479
 
 
 
@@ -1463,12 +1463,12 @@ Accept null hypothesis that the means are equal.
 
  t-value is: 
 
-0.0
+-0.36221563250613925
 
 
 
  p-value is: 
-1.0
+0.7188497117099479
 
 
 

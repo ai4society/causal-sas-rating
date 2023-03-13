@@ -1,0 +1,937 @@
+input_time|conversation_id|count|intent|user_input| entity_name|entity_value|action|bot_reply|
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|U0|greet|/greet|
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|U1|goodbye|Bye|
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|B1|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|U2|deny|No|
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|U3|greet|HEY|
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|B2|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|U4|goodbye|bYE|
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|B3|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|U5|affirm|Yes|
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|B4|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|U6|satisfy_rating|satisfy_4|
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|B5|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|U7|interaction_rating|interaction_4|
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|B6|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|U8|preference_rating|preference_4|
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|B7|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|U9|future_use_rating|future_use_4|
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|B8|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|U10|overall_rating|overall_4|
+10:47:07|0d6f1e6e50d04a5eb70e30c2914e92a1|B9|||||utter_prefinish_1|Thanks, that's all for the feedbacks. We will bring these to the team. Have a great day!【conversation ended】
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|U0|greet|/greet|
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|U1|school_questions|What's the application fee|
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B1|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B2|||||utter_did_that_help|Was this helpful?
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|U2|helpfulness_rating|helpfulness_1|
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B3|||||utter_carry_on|Thanks, carry on!
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|U3|school_questions|How's the about the student living on campus|
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B4|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B5|||||utter_did_that_help|Was this helpful?
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|U4|helpfulness_rating|helpfulness_1|
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B6|||||utter_carry_on|Thanks, carry on!
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|U5|school_questions|Where is the mental health service center|
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B7|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B8|||||utter_did_that_help|Was this helpful?
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|U6|helpfulness_rating|helpfulness_3|
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B9|||||utter_carry_on|Thanks, carry on!
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|U7|bot_challenge|What kind of questions can you answer|
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B10|||||utter_iamabot|I am a bot, working for University of South Carolina, Columbia. I can help yo with some basic questions regarding application, locations, student living, school services, etc.
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|U8|school_questions|How can I know my application status|
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B11|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B12|||||utter_did_that_help|Was this helpful?
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|U9|helpfulness_rating|helpfulness_1|
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B13|||||utter_carry_on|Thanks, carry on!
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|U10|goodbye|Bye|
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B14|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions.
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|U11|affirm|Yes|
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B15|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|U12|satisfy_rating|satisfy_5|
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B16|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|U13|interaction_rating|interaction_4|
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B17|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|U14|preference_rating|preference_4|
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B18|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|U15|future_use_rating|future_use_4|
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B19|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|U16|overall_rating|overall_4|
+14:48:54|ef07a4c9c59d4e54b0de9941bccc9feb|B20|||||utter_prefinish_1|Thanks, that's all for the feedbacks. We will bring these to the team. Have a great day!【conversation ended】
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|U0|greet|/greet|
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|U1|greet|Hey|
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|B1|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|U2|application_fee|What's the application fee|
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|U3|bot_challenge|What kind of questions can you anser|
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|B2|||||utter_iamabot|I am a bot, working for University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc.
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|U4|application_fee|application fee|
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|U5|nlu_fallback|student living|
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|B3|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question?
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|U6|goodbye|bye|
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|B4|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|U7|affirm|Yes|
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|B5|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|U8|satisfy_rating|satisfy_4|
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|B6|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|U9|interaction_rating|interaction_3|
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|B7|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|U10|preference_rating|preference_5|
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|B8|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|U11|future_use_rating|future_use_3|
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|B9|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|U12|overall_rating|overall_4|
+14:50:52|d9087edbb96f45749c4ad69eafc7f0fc|B10|||||utter_prefinish_1|Thanks, that's all for the feedbacks. We will bring these to the team. Have a great day!【conversation ended】
+15:24:41|668051af6e1b4441ad19ae688593a23e|U0|greet|/greet|
+15:24:41|668051af6e1b4441ad19ae688593a23e|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+15:24:41|668051af6e1b4441ad19ae688593a23e|U1|school_questions|Hello, how to apply the graduate school|
+15:24:41|668051af6e1b4441ad19ae688593a23e|B1|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+15:24:41|668051af6e1b4441ad19ae688593a23e|B2|||||utter_did_that_help|Was this helpful?
+15:24:41|668051af6e1b4441ad19ae688593a23e|U2|helpfulness_rating|helpfulness_1|
+15:24:41|668051af6e1b4441ad19ae688593a23e|B3|||||utter_carry_on|Thanks, carry on!
+15:24:41|668051af6e1b4441ad19ae688593a23e|U3|school_questions|Where is the student health center|
+15:24:41|668051af6e1b4441ad19ae688593a23e|B4|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+15:24:41|668051af6e1b4441ad19ae688593a23e|B5|||||utter_did_that_help|Was this helpful?
+15:24:41|668051af6e1b4441ad19ae688593a23e|U4|helpfulness_rating|helpfulness_2|
+15:24:41|668051af6e1b4441ad19ae688593a23e|B6|||||utter_carry_on|Thanks, carry on!
+15:24:41|668051af6e1b4441ad19ae688593a23e|U5|school_questions|How can i find the student housing|
+15:24:41|668051af6e1b4441ad19ae688593a23e|B7|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+15:24:41|668051af6e1b4441ad19ae688593a23e|B8|||||utter_did_that_help|Was this helpful?
+15:24:41|668051af6e1b4441ad19ae688593a23e|U6|helpfulness_rating|helpfulness_1|
+15:24:41|668051af6e1b4441ad19ae688593a23e|B9|||||utter_carry_on|Thanks, carry on!
+15:24:41|668051af6e1b4441ad19ae688593a23e|U7|school_questions|where is the student career center|
+15:24:41|668051af6e1b4441ad19ae688593a23e|B10|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+15:24:41|668051af6e1b4441ad19ae688593a23e|B11|||||utter_did_that_help|Was this helpful?
+15:24:41|668051af6e1b4441ad19ae688593a23e|U8|helpfulness_rating|helpfulness_2|
+15:24:41|668051af6e1b4441ad19ae688593a23e|B12|||||utter_carry_on|Thanks, carry on!
+15:24:41|668051af6e1b4441ad19ae688593a23e|U9|school_questions|Where I can find a place to eat|
+15:24:41|668051af6e1b4441ad19ae688593a23e|B13|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+15:24:41|668051af6e1b4441ad19ae688593a23e|B14|||||utter_did_that_help|Was this helpful?
+15:24:41|668051af6e1b4441ad19ae688593a23e|U10|helpfulness_rating|helpfulness_1|
+15:24:41|668051af6e1b4441ad19ae688593a23e|B15|||||utter_carry_on|Thanks, carry on!
+15:24:41|668051af6e1b4441ad19ae688593a23e|U11|goodbye|Bye|
+15:24:41|668051af6e1b4441ad19ae688593a23e|B16|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions.
+15:24:41|668051af6e1b4441ad19ae688593a23e|U12|affirm|Yes|
+15:24:41|668051af6e1b4441ad19ae688593a23e|B17|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+15:24:41|668051af6e1b4441ad19ae688593a23e|U13|satisfy_rating|satisfy_5|
+15:24:41|668051af6e1b4441ad19ae688593a23e|B18|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+15:24:41|668051af6e1b4441ad19ae688593a23e|U14|interaction_rating|interaction_4|
+15:24:41|668051af6e1b4441ad19ae688593a23e|B19|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+15:24:41|668051af6e1b4441ad19ae688593a23e|U15|preference_rating|preference_4|
+15:24:41|668051af6e1b4441ad19ae688593a23e|B20|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+15:24:41|668051af6e1b4441ad19ae688593a23e|U16|future_use_rating|future_use_4|
+15:24:41|668051af6e1b4441ad19ae688593a23e|B21|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+15:24:41|668051af6e1b4441ad19ae688593a23e|U17|overall_rating|overall_4|
+15:24:41|668051af6e1b4441ad19ae688593a23e|B22|||||utter_prefinish_1|Thanks, that's all for the feedbacks. We will bring these to the team. Have a great day!【conversation ended】
+15:31:10|642686a2f6c2425ca59b111118549b0d|U0|greet|/greet|
+15:31:10|642686a2f6c2425ca59b111118549b0d|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+15:31:10|642686a2f6c2425ca59b111118549b0d|U1|application_fee|What's the application fee|
+15:31:10|642686a2f6c2425ca59b111118549b0d|B1|||||utter_application_fee|$65 (Common Application Fee without waiver)
+15:31:10|642686a2f6c2425ca59b111118549b0d|B2|||||utter_did_that_help|Was this helpful?
+15:31:10|642686a2f6c2425ca59b111118549b0d|U2|helpfulness_rating|helpfulness_1|
+15:31:10|642686a2f6c2425ca59b111118549b0d|B3|||||utter_carry_on|Thanks, carry on!
+15:31:10|642686a2f6c2425ca59b111118549b0d|U3|nlu_fallback|What's the requirement for graduate school|
+15:31:10|642686a2f6c2425ca59b111118549b0d|B4|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question?
+15:31:10|642686a2f6c2425ca59b111118549b0d|U4|receive_application|How can I apply the graduate school|
+15:31:10|642686a2f6c2425ca59b111118549b0d|U5|access_application|application process|
+15:31:10|642686a2f6c2425ca59b111118549b0d|B5|||||utter_access_application|Please refer https://sc.edu/apply/index.php 
+15:31:10|642686a2f6c2425ca59b111118549b0d|B6|||||utter_did_that_help|Was this helpful?
+15:31:10|642686a2f6c2425ca59b111118549b0d|U6|helpfulness_rating|helpfulness_1|
+15:31:10|642686a2f6c2425ca59b111118549b0d|B7|||||utter_carry_on|Thanks, carry on!
+15:31:10|642686a2f6c2425ca59b111118549b0d|U7|get_jobs|Where do the students live on campus|
+15:31:10|642686a2f6c2425ca59b111118549b0d|B8|||||utter_get_jobs|The USC Career Center is dedicated to supporting your needs at all stages of the process, whether you are still making decisions about your future direction, looking for hands-on experiences, or are ready for the next steps that will prepare you to live out your career goals.
+15:31:10|642686a2f6c2425ca59b111118549b0d|B9|||||utter_did_that_help|Was this helpful?
+15:31:10|642686a2f6c2425ca59b111118549b0d|U8|helpfulness_rating|helpfulness_3|
+15:31:10|642686a2f6c2425ca59b111118549b0d|B10|||||utter_carry_on|Thanks, carry on!
+15:31:10|642686a2f6c2425ca59b111118549b0d|U9|nlu_fallback|Career center|
+15:31:10|642686a2f6c2425ca59b111118549b0d|B11|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question?
+15:31:10|642686a2f6c2425ca59b111118549b0d|U10|find_place|Where I can find some place to eat|
+15:31:10|642686a2f6c2425ca59b111118549b0d|B12|||||utter_find_place|The campus housing is mainly for freshmen students. Most of univeristy's students and visitors use off-campus housing. Many find www.zillow.com useful for finding an appartment or a room.
+15:31:10|642686a2f6c2425ca59b111118549b0d|B13|||||utter_did_that_help|Was this helpful?
+15:31:10|642686a2f6c2425ca59b111118549b0d|U11|helpfulness_rating|helpfulness_3|
+15:31:10|642686a2f6c2425ca59b111118549b0d|B14|||||utter_carry_on|Thanks, carry on!
+15:31:10|642686a2f6c2425ca59b111118549b0d|U12|goodbye|Bye|
+15:31:10|642686a2f6c2425ca59b111118549b0d|B15|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+15:31:10|642686a2f6c2425ca59b111118549b0d|U13|affirm|Yes|
+15:31:10|642686a2f6c2425ca59b111118549b0d|B16|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+15:31:10|642686a2f6c2425ca59b111118549b0d|U14|satisfy_rating|satisfy_1|
+15:31:10|642686a2f6c2425ca59b111118549b0d|B17|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+15:31:10|642686a2f6c2425ca59b111118549b0d|U15|interaction_rating|interaction_4|
+15:31:10|642686a2f6c2425ca59b111118549b0d|B18|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+15:31:10|642686a2f6c2425ca59b111118549b0d|U16|preference_rating|preference_2|
+15:31:10|642686a2f6c2425ca59b111118549b0d|B19|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+15:31:10|642686a2f6c2425ca59b111118549b0d|U17|future_use_rating|future_use_3|
+15:31:10|642686a2f6c2425ca59b111118549b0d|B20|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+15:31:10|642686a2f6c2425ca59b111118549b0d|U18|overall_rating|overall_2|
+15:31:10|642686a2f6c2425ca59b111118549b0d|B21|||||utter_prefinish_1|Thanks, that's all for the feedbacks. We will bring these to the team. Have a great day!【conversation ended】
+17:11:08|86a5cf5d589e4f7c907082815c859c80|U0|greet|/greet|
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+17:11:08|86a5cf5d589e4f7c907082815c859c80|U1|nlu_fallback|What is the address of USC?|
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B1|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question?
+17:11:08|86a5cf5d589e4f7c907082815c859c80|U2|international_drivers_licence|Where is University of South Carolina?|
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B2|||||utter_international_drivers_licence|Students who have a valid International Driving Permit (IDP), along with a valid license from his or her home country should also have a South Carolina driver’s license before the 90 day period expires. The IDP must be obtained in your home country prior to entering the U.S.
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B3|||||utter_did_that_help|Was this helpful?
+17:11:08|86a5cf5d589e4f7c907082815c859c80|U3|helpfulness_rating|helpfulness_3|
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B4|||||utter_carry_on|Thanks, carry on!
+17:11:08|86a5cf5d589e4f7c907082815c859c80|U4|cost|What is the average living cost in Columbia?|
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B5|||||utter_cost|Typical student apartment price in Columbia range from 500-1500 USD. A room can be found at 350-600 USD.
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B6|||||utter_did_that_help|Was this helpful?
+17:11:08|86a5cf5d589e4f7c907082815c859c80|U5|helpfulness_rating|helpfulness_2|
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B7|||||utter_carry_on|Thanks, carry on!
+17:11:08|86a5cf5d589e4f7c907082815c859c80|U6|nlu_fallback|Can you recommend the best food to eat in Columbia?|
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B8|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question?
+17:11:08|86a5cf5d589e4f7c907082815c859c80|U7|bank|Which is the best restaurant in Columbia?|
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B9|||||utter_bank|There are many major banks in Columbia, eg - Bank of America, Wells&Fargo. If you open a savings account you get a debit card and 0 monthly fee if the account has always a minimum of 500 USD balance.
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B10|||||utter_did_that_help|Was this helpful?
+17:11:08|86a5cf5d589e4f7c907082815c859c80|U8|helpfulness_rating|helpfulness_3|
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B11|||||utter_carry_on|Thanks, carry on!
+17:11:08|86a5cf5d589e4f7c907082815c859c80|U9|goodbye|Bye|
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B12|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+17:11:08|86a5cf5d589e4f7c907082815c859c80|U10|affirm|Yes|
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B13|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+17:11:08|86a5cf5d589e4f7c907082815c859c80|U11|satisfy_rating|satisfy_2|
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B14|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+17:11:08|86a5cf5d589e4f7c907082815c859c80|U12|interaction_rating|interaction_3|
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B15|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+17:11:08|86a5cf5d589e4f7c907082815c859c80|U13|preference_rating|preference_2|
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B16|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+17:11:08|86a5cf5d589e4f7c907082815c859c80|U14|future_use_rating|future_use_3|
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B17|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+17:11:08|86a5cf5d589e4f7c907082815c859c80|U15|overall_rating|overall_2|
+17:11:08|86a5cf5d589e4f7c907082815c859c80|B18|||||utter_prefinish_1|Thanks, that's all for the feedbacks. We will bring these to the team. Have a great day!【conversation ended】
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|U0|greet|/greet|
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|U1|greet|hello|
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|B1|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|U2|school_questions|How are you doing|
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|B2|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|B3|||||utter_did_that_help|Was this helpful?
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|U3|helpfulness_rating|helpfulness_3|
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|B4|||||utter_carry_on|Thanks, carry on!
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|U4|school_questions|Which restaurant is dog friendly?|
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|B5|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|B6|||||utter_did_that_help|Was this helpful?
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|U5|helpfulness_rating|helpfulness_3|
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|B7|||||utter_carry_on|Thanks, carry on!
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|U6|out_of_scope|What’s your name|
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|B8|||||utter_out_of_scope|Sorry, I can't respond to this kind of question as I am a chatbot working for the school info request. Please ask a relevant question. 
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|U7|out_of_scope|Who is your developers|
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|B9|||||utter_out_of_scope|Sorry, I can't respond to this kind of question as I am a chatbot working for the school info request. Please ask a relevant question. 
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|U8|goodbye|Bye|
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|B10|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions.
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|U9|affirm|Yes|
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|B11|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|U10|satisfy_rating|satisfy_1|
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|B12|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|U11|interaction_rating|interaction_1|
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|B13|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|U12|preference_rating|preference_1|
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|B14|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|U13|future_use_rating|future_use_1|
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|B15|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|U14|overall_rating|overall_1|
+17:13:30|5eedff1424f842c4bc6a3fd34c7ad03e|B16|||||utter_prefinish_1|Thanks, that's all for the feedbacks. We will bring these to the team. Have a great day!【conversation ended】
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U0|greet|/greet|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U1|nlu_fallback|can you tell me something related to locations?|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B1|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question?
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U2|nlu_fallback|what about locations?|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B2|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question?
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U3|locality|locations|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B3|||||utter_locality|It has seven satellite campuses throughout the state and its main campus covers over 359 acres (145 ha) in downtown Columbia not far from the South Carolina State House.
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B4|||||utter_did_that_help|Was this helpful?
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U4|helpfulness_rating|helpfulness_2|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B5|||||utter_carry_on|Thanks, carry on!
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U5|nlu_fallback|what does the student living look like?|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B6|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question?
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U6|nlu_fallback|student living?|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B7|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question?
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U7|nlu_fallback|student living|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B8|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question?
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U8|health_services|school services|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U9|nlu_fallback|student living|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B9|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question?
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U10|access_application|application|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B10|||||utter_access_application|Please refer https://sc.edu/apply/index.php 
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B11|||||utter_did_that_help|Was this helpful?
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U11|helpfulness_rating|helpfulness_2|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B12|||||utter_carry_on|Thanks, carry on!
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U12|health_services|school services|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U13|nlu_fallback|student living|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B13|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question?
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U14|bot_challenge|what else topic can you help|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B14|||||utter_iamabot|I am a bot, working for University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc.
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U15|out_of_scope|what is the local weather?|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B15|||||utter_out_of_scope|Sorry, I can't respond to this kind of question as I am a chatbot working for the school info request. Please ask a relevant question.
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U16|goodbye|bye|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B16|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U17|affirm|Yes|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B17|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U18|satisfy_rating|satisfy_3|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B18|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U19|interaction_rating|interaction_2|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B19|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U20|preference_rating|preference_2|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B20|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U21|future_use_rating|future_use_2|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B21|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|U22|overall_rating|overall_2|
+01:39:28|bcaa58e555cc41c78715b43c63e485b3|B22|||||utter_prefinish_1|Thanks, that's all for the feedbacks. We will bring these to the team. Have a great day!【conversation ended】
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|U0|greet|/greet|
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|U1|nlu_fallback|What's the appications|
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|B1|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question?
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|U2|access_application|How's about the applications|
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|B2|||||utter_access_application|Please refer https://sc.edu/apply/index.php 
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|B3|||||utter_did_that_help|Was this helpful?
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|U3|helpfulness_rating|helpfulness_1|
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|B4|||||utter_carry_on|Thanks, carry on!
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|U4|goodbye|byE|
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|B5|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|U5|deny|No|
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|B6|||||utter_ask_short_feedback|Sorry to hear that. Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|U6|short_feedback_rating|short_4|
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|B7|||||utter_prefinish_2|Thank you. The last part is regarding your demographic information.
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|B8|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|U7|answer_current_student|answer_current_student_1|
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|B9|||||utter_gender|What's your gender?
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|U8|answer_gender|gender_1|
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|B10|||||utter_age|What's your age?
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|U9|answer_age|age_2|
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|B11|||||utter_marriage|Are you married?
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|U10|answer_marriage|marriage_2|
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|B12|||||utter_education|What is your current completed education level?
+20:17:54|9b20981ad98a4a1faffca8dcab6c3cbd|U11|answer_education|education_3|
+20:43:31|9203509af6f14497b093dc8230ab201b|U0|greet|/greet|
+20:43:31|9203509af6f14497b093dc8230ab201b|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+20:43:31|9203509af6f14497b093dc8230ab201b|U1|nlu_fallback|how's the socks|
+20:43:31|9203509af6f14497b093dc8230ab201b|B1|||||utter_please_rephrase|I'm sorry, I didn't quite understand that. Could you rephrase or ask another question?
+20:43:31|9203509af6f14497b093dc8230ab201b|U2|goodbye|Bye|
+20:43:31|9203509af6f14497b093dc8230ab201b|B2|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+20:43:31|9203509af6f14497b093dc8230ab201b|U3|deny|No|
+20:43:31|9203509af6f14497b093dc8230ab201b|B3|||||utter_ask_short_feedback|Sorry to hear that. Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+20:43:31|9203509af6f14497b093dc8230ab201b|U4|short_feedback_rating|short_4|
+20:43:31|9203509af6f14497b093dc8230ab201b|B4|||||utter_prefinish_2|Thank you. The last part is regarding your demographic information.
+20:43:31|9203509af6f14497b093dc8230ab201b|B5|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+20:43:31|9203509af6f14497b093dc8230ab201b|U5|answer_current_student|answer_current_student_2|
+20:43:31|9203509af6f14497b093dc8230ab201b|B6|||||utter_gender|What's your gender?
+20:43:31|9203509af6f14497b093dc8230ab201b|U6|answer_gender|gender_2|
+20:43:31|9203509af6f14497b093dc8230ab201b|B7|||||utter_age|What's your age?
+20:43:31|9203509af6f14497b093dc8230ab201b|U7|answer_age|age_2|
+20:43:31|9203509af6f14497b093dc8230ab201b|B8|||||utter_marriage|Are you married?
+20:43:31|9203509af6f14497b093dc8230ab201b|U8|answer_marriage|marriage_2|
+20:43:31|9203509af6f14497b093dc8230ab201b|B9|||||utter_education|What is your current completed education level?
+20:43:31|9203509af6f14497b093dc8230ab201b|U9|answer_education|education_3|
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|U0|greet|/greet|
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|U1|out_of_scope|HAhhahhs|
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|B1|||||utter_out_of_scope|Sorry, I can't respond to this kind of question as I am a chatbot working for the school info request. Please ask a relevant question.
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|U2|goodbye|Bye|
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|B2|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|U3|deny|No|
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|B3|||||utter_ask_short_feedback|Sorry to hear that. Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|U4|short_feedback_rating|short_4|
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|B4|||||utter_prefinish_2|Thank you. The last part is regarding your demographic information.
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|B5|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|U5|answer_current_student|answer_current_student_2|
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|B6|||||utter_gender|What's your gender?
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|U6|answer_gender|gender_2|
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|B7|||||utter_age|What's your age?
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|U7|answer_age|age_2|
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|B8|||||utter_marriage|Are you married?
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|U8|answer_marriage|marriage_3|
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|B9|||||utter_education|What is your current completed education level?
+20:46:17|0c5074b1a03a4a2d97f6ed904dda4627|U9|answer_education|education_3|
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|U0|greet|/greet|
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|U1|greet|hello|
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B1|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|U2|school_questions|How's the application process|
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B2|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B3|||||utter_did_that_help|Was this helpful?
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|U3|helpfulness_rating|helpfulness_1|
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B4|||||utter_carry_on|Thanks, carry on!
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|U4|school_questions|Where I can find student housing|
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B5|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B6|||||utter_did_that_help|Was this helpful?
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|U5|helpfulness_rating|helpfulness_2|
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B7|||||utter_carry_on|Thanks, carry on!
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|U6|goodbye|BYE|
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B8|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions.
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|U7|affirm|Yes|
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B9|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|U8|satisfy_rating|satisfy_4|
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B10|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|U9|interaction_rating|interaction_3|
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B11|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|U10|preference_rating|preference_3|
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B12|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|U11|future_use_rating|future_use_2|
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B13|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|U12|overall_rating|overall_3|
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B14|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B15|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|U13|answer_current_student|answer_current_student_2|
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B16|||||utter_gender|What's your gender?
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|U14|answer_gender|gender_1|
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B17|||||utter_age|What's your age?
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|U15|answer_age|age_2|
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B18|||||utter_marriage|Are you married?
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|U16|answer_marriage|marriage_2|
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|B19|||||utter_education|What is your current completed education level?
+17:05:21|ec2d2d23d787449184ea3c4f429b1092|U17|answer_education|education_3|
+17:28:57|a07ea63158044ee890a99159de5feaf8|U0|greet|/greet|
+17:28:57|a07ea63158044ee890a99159de5feaf8|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+17:28:57|a07ea63158044ee890a99159de5feaf8|U1|school_questions|What's the application fee|
+17:28:57|a07ea63158044ee890a99159de5feaf8|B1|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+17:28:57|a07ea63158044ee890a99159de5feaf8|B2|||||utter_did_that_help|Was this helpful?
+17:28:57|a07ea63158044ee890a99159de5feaf8|U2|helpfulness_rating|helpfulness_1|
+17:28:57|a07ea63158044ee890a99159de5feaf8|B3|||||utter_carry_on|Thanks, carry on!
+17:28:57|a07ea63158044ee890a99159de5feaf8|U3|goodbye|BYe|
+17:28:57|a07ea63158044ee890a99159de5feaf8|B4|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions.
+17:28:57|a07ea63158044ee890a99159de5feaf8|U4|deny|No|
+17:28:57|a07ea63158044ee890a99159de5feaf8|B5|||||utter_ask_short_feedback|Sorry to hear that. Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+17:28:57|a07ea63158044ee890a99159de5feaf8|U5|short_feedback_rating|short_4|
+17:28:57|a07ea63158044ee890a99159de5feaf8|B6|||||utter_prefinish_2|Thank you. The last part is regarding your demographic information.
+17:28:57|a07ea63158044ee890a99159de5feaf8|B7|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+17:28:57|a07ea63158044ee890a99159de5feaf8|U6|answer_current_student|answer_current_student_1|
+17:28:57|a07ea63158044ee890a99159de5feaf8|B8|||||utter_gender|What's your gender?
+17:28:57|a07ea63158044ee890a99159de5feaf8|U7|answer_gender|gender_2|
+17:28:57|a07ea63158044ee890a99159de5feaf8|B9|||||utter_age|What's your age?
+17:28:57|a07ea63158044ee890a99159de5feaf8|U8|answer_age|age_2|
+17:28:57|a07ea63158044ee890a99159de5feaf8|B10|||||utter_marriage|Are you married?
+17:28:57|a07ea63158044ee890a99159de5feaf8|U9|answer_marriage|marriage_2|
+17:28:57|a07ea63158044ee890a99159de5feaf8|B11|||||utter_education|What is your current completed education level?
+17:28:57|a07ea63158044ee890a99159de5feaf8|U10|answer_education|education_3|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U0|greet|/greet|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U1|greet|Hello|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B1|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U2|receive_application|How can I submit the application to graduate school|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B2|||||utter_receive_application|If you applied using the general graduate school application, check you application portal (https://www.applyweb.com/cgi-bin/ustat?formcode=uscgrad) for updates about where your application or document is in the process.  Otherwise, please follow instructions from the Arnold School of Public Health or Darla Moore School of Business for more information. 
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B3|||||utter_did_that_help|Was this helpful?
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U3|helpfulness_rating|helpfulness_1|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B4|||||utter_carry_on|Thanks, carry on!
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U4|student_card|Where is the student living|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B5|||||utter_student_card|First year students, in order to receive your CarolinaCard upon move-in you must upload your photo and sign the cardholder agreement.  Transfer students, please follow the requirements above in order to pick up your CarolinaCard in our office in the basement of the Russell House Student Union on Greene Street.  Faculty and staff, you will also need to follow the requirements above and come to the CarolinaCard office inside the Russell House.
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B6|||||utter_did_that_help|Was this helpful?
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U5|helpfulness_rating|helpfulness_3|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B7|||||utter_carry_on|Thanks, carry on!
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U6|student_card|How's the student meal plan|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B8|||||utter_student_card|First year students, in order to receive your CarolinaCard upon move-in you must upload your photo and sign the cardholder agreement.  Transfer students, please follow the requirements above in order to pick up your CarolinaCard in our office in the basement of the Russell House Student Union on Greene Street.  Faculty and staff, you will also need to follow the requirements above and come to the CarolinaCard office inside the Russell House.
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B9|||||utter_did_that_help|Was this helpful?
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U7|helpfulness_rating|helpfulness_3|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B10|||||utter_carry_on|Thanks, carry on!
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U8|student_card|Where is the student career center|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B11|||||utter_student_card|First year students, in order to receive your CarolinaCard upon move-in you must upload your photo and sign the cardholder agreement.  Transfer students, please follow the requirements above in order to pick up your CarolinaCard in our office in the basement of the Russell House Student Union on Greene Street.  Faculty and staff, you will also need to follow the requirements above and come to the CarolinaCard office inside the Russell House.
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B12|||||utter_did_that_help|Was this helpful?
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U9|helpfulness_rating|helpfulness_3|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B13|||||utter_carry_on|Thanks, carry on!
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U10|health_services|Student Health center|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B14|||||utter_health_services|You should have health insurance. 
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B15|||||utter_did_that_help|Was this helpful?
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U11|helpfulness_rating|helpfulness_2|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B16|||||utter_carry_on|Thanks, carry on!
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U12|health_services|where is the health center|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B17|||||utter_health_services|You should have health insurance. 
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B18|||||utter_did_that_help|Was this helpful?
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U13|helpfulness_rating|helpfulness_3|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B19|||||utter_carry_on|Thanks, carry on!
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U14|out_of_scope|How's the weather|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B20|||||utter_out_of_scope|Sorry, I can't respond to this kind of question as I am a chatbot working for the school info request. Please ask a relevant question.
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U15|bot_challenge|What kind of questions can you answer|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B21|||||utter_iamabot|I am a bot, working for University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc.
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U16|goodbye|Bye|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B22|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U17|affirm|Yes|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B23|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U18|satisfy_rating|satisfy_1|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B24|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U19|interaction_rating|interaction_2|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B25|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U20|preference_rating|preference_1|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B26|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U21|future_use_rating|future_use_2|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B27|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U22|overall_rating|overall_1|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B28|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B29|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U23|answer_current_student|answer_current_student_2|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B30|||||utter_gender|What's your gender?
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U24|answer_gender|gender_1|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B31|||||utter_age|What's your age?
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U25|answer_age|age_2|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B32|||||utter_marriage|Are you married?
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U26|answer_marriage|marriage_2|
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|B33|||||utter_education|What is your current completed education level?
+14:49:47|28108d1f0d1f4bccb6a4b1bac7eba270|U27|answer_education|education_3|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U0|greet|/greet|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U1|greet|Hello|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B1|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U2|school_questions|How can I submit the application to graduate school|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B2|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B3|||||utter_did_that_help|Was this helpful?
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U3|helpfulness_rating|helpfulness_1|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B4|||||utter_carry_on|Thanks, carry on!
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U4|school_questions|Where is the student living|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B5|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B6|||||utter_did_that_help|Was this helpful?
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U5|helpfulness_rating|helpfulness_1|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B7|||||utter_carry_on|Thanks, carry on!
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U6|school_questions|How's the student meal plan|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B8|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B9|||||utter_did_that_help|Was this helpful?
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U7|helpfulness_rating|helpfulness_2|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B10|||||utter_carry_on|Thanks, carry on!
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U8|school_questions|Where is the student career center|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B11|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B12|||||utter_did_that_help|Was this helpful?
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U9|helpfulness_rating|helpfulness_2|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B13|||||utter_carry_on|Thanks, carry on!
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U10|school_questions|Student Health center|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B14|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B15|||||utter_did_that_help|Was this helpful?
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U11|helpfulness_rating|helpfulness_2|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B16|||||utter_carry_on|Thanks, carry on!
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U12|school_questions|Where is the health center|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B17|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B18|||||utter_did_that_help|Was this helpful?
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U13|helpfulness_rating|helpfulness_2|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B19|||||utter_carry_on|Thanks, carry on!
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U14|out_of_scope|How's the weather|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B20|||||utter_out_of_scope|Sorry, I can't respond to this kind of question as I am a chatbot working for the school info request. Please ask a relevant question. 
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U15|bot_challenge|What kind of questions can you answer|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B21|||||utter_iamabot|I am a bot, working for University of South Carolina, Columbia. I can help yo with some basic questions regarding application, locations, student living, school services, etc.
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U16|goodbye|Bye|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B22|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions.
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U17|deny|No|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B23|||||utter_ask_short_feedback|Sorry to hear that. Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U18|short_feedback_rating|short_4|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B24|||||utter_prefinish_2|Thank you. The last part is regarding your demographic information.
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B25|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U19|answer_current_student|answer_current_student_2|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B26|||||utter_gender|What's your gender?
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U20|answer_gender|gender_1|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B27|||||utter_age|What's your age?
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U21|answer_age|age_2|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B28|||||utter_marriage|Are you married?
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U22|answer_marriage|marriage_2|
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|B29|||||utter_education|What is your current completed education level?
+14:50:44|28108d1f0d1f4bccb6a4b1bac7eba270|U23|answer_education|education_3|
+15:10:29|203be9e12b3544a491ea84b481feee51|U0|greet|/greet|
+15:10:29|203be9e12b3544a491ea84b481feee51|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+15:10:29|203be9e12b3544a491ea84b481feee51|U1|school_questions|Hello what's the application fee|
+15:10:29|203be9e12b3544a491ea84b481feee51|B1|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+15:10:29|203be9e12b3544a491ea84b481feee51|B2|||||utter_did_that_help|Was this helpful?
+15:10:29|203be9e12b3544a491ea84b481feee51|U2|helpfulness_rating|helpfulness_1|
+15:10:29|203be9e12b3544a491ea84b481feee51|B3|||||utter_carry_on|Thanks, carry on!
+15:10:29|203be9e12b3544a491ea84b481feee51|U3|school_questions|where is the student housing|
+15:10:29|203be9e12b3544a491ea84b481feee51|B4|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+15:10:29|203be9e12b3544a491ea84b481feee51|B5|||||utter_did_that_help|Was this helpful?
+15:10:29|203be9e12b3544a491ea84b481feee51|U4|helpfulness_rating|helpfulness_1|
+15:10:29|203be9e12b3544a491ea84b481feee51|B6|||||utter_carry_on|Thanks, carry on!
+15:10:29|203be9e12b3544a491ea84b481feee51|U5|goodbye|bye|
+15:10:29|203be9e12b3544a491ea84b481feee51|B7|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions.
+15:10:29|203be9e12b3544a491ea84b481feee51|U6|deny|No|
+15:10:29|203be9e12b3544a491ea84b481feee51|B8|||||utter_ask_short_feedback|Sorry to hear that. Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+15:10:29|203be9e12b3544a491ea84b481feee51|U7|short_feedback_rating|short_3|
+15:10:29|203be9e12b3544a491ea84b481feee51|B9|||||utter_prefinish_2|Thank you. The last part is regarding your demographic information.
+15:10:29|203be9e12b3544a491ea84b481feee51|B10|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+15:10:29|203be9e12b3544a491ea84b481feee51|U8|answer_current_student|answer_current_student_1|
+15:10:29|203be9e12b3544a491ea84b481feee51|B11|||||utter_gender|What's your gender?
+15:10:29|203be9e12b3544a491ea84b481feee51|U9|answer_gender|gender_1|
+15:10:29|203be9e12b3544a491ea84b481feee51|B12|||||utter_age|What's your age?
+15:10:29|203be9e12b3544a491ea84b481feee51|U10|answer_age|age_2|
+15:10:29|203be9e12b3544a491ea84b481feee51|B13|||||utter_marriage|Are you married?
+15:10:29|203be9e12b3544a491ea84b481feee51|U11|answer_marriage|marriage_2|
+15:10:29|203be9e12b3544a491ea84b481feee51|B14|||||utter_education|What is your current completed education level?
+15:10:29|203be9e12b3544a491ea84b481feee51|U12|answer_education|education_3|
+15:14:11|fda3a74a6829439ea2821ace604c23ad|U0|greet|/greet|
+15:14:11|fda3a74a6829439ea2821ace604c23ad|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+15:14:11|fda3a74a6829439ea2821ace604c23ad|U1|out_of_scope|How's the weather|
+15:14:11|fda3a74a6829439ea2821ace604c23ad|B1|||||utter_out_of_scope|Sorry, I can't respond to this kind of question as I am a chatbot working for the school info request. Please ask a relevant question.
+15:14:11|fda3a74a6829439ea2821ace604c23ad|U2|goodbye|Bye|
+15:14:11|fda3a74a6829439ea2821ace604c23ad|B2|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+15:14:11|fda3a74a6829439ea2821ace604c23ad|U3|deny|No|
+15:14:11|fda3a74a6829439ea2821ace604c23ad|B3|||||utter_ask_short_feedback|Sorry to hear that. Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+15:14:11|fda3a74a6829439ea2821ace604c23ad|U4|short_feedback_rating|short_4|
+15:14:11|fda3a74a6829439ea2821ace604c23ad|B4|||||utter_prefinish_2|Thank you. The last part is regarding your demographic information.
+15:14:11|fda3a74a6829439ea2821ace604c23ad|B5|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+15:14:11|fda3a74a6829439ea2821ace604c23ad|U5|answer_current_student|answer_current_student_2|
+15:14:11|fda3a74a6829439ea2821ace604c23ad|B6|||||utter_gender|What's your gender?
+15:14:11|fda3a74a6829439ea2821ace604c23ad|U6|answer_gender|gender_1|
+15:14:11|fda3a74a6829439ea2821ace604c23ad|B7|||||utter_age|What's your age?
+15:14:11|fda3a74a6829439ea2821ace604c23ad|U7|answer_age|age_2|
+15:14:11|fda3a74a6829439ea2821ace604c23ad|B8|||||utter_marriage|Are you married?
+15:14:11|fda3a74a6829439ea2821ace604c23ad|U8|answer_marriage|marriage_2|
+15:14:11|fda3a74a6829439ea2821ace604c23ad|B9|||||utter_education|What is your current completed education level?
+15:14:11|fda3a74a6829439ea2821ace604c23ad|U9|answer_education|education_3|
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|U0|greet|/greet|
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|U1|greet|hey|
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|B1|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|U2|school_questions|What's the application fee|
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|B2|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|B3|||||utter_did_that_help|Was this helpful?
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|U3|helpfulness_rating|helpfulness_1|
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|B4|||||utter_carry_on|Thanks, carry on!
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|U4|out_of_scope|How's the weather|
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|B5|||||utter_out_of_scope|Sorry, I can't respond to this kind of question as I am a chatbot working for the school info request. Please ask a relevant question. 
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|U5|goodbye|Bye|
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|B6|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions.
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|U6|deny|No|
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|B7|||||utter_ask_short_feedback|Sorry to hear that. Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|U7|short_feedback_rating|short_4|
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|B8|||||utter_prefinish_2|Thank you. The last part is regarding your demographic information.
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|B9|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|U8|answer_current_student|answer_current_student_2|
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|B10|||||utter_gender|What's your gender?
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|U9|answer_gender|gender_1|
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|B11|||||utter_age|What's your age?
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|U10|answer_age|age_2|
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|B12|||||utter_marriage|Are you married?
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|U11|answer_marriage|marriage_2|
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|B13|||||utter_education|What is your current completed education level?
+15:25:45|5d5ceedd585444e2839c04060f4e76e9|U12|answer_education|education_3|
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|U0|greet|/greet|
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|U1|school_questions|what's the application fee|
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|B1|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|B2|||||utter_did_that_help|Was this helpful?
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|U2|helpfulness_rating|helpfulness_1|
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|B3|||||utter_carry_on|Thanks, carry on!
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|U3|goodbye|Bye|
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|B4|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions.
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|U4|deny|No|
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|B5|||||utter_ask_short_feedback|Sorry to hear that. Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|U5|short_feedback_rating|short_4|
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|B6|||||utter_prefinish_2|Thank you. The last part is regarding your demographic information.
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|B7|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|U6|answer_current_student|answer_current_student_2|
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|B8|||||utter_gender|What's your gender?
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|U7|answer_gender|gender_1|
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|B9|||||utter_age|What's your age?
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|U8|answer_age|age_2|
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|B10|||||utter_marriage|Are you married?
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|U9|answer_marriage|marriage_2|
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|B11|||||utter_education|What is your current completed education level?
+15:42:41|1e71f51e2c4946b3a1d0f511aa43388e|U10|answer_education|education_3|
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|U0|greet|/greet|
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|U1|school_questions|Where I can submit the application|
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|B1|||||utter_school_pdf|Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|B2|||||utter_did_that_help|Was this helpful?
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|U2|helpfulness_rating|helpfulness_1|
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|B3|||||utter_carry_on|Thanks, carry on!
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|U3|goodbye|Bye|
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|B4|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions.
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|U4|deny|No|
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|B5|||||utter_ask_short_feedback|Sorry to hear that. Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|U5|short_feedback_rating|short_3|
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|B6|||||utter_prefinish_2|Thank you. The last part is regarding your demographic information.
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|B7|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|U6|answer_current_student|answer_current_student_2|
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|B8|||||utter_gender|What's your gender?
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|U7|answer_gender|gender_1|
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|B9|||||utter_age|What's your age?
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|U8|answer_age|age_2|
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|B10|||||utter_marriage|Are you married?
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|U9|answer_marriage|marriage_2|
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|B11|||||utter_education|What is your current completed education level?
+15:18:14|421cc8bf80d748689f0a5fe05a4f119d|U10|answer_education|education_4|
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|U0|greet|/greet|
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|U1|access_application|How'e the application process|
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|B1|||||utter_access_application|Please refer https://sc.edu/apply/index.php 
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|B2|||||utter_did_that_help|Was this helpful?
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|U2|helpfulness_rating|helpfulness_1|
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|B3|||||utter_carry_on|Thanks, carry on!
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|U3|goodbye|Bye|
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|B4|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|U4|deny|No|
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|B5|||||utter_ask_short_feedback|Sorry to hear that. Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|U5|short_feedback_rating|short_4|
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|B6|||||utter_prefinish_2|Thank you. The last part is regarding your demographic information.
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|B7|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|U6|answer_current_student|answer_current_student_2|
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|B8|||||utter_gender|What's your gender?
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|U7|answer_gender|gender_1|
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|B9|||||utter_age|What's your age?
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|U8|answer_age|age_2|
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|B10|||||utter_marriage|Are you married?
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|U9|answer_marriage|marriage_2|
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|B11|||||utter_education|What is your current completed education level?
+16:02:48|8a8291a7c9354fd48243bb5b10c1a75c|U10|answer_education|education_3|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|U0|greet|/greet|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|U1|application_fee|Hello what's the application fee|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|B1|||||utter_application_fee|$65 (Common Application Fee without waiver)
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|B2|||||utter_did_that_help|Was this helpful?
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|U2|helpfulness_rating|helpfulness_1|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|B3|||||utter_carry_on|Thanks, carry on!
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|U3|health_services|Where is the student health center|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|U4|housing|How's the student living on campus|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|U5|application_fee|What's the application fee|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|U6|goodbye|Bye|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|B4|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|U7|affirm|Yes|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|B5|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|U8|satisfy_rating|satisfy_1|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|B6|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|U9|interaction_rating|interaction_1|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|B7|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|U10|preference_rating|preference_1|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|B8|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|U11|future_use_rating|future_use_2|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|B9|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|U12|overall_rating|overall_1|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|B10|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|B11|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|U13|answer_current_student|answer_current_student_2|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|B12|||||utter_gender|What's your gender?
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|U14|answer_gender|gender_1|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|B13|||||utter_age|What's your age?
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|U15|answer_age|age_2|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|B14|||||utter_marriage|Are you married?
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|U16|answer_marriage|marriage_2|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|B15|||||utter_education|What is your current completed education level?
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|U17|answer_education|education_3|
+20:45:43|23b3b38fcd824a83ae40c6292cb564ca|B16|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ [Conversation ends.]
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|U0|greet|/greet|
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|U1|greet|hi|
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|U2|out_of_scope|WHTS' JAKJDSH|
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|B1|||||utter_out_of_scope|Sorry, I can't respond to this kind of question as I am a chatbot working for the school info request. Please ask a relevant question.
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|U3|goodbye|BYE|
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|B2|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|U4|deny|No|
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|B3|||||utter_ask_short_feedback|Sorry to hear that. Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|U5|short_feedback_rating|short_1|
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|B4|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|B5|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|U6|answer_current_student|answer_current_student_2|
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|B6|||||utter_gender|What's your gender?
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|U7|answer_gender|gender_1|
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|B7|||||utter_age|What's your age?
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|U8|answer_age|age_1|
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|B8|||||utter_marriage|Are you married?
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|U9|answer_marriage|marriage_2|
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|B9|||||utter_education|What is your current completed education level?
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|U10|answer_education|education_3|
+21:42:55|ee97d56b2f0c4c0faf861e641087b1af|B10|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ [Conversation ends.]
+19:09:08|99fb4aa8faee46af97d417683c362041|U0|greet|/greet|
+19:09:08|99fb4aa8faee46af97d417683c362041|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+19:09:08|99fb4aa8faee46af97d417683c362041|U1|out_of_scope|How's the weather|
+19:09:08|99fb4aa8faee46af97d417683c362041|B1|||||utter_out_of_scope|Sorry, I can't respond to this kind of question as I am a chatbot working for the school info request. Please ask a relevant question.
+19:09:08|99fb4aa8faee46af97d417683c362041|U2|application_fee|What's the application fee|
+19:09:08|99fb4aa8faee46af97d417683c362041|B2|||||utter_application_fee|$65 (Common Application Fee without waiver)
+19:09:08|99fb4aa8faee46af97d417683c362041|B3|||||utter_did_that_help|Was this helpful?
+19:09:08|99fb4aa8faee46af97d417683c362041|U3|helpfulness_rating|helpfulness_1|
+19:09:08|99fb4aa8faee46af97d417683c362041|B4|||||utter_carry_on|Thanks, carry on!
+19:09:08|99fb4aa8faee46af97d417683c362041|U4|goodbye|Bye|
+19:09:08|99fb4aa8faee46af97d417683c362041|B5|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+19:09:08|99fb4aa8faee46af97d417683c362041|U5|deny|No|
+19:09:08|99fb4aa8faee46af97d417683c362041|B6|||||utter_ask_short_feedback|Sorry to hear that. Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+19:09:08|99fb4aa8faee46af97d417683c362041|U6|short_feedback_rating|short_2|
+19:09:08|99fb4aa8faee46af97d417683c362041|B7|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+19:09:08|99fb4aa8faee46af97d417683c362041|B8|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+19:09:08|99fb4aa8faee46af97d417683c362041|U7|answer_current_student|answer_current_student_2|
+19:09:08|99fb4aa8faee46af97d417683c362041|B9|||||utter_gender|What's your gender?
+19:09:08|99fb4aa8faee46af97d417683c362041|U8|answer_gender|gender_1|
+19:09:08|99fb4aa8faee46af97d417683c362041|B10|||||utter_age|What's your age?
+19:09:08|99fb4aa8faee46af97d417683c362041|U9|answer_age|age_2|
+19:09:08|99fb4aa8faee46af97d417683c362041|B11|||||utter_marriage|Are you married?
+19:09:08|99fb4aa8faee46af97d417683c362041|U10|answer_marriage|marriage_2|
+19:09:08|99fb4aa8faee46af97d417683c362041|B12|||||utter_education|What is your current completed education level?
+19:09:08|99fb4aa8faee46af97d417683c362041|U11|answer_education|education_3|
+19:09:08|99fb4aa8faee46af97d417683c362041|B13|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ [Conversation ends.]
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|U0|greet|/greet|
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|U1|application_fee|What's the application fee|
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|B1|||||utter_application_fee|$65 (Common Application Fee without waiver)
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|B2|||||utter_did_that_help|Was this helpful?
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|U2|helpfulness_rating|helpfulness_1|
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|B3|||||utter_carry_on|Thanks, carry on!
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|U3|health_services|where is the health center located|
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|U4|housing|how can I find the student livbing|
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|U5|housing|How's the student living|
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|U6|campus|What places are there at the campus|
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|U7|locality|How is the locality of the college?|
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|U8|access_application|Where can I access the application?|
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|U9|goodbye|Bye|
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|B4|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|U10|deny|No|
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|B5|||||utter_ask_short_feedback|Sorry to hear that. Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|U11|short_feedback_rating|short_1|
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|B6|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|B7|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|U12|answer_current_student|answer_current_student_2|
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|B8|||||utter_gender|What's your gender?
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|U13|answer_gender|gender_1|
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|B9|||||utter_age|What's your age?
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|U14|answer_age|age_1|
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|B10|||||utter_marriage|Are you married?
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|U15|answer_marriage|marriage_2|
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|B11|||||utter_education|What is your current completed education level?
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|U16|answer_education|education_3|
+22:29:41|ef6cd0818d4b4d30af4046d2c85373ce|B12|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ [Conversation ends.]
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U0|greet|/greet|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U1|application_fee|What's your application fee|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B1|||||utter_application_fee|$65 (Common Application Fee without waiver)
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B2|||||utter_did_that_help|Was this helpful?
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U2|helpfulness_rating|helpfulness_1|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B3|||||utter_carry_on|Thanks, carry on!
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U3|housing|How's the student living|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U4|application_fee|What's your application fee|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U5|ranking|What is the college ranking?|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U6|locality|How is the locality of the college?|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B4|||||utter_locality|It has seven satellite campuses throughout the state and its main campus covers over 359 acres (145 ha) in downtown Columbia not far from the South Carolina State House.
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U7|tourist|What are the tourist attractions around the college?|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B5|||||utter_tourist|Please refer https://www.tripadvisor.in/AttractionsNear-g54184-d126619-University_of_South_Carolina-Columbia_South_Carolina.html 
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B6|||||utter_did_that_help|Was this helpful?
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U8|helpfulness_rating|helpfulness_1|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B7|||||utter_carry_on|Thanks, carry on!
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U9|campus|What places are there at the campus|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U10|branch|I come from X branch. Can I apply for Y branch?|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B8|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U11|satisfy_rating|satisfy_2|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B9|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U12|interaction_rating|interaction_1|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B10|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U13|preference_rating|preference_1|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B11|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U14|future_use_rating|future_use_1|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B12|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U15|overall_rating|overall_1|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B13|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B14|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U16|answer_current_student|answer_current_student_2|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B15|||||utter_gender|What's your gender?
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U17|answer_gender|gender_1|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B16|||||utter_age|What's your age?
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U18|answer_age|age_2|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B17|||||utter_marriage|Are you married?
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U19|answer_marriage|marriage_2|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B18|||||utter_education|What is your current completed education level?
+03:42:17|ce3e50851ff34f8a98cd55082224921a|U20|answer_education|education_3|
+03:42:17|ce3e50851ff34f8a98cd55082224921a|B19|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ [Conversation ends.]
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U0|greet|/greet|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U1|ranking|What is the college ranking?|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B1|||||utter_ranking|We are ranked in the top 20 of ALA accredited schools by U.S. News & World Report.
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B2|||||utter_did_that_help|Was this helpful?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U2|helpfulness_rating|helpfulness_1|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B3|||||utter_carry_on|Thanks, carry on!
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U3|locality|How is the locality of the college?|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B4|||||utter_corona_testing|Please visit https://sc.edu/about/offices_and_divisions/student_health_services/medical-services/covid-19/covid19_testing/on-campus_testing/index.php 
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B5|||||utter_did_that_help|Was this helpful?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U4|helpfulness_rating|helpfulness_3|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B6|||||utter_carry_on|Thanks, carry on!
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U5|tourist|What are the tourist attractions around the college?|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B7|||||utter_corona_testing|Please visit https://sc.edu/about/offices_and_divisions/student_health_services/medical-services/covid-19/covid19_testing/on-campus_testing/index.php 
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B8|||||utter_did_that_help|Was this helpful?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U6|helpfulness_rating|helpfulness_3|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B9|||||utter_carry_on|Thanks, carry on!
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U7|branch|I come from X branch. Can I apply for Y branch?|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B10|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U8|access_application|Where can I access the application?|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B11|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U9|deny|No|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B12|||||utter_ask_short_feedback|Sorry to hear that. Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U10|short_feedback_rating|short_4|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B13|||||utter_default|Sorry I didn't get that. I can not help you?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U11|access_application|Where can I access the application?|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B14|||||utter_ranking|We are ranked in the top 20 of ALA accredited schools by U.S. News & World Report.
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B15|||||utter_did_that_help|Was this helpful?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U12|helpfulness_rating|helpfulness_3|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B16|||||utter_carry_on|Thanks, carry on!
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U13|locality|How is the locality of the college?|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B17|||||utter_corona_testing|Please visit https://sc.edu/about/offices_and_divisions/student_health_services/medical-services/covid-19/covid19_testing/on-campus_testing/index.php 
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B18|||||utter_did_that_help|Was this helpful?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U14|helpfulness_rating|helpfulness_3|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B19|||||utter_carry_on|Thanks, carry on!
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U15|cost|What is the typical cost for an apartment or a room|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B20|||||utter_cost|Typical student apartment price in Columbia range from 500-1500 USD. A room can be found at 350-600 USD.
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B21|||||utter_did_that_help|Was this helpful?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U16|helpfulness_rating|helpfulness_1|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B22|||||utter_carry_on|Thanks, carry on!
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U17|find_place|How to find a place to stay|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B23|||||utter_carry_on|Thanks, carry on!
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U18|transport_mode|How does the transport work|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B24|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U19|transport_use|Which means of transport to use|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B25|||||utter_application_acceptance|The Graduate School will email you notifying you of your official decision. 
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B26|||||utter_did_that_help|Was this helpful?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U20|helpfulness_rating|helpfulness_3|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B27|||||utter_carry_on|Thanks, carry on!
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U21|student_card|How do I get my student card|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B28|||||utter_student_card|First year students, in order to receive your CarolinaCard upon move-in you must upload your photo and sign the cardholder agreement.  Transfer students, please follow the requirements above in order to pick up your CarolinaCard in our office in the basement of the Russell House Student Union on Greene Street.  Faculty and staff, you will also need to follow the requirements above and come to the CarolinaCard office inside the Russell House.
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B29|||||utter_did_that_help|Was this helpful?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U22|helpfulness_rating|helpfulness_1|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B30|||||utter_carry_on|Thanks, carry on!
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U23|internet|How do I connect to the univeristy's network and Internet|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B31|||||utter_answers_satisfaction|Are you satisfied with the answers to your questions?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U24|satisfy_rating|satisfy_4|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B32|||||utter_interaction|Are you satisfied with how the chatbot interacted with you?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U25|interaction_rating|interaction_2|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B33|||||utter_preference|To what extent will you prefer the chatbot over Google search for the answers?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U26|preference_rating|preference_2|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B34|||||utter_future_use|Will you choose the chatbot to find UofSC info for the future use?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U27|future_use_rating|future_use_3|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B35|||||utter_overall_rating|What’s your overall satisfaction of using the chatbot to find the school information?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U28|overall_rating|overall_2|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B36|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B37|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U29|answer_current_student|answer_current_student_2|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B38|||||utter_gender|What's your gender?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U30|answer_gender|gender_2|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B39|||||utter_age|What's your age?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U31|answer_age|age_2|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B40|||||utter_marriage|Are you married?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U32|answer_marriage|marriage_2|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B41|||||utter_education|What is your current completed education level?
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|U33|answer_education|education_3|
+20:08:36|7ac5e2efb3df40b1b00018b28e112ef2|B42|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ [Conversation ends.]
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|U0|greet|/greet|
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B0|||||utter_greet|Hey! Welcome to the website of University of South Carolina, Columbia. I can help you with some basic questions regarding application, locations, student living, school services, etc. How can I help you?
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|U1|transport_mode|How does the transport work|
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B1|||||utter_transport_mode|University Bus facility / Walking based on location data / Cab Services
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B2|||||utter_did_that_help|Was this helpful?
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|U2|helpfulness_rating|helpfulness_1|
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B3|||||utter_carry_on|Thanks, carry on!
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|U3|transport_use|Which means of transport to use|
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B4|||||utter_application_acceptance|The Graduate School will email you notifying you of your official decision. 
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B5|||||utter_did_that_help|Was this helpful?
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|U4|helpfulness_rating|helpfulness_3|
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B6|||||utter_carry_on|Thanks, carry on!
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|U5|student_card|How do I get my student card|
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B7|||||utter_student_card|First year students, in order to receive your CarolinaCard upon move-in you must upload your photo and sign the cardholder agreement.  Transfer students, please follow the requirements above in order to pick up your CarolinaCard in our office in the basement of the Russell House Student Union on Greene Street.  Faculty and staff, you will also need to follow the requirements above and come to the CarolinaCard office inside the Russell House.
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B8|||||utter_did_that_help|Was this helpful?
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|U6|helpfulness_rating|helpfulness_1|
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B9|||||utter_carry_on|Thanks, carry on!
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|U7|goodbye|Bye|
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B10|||||utter_ask_ratings|Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|U8|deny|No|
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B11|||||utter_ask_short_feedback|Sorry to hear that. Please just give us an overall feedback. What’s your overall satisfaction of using the chatbot to find the school information?
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|U9|short_feedback_rating|short_2|
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B12|||||utter_prefinish_1|Thanks, that's all for the feedbacks. The last part is regarding your demographic information.
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B13|||||utter_current_student|Are you currently a student studying less than 2 years at UofSC?
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|U10|answer_current_student|answer_current_student_2|
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B14|||||utter_gender|What's your gender?
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|U11|answer_gender|gender_2|
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B15|||||utter_age|What's your age?
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|U12|answer_age|age_2|
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B16|||||utter_marriage|Are you married?
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|U13|answer_marriage|marriage_2|
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B17|||||utter_education|What is your current completed education level?
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|U14|answer_education|education_3|
+20:33:06|958670fb1e0d477f8d841cd1e4b44734|B18|||||utter_prefinish_2|Thanks for your participation and feedbacks. This is all about the experiment.
+ [Conversation ends.]

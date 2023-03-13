@@ -1,0 +1,1453 @@
+
+For Group 3 gender: 
+
+Processing biased
+Calculating results for e1_bf.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+For M,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+-10000.0
+
+
+
+ p-value is: 
+0.0
+
+
+
+ The DOF are: 
+14
+
+
+For N,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+-10000.0
+
+
+
+ p-value is: 
+0.0
+
+
+
+ The DOF are: 
+14
+
+
+Processing biased
+Calculating results for e2_bf.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+For M,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+-10000.0
+
+
+
+ p-value is: 
+0.0
+
+
+
+ The DOF are: 
+14
+
+
+For N,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+-10000.0
+
+
+
+ p-value is: 
+0.0
+
+
+
+ The DOF are: 
+14
+
+
+Processing biased
+Calculating results for e3_bf.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+30
+
+
+For M,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+-10000.0
+
+
+
+ p-value is: 
+0.0
+
+
+
+ The DOF are: 
+30
+
+
+For N,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+-10000.0
+
+
+
+ p-value is: 
+0.0
+
+
+
+ The DOF are: 
+30
+
+
+Processing biased
+Calculating results for e4_bf.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+46
+
+
+For M,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+-10000.0
+
+
+
+ p-value is: 
+0.0
+
+
+
+ The DOF are: 
+46
+
+
+For N,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+-10000.0
+
+
+
+ p-value is: 
+0.0
+
+
+
+ The DOF are: 
+46
+
+
+Processing biased
+Calculating results for e5_bf.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+46
+
+
+For M,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+-10000.0
+
+
+
+ p-value is: 
+0.0
+
+
+
+ The DOF are: 
+46
+
+
+For N,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+-10000.0
+
+
+
+ p-value is: 
+0.0
+
+
+
+ The DOF are: 
+46
+
+
+Processing dbert
+Calculating results for e1_dbert.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+Processing dbert
+Calculating results for e2_dbert.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+Processing dbert
+Calculating results for e3_dbert.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+30
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+30
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+30
+
+
+Processing dbert
+Calculating results for e4_dbert.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+46
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+46
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+46
+
+
+Processing dbert
+Calculating results for e5_dbert.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+46
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+46
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+46
+
+
+Processing gru
+Calculating results for e1_gru.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+Processing gru
+Calculating results for e2_gru.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+-0.9996001599360256
+
+
+
+ p-value is: 
+0.33446877068183745
+
+
+
+ The DOF are: 
+14
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+-0.9996001599360256
+
+
+
+ p-value is: 
+0.33446877068183745
+
+
+
+ The DOF are: 
+14
+
+
+Processing gru
+Calculating results for e3_gru.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+-0.8878921863104801
+
+
+
+ p-value is: 
+0.3816623790115683
+
+
+
+ The DOF are: 
+30
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+30
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+-0.8878921863104801
+
+
+
+ p-value is: 
+0.3816623790115683
+
+
+
+ The DOF are: 
+30
+
+
+Processing gru
+Calculating results for e4_gru.csv
+For M,N: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+-1.554521933740642
+
+
+
+ p-value is: 
+0.12691389051625346
+
+
+
+ The DOF are: 
+46
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+46
+
+
+For N,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+-1.554521933740642
+
+
+
+ p-value is: 
+0.12691389051625346
+
+
+
+ The DOF are: 
+46
+
+
+Processing gru
+Calculating results for e5_gru.csv
+For M,N: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+-1.3290636515721233
+
+
+
+ p-value is: 
+0.19038175872839957
+
+
+
+ The DOF are: 
+46
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+46
+
+
+For N,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+-1.3290636515721233
+
+
+
+ p-value is: 
+0.19038175872839957
+
+
+
+ The DOF are: 
+46
+
+
+Processing random
+Calculating results for e1_random.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+Processing random
+Calculating results for e2_random.csv
+For M,N: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+-2.255286576711241
+
+
+
+ p-value is: 
+0.04064657135158711
+
+
+
+ The DOF are: 
+14
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+-1.1276432883556204
+
+
+
+ p-value is: 
+0.2784262756852245
+
+
+
+ The DOF are: 
+14
+
+
+For N,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+-4.240242043996739
+
+
+
+ p-value is: 
+0.0008235881226075215
+
+
+
+ The DOF are: 
+14
+
+
+Processing random
+Calculating results for e3_random.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.3434828257900071
+
+
+
+ p-value is: 
+0.7336308872625481
+
+
+
+ The DOF are: 
+30
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+-1.064502705231677
+
+
+
+ p-value is: 
+0.2955943358329072
+
+
+
+ The DOF are: 
+30
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+-0.712667485070186
+
+
+
+ p-value is: 
+0.4815582627784005
+
+
+
+ The DOF are: 
+30
+
+
+Processing random
+Calculating results for e4_random.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+-0.5687720216913074
+
+
+
+ p-value is: 
+0.5722774905225871
+
+
+
+ The DOF are: 
+46
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+46
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+-0.5687720216913074
+
+
+
+ p-value is: 
+0.5722774905225871
+
+
+
+ The DOF are: 
+46
+
+
+Processing random
+Calculating results for e5_random.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+-1.1623487975019553
+
+
+
+ p-value is: 
+0.2510889443532385
+
+
+
+ The DOF are: 
+46
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+-0.28289678002078034
+
+
+
+ p-value is: 
+0.7785251390563723
+
+
+
+ The DOF are: 
+46
+
+
+For N,F: 
+
+Reject the null hypothesis that the means are equal.
+
+ t-value is: 
+
+-1.4556123509263408
+
+
+
+ p-value is: 
+0.1522911038655097
+
+
+
+ The DOF are: 
+46
+
+
+Processing textblob
+Calculating results for e1_tb.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+Processing textblob
+Calculating results for e2_tb.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+14
+
+
+Processing textblob
+Calculating results for e3_tb.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+30
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+30
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+30
+
+
+Processing textblob
+Calculating results for e4_tb.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+46
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+46
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+46
+
+
+Processing textblob
+Calculating results for e5_tb.csv
+For M,N: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+46
+
+
+For M,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+46
+
+
+For N,F: 
+
+Accept null hypothesis that the means are equal.
+
+ t-value is: 
+
+0.0
+
+
+
+ p-value is: 
+1.0
+
+
+
+ The DOF are: 
+46
+
+

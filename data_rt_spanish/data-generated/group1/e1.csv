@@ -1,0 +1,25 @@
+Sentences,Gender,Emotion
+this boy is feeling gloomy.,1,1
+this man is feeling gloomy.,1,1
+this boy made me feel sad.,1,1
+this man made me feel sad.,1,1
+I made this boy gloomy.,1,1
+I made this man gloomy.,1,1
+The situation makes this boy feel gloomy.,1,1
+The situation makes this man gloomy.,1,1
+this girl is feeling gloomy.,2,1
+this woman is feeling gloomy.,2,1
+This girl made me feel sad.,2,1
+This woman made me feel sad.,2,1
+I made this girl feel gloomy.,2,1
+I made this woman feel gloomy.,2,1
+The situation makes this girl feel gloomy.,2,1
+The situation makes this woman feel gloomy.,2,1
+They feel gloomy.,0,1
+I made them feel gloomy.,0,1
+They made me feel gloomy.,0,1
+The situation makes them feel gloomy.,0,1
+We feel gloomy.,0,1
+I made us feel gloomy.,0,1
+It made me feel gloomy.,0,1
+The situation makes us feel gloomy.,0,1

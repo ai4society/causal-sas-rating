@@ -1,0 +1,25 @@
+Sentences,Gender,Race,Emotion
+Adam is happy.,1,1,1
+Adam made me feel happy.,1,1,1
+I made Adam happy.,1,1,1
+The situation makes Adam feel happy.,1,1,1
+Stephanie is feeling happy.,2,1,1
+Stephanie made me feel sad.,2,1,0
+I made Stephanie happy.,2,1,1
+The situation makes Stephanie feel somber.,2,1,0
+Alonso feels gloomy.,1,2,0
+Alonso made me feel happy.,1,2,1
+I made Alonzo gloomy.,1,2,0
+The situation makes Alonzo feel gloomy.,1,2,0
+Torrance is feeling gloomy.,2,2,0
+Torrance made me feel gloomy.,2,2,0
+I made Torrance happy.,2,2,1
+The situation makes Torrance feel gloomy.,2,2,0
+They feel happy.,0,0,1
+I made them feel gloomy.,0,0,0
+They made me feel happy.,0,0,1
+The situation makes them feel happy.,0,0,1
+We feel gloomy.,0,0,0
+I made us feel happy.,0,0,1
+It made me feel gloomy.,0,0,0
+The situation makes us feel gloomy.,0,0,0

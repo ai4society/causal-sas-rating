@@ -1,0 +1,1465 @@
+C_num,UB,User_gender,Original,Enhancement,Text
+1,1,0,Hi,"Hey, ","Hey, Hi"
+1,0,0,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?"
+1,1,0,student living,"Hey, ","Hey, student living"
+1,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+1,0,0,Was this helpful?,No enhancement,Was this helpful?
+1,1,0,helpful,"Hey, ","Hey, helpful"
+1,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+1,1,0,How to find an apartment,"Hey, ","Hey, How to find an apartment"
+1,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+1,0,0,Was this helpful?,No enhancement,Was this helpful?
+1,1,0,helpful,"Hey, ","Hey, helpful"
+1,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+1,1,0,whats the price,"Hey, ","Hey, whats the price"
+1,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+1,0,0,Was this helpful?,No enhancement,Was this helpful?
+1,1,0,helpful,"Hey, ","Hey, helpful"
+1,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+1,1,0,Bye,"Hey, ","Hey, Bye"
+1,0,0,Could you give us some feedbacks regarding your experience? There will be 5 questions.,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions.
+1,1,0,Yes,"Hey, ","Hey, Yes"
+1,0,0,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+1,1,0,satisfy,"Hey, ","Hey, satisfy"
+1,0,0,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+1,1,0,interaction,"Hey, ","Hey, interaction"
+1,0,0,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+1,1,0,preference,"Hey, ","Hey, preference"
+1,0,0,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+1,1,0,future,"Hey, ","Hey, future"
+1,0,0,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+1,1,0,overall,"Hey, ","Hey, overall"
+1,0,0,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+1,0,0,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+1,1,0,answer,"Hey, ","Hey, answer"
+1,0,0,What's your gender?,No enhancement,What's your gender?
+1,1,0,gender,"Hey, ","Hey, gender"
+1,0,0,What's your age?,No enhancement,What's your age?
+1,1,0,age,"Hey, ","Hey, age"
+1,0,0,Are you married?,No enhancement,Are you married?
+1,1,0,marriage,"Hey, ","Hey, marriage"
+1,0,0,What is your current completed education level?,No enhancement,What is your current completed education level?
+1,1,0,education,"Hey, ","Hey, education"
+1,0,0,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+2,1,0,Hi,"Hey, ","Hey, Hi"
+2,0,0,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?"
+2,1,0,When is the deadline to apply for Ph.D. for the spring semester?,"Hey, ","Hey, When is the deadline to apply for Ph.D. for the spring semester?"
+2,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+2,0,0,Was this helpful?,No enhancement,Was this helpful?
+2,1,0,helpful,"Hey, ","Hey, helpful"
+2,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+2,1,0,Where can I find the courses that I would need to take as a Ph.D. student in computer science and enginreering?,"Hey, ","Hey, Where can I find the courses that I would need to take as a Ph.D. student in computer science and enginreering?"
+2,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+2,0,0,Was this helpful?,No enhancement,Was this helpful?
+2,1,0,helpful,"Hey, ","Hey, helpful"
+2,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+2,1,0,When will be the spring break this year?,"Hey, ","Hey, When will be the spring break this year?"
+2,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+2,0,0,Was this helpful?,No enhancement,Was this helpful?
+2,1,0,helpful,"Hey, ","Hey, helpful"
+2,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+2,1,0,Is there some services to help me (a student) find a place to live in Columbia?,"Hey, ","Hey, Is there some services to help me (a student) find a place to live in Columbia?"
+2,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+2,0,0,Was this helpful?,No enhancement,Was this helpful?
+2,1,0,helpful,"Hey, ","Hey, helpful"
+2,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+2,1,0,How many credits does a Master student needs to take per semester?,"Hey, ","Hey, How many credits does a Master student needs to take per semester?"
+2,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+2,0,0,Was this helpful?,No enhancement,Was this helpful?
+2,1,0,helpful,"Hey, ","Hey, helpful"
+2,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+2,1,0,bye,"Hey, ","Hey, bye"
+2,0,0,Could you give us some feedbacks regarding your experience? There will be 5 questions.,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions.
+2,1,0,Yes,"Hey, ","Hey, Yes"
+2,0,0,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+2,1,0,satisfy,"Hey, ","Hey, satisfy"
+2,0,0,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+2,1,0,interaction,"Hey, ","Hey, interaction"
+2,0,0,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+2,1,0,preference,"Hey, ","Hey, preference"
+2,0,0,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+2,1,0,future,"Hey, ","Hey, future"
+2,0,0,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+2,1,0,overall,"Hey, ","Hey, overall"
+2,0,0,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+2,0,0,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+2,1,0,answer,"Hey, ","Hey, answer"
+2,0,0,What's your gender?,No enhancement,What's your gender?
+2,1,0,gender,"Hey, ","Hey, gender"
+2,0,0,What's your age?,No enhancement,What's your age?
+2,1,0,age,"Hey, ","Hey, age"
+2,0,0,Are you married?,No enhancement,Are you married?
+2,1,0,marriage,"Hey, ","Hey, marriage"
+2,0,0,What is your current completed education level?,No enhancement,What is your current completed education level?
+2,1,0,education,"Hey, ","Hey, education"
+2,0,0,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+3,1,0,Hi,"Hey, ","Hey, Hi"
+3,0,0,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?"
+3,1,0,student living,"Hey, ","Hey, student living"
+3,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+3,0,0,Was this helpful?,No enhancement,Was this helpful?
+3,1,0,helpful,"Hey, ","Hey, helpful"
+3,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+3,1,0,How to find an apartment,"Hey, ","Hey, How to find an apartment"
+3,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+3,0,0,Was this helpful?,No enhancement,Was this helpful?
+3,1,0,helpful,"Hey, ","Hey, helpful"
+3,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+3,1,0,whats the price,"Hey, ","Hey, whats the price"
+3,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+3,0,0,Was this helpful?,No enhancement,Was this helpful?
+3,1,0,helpful,"Hey, ","Hey, helpful"
+3,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+3,1,0,Bye,"Hey, ","Hey, Bye"
+3,0,0,Could you give us some feedbacks regarding your experience? There will be 5 questions.,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions.
+3,1,0,Yes,"Hey, ","Hey, Yes"
+3,0,0,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+3,1,0,satisfy,"Hey, ","Hey, satisfy"
+3,0,0,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+3,1,0,interaction,"Hey, ","Hey, interaction"
+3,0,0,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+3,1,0,preference,"Hey, ","Hey, preference"
+3,0,0,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+3,1,0,future,"Hey, ","Hey, future"
+3,0,0,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+3,1,0,overall,"Hey, ","Hey, overall"
+3,0,0,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+3,0,0,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+3,1,0,answer,"Hey, ","Hey, answer"
+3,0,0,What's your gender?,No enhancement,What's your gender?
+3,1,0,gender,"Hey, ","Hey, gender"
+3,0,0,What's your age?,No enhancement,What's your age?
+3,1,0,age,"Hey, ","Hey, age"
+3,0,0,Are you married?,No enhancement,Are you married?
+3,1,0,marriage,"Hey, ","Hey, marriage"
+3,0,0,What is your current completed education level?,No enhancement,What is your current completed education level?
+3,1,0,education,"Hey, ","Hey, education"
+3,0,0,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+4,1,0,Hi,"Hey, ","Hey, Hi"
+4,0,0,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?"
+4,1,0,When is the deadline to apply for Ph.D. for the spring semester?,"Hey, ","Hey, When is the deadline to apply for Ph.D. for the spring semester?"
+4,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+4,0,0,Was this helpful?,No enhancement,Was this helpful?
+4,1,0,helpful,"Hey, ","Hey, helpful"
+4,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+4,1,0,Where can I find the courses that I would need to take as a Ph.D. student in computer science and enginreering?,"Hey, ","Hey, Where can I find the courses that I would need to take as a Ph.D. student in computer science and enginreering?"
+4,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+4,0,0,Was this helpful?,No enhancement,Was this helpful?
+4,1,0,helpful,"Hey, ","Hey, helpful"
+4,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+4,1,0,When will be the spring break this year?,"Hey, ","Hey, When will be the spring break this year?"
+4,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+4,0,0,Was this helpful?,No enhancement,Was this helpful?
+4,1,0,helpful,"Hey, ","Hey, helpful"
+4,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+4,1,0,Is there some services to help me (a student) find a place to live in Columbia?,"Hey, ","Hey, Is there some services to help me (a student) find a place to live in Columbia?"
+4,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+4,0,0,Was this helpful?,No enhancement,Was this helpful?
+4,1,0,helpful,"Hey, ","Hey, helpful"
+4,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+4,1,0,How many credits does a Master student needs to take per semester?,"Hey, ","Hey, How many credits does a Master student needs to take per semester?"
+4,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+4,0,0,Was this helpful?,No enhancement,Was this helpful?
+4,1,0,helpful,"Hey, ","Hey, helpful"
+4,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+4,1,0,bye,"Hey, ","Hey, bye"
+4,0,0,Could you give us some feedbacks regarding your experience? There will be 5 questions.,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions.
+4,1,0,Yes,"Hey, ","Hey, Yes"
+4,0,0,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+4,1,0,satisfy,"Hey, ","Hey, satisfy"
+4,0,0,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+4,1,0,interaction,"Hey, ","Hey, interaction"
+4,0,0,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+4,1,0,preference,"Hey, ","Hey, preference"
+4,0,0,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+4,1,0,future,"Hey, ","Hey, future"
+4,0,0,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+4,1,0,overall,"Hey, ","Hey, overall"
+4,0,0,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+4,0,0,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+4,1,0,answer,"Hey, ","Hey, answer"
+4,0,0,What's your gender?,No enhancement,What's your gender?
+4,1,0,gender,"Hey, ","Hey, gender"
+4,0,0,What's your age?,No enhancement,What's your age?
+4,1,0,age,"Hey, ","Hey, age"
+4,0,0,Are you married?,No enhancement,Are you married?
+4,1,0,marriage,"Hey, ","Hey, marriage"
+4,0,0,What is your current completed education level?,No enhancement,What is your current completed education level?
+4,1,0,education,"Hey, ","Hey, education"
+4,0,0,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+5,1,0,Hi,"Hey, ","Hey, Hi"
+5,0,0,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?"
+5,1,0,I want to find temporary stay near campus,"Hey, ","Hey, I want to find temporary stay near campus"
+5,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+5,0,0,Was this helpful?,No enhancement,Was this helpful?
+5,1,0,Need apartment,"Hey, ","Hey, Need apartment"
+5,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+5,0,0,Was this helpful?,No enhancement,Was this helpful?
+5,1,0,How to find apartment?,"Hey, ","Hey, How to find apartment?"
+5,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+5,0,0,Was this helpful?,No enhancement,Was this helpful?
+5,1,0,helpful,"Hey, ","Hey, helpful"
+5,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+5,1,0,What's the application fee ?,"Hey, ","Hey, What's the application fee ?"
+5,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+5,0,0,Was this helpful?,No enhancement,Was this helpful?
+5,1,0,helpful,"Hey, ","Hey, helpful"
+5,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+5,1,0,End,"Hey, ","Hey, End"
+5,0,0,Could you give us some feedbacks regarding your experience? There will be 5 questions.,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions.
+5,1,0,Yes,"Hey, ","Hey, Yes"
+5,0,0,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+5,1,0,satisfy,"Hey, ","Hey, satisfy"
+5,0,0,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+5,1,0,interaction,"Hey, ","Hey, interaction"
+5,0,0,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+5,1,0,preference,"Hey, ","Hey, preference"
+5,0,0,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+5,1,0,future,"Hey, ","Hey, future"
+5,0,0,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+5,1,0,overall,"Hey, ","Hey, overall"
+5,0,0,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+5,0,0,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+5,1,0,answer,"Hey, ","Hey, answer"
+5,0,0,What's your gender?,No enhancement,What's your gender?
+5,1,0,gender,"Hey, ","Hey, gender"
+5,0,0,What's your age?,No enhancement,What's your age?
+5,1,0,age,"Hey, ","Hey, age"
+5,0,0,Are you married?,No enhancement,Are you married?
+5,1,0,marriage,"Hey, ","Hey, marriage"
+5,0,0,What is your current completed education level?,No enhancement,What is your current completed education level?
+5,1,0,education,"Hey, ","Hey, education"
+5,0,0,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+6,1,0,Hi,"Hey, ","Hey, Hi"
+6,0,0,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?"
+6,1,0,What's the applicationfee,"Hey, ","Hey, What's the applicationfee"
+6,1,0,What's the application fee,"Hey, ","Hey, What's the application fee"
+6,1,0,hi,"Hey, ","Hey, hi"
+6,0,0,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?"
+6,1,0,How's the waether,"Hey, ","Hey, How's the waether"
+6,0,0,"Sorry,  I can't respond to this kind of question as I am a chatbot working for the school info request. Please ask a relevant question. ",No enhancement,"Sorry,  I can't respond to this kind of question as I am a chatbot working for the school info request. Please ask a relevant question. "
+6,1,0,what's the application fee,"Hey, ","Hey, what's the application fee"
+6,0,0,Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+6,0,0,Was this helpful?,No enhancement,Was this helpful?
+6,1,0,helpful,"Hey, ","Hey, helpful"
+6,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+6,1,0,Where I can stay in columbia,"Hey, ","Hey, Where I can stay in columbia"
+6,1,0,Bye,"Hey, ","Hey, Bye"
+6,0,0,Could you give us some feedbacks regarding your experience? There will be 5 questions.,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions.
+6,1,0,Yes,"Hey, ","Hey, Yes"
+6,0,0,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+6,1,0,satisfy,"Hey, ","Hey, satisfy"
+6,0,0,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+6,1,0,interaction,"Hey, ","Hey, interaction"
+6,0,0,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+6,1,0,preference,"Hey, ","Hey, preference"
+6,0,0,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+6,1,0,future,"Hey, ","Hey, future"
+6,0,0,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+6,1,0,overall,"Hey, ","Hey, overall"
+6,0,0,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+6,0,0,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+6,1,0,answer,"Hey, ","Hey, answer"
+6,0,0,What's your gender?,No enhancement,What's your gender?
+6,1,0,gender,"Hey, ","Hey, gender"
+6,0,0,What's your age?,No enhancement,What's your age?
+6,1,0,age,"Hey, ","Hey, age"
+6,0,0,Are you married?,No enhancement,Are you married?
+6,1,0,marriage,"Hey, ","Hey, marriage"
+6,0,0,What is your current completed education level?,No enhancement,What is your current completed education level?
+6,1,0,education,"Hey, ","Hey, education"
+6,0,0,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+7,1,0,Hi,"Hey, ","Hey, Hi"
+7,0,0,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?"
+7,1,0,"Hello,  where I can submit application","Hey, ","Hey, Hello,  where I can submit application"
+7,0,0,Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+7,0,0,Was this helpful?,No enhancement,Was this helpful?
+7,1,0,helpful,"Hey, ","Hey, helpful"
+7,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+7,1,0,How's the weather,"Hey, ","Hey, How's the weather"
+7,0,0,"Sorry,  I can't respond to this kind of question as I am a chatbot working for the school info request. Please ask a relevant question. ",No enhancement,"Sorry,  I can't respond to this kind of question as I am a chatbot working for the school info request. Please ask a relevant question. "
+7,1,0,How's the student living,"Hey, ","Hey, How's the student living"
+7,1,0,Where I can stay on capmpus,"Hey, ","Hey, Where I can stay on capmpus"
+7,1,0,What's the application fee,"Hey, ","Hey, What's the application fee"
+7,1,0,where I can submit application,"Hey, ","Hey, where I can submit application"
+7,1,0,How's weather,"Hey, ","Hey, How's weather"
+7,0,0,"Sorry,  I can't respond to this kind of question as I am a chatbot working for the school info request. Please ask a relevant question. ",No enhancement,"Sorry,  I can't respond to this kind of question as I am a chatbot working for the school info request. Please ask a relevant question. "
+7,1,0,What kind of questions can you answer,"Hey, ","Hey, What kind of questions can you answer"
+7,0,0,"I am a bot,  working for University of South Carolina,  Columbia. I can help yo with some basic questions regarding application,  locations,  student living,  school services,  etc.",No enhancement,"I am a bot,  working for University of South Carolina,  Columbia. I can help yo with some basic questions regarding application,  locations,  student living,  school services,  etc."
+7,1,0,Where is the student living,"Hey, ","Hey, Where is the student living"
+7,1,0,Bye,"Hey, ","Hey, Bye"
+7,0,0,Could you give us some feedbacks regarding your experience? There will be 5 questions.,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions.
+7,1,0,Yes,"Hey, ","Hey, Yes"
+7,0,0,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+7,1,0,satisfy,"Hey, ","Hey, satisfy"
+7,0,0,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+7,1,0,interaction,"Hey, ","Hey, interaction"
+7,0,0,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+7,1,0,preference,"Hey, ","Hey, preference"
+7,0,0,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+7,1,0,future,"Hey, ","Hey, future"
+7,0,0,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+7,1,0,overall,"Hey, ","Hey, overall"
+7,0,0,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+7,0,0,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+7,1,0,answer,"Hey, ","Hey, answer"
+7,0,0,What's your gender?,No enhancement,What's your gender?
+7,1,0,gender,"Hey, ","Hey, gender"
+7,0,0,What's your age?,No enhancement,What's your age?
+7,1,0,age,"Hey, ","Hey, age"
+7,0,0,Are you married?,No enhancement,Are you married?
+7,1,0,marriage,"Hey, ","Hey, marriage"
+7,0,0,What is your current completed education level?,No enhancement,What is your current completed education level?
+7,1,0,education,"Hey, ","Hey, education"
+7,0,0,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+8,1,0,Hi,"Hey, ","Hey, Hi"
+8,0,0,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?"
+8,1,0,How do I get my student card,"Hey, ","Hey, How do I get my student card"
+8,0,0,Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer -  https://drive.google.com/file/d/1bjpTNPy11cH-OCCeXjdwwAhSilXm7Aj4/view?usp=sharing
+8,0,0,Was this helpful?,No enhancement,Was this helpful?
+8,1,0,helpful,"Hey, ","Hey, helpful"
+8,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+8,1,0,Which means of transport to use,"Hey, ","Hey, Which means of transport to use"
+8,1,0,What is the typical cost for an apartment or a room,"Hey, ","Hey, What is the typical cost for an apartment or a room"
+8,1,0,Bye,"Hey, ","Hey, Bye"
+8,0,0,Could you give us some feedbacks regarding your experience? There will be 5 questions.,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions.
+8,1,0,No,"Hey, ","Hey, No"
+8,0,0,Sorry to hear that. Please just give us an overall feedback. What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,Sorry to hear that. Please just give us an overall feedback. What's your overall satisfaction of using the chatbot to find the school information?
+8,1,0,short,"Hey, ","Hey, short"
+8,0,0,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+8,0,0,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+8,1,0,answer,"Hey, ","Hey, answer"
+8,0,0,What's your gender?,No enhancement,What's your gender?
+8,1,0,gender,"Hey, ","Hey, gender"
+8,0,0,What's your age?,No enhancement,What's your age?
+8,1,0,age,"Hey, ","Hey, age"
+8,0,0,Are you married?,No enhancement,Are you married?
+8,1,0,marriage,"Hey, ","Hey, marriage"
+8,0,0,What is your current completed education level?,No enhancement,What is your current completed education level?
+8,1,0,education,"Hey, ","Hey, education"
+8,0,0,Thank you. The last part is regarding your demographic information.,No enhancement,Thank you. The last part is regarding your demographic information.
+8,1,0,Hi,"Hey, ","Hey, Hi"
+8,0,0,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?"
+8,1,0,student living,"Hey, ","Hey, student living"
+8,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+8,0,0,Was this helpful?,No enhancement,Was this helpful?
+8,1,0,helpful,"Hey, ","Hey, helpful"
+8,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+8,1,0,How to find an apartment,"Hey, ","Hey, How to find an apartment"
+8,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+8,0,0,Was this helpful?,No enhancement,Was this helpful?
+8,1,0,helpful,"Hey, ","Hey, helpful"
+8,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+8,1,0,whats the price,"Hey, ","Hey, whats the price"
+8,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+8,0,0,Was this helpful?,No enhancement,Was this helpful?
+8,1,0,helpful,"Hey, ","Hey, helpful"
+8,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+8,1,0,Bye,"Hey, ","Hey, Bye"
+8,0,0,Could you give us some feedbacks regarding your experience? There will be 5 questions.,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions.
+8,1,0,Yes,"Hey, ","Hey, Yes"
+8,0,0,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+8,1,0,satisfy,"Hey, ","Hey, satisfy"
+8,0,0,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+8,1,0,interaction,"Hey, ","Hey, interaction"
+8,0,0,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+8,1,0,preference,"Hey, ","Hey, preference"
+8,0,0,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+8,1,0,future,"Hey, ","Hey, future"
+8,0,0,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+8,1,0,overall,"Hey, ","Hey, overall"
+8,0,0,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+8,0,0,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+8,1,0,answer,"Hey, ","Hey, answer"
+8,0,0,What's your gender?,No enhancement,What's your gender?
+8,1,0,gender,"Hey, ","Hey, gender"
+8,0,0,What's your age?,No enhancement,What's your age?
+8,1,0,age,"Hey, ","Hey, age"
+8,0,0,Are you married?,No enhancement,Are you married?
+8,1,0,marriage,"Hey, ","Hey, marriage"
+8,0,0,What is your current completed education level?,No enhancement,What is your current completed education level?
+8,1,0,education,"Hey, ","Hey, education"
+8,0,0,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+9,1,0,Hi,"Hey, ","Hey, Hi"
+9,0,0,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?"
+9,1,0,When is the deadline to apply for Ph.D. for the spring semester?,"Hey, ","Hey, When is the deadline to apply for Ph.D. for the spring semester?"
+9,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+9,0,0,Was this helpful?,No enhancement,Was this helpful?
+9,1,0,helpful,"Hey, ","Hey, helpful"
+9,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+9,1,0,Where can I find the courses that I would need to take as a Ph.D. student in computer science and enginreering?,"Hey, ","Hey, Where can I find the courses that I would need to take as a Ph.D. student in computer science and enginreering?"
+9,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+9,0,0,Was this helpful?,No enhancement,Was this helpful?
+9,1,0,helpful,"Hey, ","Hey, helpful"
+9,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+9,1,0,When will be the spring break this year?,"Hey, ","Hey, When will be the spring break this year?"
+9,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+9,0,0,Was this helpful?,No enhancement,Was this helpful?
+9,1,0,helpful,"Hey, ","Hey, helpful"
+9,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+9,1,0,Is there some services to help me (a student) find a place to live in Columbia?,"Hey, ","Hey, Is there some services to help me (a student) find a place to live in Columbia?"
+9,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+9,0,0,Was this helpful?,No enhancement,Was this helpful?
+9,1,0,helpful,"Hey, ","Hey, helpful"
+9,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+9,1,0,How many credits does a Master student needs to take per semester?,"Hey, ","Hey, How many credits does a Master student needs to take per semester?"
+9,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+9,0,0,Was this helpful?,No enhancement,Was this helpful?
+9,1,0,helpful,"Hey, ","Hey, helpful"
+9,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+9,1,0,bye,"Hey, ","Hey, bye"
+9,0,0,Could you give us some feedbacks regarding your experience? There will be 5 questions.,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions.
+9,1,0,Yes,"Hey, ","Hey, Yes"
+9,0,0,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+9,1,0,satisfy,"Hey, ","Hey, satisfy"
+9,0,0,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+9,1,0,interaction,"Hey, ","Hey, interaction"
+9,0,0,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+9,1,0,preference,"Hey, ","Hey, preference"
+9,0,0,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+9,1,0,future,"Hey, ","Hey, future"
+9,0,0,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+9,1,0,overall,"Hey, ","Hey, overall"
+9,0,0,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+9,0,0,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+9,1,0,answer,"Hey, ","Hey, answer"
+9,0,0,What's your gender?,No enhancement,What's your gender?
+9,1,0,gender,"Hey, ","Hey, gender"
+9,0,0,What's your age?,No enhancement,What's your age?
+9,1,0,age,"Hey, ","Hey, age"
+9,0,0,Are you married?,No enhancement,Are you married?
+9,1,0,marriage,"Hey, ","Hey, marriage"
+9,0,0,What is your current completed education level?,No enhancement,What is your current completed education level?
+9,1,0,education,"Hey, ","Hey, education"
+9,0,0,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+10,1,0,Hi,"Hey, ","Hey, Hi"
+10,0,0,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?"
+10,1,0,I want to find temporary stay near campus,"Hey, ","Hey, I want to find temporary stay near campus"
+10,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+10,0,0,Was this helpful?,No enhancement,Was this helpful?
+10,1,0,Need apartment,"Hey, ","Hey, Need apartment"
+10,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+10,0,0,Was this helpful?,No enhancement,Was this helpful?
+10,1,0,How to find apartment?,"Hey, ","Hey, How to find apartment?"
+10,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+10,0,0,Was this helpful?,No enhancement,Was this helpful?
+10,1,0,helpful,"Hey, ","Hey, helpful"
+10,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+10,1,0,What's the application fee ?,"Hey, ","Hey, What's the application fee ?"
+10,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+10,0,0,Was this helpful?,No enhancement,Was this helpful?
+10,1,0,helpful,"Hey, ","Hey, helpful"
+10,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+10,1,0,End,"Hey, ","Hey, End"
+10,0,0,Could you give us some feedbacks regarding your experience? There will be 5 questions.,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions.
+10,1,0,Yes,"Hey, ","Hey, Yes"
+10,0,0,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+10,1,0,satisfy,"Hey, ","Hey, satisfy"
+10,0,0,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+10,1,0,interaction,"Hey, ","Hey, interaction"
+10,0,0,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+10,1,0,preference,"Hey, ","Hey, preference"
+10,0,0,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+10,1,0,future,"Hey, ","Hey, future"
+10,0,0,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+10,1,0,overall,"Hey, ","Hey, overall"
+10,0,0,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+10,0,0,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+10,1,0,answer,"Hey, ","Hey, answer"
+10,0,0,What's your gender?,No enhancement,What's your gender?
+10,1,0,gender,"Hey, ","Hey, gender"
+10,0,0,What's your age?,No enhancement,What's your age?
+10,1,0,age,"Hey, ","Hey, age"
+10,0,0,Are you married?,No enhancement,Are you married?
+10,1,0,marriage,"Hey, ","Hey, marriage"
+10,0,0,What is your current completed education level?,No enhancement,What is your current completed education level?
+10,1,0,education,"Hey, ","Hey, education"
+10,0,0,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+11,1,0,Hi,"Hey, ","Hey, Hi"
+11,0,0,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?"
+11,1,0,Hi,"Hey, ","Hey, Hi"
+11,1,0,Can you tell me about shuttle services and timings please?,"Hey, ","Hey, Can you tell me about shuttle services and timings please?"
+11,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+11,0,0,Was this helpful?,No enhancement,Was this helpful?
+11,1,0,helpful,"Hey, ","Hey, helpful"
+11,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+11,1,0,Can you please help me on how to find on-campus jobs?,"Hey, ","Hey, Can you please help me on how to find on-campus jobs?"
+11,0,0,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+11,0,0,Was this helpful?,No enhancement,Was this helpful?
+11,1,0,helpful,"Hey, ","Hey, helpful"
+11,0,0,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+11,1,0,Bye,"Hey, ","Hey, Bye"
+11,0,0,Could you give us some feedbacks regarding your experience? There will be 5 questions.,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions.
+11,1,0,Yes,"Hey, ","Hey, Yes"
+11,0,0,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+11,1,0,satisfy,"Hey, ","Hey, satisfy"
+11,0,0,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+11,1,0,interaction,"Hey, ","Hey, interaction"
+11,0,0,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+11,1,0,preference,"Hey, ","Hey, preference"
+11,0,0,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+11,1,0,future,"Hey, ","Hey, future"
+11,0,0,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+11,1,0,overall,"Hey, ","Hey, overall"
+11,0,0,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+11,0,0,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+11,1,0,answer,"Hey, ","Hey, answer"
+11,0,0,What's your gender?,No enhancement,What's your gender?
+11,1,0,gender,"Hey, ","Hey, gender"
+11,0,0,What's your age?,No enhancement,What's your age?
+11,1,0,age,"Hey, ","Hey, age"
+11,0,0,Are you married?,No enhancement,Are you married?
+11,1,0,marriage,"Hey, ","Hey, marriage"
+11,0,0,What is your current completed education level?,No enhancement,What is your current completed education level?
+11,1,0,education,"Hey, ","Hey, education"
+11,0,0,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+12,1,1,Hi,"Hey boy, ","Hey boy, Hi"
+12,0,1,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?"
+12,1,1,Gow to apply?,"Hey boy, ","Hey boy, Gow to apply?"
+12,0,1,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+12,0,1,Was this helpful?,No enhancement,Was this helpful?
+12,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+12,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+12,1,1,How to find an apartment?,"Hey boy, ","Hey boy, How to find an apartment?"
+12,0,1,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+12,0,1,Was this helpful?,No enhancement,Was this helpful?
+12,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+12,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+12,1,1,How to get the student card?,"Hey boy, ","Hey boy, How to get the student card?"
+12,0,1,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+12,0,1,Was this helpful?,No enhancement,Was this helpful?
+12,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+12,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+12,1,1,Bye,"Hey boy, ","Hey boy, Bye"
+12,0,1,Could you give us some feedbacks regarding your experience? There will be 5 questions.,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions.
+12,1,1,No,"Hey boy, ","Hey boy, No"
+12,0,1,Sorry to hear that. Please just give us an overall feedback. What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,Sorry to hear that. Please just give us an overall feedback. What's your overall satisfaction of using the chatbot to find the school information?
+12,1,1,short,"Hey boy, ","Hey boy, short"
+12,0,1,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+13,1,1,Hi,"Hey boy, ","Hey boy, Hi"
+13,0,1,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student living,  school services,  etc. How can I help you?"
+13,1,1,how are you?,"Hey boy, ","Hey boy, how are you?"
+13,0,1,"I am a bot,  working for University of South Carolina,  Columbia. I can help yo with some basic questions regarding application,  locations,  student living,  school services,  etc.",No enhancement,"I am a bot,  working for University of South Carolina,  Columbia. I can help yo with some basic questions regarding application,  locations,  student living,  school services,  etc."
+13,1,1,student living,"Hey boy, ","Hey boy, student living"
+13,0,1,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+13,0,1,Was this helpful?,No enhancement,Was this helpful?
+13,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+13,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+13,1,1,how is life in Columbia,"Hey boy, ","Hey boy, how is life in Columbia"
+13,0,1,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing,No enhancement,Please refer to the FAQ here for answer - https://drive.google.com/file/d/1Ptasa5AuLKAz9s19Pg-SiQlAXiae1LfE/view?usp=sharing
+13,0,1,Was this helpful?,No enhancement,Was this helpful?
+13,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+13,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+13,1,1,bye,"Hey boy, ","Hey boy, bye"
+13,0,1,Could you give us some feedbacks regarding your experience? There will be 5 questions.,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions.
+13,1,1,Yes,"Hey boy, ","Hey boy, Yes"
+13,0,1,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+13,1,1,satisfy,"Hey boy, ","Hey boy, satisfy"
+13,0,1,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+13,1,1,interaction,"Hey boy, ","Hey boy, interaction"
+13,0,1,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+13,1,1,preference,"Hey boy, ","Hey boy, preference"
+13,0,1,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+13,1,1,future,"Hey boy, ","Hey boy, future"
+13,0,1,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+13,1,1,overall,"Hey boy, ","Hey boy, overall"
+13,0,1,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+13,0,1,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+13,1,1,answer,"Hey boy, ","Hey boy, answer"
+13,0,1,What's your gender?,No enhancement,What's your gender?
+13,1,1,gender,"Hey boy, ","Hey boy, gender"
+13,0,1,What's your age?,No enhancement,What's your age?
+13,1,1,age,"Hey boy, ","Hey boy, age"
+13,0,1,Are you married?,No enhancement,Are you married?
+13,1,1,marriage,"Hey boy, ","Hey boy, marriage"
+13,0,1,What is your current completed education level?,No enhancement,What is your current completed education level?
+13,1,1,education,"Hey boy, ","Hey boy, education"
+13,0,1,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+14,1,1,Hi,"Hey boy, ","Hey boy, Hi"
+14,0,1,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+14,1,1,How to apply?,"Hey boy, ","Hey boy, How to apply?"
+14,0,1,Please referto the webpage: https://sc.edu/apply/index.php ,No enhancement,Please referto the webpage: https://sc.edu/apply/index.php 
+14,0,1,Did you get the answer,No enhancement,Did you get the answer
+14,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+14,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+14,1,1,How much is the application fee?,"Hey boy, ","Hey boy, How much is the application fee?"
+14,0,1,The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.,No enhancement,The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.
+14,1,1,bye',"Hey boy, ","Hey boy, bye'"
+14,0,1,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+14,1,1,No,"Hey boy, ","Hey boy, No"
+14,0,1,Please just give us an overall feedback. What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,Please just give us an overall feedback. What's your overall satisfaction of using the chatbot to find the school information?
+14,1,1,short,"Hey boy, ","Hey boy, short"
+14,0,1,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+15,1,1,Hi,"Hey boy, ","Hey boy, Hi"
+15,0,1,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+15,1,1,How to find a place to stay?,"Hey boy, ","Hey boy, How to find a place to stay?"
+15,0,1,The campus housing is mainly for freshmen students. Most of univeristy's students and visitors use off-campus housing. Many find www.zillow.com useful for finding an appartment or a room.,No enhancement,The campus housing is mainly for freshmen students. Most of univeristy's students and visitors use off-campus housing. Many find www.zillow.com useful for finding an appartment or a room.
+15,0,1,Did you get the answer,No enhancement,Did you get the answer
+15,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+15,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+15,1,1,How much is the application fee?,"Hey boy, ","Hey boy, How much is the application fee?"
+15,0,1,The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.,No enhancement,The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.
+15,1,1,How to apply?,"Hey boy, ","Hey boy, How to apply?"
+15,1,1,How's about the student housing,"Hey boy, ","Hey boy, How's about the student housing"
+15,0,1,"The resident on-campus housing price varies from $3100 to $6600 per semester. For more details,  please refer to the webpage: https://sc.edu/about/offices_and_divisions/housing/index.php; The off-campus apartment price in Columbia ranges from 500-1500 USD. A room can be found at 350-600 USD. Columbia offers a range of traditional,  family-friendly housing options and apartments. You can widen your search on websites such as ApartmentFinder.com,  ApartmentList.com,  Zillow.com,  Trulia.com,  and Homes.com.",No enhancement,"The resident on-campus housing price varies from $3100 to $6600 per semester. For more details,  please refer to the webpage: https://sc.edu/about/offices_and_divisions/housing/index.php; The off-campus apartment price in Columbia ranges from 500-1500 USD. A room can be found at 350-600 USD. Columbia offers a range of traditional,  family-friendly housing options and apartments. You can widen your search on websites such as ApartmentFinder.com,  ApartmentList.com,  Zillow.com,  Trulia.com,  and Homes.com."
+15,0,1,Did you get the answer,No enhancement,Did you get the answer
+15,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+15,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+15,1,1,How to apply,"Hey boy, ","Hey boy, How to apply"
+15,1,1,Where to have lunch on campus?,"Hey boy, ","Hey boy, Where to have lunch on campus?"
+15,0,1,There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php ,No enhancement,There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php 
+15,1,1,Bye,"Hey boy, ","Hey boy, Bye"
+15,0,1,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+15,1,1,No,"Hey boy, ","Hey boy, No"
+15,0,1,Please just give us an overall feedback. What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,Please just give us an overall feedback. What's your overall satisfaction of using the chatbot to find the school information?
+15,1,1,short,"Hey boy, ","Hey boy, short"
+15,0,1,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+16,1,1,Hi,"Hey boy, ","Hey boy, Hi"
+16,0,1,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+16,1,1,How to apply?,"Hey boy, ","Hey boy, How to apply?"
+16,0,1,Please referto the webpage: https://sc.edu/apply/index.php ,No enhancement,Please referto the webpage: https://sc.edu/apply/index.php 
+16,0,1,Did you get the answer,No enhancement,Did you get the answer
+16,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+16,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+16,1,1,How much is the application fee?,"Hey boy, ","Hey boy, How much is the application fee?"
+16,0,1,The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.,No enhancement,The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.
+16,0,1,Did you get the answer,No enhancement,Did you get the answer
+16,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+16,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+16,1,1,How to find a place to stay?,"Hey boy, ","Hey boy, How to find a place to stay?"
+16,0,1,The campus housing is mainly for freshmen students. Most of univeristy's students and visitors use off-campus housing. Many find www.zillow.com useful for finding an appartment or a room.,No enhancement,The campus housing is mainly for freshmen students. Most of univeristy's students and visitors use off-campus housing. Many find www.zillow.com useful for finding an appartment or a room.
+16,0,1,Did you get the answer,No enhancement,Did you get the answer
+16,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+16,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+16,1,1,What's the cost of the student living?,"Hey boy, ","Hey boy, What's the cost of the student living?"
+16,0,1,"For the on-campus housing,  please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing,  you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php",No enhancement,"For the on-campus housing,  please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing,  you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php"
+16,0,1,Did you get the answer,No enhancement,Did you get the answer
+16,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+16,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+16,1,1,Where to have lunch on campus?,"Hey boy, ","Hey boy, Where to have lunch on campus?"
+16,0,1,There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php ,No enhancement,There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php 
+16,0,1,Did you get the answer,No enhancement,Did you get the answer
+16,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+16,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+16,1,1,How's about the meal plan?,"Hey boy, ","Hey boy, How's about the meal plan?"
+16,0,1,How about the meal plan?,No enhancement,How about the meal plan?
+16,0,1,Did you get the answer,No enhancement,Did you get the answer
+16,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+16,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+16,1,1,How's about the meal plan?,"Hey boy, ","Hey boy, How's about the meal plan?"
+16,0,1,How about the meal plan?,No enhancement,How about the meal plan?
+16,0,1,Did you get the answer,No enhancement,Did you get the answer
+16,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+16,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+16,1,1,What's the cost eating on campus?,"Hey boy, ","Hey boy, What's the cost eating on campus?"
+16,0,1,Typical student apartment price in Columbia range from 500-1500 USD. A room can be found at 350-600 USD.,No enhancement,Typical student apartment price in Columbia range from 500-1500 USD. A room can be found at 350-600 USD.
+16,0,1,Did you get the answer,No enhancement,Did you get the answer
+16,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+16,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+16,1,1,How's the application requirement,"Hey boy, ","Hey boy, How's the application requirement"
+16,0,1,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ",No enhancement,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+16,1,1,application requirement,"Hey boy, ","Hey boy, application requirement"
+16,0,1,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ",No enhancement,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+16,1,1,How's about the student housing,"Hey boy, ","Hey boy, How's about the student housing"
+16,0,1,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ",No enhancement,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+16,1,1,Bye,"Hey boy, ","Hey boy, Bye"
+16,0,1,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+16,1,1,Yes,"Hey boy, ","Hey boy, Yes"
+16,0,1,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+16,1,1,satisfy,"Hey boy, ","Hey boy, satisfy"
+16,0,1,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+16,1,1,interaction,"Hey boy, ","Hey boy, interaction"
+16,0,1,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+16,1,1,preference,"Hey boy, ","Hey boy, preference"
+16,0,1,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+16,1,1,future,"Hey boy, ","Hey boy, future"
+16,0,1,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+16,1,1,overall,"Hey boy, ","Hey boy, overall"
+16,0,1,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+16,0,1,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+16,1,1,answer,"Hey boy, ","Hey boy, answer"
+16,0,1,What's your gender?,No enhancement,What's your gender?
+16,1,1,gender,"Hey boy, ","Hey boy, gender"
+16,0,1,What's your age?,No enhancement,What's your age?
+16,1,1,age,"Hey boy, ","Hey boy, age"
+16,0,1,Are you married?,No enhancement,Are you married?
+16,1,1,marriage,"Hey boy, ","Hey boy, marriage"
+16,0,1,What is your current completed education level?,No enhancement,What is your current completed education level?
+16,1,1,education,"Hey boy, ","Hey boy, education"
+16,0,1,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+17,1,1,Hi,"Hey boy, ","Hey boy, Hi"
+17,0,1,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+17,1,1,How to apply?,"Hey boy, ","Hey boy, How to apply?"
+17,0,1,Please referto the webpage: https://sc.edu/apply/index.php ,No enhancement,Please referto the webpage: https://sc.edu/apply/index.php 
+17,0,1,Did you get the answer,No enhancement,Did you get the answer
+17,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+17,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+17,1,1,How much is the application fee?,"Hey boy, ","Hey boy, How much is the application fee?"
+17,0,1,The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.,No enhancement,The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.
+17,1,1,How to find a place to stay?,"Hey boy, ","Hey boy, How to find a place to stay?"
+17,0,1,The campus housing is mainly for freshmen students. Most of univeristy's students and visitors use off-campus housing. Many find www.zillow.com useful for finding an appartment or a room.,No enhancement,The campus housing is mainly for freshmen students. Most of univeristy's students and visitors use off-campus housing. Many find www.zillow.com useful for finding an appartment or a room.
+17,0,1,Did you get the answer,No enhancement,Did you get the answer
+17,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+17,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+17,1,1,Where to have lunch on campus?,"Hey boy, ","Hey boy, Where to have lunch on campus?"
+17,0,1,There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php ,No enhancement,There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php 
+17,1,1,How's about the meal plan?,"Hey boy, ","Hey boy, How's about the meal plan?"
+17,0,1,How about the meal plan?,No enhancement,How about the meal plan?
+17,0,1,Did you get the answer,No enhancement,Did you get the answer
+17,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+17,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+17,1,1,Bye,"Hey boy, ","Hey boy, Bye"
+17,0,1,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+17,1,1,No,"Hey boy, ","Hey boy, No"
+17,0,1,Please just give us an overall feedback. What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,Please just give us an overall feedback. What's your overall satisfaction of using the chatbot to find the school information?
+17,1,1,short,"Hey boy, ","Hey boy, short"
+17,0,1,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+18,1,1,Hi,"Hey boy, ","Hey boy, Hi"
+18,0,1,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+18,1,1,How's about the meal plan?,"Hey boy, ","Hey boy, How's about the meal plan?"
+18,0,1,"The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: ",No enhancement,"The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: "
+18,0,1,https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php,No enhancement,https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php
+18,1,1,Did you get the answer,"Hey boy, ","Hey boy, Did you get the answer"
+18,0,1,helpful,No enhancement,helpful
+18,1,1,"Thanks,  carry on!","Hey boy, ","Hey boy, Thanks,  carry on!"
+18,0,1,Bye,No enhancement,Bye
+18,1,1,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,"Hey boy, ","Hey boy, Could you give us some feedbacks regarding your experience? There will be 5 questions. "
+18,0,1,No,No enhancement,No
+18,1,1,Please just give us an overall feedback. What's your overall satisfaction of using the chatbot to find the school information?,"Hey boy, ","Hey boy, Please just give us an overall feedback. What's your overall satisfaction of using the chatbot to find the school information?"
+18,0,1,short,No enhancement,short
+18,1,1,Thanks for your participation and feedbacks. This is all about the experiment.,"Hey boy, ","Hey boy, Thanks for your participation and feedbacks. This is all about the experiment."
+19,0,1,Hi,No enhancement,Hi
+19,1,1,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?","Hey boy, ","Hey boy, Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+19,0,1,How to apply?,No enhancement,How to apply?
+19,0,1,Please referto the webpage: https://sc.edu/apply/index.php ,No enhancement,Please referto the webpage: https://sc.edu/apply/index.php 
+19,1,1,Did you get the answer,"Hey boy, ","Hey boy, Did you get the answer"
+19,0,1,helpful,No enhancement,helpful
+19,1,1,"Thanks,  carry on!","Hey boy, ","Hey boy, Thanks,  carry on!"
+19,0,1,How much is the application fee?,No enhancement,How much is the application fee?
+19,1,1,The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.,"Hey boy, ","Hey boy, The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more."
+19,1,1,How can I know the application status,"Hey boy, ","Hey boy, How can I know the application status"
+19,0,1,How to find a place to stay,No enhancement,How to find a place to stay
+19,0,1,The campus housing is mainly for freshmen students. Most of univeristy's students and visitors use off-campus housing. Many find www.zillow.com useful for finding an appartment or a room.,No enhancement,The campus housing is mainly for freshmen students. Most of univeristy's students and visitors use off-campus housing. Many find www.zillow.com useful for finding an appartment or a room.
+19,1,1,Did you get the answer,"Hey boy, ","Hey boy, Did you get the answer"
+19,0,1,helpful,No enhancement,helpful
+19,1,1,"Thanks,  carry on!","Hey boy, ","Hey boy, Thanks,  carry on!"
+19,0,1,What's the cost of the student living?,No enhancement,What's the cost of the student living?
+19,1,1,"For the on-campus housing,  please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing,  you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php","Hey boy, ","Hey boy, For the on-campus housing,  please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing,  you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php"
+19,0,1,Where to have lunch on campus?,No enhancement,Where to have lunch on campus?
+19,0,1,There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php ,No enhancement,There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php 
+19,1,1,Did you get the answer,"Hey boy, ","Hey boy, Did you get the answer"
+19,0,1,helpful,No enhancement,helpful
+19,1,1,"Thanks,  carry on!","Hey boy, ","Hey boy, Thanks,  carry on!"
+19,0,1,What to eat on campus?,No enhancement,What to eat on campus?
+19,1,1,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ","Hey boy, ","Hey boy, I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+19,0,1,How's about the meal plan,No enhancement,How's about the meal plan
+19,0,1,"The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: ",No enhancement,"The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: "
+19,1,1,https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php,"Hey boy, ","Hey boy, https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php"
+19,0,1,Did you get the answer,No enhancement,Did you get the answer
+19,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+19,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+19,1,1,bye,"Hey boy, ","Hey boy, bye"
+19,0,1,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+19,1,1,Yes,"Hey boy, ","Hey boy, Yes"
+19,0,1,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+19,1,1,satisfy,"Hey boy, ","Hey boy, satisfy"
+19,0,1,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+19,1,1,interaction,"Hey boy, ","Hey boy, interaction"
+19,0,1,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+19,1,1,preference,"Hey boy, ","Hey boy, preference"
+19,0,1,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+19,1,1,future,"Hey boy, ","Hey boy, future"
+19,0,1,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+19,0,1,overall,No enhancement,overall
+19,1,1,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.","Hey boy, ","Hey boy, Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+19,0,1,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+19,1,1,answer,"Hey boy, ","Hey boy, answer"
+19,0,1,What's your gender?,No enhancement,What's your gender?
+19,1,1,gender,"Hey boy, ","Hey boy, gender"
+19,0,1,What's your age?,No enhancement,What's your age?
+19,1,1,age,"Hey boy, ","Hey boy, age"
+19,0,1,Are you married?,No enhancement,Are you married?
+19,1,1,marriage,"Hey boy, ","Hey boy, marriage"
+19,0,1,What is your current completed education level?,No enhancement,What is your current completed education level?
+19,1,1,education,"Hey boy, ","Hey boy, education"
+19,0,1,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+20,1,1,Hi,"Hey boy, ","Hey boy, Hi"
+20,0,1,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+20,0,1,How to apply?,No enhancement,How to apply?
+20,1,1,Please refer to the webpage: https://sc.edu/apply/index.php ,"Hey boy, ","Hey boy, Please refer to the webpage: https://sc.edu/apply/index.php "
+20,0,1,Did you get the answer,No enhancement,Did you get the answer
+20,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+20,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+20,0,1,How much is the application fee?,No enhancement,How much is the application fee?
+20,1,1,The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.,"Hey boy, ","Hey boy, The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more."
+20,0,1,Did you get the answer,No enhancement,Did you get the answer
+20,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+20,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+20,0,1,How can I know the application status,No enhancement,How can I know the application status
+20,1,1,You need to go to check the application portal or contact to the admission office. The application portal: https://applyweb.collegenet.com/account/new/create?origin=https://www.applyweb.com/cgi-bin/applymenu?instcode=uscgrad or https://apply.sc.edu/register/freshman ,"Hey boy, ","Hey boy, You need to go to check the application portal or contact to the admission office. The application portal: https://applyweb.collegenet.com/account/new/create?origin=https://www.applyweb.com/cgi-bin/applymenu?instcode=uscgrad or https://apply.sc.edu/register/freshman "
+20,0,1,Did you get the answer,No enhancement,Did you get the answer
+20,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+20,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+20,0,1,How to find a place to stay?,No enhancement,How to find a place to stay?
+20,1,1,The campus housing is mainly for freshmen students. Most of univeristy's students and visitors use off-campus housing. Many find www.zillow.com useful for finding an appartment or a room.,"Hey boy, ","Hey boy, The campus housing is mainly for freshmen students. Most of univeristy's students and visitors use off-campus housing. Many find www.zillow.com useful for finding an appartment or a room."
+20,0,1,Did you get the answer,No enhancement,Did you get the answer
+20,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+20,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+20,0,1,How's about the student living?,No enhancement,How's about the student living?
+20,1,1,"For the on-campus housing,  please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing,  you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php","Hey boy, ","Hey boy, For the on-campus housing,  please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing,  you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php"
+20,0,1,Did you get the answer,No enhancement,Did you get the answer
+20,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+20,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+20,0,1,Where to have lunch on campus?,No enhancement,Where to have lunch on campus?
+20,1,1,There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php ,"Hey boy, ","Hey boy, There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php "
+20,0,1,Did you get the answer,No enhancement,Did you get the answer
+20,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+20,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+20,0,1,How's about the meal plan?,No enhancement,How's about the meal plan?
+20,1,1,"The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: ","Hey boy, ","Hey boy, The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: "
+20,0,1,https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php,No enhancement,https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php
+20,1,1,Did you get the answer,"Hey boy, ","Hey boy, Did you get the answer"
+20,0,1,helpful,No enhancement,helpful
+20,1,1,"Thanks,  carry on!","Hey boy, ","Hey boy, Thanks,  carry on!"
+20,0,1,Bye,No enhancement,Bye
+20,1,1,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,"Hey boy, ","Hey boy, Could you give us some feedbacks regarding your experience? There will be 5 questions. "
+20,0,1,Yes,No enhancement,Yes
+20,1,1,Are you satisfied with the answers to your questions?,"Hey boy, ","Hey boy, Are you satisfied with the answers to your questions?"
+20,0,1,satisfy,No enhancement,satisfy
+20,1,1,Are you satisfied with how the chatbot interacted with you?,"Hey boy, ","Hey boy, Are you satisfied with how the chatbot interacted with you?"
+20,0,1,interaction,No enhancement,interaction
+20,1,1,To what extent will you prefer the chatbot over Google search for the answers?,"Hey boy, ","Hey boy, To what extent will you prefer the chatbot over Google search for the answers?"
+20,0,1,preference,No enhancement,preference
+20,1,1,Will you choose the chatbot to find UofSC info for the future use?,"Hey boy, ","Hey boy, Will you choose the chatbot to find UofSC info for the future use?"
+20,0,1,future,No enhancement,future
+20,0,1,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+20,1,1,overall,"Hey boy, ","Hey boy, overall"
+20,0,1,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+20,1,1,Are you currently a student studying less than 2 years at UofSC?,"Hey boy, ","Hey boy, Are you currently a student studying less than 2 years at UofSC?"
+20,0,1,answer,No enhancement,answer
+20,1,1,What's your gender?,"Hey boy, ","Hey boy, What's your gender?"
+20,0,1,gender,No enhancement,gender
+20,1,1,What's your age?,"Hey boy, ","Hey boy, What's your age?"
+20,0,1,age,No enhancement,age
+20,1,1,Are you married?,"Hey boy, ","Hey boy, Are you married?"
+20,0,1,marriage,No enhancement,marriage
+20,1,1,What is your current completed education level?,"Hey boy, ","Hey boy, What is your current completed education level?"
+20,0,1,education,No enhancement,education
+20,1,1,Thanks for your participation and feedbacks. This is all about the experiment.,"Hey boy, ","Hey boy, Thanks for your participation and feedbacks. This is all about the experiment."
+21,0,1,Hi,No enhancement,Hi
+21,0,1,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+21,1,1,How to apply?,"Hey boy, ","Hey boy, How to apply?"
+21,0,1,Please refer to the webpage: https://sc.edu/apply/index.php ,No enhancement,Please refer to the webpage: https://sc.edu/apply/index.php 
+21,1,1,Did you get the answer?,"Hey boy, ","Hey boy, Did you get the answer?"
+21,0,1,helpful,No enhancement,helpful
+21,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+21,1,1,How's about the student living?,"Hey boy, ","Hey boy, How's about the student living?"
+21,0,1,"For the on-campus housing,  please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing,  you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php",No enhancement,"For the on-campus housing,  please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing,  you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php"
+21,1,1,Did you get the answer?,"Hey boy, ","Hey boy, Did you get the answer?"
+21,0,1,helpful,No enhancement,helpful
+21,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+21,1,1,Where to have lunch on campus?,"Hey boy, ","Hey boy, Where to have lunch on campus?"
+21,0,1,There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php ,No enhancement,There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php 
+21,1,1,Did you get the answer?,"Hey boy, ","Hey boy, Did you get the answer?"
+21,0,1,helpful,No enhancement,helpful
+21,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+21,1,1,How's about the meal plan?,"Hey boy, ","Hey boy, How's about the meal plan?"
+21,0,1,"The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: ",No enhancement,"The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: "
+21,1,1,https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php,"Hey boy, ","Hey boy, https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php"
+21,0,1,Did you get the answer?,No enhancement,Did you get the answer?
+21,1,1,helpful,"Hey boy, ","Hey boy, helpful"
+21,0,1,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+21,1,1,Bye,"Hey boy, ","Hey boy, Bye"
+21,0,1,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+21,1,1,Yes,"Hey boy, ","Hey boy, Yes"
+21,0,1,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+21,1,1,satisfy,"Hey boy, ","Hey boy, satisfy"
+21,0,1,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+21,1,1,interaction,"Hey boy, ","Hey boy, interaction"
+21,0,1,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+21,1,1,preference,"Hey boy, ","Hey boy, preference"
+21,0,1,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+21,0,1,future,No enhancement,future
+21,1,1,What's your overall satisfaction of using the chatbot to find the school information?,"Hey boy, ","Hey boy, What's your overall satisfaction of using the chatbot to find the school information?"
+21,0,1,overall,No enhancement,overall
+21,1,1,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.","Hey boy, ","Hey boy, Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+21,0,1,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+21,1,1,answer,"Hey boy, ","Hey boy, answer"
+21,0,1,What's your gender?,No enhancement,What's your gender?
+21,1,1,gender,"Hey boy, ","Hey boy, gender"
+21,0,1,What's your age?,No enhancement,What's your age?
+21,1,1,age,"Hey boy, ","Hey boy, age"
+21,0,1,Are you married?,No enhancement,Are you married?
+21,1,1,marriage,"Hey boy, ","Hey boy, marriage"
+21,0,1,What is your current completed education level?,No enhancement,What is your current completed education level?
+21,1,1,education,"Hey boy, ","Hey boy, education"
+21,0,1,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+22,1,2,Hi,"Hey girl, ","Hey girl, Hi"
+22,0,2,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+22,1,2,bye,"Hey girl, ","Hey girl, bye"
+22,0,2,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+22,1,2,No,"Hey girl, ","Hey girl, No"
+22,0,2,Please just give us an overall feedback. What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,Please just give us an overall feedback. What's your overall satisfaction of using the chatbot to find the school information?
+22,1,2,short,"Hey girl, ","Hey girl, short"
+22,0,2,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+23,1,2,Hi,"Hey girl, ","Hey girl, Hi"
+23,0,2,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+23,0,2,what is the cheapest housing on campus?,No enhancement,what is the cheapest housing on campus?
+23,1,2,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ","Hey girl, ","Hey girl, I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+23,0,2,How many restaurants are part of the meal plan?,No enhancement,How many restaurants are part of the meal plan?
+23,1,2,"The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: ","Hey girl, ","Hey girl, The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: "
+23,0,2,https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php,No enhancement,https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php
+23,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+23,0,2,helpful,No enhancement,helpful
+23,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+23,0,2,hello,No enhancement,hello
+23,0,2,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+23,1,2,when is the application deadline,"Hey girl, ","Hey girl, when is the application deadline"
+23,0,2,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ",No enhancement,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+23,1,2,when does application start,"Hey girl, ","Hey girl, when does application start"
+23,0,2,You need to go to check the application portal or contact to the admission office. The application portal: https://applyweb.collegenet.com/account/new/create?origin=https://www.applyweb.com/cgi-bin/applymenu?instcode=uscgrad or https://apply.sc.edu/register/freshman ,No enhancement,You need to go to check the application portal or contact to the admission office. The application portal: https://applyweb.collegenet.com/account/new/create?origin=https://www.applyweb.com/cgi-bin/applymenu?instcode=uscgrad or https://apply.sc.edu/register/freshman 
+23,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+23,1,2,helpful,"Hey girl, ","Hey girl, helpful"
+23,0,2,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+23,1,2,is there sushi on campus?,"Hey girl, ","Hey girl, is there sushi on campus?"
+23,0,2,"There's a wide range of employment opportunities on campus designed to develop your essential,  marketable skills. Please refer to the webpage:  https://sc.edu/about/employment/student-employment/index.php  ",No enhancement,"There's a wide range of employment opportunities on campus designed to develop your essential,  marketable skills. Please refer to the webpage:  https://sc.edu/about/employment/student-employment/index.php  "
+23,0,2," Also,  there are lots of graduate assistant postions for graduate students: https://sc.edu/study/colleges_schools/graduate_school/paying_for_graduate_school/assistantships/index.php ",No enhancement," Also,  there are lots of graduate assistant postions for graduate students: https://sc.edu/study/colleges_schools/graduate_school/paying_for_graduate_school/assistantships/index.php "
+23,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+23,0,2,helpful,No enhancement,helpful
+23,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+23,0,2,how much does student living cost,No enhancement,how much does student living cost
+23,1,2,"The resident on-campus housing price varies from $3100 to $6600 per semester. For more details,  please refer to the webpage: https://sc.edu/about/offices_and_divisions/housing/index.php; The off-campus apartment price in Columbia ranges from 500-1500 USD. A room can be found at 350-600 USD. Columbia offers a range of traditional,  family-friendly housing options and apartments. You can widen your search on websites such as ApartmentFinder.com,  ApartmentList.com,  Zillow.com,  Trulia.com,  and Homes.com.","Hey girl, ","Hey girl, The resident on-campus housing price varies from $3100 to $6600 per semester. For more details,  please refer to the webpage: https://sc.edu/about/offices_and_divisions/housing/index.php; The off-campus apartment price in Columbia ranges from 500-1500 USD. A room can be found at 350-600 USD. Columbia offers a range of traditional,  family-friendly housing options and apartments. You can widen your search on websites such as ApartmentFinder.com,  ApartmentList.com,  Zillow.com,  Trulia.com,  and Homes.com."
+23,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+23,1,2,helpful,"Hey girl, ","Hey girl, helpful"
+23,0,2,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+23,1,2,bye,"Hey girl, ","Hey girl, bye"
+23,0,2,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+23,1,2,Yes,"Hey girl, ","Hey girl, Yes"
+23,0,2,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+23,1,2,satisfy,"Hey girl, ","Hey girl, satisfy"
+23,0,2,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+23,1,2,interaction,"Hey girl, ","Hey girl, interaction"
+23,0,2,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+23,0,2,preference,No enhancement,preference
+23,1,2,Will you choose the chatbot to find UofSC info for the future use?,"Hey girl, ","Hey girl, Will you choose the chatbot to find UofSC info for the future use?"
+23,0,2,future,No enhancement,future
+23,1,2,What's your overall satisfaction of using the chatbot to find the school information?,"Hey girl, ","Hey girl, What's your overall satisfaction of using the chatbot to find the school information?"
+23,0,2,overall,No enhancement,overall
+23,1,2,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.","Hey girl, ","Hey girl, Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+23,0,2,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+23,1,2,answer,"Hey girl, ","Hey girl, answer"
+23,0,2,What's your gender?,No enhancement,What's your gender?
+23,1,2,gender,"Hey girl, ","Hey girl, gender"
+23,0,2,What's your age?,No enhancement,What's your age?
+23,1,2,age,"Hey girl, ","Hey girl, age"
+23,0,2,Are you married?,No enhancement,Are you married?
+23,1,2,marriage,"Hey girl, ","Hey girl, marriage"
+23,0,2,What is your current completed education level?,No enhancement,What is your current completed education level?
+23,0,2,education,No enhancement,education
+23,1,2,Thanks for your participation and feedbacks. This is all about the experiment.,"Hey girl, ","Hey girl, Thanks for your participation and feedbacks. This is all about the experiment."
+24,0,2,Hi,No enhancement,Hi
+24,1,2,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?","Hey girl, ","Hey girl, Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+24,0,2,how to apply,No enhancement,how to apply
+24,0,2,Please refer to the webpage: https://sc.edu/apply/index.php ,No enhancement,Please refer to the webpage: https://sc.edu/apply/index.php 
+24,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+24,0,2,helpful,No enhancement,helpful
+24,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+24,0,2,eat mael plan,No enhancement,eat mael plan
+24,0,2,"The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: ",No enhancement,"The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: "
+24,1,2,https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php,"Hey girl, ","Hey girl, https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php"
+24,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+24,1,2,helpful,"Hey girl, ","Hey girl, helpful"
+24,0,2,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+24,0,2,student,No enhancement,student
+24,1,2,"First year students,  in order to receive your CarolinaCard upon move-in you must upload your photo and sign the cardholder agreement.  Transfer students,  please follow the requirements above in order to pick up your CarolinaCard in our office in the basement of the Russell House Student Union on Greene Street.  Faculty and staff,  you will also need to follow the requirements above and come to the CarolinaCard office inside the Russell House.","Hey girl, ","Hey girl, First year students,  in order to receive your CarolinaCard upon move-in you must upload your photo and sign the cardholder agreement.  Transfer students,  please follow the requirements above in order to pick up your CarolinaCard in our office in the basement of the Russell House Student Union on Greene Street.  Faculty and staff,  you will also need to follow the requirements above and come to the CarolinaCard office inside the Russell House."
+24,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+24,1,2,helpful,"Hey girl, ","Hey girl, helpful"
+24,0,2,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+24,1,2,cost of living,"Hey girl, ","Hey girl, cost of living"
+24,0,2,"For the on-campus housing,  please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing,  you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php",No enhancement,"For the on-campus housing,  please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing,  you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php"
+24,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+24,0,2,helpful,No enhancement,helpful
+24,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+24,0,2,bye,No enhancement,bye
+24,1,2,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,"Hey girl, ","Hey girl, Could you give us some feedbacks regarding your experience? There will be 5 questions. "
+24,0,2,Yes,No enhancement,Yes
+24,1,2,Are you satisfied with the answers to your questions?,"Hey girl, ","Hey girl, Are you satisfied with the answers to your questions?"
+24,0,2,satisfy,No enhancement,satisfy
+24,1,2,Are you satisfied with how the chatbot interacted with you?,"Hey girl, ","Hey girl, Are you satisfied with how the chatbot interacted with you?"
+24,0,2,interaction,No enhancement,interaction
+24,0,2,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+24,1,2,preference,"Hey girl, ","Hey girl, preference"
+24,0,2,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+24,1,2,future,"Hey girl, ","Hey girl, future"
+24,0,2,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+24,1,2,overall,"Hey girl, ","Hey girl, overall"
+24,0,2,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+24,1,2,Are you currently a student studying less than 2 years at UofSC?,"Hey girl, ","Hey girl, Are you currently a student studying less than 2 years at UofSC?"
+24,0,2,answer,No enhancement,answer
+24,1,2,What's your gender?,"Hey girl, ","Hey girl, What's your gender?"
+24,0,2,gender,No enhancement,gender
+24,1,2,What's your age?,"Hey girl, ","Hey girl, What's your age?"
+24,0,2,age,No enhancement,age
+24,1,2,Are you married?,"Hey girl, ","Hey girl, Are you married?"
+24,0,2,marriage,No enhancement,marriage
+24,0,2,What is your current completed education level?,No enhancement,What is your current completed education level?
+24,1,2,education,"Hey girl, ","Hey girl, education"
+24,0,2,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+25,1,2,Hi,"Hey girl, ","Hey girl, Hi"
+25,0,2,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+25,1,2,where can i apply?,"Hey girl, ","Hey girl, where can i apply?"
+25,0,2,Please refer to the webpage: https://sc.edu/apply/index.php ,No enhancement,Please refer to the webpage: https://sc.edu/apply/index.php 
+25,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+25,1,2,helpful,"Hey girl, ","Hey girl, helpful"
+25,0,2,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+25,1,2,what is the cost of housing on campus?,"Hey girl, ","Hey girl, what is the cost of housing on campus?"
+25,0,2,Typical student apartment price in Columbia range from 500-1500 USD. A room can be found at 350-600 USD.,No enhancement,Typical student apartment price in Columbia range from 500-1500 USD. A room can be found at 350-600 USD.
+25,1,2,What is there to eat on campus?,"Hey girl, ","Hey girl, What is there to eat on campus?"
+25,0,2,"Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also,  there is an interactive campus maps: https://www.sc.edu/visit/map/ ",No enhancement,"Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also,  there is an interactive campus maps: https://www.sc.edu/visit/map/ "
+25,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+25,1,2,helpful,"Hey girl, ","Hey girl, helpful"
+25,0,2,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+25,1,2,when is the application deadline?,"Hey girl, ","Hey girl, when is the application deadline?"
+25,0,2,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ",No enhancement,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+25,0,2,what is the cost of the meal plan?,No enhancement,what is the cost of the meal plan?
+25,1,2,"The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: ","Hey girl, ","Hey girl, The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: "
+25,0,2,https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php,No enhancement,https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php
+25,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+25,0,2,helpful,No enhancement,helpful
+25,0,2,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+25,1,2,Where can i track my application status?,"Hey girl, ","Hey girl, Where can i track my application status?"
+25,0,2,You need to go to check the application portal or contact to the admission office. The application portal: https://applyweb.collegenet.com/account/new/create?origin=https://www.applyweb.com/cgi-bin/applymenu?instcode=uscgrad or https://apply.sc.edu/register/freshman ,No enhancement,You need to go to check the application portal or contact to the admission office. The application portal: https://applyweb.collegenet.com/account/new/create?origin=https://www.applyweb.com/cgi-bin/applymenu?instcode=uscgrad or https://apply.sc.edu/register/freshman 
+25,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+25,0,2,helpful,No enhancement,helpful
+25,0,2,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+25,1,2,Where is the campus?,"Hey girl, ","Hey girl, Where is the campus?"
+25,0,2,"Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also,  there is an interactive campus maps: https://www.sc.edu/visit/map/ ",No enhancement,"Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also,  there is an interactive campus maps: https://www.sc.edu/visit/map/ "
+25,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+25,0,2,helpful,No enhancement,helpful
+25,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+25,0,2,What is the application fee?,No enhancement,What is the application fee?
+25,1,2,The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.,"Hey girl, ","Hey girl, The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more."
+25,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+25,1,2,helpful,"Hey girl, ","Hey girl, helpful"
+25,0,2,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+25,1,2,bye,"Hey girl, ","Hey girl, bye"
+25,0,2,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+25,1,2,Yes,"Hey girl, ","Hey girl, Yes"
+25,0,2,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+25,1,2,satisfy,"Hey girl, ","Hey girl, satisfy"
+25,0,2,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+25,0,2,interaction,No enhancement,interaction
+25,1,2,To what extent will you prefer the chatbot over Google search for the answers?,"Hey girl, ","Hey girl, To what extent will you prefer the chatbot over Google search for the answers?"
+25,0,2,preference,No enhancement,preference
+25,1,2,Will you choose the chatbot to find UofSC info for the future use?,"Hey girl, ","Hey girl, Will you choose the chatbot to find UofSC info for the future use?"
+25,0,2,future,No enhancement,future
+25,1,2,What's your overall satisfaction of using the chatbot to find the school information?,"Hey girl, ","Hey girl, What's your overall satisfaction of using the chatbot to find the school information?"
+25,0,2,overall,No enhancement,overall
+25,1,2,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.","Hey girl, ","Hey girl, Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+25,0,2,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+25,1,2,answer,"Hey girl, ","Hey girl, answer"
+25,0,2,What's your gender?,No enhancement,What's your gender?
+25,1,2,gender,"Hey girl, ","Hey girl, gender"
+25,0,2,What's your age?,No enhancement,What's your age?
+25,1,2,age,"Hey girl, ","Hey girl, age"
+25,0,2,Are you married?,No enhancement,Are you married?
+25,1,2,marriage,"Hey girl, ","Hey girl, marriage"
+25,0,2,What is your current completed education level?,No enhancement,What is your current completed education level?
+25,0,2,education,No enhancement,education
+25,1,2,Thanks for your participation and feedbacks. This is all about the experiment.,"Hey girl, ","Hey girl, Thanks for your participation and feedbacks. This is all about the experiment."
+25,0,2,Hi,No enhancement,Hi
+25,1,2,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?","Hey girl, ","Hey girl, Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+25,0,2,Hi,No enhancement,Hi
+25,0,2,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+25,1,2,How should I apply?,"Hey girl, ","Hey girl, How should I apply?"
+25,0,2,Please refer to the webpage: https://sc.edu/apply/index.php ,No enhancement,Please refer to the webpage: https://sc.edu/apply/index.php 
+25,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+25,1,2,helpful,"Hey girl, ","Hey girl, helpful"
+25,0,2,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+25,0,2,How much would the application fee be?,No enhancement,How much would the application fee be?
+25,0,2,The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.,No enhancement,The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.
+25,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+25,0,2,Where can I find an apartment?,No enhancement,Where can I find an apartment?
+25,1,2,Typical student apartment price in Columbia range from 500-1500 USD. A room can be found at 350-600 USD.,"Hey girl, ","Hey girl, Typical student apartment price in Columbia range from 500-1500 USD. A room can be found at 350-600 USD."
+25,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+25,1,2,Is the food good on campus?,"Hey girl, ","Hey girl, Is the food good on campus?"
+25,0,2,"There's a wide range of employment opportunities on campus designed to develop your essential,  marketable skills. Please refer to the webpage:  https://sc.edu/about/employment/student-employment/index.php  ",No enhancement,"There's a wide range of employment opportunities on campus designed to develop your essential,  marketable skills. Please refer to the webpage:  https://sc.edu/about/employment/student-employment/index.php  "
+25,1,2," Also,  there are lots of graduate assistant postions for graduate students: https://sc.edu/study/colleges_schools/graduate_school/paying_for_graduate_school/assistantships/index.php ","Hey girl, ","Hey girl,  Also,  there are lots of graduate assistant postions for graduate students: https://sc.edu/study/colleges_schools/graduate_school/paying_for_graduate_school/assistantships/index.php "
+25,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+25,0,2,helpful,No enhancement,helpful
+25,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+25,0,2,When is the deadline?,No enhancement,When is the deadline?
+25,1,2,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ","Hey girl, ","Hey girl, I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+25,0,2,When is the application deadline?,No enhancement,When is the application deadline?
+25,1,2,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ","Hey girl, ","Hey girl, I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+25,0,2,How can I know the application status/deadline...,No enhancement,How can I know the application status/deadline...
+25,1,2,You need to go to check the application portal or contact to the admission office. The application portal: https://applyweb.collegenet.com/account/new/create?origin=https://www.applyweb.com/cgi-bin/applymenu?instcode=uscgrad or https://apply.sc.edu/register/freshman ,"Hey girl, ","Hey girl, You need to go to check the application portal or contact to the admission office. The application portal: https://applyweb.collegenet.com/account/new/create?origin=https://www.applyweb.com/cgi-bin/applymenu?instcode=uscgrad or https://apply.sc.edu/register/freshman "
+25,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+25,1,2,helpful,"Hey girl, ","Hey girl, helpful"
+25,0,2,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+25,1,2,Bye,"Hey girl, ","Hey girl, Bye"
+25,0,2,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+25,1,2,Yes,"Hey girl, ","Hey girl, Yes"
+25,0,2,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+25,1,2,satisfy,"Hey girl, ","Hey girl, satisfy"
+25,0,2,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+25,0,2,interaction,No enhancement,interaction
+25,1,2,To what extent will you prefer the chatbot over Google search for the answers?,"Hey girl, ","Hey girl, To what extent will you prefer the chatbot over Google search for the answers?"
+25,0,2,preference,No enhancement,preference
+25,1,2,Will you choose the chatbot to find UofSC info for the future use?,"Hey girl, ","Hey girl, Will you choose the chatbot to find UofSC info for the future use?"
+25,0,2,future,No enhancement,future
+25,1,2,What's your overall satisfaction of using the chatbot to find the school information?,"Hey girl, ","Hey girl, What's your overall satisfaction of using the chatbot to find the school information?"
+25,0,2,overall,No enhancement,overall
+25,1,2,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.","Hey girl, ","Hey girl, Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+25,0,2,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+25,1,2,answer,"Hey girl, ","Hey girl, answer"
+25,0,2,What's your gender?,No enhancement,What's your gender?
+25,0,2,gender,No enhancement,gender
+25,1,2,What's your age?,"Hey girl, ","Hey girl, What's your age?"
+25,0,2,age,No enhancement,age
+25,1,2,Are you married?,"Hey girl, ","Hey girl, Are you married?"
+25,0,2,marriage,No enhancement,marriage
+25,1,2,What is your current completed education level?,"Hey girl, ","Hey girl, What is your current completed education level?"
+25,0,2,education,No enhancement,education
+25,0,2,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+26,1,2,Hi,"Hey girl, ","Hey girl, Hi"
+26,0,2,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+26,1,2,what are the avaliable dorms?,"Hey girl, ","Hey girl, what are the avaliable dorms?"
+26,0,2,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ",No enhancement,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+26,0,2,What is there to eat on campus?,No enhancement,What is there to eat on campus?
+26,1,2,"Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also,  there is an interactive campus maps: https://www.sc.edu/visit/map/ ","Hey girl, ","Hey girl, Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also,  there is an interactive campus maps: https://www.sc.edu/visit/map/ "
+26,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+26,1,2,helpful,"Hey girl, ","Hey girl, helpful"
+26,0,2,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+26,0,2,what is the application deadline?,No enhancement,what is the application deadline?
+26,1,2,It may vary in different years. For 2022: Spring 2022 application deadline: November 1 Spring 2022 credentials deadline: December 19 Fall 2022 application deadline: July 1 Fall 2022 credentials deadline (including official transcripts): July 15 Summer 2022 (Classes begin in June) Summer 2022 application deadline: May 1 Summer 2022 credentials deadline (including official transcripts): May 15,"Hey girl, ","Hey girl, It may vary in different years. For 2022: Spring 2022 application deadline: November 1 Spring 2022 credentials deadline: December 19 Fall 2022 application deadline: July 1 Fall 2022 credentials deadline (including official transcripts): July 15 Summer 2022 (Classes begin in June) Summer 2022 application deadline: May 1 Summer 2022 credentials deadline (including official transcripts): May 15"
+26,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+26,1,2,helpful,"Hey girl, ","Hey girl, helpful"
+26,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+26,0,2,how much does the meal plan cost?,No enhancement,how much does the meal plan cost?
+26,1,2,"The resident on-campus housing price varies from $3100 to $6600 per semester. For more details,  please refer to the webpage: https://sc.edu/about/offices_and_divisions/housing/index.php; The off-campus apartment price in Columbia ranges from 500-1500 USD. A room can be found at 350-600 USD. Columbia offers a range of traditional,  family-friendly housing options and apartments. You can widen your search on websites such as ApartmentFinder.com,  ApartmentList.com,  Zillow.com,  Trulia.com,  and Homes.com.","Hey girl, ","Hey girl, The resident on-campus housing price varies from $3100 to $6600 per semester. For more details,  please refer to the webpage: https://sc.edu/about/offices_and_divisions/housing/index.php; The off-campus apartment price in Columbia ranges from 500-1500 USD. A room can be found at 350-600 USD. Columbia offers a range of traditional,  family-friendly housing options and apartments. You can widen your search on websites such as ApartmentFinder.com,  ApartmentList.com,  Zillow.com,  Trulia.com,  and Homes.com."
+26,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+26,1,2,helpful,"Hey girl, ","Hey girl, helpful"
+26,0,2,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+26,1,2,Where do I apply?,"Hey girl, ","Hey girl, Where do I apply?"
+26,0,2,No,No enhancement,No
+26,1,2,Please just give us an overall feedback. What's your overall satisfaction of using the chatbot to find the school information?,"Hey girl, ","Hey girl, Please just give us an overall feedback. What's your overall satisfaction of using the chatbot to find the school information?"
+26,0,2,short,No enhancement,short
+26,0,2,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+26,1,2,Hi,"Hey girl, ","Hey girl, Hi"
+26,0,2,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+26,1,2,what are the avaliable dorms?,"Hey girl, ","Hey girl, what are the avaliable dorms?"
+26,0,2,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ",No enhancement,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+26,0,2,What is there to eat on campus?,No enhancement,What is there to eat on campus?
+26,1,2,"Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also,  there is an interactive campus maps: https://www.sc.edu/visit/map/ ","Hey girl, ","Hey girl, Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also,  there is an interactive campus maps: https://www.sc.edu/visit/map/ "
+26,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+26,1,2,helpful,"Hey girl, ","Hey girl, helpful"
+26,0,2,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+26,0,2,what is the application deadline?,No enhancement,what is the application deadline?
+26,1,2,It may vary in different years. For 2022: Spring 2022 application deadline: November 1 Spring 2022 credentials deadline: December 19 Fall 2022 application deadline: July 1 Fall 2022 credentials deadline (including official transcripts): July 15 Summer 2022 (Classes begin in June) Summer 2022 application deadline: May 1 Summer 2022 credentials deadline (including official transcripts): May 15,"Hey girl, ","Hey girl, It may vary in different years. For 2022: Spring 2022 application deadline: November 1 Spring 2022 credentials deadline: December 19 Fall 2022 application deadline: July 1 Fall 2022 credentials deadline (including official transcripts): July 15 Summer 2022 (Classes begin in June) Summer 2022 application deadline: May 1 Summer 2022 credentials deadline (including official transcripts): May 15"
+26,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+26,1,2,helpful,"Hey girl, ","Hey girl, helpful"
+26,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+26,0,2,how much does the meal plan cost?,No enhancement,how much does the meal plan cost?
+26,1,2,"The resident on-campus housing price varies from $3100 to $6600 per semester. For more details,  please refer to the webpage: https://sc.edu/about/offices_and_divisions/housing/index.php; The off-campus apartment price in Columbia ranges from 500-1500 USD. A room can be found at 350-600 USD. Columbia offers a range of traditional,  family-friendly housing options and apartments. You can widen your search on websites such as ApartmentFinder.com,  ApartmentList.com,  Zillow.com,  Trulia.com,  and Homes.com.","Hey girl, ","Hey girl, The resident on-campus housing price varies from $3100 to $6600 per semester. For more details,  please refer to the webpage: https://sc.edu/about/offices_and_divisions/housing/index.php; The off-campus apartment price in Columbia ranges from 500-1500 USD. A room can be found at 350-600 USD. Columbia offers a range of traditional,  family-friendly housing options and apartments. You can widen your search on websites such as ApartmentFinder.com,  ApartmentList.com,  Zillow.com,  Trulia.com,  and Homes.com."
+26,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+26,1,2,helpful,"Hey girl, ","Hey girl, helpful"
+26,0,2,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+26,1,2,Where do I apply?,"Hey girl, ","Hey girl, Where do I apply?"
+26,0,2,No,No enhancement,No
+26,1,2,Please just give us an overall feedback. What's your overall satisfaction of using the chatbot to find the school information?,"Hey girl, ","Hey girl, Please just give us an overall feedback. What's your overall satisfaction of using the chatbot to find the school information?"
+26,0,2,short,No enhancement,short
+26,1,2,Thanks for your participation and feedbacks. This is all about the experiment.,"Hey girl, ","Hey girl, Thanks for your participation and feedbacks. This is all about the experiment."
+26,0,2,bye,No enhancement,bye
+26,1,2,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,"Hey girl, ","Hey girl, Could you give us some feedbacks regarding your experience? There will be 5 questions. "
+26,0,2,Yes,No enhancement,Yes
+26,1,2,Are you satisfied with the answers to your questions?,"Hey girl, ","Hey girl, Are you satisfied with the answers to your questions?"
+26,0,2,satisfy,No enhancement,satisfy
+26,1,2,Are you satisfied with how the chatbot interacted with you?,"Hey girl, ","Hey girl, Are you satisfied with how the chatbot interacted with you?"
+26,0,2,interaction,No enhancement,interaction
+26,0,2,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+26,1,2,preference,"Hey girl, ","Hey girl, preference"
+26,0,2,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+26,1,2,future,"Hey girl, ","Hey girl, future"
+26,0,2,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+26,1,2,overall,"Hey girl, ","Hey girl, overall"
+26,0,2,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+26,1,2,Are you currently a student studying less than 2 years at UofSC?,"Hey girl, ","Hey girl, Are you currently a student studying less than 2 years at UofSC?"
+26,0,2,answer,No enhancement,answer
+26,1,2,What's your gender?,"Hey girl, ","Hey girl, What's your gender?"
+26,0,2,gender,No enhancement,gender
+26,0,2,What's your age?,No enhancement,What's your age?
+26,1,2,age,"Hey girl, ","Hey girl, age"
+26,0,2,Are you married?,No enhancement,Are you married?
+26,1,2,marriage,"Hey girl, ","Hey girl, marriage"
+26,0,2,What is your current completed education level?,No enhancement,What is your current completed education level?
+26,0,2,education,No enhancement,education
+26,1,2,Thanks for your participation and feedbacks. This is all about the experiment.,"Hey girl, ","Hey girl, Thanks for your participation and feedbacks. This is all about the experiment."
+27,0,2,Hi,No enhancement,Hi
+27,1,2,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?","Hey girl, ","Hey girl, Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+27,1,2,How to apply,"Hey girl, ","Hey girl, How to apply"
+27,0,2,Please refer to the webpage: https://sc.edu/apply/index.php ,No enhancement,Please refer to the webpage: https://sc.edu/apply/index.php 
+27,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+27,1,2,yes,"Hey girl, ","Hey girl, yes"
+27,0,2,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+27,1,2,5,"Hey girl, ","Hey girl, 5"
+27,1,2,what is the fee amount,"Hey girl, ","Hey girl, what is the fee amount"
+27,1,2,The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.,"Hey girl, ","Hey girl, The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more."
+27,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+27,0,2,helpful,No enhancement,helpful
+27,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+27,0,2,is there a good place to stay,No enhancement,is there a good place to stay
+27,1,2,Is there a place to stay,"Hey girl, ","Hey girl, Is there a place to stay"
+27,0,2,how to find a place to stay,No enhancement,how to find a place to stay
+27,1,2,bye,"Hey girl, ","Hey girl, bye"
+27,0,2,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+27,1,2,Yes,"Hey girl, ","Hey girl, Yes"
+27,0,2,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+27,1,2,satisfy,"Hey girl, ","Hey girl, satisfy"
+27,0,2,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+27,1,2,interaction,"Hey girl, ","Hey girl, interaction"
+27,0,2,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+27,0,2,preference,No enhancement,preference
+27,1,2,Will you choose the chatbot to find UofSC info for the future use?,"Hey girl, ","Hey girl, Will you choose the chatbot to find UofSC info for the future use?"
+27,0,2,future,No enhancement,future
+27,1,2,What's your overall satisfaction of using the chatbot to find the school information?,"Hey girl, ","Hey girl, What's your overall satisfaction of using the chatbot to find the school information?"
+27,0,2,overall,No enhancement,overall
+27,1,2,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.","Hey girl, ","Hey girl, Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+27,0,2,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+27,1,2,answer,"Hey girl, ","Hey girl, answer"
+27,0,2,What's your gender?,No enhancement,What's your gender?
+27,1,2,gender,"Hey girl, ","Hey girl, gender"
+27,0,2,What's your age?,No enhancement,What's your age?
+27,0,2,age,No enhancement,age
+27,1,2,Are you married?,"Hey girl, ","Hey girl, Are you married?"
+27,0,2,marriage,No enhancement,marriage
+27,1,2,What is your current completed education level?,"Hey girl, ","Hey girl, What is your current completed education level?"
+27,0,2,education,No enhancement,education
+27,0,2,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+28,1,2,Hi,"Hey girl, ","Hey girl, Hi"
+28,0,2,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+28,1,2,Where is a good place to eat on campus?,"Hey girl, ","Hey girl, Where is a good place to eat on campus?"
+28,0,2,"Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also,  there is an interactive campus maps: https://www.sc.edu/visit/map/ ",No enhancement,"Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also,  there is an interactive campus maps: https://www.sc.edu/visit/map/ "
+28,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+28,0,2,helpful,No enhancement,helpful
+28,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+28,0,2,Is there housing near the horshoe?,No enhancement,Is there housing near the horshoe?
+28,0,2,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ",No enhancement,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+28,0,2,Are there any dorms on the north side of campus?,No enhancement,Are there any dorms on the north side of campus?
+28,0,2,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ",No enhancement,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+28,1,2,Where is available housing on campus?,"Hey girl, ","Hey girl, Where is available housing on campus?"
+28,0,2,"There's a wide range of employment opportunities on campus designed to develop your essential,  marketable skills. Please refer to the webpage:  https://sc.edu/about/employment/student-employment/index.php  ",No enhancement,"There's a wide range of employment opportunities on campus designed to develop your essential,  marketable skills. Please refer to the webpage:  https://sc.edu/about/employment/student-employment/index.php  "
+28,1,2," Also,  there are lots of graduate assistant postions for graduate students: https://sc.edu/study/colleges_schools/graduate_school/paying_for_graduate_school/assistantships/index.php ","Hey girl, ","Hey girl,  Also,  there are lots of graduate assistant postions for graduate students: https://sc.edu/study/colleges_schools/graduate_school/paying_for_graduate_school/assistantships/index.php "
+28,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+28,0,2,helpful,No enhancement,helpful
+28,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+28,0,2,How much does tuition cost?,No enhancement,How much does tuition cost?
+28,1,2,"The estimated tuition and technology fee for the S.C. residents is $ 12, 688,  for nonresidents is $33, 928. For more details,  please refer to the webpage: https://sc.edu/about/offices_and_divisions/undergraduate_admissions/tuition_scholarships/tuition/index.php","Hey girl, ","Hey girl, The estimated tuition and technology fee for the S.C. residents is $ 12, 688,  for nonresidents is $33, 928. For more details,  please refer to the webpage: https://sc.edu/about/offices_and_divisions/undergraduate_admissions/tuition_scholarships/tuition/index.php"
+28,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+28,0,2,helpful,No enhancement,helpful
+28,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+28,0,2,How much does the meal plan cost?,No enhancement,How much does the meal plan cost?
+28,1,2,"The resident on-campus housing price varies from $3100 to $6600 per semester. For more details,  please refer to the webpage: https://sc.edu/about/offices_and_divisions/housing/index.php; The off-campus apartment price in Columbia ranges from 500-1500 USD. A room can be found at 350-600 USD. Columbia offers a range of traditional,  family-friendly housing options and apartments. You can widen your search on websites such as ApartmentFinder.com,  ApartmentList.com,  Zillow.com,  Trulia.com,  and Homes.com.","Hey girl, ","Hey girl, The resident on-campus housing price varies from $3100 to $6600 per semester. For more details,  please refer to the webpage: https://sc.edu/about/offices_and_divisions/housing/index.php; The off-campus apartment price in Columbia ranges from 500-1500 USD. A room can be found at 350-600 USD. Columbia offers a range of traditional,  family-friendly housing options and apartments. You can widen your search on websites such as ApartmentFinder.com,  ApartmentList.com,  Zillow.com,  Trulia.com,  and Homes.com."
+28,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+28,0,2,helpful,No enhancement,helpful
+28,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+28,0,2,When is the Fall 2023 application deadline?,No enhancement,When is the Fall 2023 application deadline?
+28,1,2,It may vary in different years. For 2022: Spring 2022 application deadline: November 1 Spring 2022 credentials deadline: December 19 Fall 2022 application deadline: July 1 Fall 2022 credentials deadline (including official transcripts): July 15 Summer 2022 (Classes begin in June) Summer 2022 application deadline: May 1 Summer 2022 credentials deadline (including official transcripts): May 15,"Hey girl, ","Hey girl, It may vary in different years. For 2022: Spring 2022 application deadline: November 1 Spring 2022 credentials deadline: December 19 Fall 2022 application deadline: July 1 Fall 2022 credentials deadline (including official transcripts): July 15 Summer 2022 (Classes begin in June) Summer 2022 application deadline: May 1 Summer 2022 credentials deadline (including official transcripts): May 15"
+28,0,2,Did you get the answer?,No enhancement,Did you get the answer?
+28,1,2,helpful,"Hey girl, ","Hey girl, helpful"
+28,0,2,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+28,1,2,Bye,"Hey girl, ","Hey girl, Bye"
+28,0,2,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+28,1,2,Yes,"Hey girl, ","Hey girl, Yes"
+28,0,2,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+28,1,2,satisfy,"Hey girl, ","Hey girl, satisfy"
+28,0,2,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+28,1,2,interaction,"Hey girl, ","Hey girl, interaction"
+28,0,2,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+28,1,2,preference,"Hey girl, ","Hey girl, preference"
+28,0,2,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+28,0,2,future,No enhancement,future
+28,1,2,What's your overall satisfaction of using the chatbot to find the school information?,"Hey girl, ","Hey girl, What's your overall satisfaction of using the chatbot to find the school information?"
+28,0,2,overall,No enhancement,overall
+28,1,2,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.","Hey girl, ","Hey girl, Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+28,0,2,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+28,1,2,answer,"Hey girl, ","Hey girl, answer"
+28,0,2,What's your gender?,No enhancement,What's your gender?
+28,1,2,gender,"Hey girl, ","Hey girl, gender"
+28,0,2,What's your age?,No enhancement,What's your age?
+28,1,2,age,"Hey girl, ","Hey girl, age"
+28,0,2,Are you married?,No enhancement,Are you married?
+28,0,2,marriage,No enhancement,marriage
+28,1,2,What is your current completed education level?,"Hey girl, ","Hey girl, What is your current completed education level?"
+28,0,2,education,No enhancement,education
+28,1,2,Thanks for your participation and feedbacks. This is all about the experiment.,"Hey girl, ","Hey girl, Thanks for your participation and feedbacks. This is all about the experiment."
+29,0,2,Hi,No enhancement,Hi
+29,0,2,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+29,1,2,What is there to eat on campus,"Hey girl, ","Hey girl, What is there to eat on campus"
+29,0,2,"Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also,  there is an interactive campus maps: https://www.sc.edu/visit/map/ ",No enhancement,"Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also,  there is an interactive campus maps: https://www.sc.edu/visit/map/ "
+29,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+29,0,2,helpful,No enhancement,helpful
+29,0,2,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+29,1,2,Where to have lunch on campus,"Hey girl, ","Hey girl, Where to have lunch on campus"
+29,0,2,There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php ,No enhancement,There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php 
+29,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+29,0,2,helpful,No enhancement,helpful
+29,0,2,"Thanks,  carry on!",No enhancement,"Thanks,  carry on!"
+29,1,2,How's student living,"Hey girl, ","Hey girl, How's student living"
+29,0,2,"For the on-campus housing,  please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing,  you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php",No enhancement,"For the on-campus housing,  please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing,  you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php"
+29,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+29,1,2,helpful,"Hey girl, ","Hey girl, helpful"
+29,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+29,1,2,How to find a place to stay,"Hey girl, ","Hey girl, How to find a place to stay"
+29,0,2,How to find a place to stay,No enhancement,How to find a place to stay
+29,0,2,How do I find a place to stay,No enhancement,How do I find a place to stay
+29,0,2,How about meal plan,No enhancement,How about meal plan
+29,1,2,"The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: ","Hey girl, ","Hey girl, The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: "
+29,0,2,https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php,No enhancement,https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php
+29,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+29,0,2,helpful,No enhancement,helpful
+29,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+29,0,2,What can I eat,No enhancement,What can I eat
+29,0,2,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ",No enhancement,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+29,1,2,What can I eat on campus,"Hey girl, ","Hey girl, What can I eat on campus"
+29,0,2,"Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also,  there is an interactive campus maps: https://www.sc.edu/visit/map/ ",No enhancement,"Please check the campus buildings and facilities at https://sc.edu/about/offices_and_divisions/student_affairs/our_facilities/index.php. Also,  there is an interactive campus maps: https://www.sc.edu/visit/map/ "
+29,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+29,0,2,helpful,No enhancement,helpful
+29,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+29,0,2,Bye,No enhancement,Bye
+29,1,2,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,"Hey girl, ","Hey girl, Could you give us some feedbacks regarding your experience? There will be 5 questions. "
+29,0,2,Yes,No enhancement,Yes
+29,1,2,Are you satisfied with the answers to your questions?,"Hey girl, ","Hey girl, Are you satisfied with the answers to your questions?"
+29,0,2,satisfy,No enhancement,satisfy
+29,1,2,Are you satisfied with how the chatbot interacted with you?,"Hey girl, ","Hey girl, Are you satisfied with how the chatbot interacted with you?"
+29,0,2,interaction,No enhancement,interaction
+29,1,2,To what extent will you prefer the chatbot over Google search for the answers?,"Hey girl, ","Hey girl, To what extent will you prefer the chatbot over Google search for the answers?"
+29,0,2,preference,No enhancement,preference
+29,1,2,Will you choose the chatbot to find UofSC info for the future use?,"Hey girl, ","Hey girl, Will you choose the chatbot to find UofSC info for the future use?"
+29,0,2,future,No enhancement,future
+29,0,2,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+29,1,2,overall,"Hey girl, ","Hey girl, overall"
+29,0,2,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+29,1,2,Are you currently a student studying less than 2 years at UofSC?,"Hey girl, ","Hey girl, Are you currently a student studying less than 2 years at UofSC?"
+29,0,2,answer,No enhancement,answer
+29,1,2,What's your gender?,"Hey girl, ","Hey girl, What's your gender?"
+29,0,2,gender,No enhancement,gender
+29,1,2,What's your age?,"Hey girl, ","Hey girl, What's your age?"
+29,0,2,age,No enhancement,age
+29,1,2,Are you married?,"Hey girl, ","Hey girl, Are you married?"
+29,0,2,marriage,No enhancement,marriage
+29,0,2,What is your current completed education level?,No enhancement,What is your current completed education level?
+29,1,2,education,"Hey girl, ","Hey girl, education"
+29,0,2,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.
+30,1,2,Hi,"Hey girl, ","Hey girl, Hi"
+30,0,2,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?",No enhancement,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+30,1,2,Is there any housing available for international graduate students?,"Hey girl, ","Hey girl, Is there any housing available for international graduate students?"
+30,0,2,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ",No enhancement,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+30,1,2,Tell me about housing,"Hey girl, ","Hey girl, Tell me about housing"
+30,0,2,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ",No enhancement,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+30,1,2,What's the cost of the student living?,"Hey girl, ","Hey girl, What's the cost of the student living?"
+30,0,2,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ",No enhancement,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+30,1,2,What's the cost of the student living?,"Hey girl, ","Hey girl, What's the cost of the student living?"
+30,0,2,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ",No enhancement,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+30,0,2,How's about the meal plan?,No enhancement,How's about the meal plan?
+30,0,2,"The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: ",No enhancement,"The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: "
+30,1,2,https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php,"Hey girl, ","Hey girl, https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php"
+30,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+30,0,2,How to apply?,No enhancement,How to apply?
+30,1,2,adf,"Hey girl, ","Hey girl, adf"
+30,1,2,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ","Hey girl, ","Hey girl, I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+30,0,2,How to apply?,No enhancement,How to apply?
+30,1,2,Bye,"Hey girl, ","Hey girl, Bye"
+30,0,2,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,No enhancement,Could you give us some feedbacks regarding your experience? There will be 5 questions. 
+30,1,2,Yes,"Hey girl, ","Hey girl, Yes"
+30,0,2,Are you satisfied with the answers to your questions?,No enhancement,Are you satisfied with the answers to your questions?
+30,1,2,satisfy,"Hey girl, ","Hey girl, satisfy"
+30,0,2,Are you satisfied with how the chatbot interacted with you?,No enhancement,Are you satisfied with how the chatbot interacted with you?
+30,1,2,interaction,"Hey girl, ","Hey girl, interaction"
+30,0,2,To what extent will you prefer the chatbot over Google search for the answers?,No enhancement,To what extent will you prefer the chatbot over Google search for the answers?
+30,1,2,preference,"Hey girl, ","Hey girl, preference"
+30,0,2,Will you choose the chatbot to find UofSC info for the future use?,No enhancement,Will you choose the chatbot to find UofSC info for the future use?
+30,1,2,future,"Hey girl, ","Hey girl, future"
+30,0,2,What's your overall satisfaction of using the chatbot to find the school information?,No enhancement,What's your overall satisfaction of using the chatbot to find the school information?
+30,0,2,overall,No enhancement,overall
+30,1,2,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.","Hey girl, ","Hey girl, Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+30,0,2,Are you currently a student studying less than 2 years at UofSC?,No enhancement,Are you currently a student studying less than 2 years at UofSC?
+30,1,2,answer,"Hey girl, ","Hey girl, answer"
+30,0,2,What's your gender?,No enhancement,What's your gender?
+30,1,2,gender,"Hey girl, ","Hey girl, gender"
+30,0,2,What's your age?,No enhancement,What's your age?
+30,1,2,age,"Hey girl, ","Hey girl, age"
+30,0,2,Are you married?,No enhancement,Are you married?
+30,1,2,marriage,"Hey girl, ","Hey girl, marriage"
+30,0,2,What is your current completed education level?,No enhancement,What is your current completed education level?
+30,0,2,education,No enhancement,education
+30,1,2,Thanks for your participation and feedbacks. This is all about the experiment.,"Hey girl, ","Hey girl, Thanks for your participation and feedbacks. This is all about the experiment."
+31,0,2,Hi,No enhancement,Hi
+31,1,2,"Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?","Hey girl, ","Hey girl, Hey! Welcome to the website of University of South Carolina,  Columbia. I can help you with some basic questions regarding application,  locations,  student housing,  dining on campus,  etc. How can I help you?"
+31,0,2,How to apply?,No enhancement,How to apply?
+31,0,2,Please refer to the webpage: https://sc.edu/apply/index.php ,No enhancement,Please refer to the webpage: https://sc.edu/apply/index.php 
+31,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+31,0,2,helpful,No enhancement,helpful
+31,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+31,0,2,How much is the application fre?,No enhancement,How much is the application fre?
+31,0,2,The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.,No enhancement,The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.
+31,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+31,0,2,How can I kno the application deadine,No enhancement,How can I kno the application deadine
+31,0,2,The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.,No enhancement,The application fee for undergradute is $65 (Common Application Fee without waiver);for general graduate program is $50. Other applications may cost more.
+31,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+31,0,2,helpful,No enhancement,helpful
+31,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+31,1,2,How to find a place to stay?,"Hey girl, ","Hey girl, How to find a place to stay?"
+31,0,2,How about the student living?,No enhancement,How about the student living?
+31,0,2,"For the on-campus housing,  please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing,  you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php",No enhancement,"For the on-campus housing,  please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing,  you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php"
+31,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+31,0,2,helpful,No enhancement,helpful
+31,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+31,0,2,cost of living,No enhancement,cost of living
+31,0,2,"For the on-campus housing,  please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing,  you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php",No enhancement,"For the on-campus housing,  please contact the help center for the customer service: https://sc.edu/about/offices_and_divisions/housing/help_center/index.php /n/ For the off-campus housing,  you should cantact your apartment leasing office. The school also provide consulting and legal service support for the off-campus living issues:  https://sc.edu/about/offices_and_divisions/off_campus_living_and_neighborhood_relations/find-housing/index.php"
+31,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+31,0,2,helpful,No enhancement,helpful
+31,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+31,0,2,Where to have lunch,No enhancement,Where to have lunch
+31,0,2,There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php ,No enhancement,There's a number of lunch places within and around the campus. Please see the lunch places here https://sc.edu/experience/grab_a_bite/campus_restaurants_list.php 
+31,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+31,0,2,helpful,No enhancement,helpful
+31,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+31,0,2,hwo about meal plan,No enhancement,hwo about meal plan
+31,0,2,"The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: ",No enhancement,"The are different kinds of meal plans for students and faculties. More about the meal plan,  please refer to the webpage: "
+31,0,2,https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php,No enhancement,https://sc.edu/about/offices_and_divisions/dining_services/meal_plans/index.php
+31,1,2,Did you get the answer?,"Hey girl, ","Hey girl, Did you get the answer?"
+31,0,2,helpful,No enhancement,helpful
+31,1,2,"Thanks,  carry on!","Hey girl, ","Hey girl, Thanks,  carry on!"
+31,0,2,what to eat,No enhancement,what to eat
+31,1,2,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ","Hey girl, ","Hey girl, I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+31,0,2,what to eat on campus,No enhancement,what to eat on campus
+31,1,2,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ","Hey girl, ","Hey girl, I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+31,0,2,What to eat on campus?,No enhancement,What to eat on campus?
+31,1,2,"I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? ","Hey girl, ","Hey girl, I'm sorry,  I didn't quite understand that. Could you rephrase or ask another question? "
+31,1,2,How to find a place to stay?,"Hey girl, ","Hey girl, How to find a place to stay?"
+31,0,2,bye,No enhancement,bye
+31,1,2,Could you give us some feedbacks regarding your experience? There will be 5 questions. ,"Hey girl, ","Hey girl, Could you give us some feedbacks regarding your experience? There will be 5 questions. "
+31,0,2,Yes,No enhancement,Yes
+31,1,2,Are you satisfied with the answers to your questions?,"Hey girl, ","Hey girl, Are you satisfied with the answers to your questions?"
+31,0,2,satisfy,No enhancement,satisfy
+31,1,2,Are you satisfied with how the chatbot interacted with you?,"Hey girl, ","Hey girl, Are you satisfied with how the chatbot interacted with you?"
+31,0,2,interaction,No enhancement,interaction
+31,1,2,To what extent will you prefer the chatbot over Google search for the answers?,"Hey girl, ","Hey girl, To what extent will you prefer the chatbot over Google search for the answers?"
+31,0,2,preference,No enhancement,preference
+31,1,2,Will you choose the chatbot to find UofSC info for the future use?,"Hey girl, ","Hey girl, Will you choose the chatbot to find UofSC info for the future use?"
+31,0,2,future,No enhancement,future
+31,1,2,What's your overall satisfaction of using the chatbot to find the school information?,"Hey girl, ","Hey girl, What's your overall satisfaction of using the chatbot to find the school information?"
+31,0,2,overall,No enhancement,overall
+31,0,2,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information.",No enhancement,"Thanks,  that's all for the feedbacks. The last part is regarding your demographic information."
+31,1,2,Are you currently a student studying less than 2 years at UofSC?,"Hey girl, ","Hey girl, Are you currently a student studying less than 2 years at UofSC?"
+31,0,2,answer,No enhancement,answer
+31,1,2,What's your gender?,"Hey girl, ","Hey girl, What's your gender?"
+31,0,2,gender,No enhancement,gender
+31,1,2,What's your age?,"Hey girl, ","Hey girl, What's your age?"
+31,0,2,age,No enhancement,age
+31,1,2,Are you married?,"Hey girl, ","Hey girl, Are you married?"
+31,0,2,marriage,No enhancement,marriage
+31,1,2,What is your current completed education level?,"Hey girl, ","Hey girl, What is your current completed education level?"
+31,0,2,education,No enhancement,education
+31,0,2,Thanks for your participation and feedbacks. This is all about the experiment.,No enhancement,Thanks for your participation and feedbacks. This is all about the experiment.

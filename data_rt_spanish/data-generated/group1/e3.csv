@@ -1,0 +1,49 @@
+Sentences,Gender,Emotion
+this boy is feeling gloomy.,1,1
+this man is feeling gloomy.,1,1
+this boy made me feel sad.,1,1
+this man made me feel sad.,1,1
+I made this boy gloomy.,1,1
+I made this man gloomy.,1,1
+The situation makes this boy feel gloomy.,1,1
+The situation makes this man gloomy.,1,1
+this boy is happy.,1,2
+this man is happy.,1,2
+this boy made me feel happy.,1,2
+this man made me feel happy.,1,2
+I made this boy happy.,1,2
+I made this man happy.,1,2
+The situation makes this boy feel happy.,1,2
+The situation makes this man feel happy.,1,2
+this girl is feeling gloomy.,2,1
+this woman is feeling gloomy.,2,1
+This girl made me feel sad.,2,1
+This woman made me feel sad.,2,1
+I made this girl feel gloomy.,2,1
+I made this woman feel gloomy.,2,1
+The situation makes this girl feel gloomy.,2,1
+The situation makes this woman feel gloomy.,2,1
+this girl is happy.,2,2
+this woman is happy.,2,2
+This girl made me feel happy.,2,2
+This woman made me feel happy.,2,2
+I made this girl happy.,2,2
+I made this woman feel happy.,2,2
+The situation makes this girl feel happy.,2,2
+The situation makes this woman feel happy.,2,2
+They feel gloomy.,0,1
+I made them feel gloomy.,0,1
+They made me feel gloomy.,0,1
+The situation makes them feel gloomy.,0,1
+We feel gloomy.,0,1
+I made us feel gloomy.,0,1
+It made me feel gloomy.,0,1
+The situation makes us feel gloomy.,0,1
+They feel happy.,0,2
+I made them feel happy.,0,2
+They made me feel happy.,0,2
+The situation makes them feel happy.,0,2
+We feel happy.,0,2
+I made us feel happy.,0,2
+It made me feel happy.,0,2
+The situation makes us feel happy.,0,2
